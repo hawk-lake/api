@@ -24,7 +24,6 @@ def get_response(cnt, endpoint, id, params:dict):
     # error 파일 절대경로 반환
     current_dir = os.path.dirname(os.path.abspath(__file__))
     error_dir = os.path.join(current_dir, f'../log/request/error/{nowdate}.error')
-    print(error_dir)
 
     # request 요청 용 파라미터 생성
     access_token = get_acccess_token(cnt)
@@ -35,7 +34,6 @@ def get_response(cnt, endpoint, id, params:dict):
 
     # request 요청
     response = requests.get(url=url, params=params, headers=headers)
-    print(response.json())
 
     # 오류 제어 / 오류 발생 시 프로그램 종료
     if response.status_code == 200:
@@ -48,11 +46,12 @@ def get_response(cnt, endpoint, id, params:dict):
                 file.write(error)
         except:
             with open(error_dir, "w") as file:
-                file.write(error)            
+                file.write(error)      
+        print("ERROR APEEARED")      
         sys.exit()
 
 
 # TEST
 if __name__ == "__main__":
-    response = get_response(cnt=3, endpoint='albums', id='4aawyAB9vmqN3uQ7Fjy', params={'market' : 'KR'})
+    response = get_response(cnt=1, endpoint='albums', id='4aawyAB9vmqN3uQ7FjRGTy', params={'market' : 'KR'})
     print(response)
