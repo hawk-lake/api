@@ -44,6 +44,7 @@ def get_response(cnt, endpoint, params:dict=None):
     # 오류 제어 / 오류 발생 시 프로그램 종료
     if response.status_code == 200:
         data = response.json()
+        print(data)
         return data
     else:
         error = f"ERROR APPEARED : {nowtime} : {response.status_code} \n"
