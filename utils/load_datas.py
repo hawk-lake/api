@@ -21,6 +21,9 @@ def browse_new_releases(cnt):
 
     response = get_response(cnt=cnt, endpoint=endpoint, params=params)
     
+    input_date = datetime.now().strftime("%Y-%m-%d")
     for item in response["albums"]["items"]:
         album_id = item["id"]
-        input_date = datetime.now().strftime("%Y-%m-%d")
+        for artist in item['artists']: 
+            artist_id = artist['id']
+            
