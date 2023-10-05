@@ -26,4 +26,60 @@
     "track_number": 14,
     "type": "track",
     "uri": "spotify:track:6Otmq7JokHh38wKSqUimcS"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 187729,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Otmq7JokHh38wKSqUimcS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6Otmq7JokHh38wKSqUimcS",
+    "id": "6Otmq7JokHh38wKSqUimcS",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Tradesman",
+    "preview_url": "https://p.scdn.co/mp3-preview/8e8a2fb58e01735fffaddba3acabe2ab6d51e976?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:6Otmq7JokHh38wKSqUimcS"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 187729,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Otmq7JokHh38wKSqUimcS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6Otmq7JokHh38wKSqUimcS",
+    "id": "6Otmq7JokHh38wKSqUimcS",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Tradesman",
+    "preview_url": "https://p.scdn.co/mp3-preview/8e8a2fb58e01735fffaddba3acabe2ab6d51e976?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:6Otmq7JokHh38wKSqUimcS"
 }

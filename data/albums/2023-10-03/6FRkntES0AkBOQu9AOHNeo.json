@@ -194,4 +194,200 @@
     },
     "type": "album",
     "uri": "spotify:album:6FRkntES0AkBOQu9AOHNeo"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+            },
+            "href": "https://api.spotify.com/v1/artists/7k73EtZwoPs516ZxE72KsO",
+            "id": "7k73EtZwoPs516ZxE72KsO",
+            "name": "ONE OK ROCK",
+            "type": "artist",
+            "uri": "spotify:artist:7k73EtZwoPs516ZxE72KsO"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "A Fueled By Ramen release, \u00a9 2023 Elektra Music Group Inc.",
+            "type": "C"
+        },
+        {
+            "text": "A Fueled By Ramen release, \u2117 2023 Elektra Music Group Inc.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679674906"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6FRkntES0AkBOQu9AOHNeo",
+    "id": "6FRkntES0AkBOQu9AOHNeo",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27305af603f75faebf6092506ac",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0205af603f75faebf6092506ac",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485105af603f75faebf6092506ac",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Fueled By Ramen",
+    "name": "Make It Out Alive",
+    "popularity": 65,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6FRkntES0AkBOQu9AOHNeo/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7k73EtZwoPs516ZxE72KsO",
+                        "id": "7k73EtZwoPs516ZxE72KsO",
+                        "name": "ONE OK ROCK",
+                        "type": "artist",
+                        "uri": "spotify:artist:7k73EtZwoPs516ZxE72KsO"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 209799,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4WVJeRP6hjMMBkmWsV4TtF",
+                "id": "4WVJeRP6hjMMBkmWsV4TtF",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Make It Out Alive",
+                "preview_url": "https://p.scdn.co/mp3-preview/9f6632259eda84993f49160f7dd0dbc2992632d6?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4WVJeRP6hjMMBkmWsV4TtF"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6FRkntES0AkBOQu9AOHNeo"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+            },
+            "href": "https://api.spotify.com/v1/artists/7k73EtZwoPs516ZxE72KsO",
+            "id": "7k73EtZwoPs516ZxE72KsO",
+            "name": "ONE OK ROCK",
+            "type": "artist",
+            "uri": "spotify:artist:7k73EtZwoPs516ZxE72KsO"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "A Fueled By Ramen release, \u00a9 2023 Elektra Music Group Inc.",
+            "type": "C"
+        },
+        {
+            "text": "A Fueled By Ramen release, \u2117 2023 Elektra Music Group Inc.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679674906"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6FRkntES0AkBOQu9AOHNeo",
+    "id": "6FRkntES0AkBOQu9AOHNeo",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27305af603f75faebf6092506ac",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0205af603f75faebf6092506ac",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485105af603f75faebf6092506ac",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Fueled By Ramen",
+    "name": "Make It Out Alive",
+    "popularity": 65,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6FRkntES0AkBOQu9AOHNeo/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7k73EtZwoPs516ZxE72KsO",
+                        "id": "7k73EtZwoPs516ZxE72KsO",
+                        "name": "ONE OK ROCK",
+                        "type": "artist",
+                        "uri": "spotify:artist:7k73EtZwoPs516ZxE72KsO"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 209799,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4WVJeRP6hjMMBkmWsV4TtF",
+                "id": "4WVJeRP6hjMMBkmWsV4TtF",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Make It Out Alive",
+                "preview_url": "https://p.scdn.co/mp3-preview/9f6632259eda84993f49160f7dd0dbc2992632d6?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4WVJeRP6hjMMBkmWsV4TtF"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6FRkntES0AkBOQu9AOHNeo"
 }

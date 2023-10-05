@@ -234,4 +234,240 @@
     },
     "type": "album",
     "uri": "spotify:album:5nb8r2gQC3ro3g5s1VETMz"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AsbBukUWcA4lJT5ARtlgQ",
+            "id": "0AsbBukUWcA4lJT5ARtlgQ",
+            "name": "Ramengvrl",
+            "type": "artist",
+            "uri": "spotify:artist:0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hpcsQx9HOJnoKczjvXehn",
+            "id": "2hpcsQx9HOJnoKczjvXehn",
+            "name": "Cinta Laura Kiehl",
+            "type": "artist",
+            "uri": "spotify:artist:2hpcsQx9HOJnoKczjvXehn"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Under exclusive license to Warner Music Regional Asia. An Asiatic Records Release, \u00a9 2023 GOING NOODLES PTE LTD",
+            "type": "C"
+        },
+        {
+            "text": "Under exclusive license to Warner Music Regional Asia. An Asiatic Records Release, \u2117 2023 GOING NOODLES PTE LTD",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197765186"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5nb8r2gQC3ro3g5s1VETMz",
+    "id": "5nb8r2gQC3ro3g5s1VETMz",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273531dd10f0beb80a3c207f6e6",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02531dd10f0beb80a3c207f6e6",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851531dd10f0beb80a3c207f6e6",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Warner Music Regional Asia",
+    "name": "Bossy",
+    "popularity": 44,
+    "release_date": "2023-08-04",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5nb8r2gQC3ro3g5s1VETMz/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0AsbBukUWcA4lJT5ARtlgQ",
+                        "id": "0AsbBukUWcA4lJT5ARtlgQ",
+                        "name": "Ramengvrl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0AsbBukUWcA4lJT5ARtlgQ"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2hpcsQx9HOJnoKczjvXehn",
+                        "id": "2hpcsQx9HOJnoKczjvXehn",
+                        "name": "Cinta Laura Kiehl",
+                        "type": "artist",
+                        "uri": "spotify:artist:2hpcsQx9HOJnoKczjvXehn"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 134947,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3uuytiAc3p8k73EM9WENt2",
+                "id": "3uuytiAc3p8k73EM9WENt2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bossy",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3uuytiAc3p8k73EM9WENt2"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:5nb8r2gQC3ro3g5s1VETMz"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AsbBukUWcA4lJT5ARtlgQ",
+            "id": "0AsbBukUWcA4lJT5ARtlgQ",
+            "name": "Ramengvrl",
+            "type": "artist",
+            "uri": "spotify:artist:0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hpcsQx9HOJnoKczjvXehn",
+            "id": "2hpcsQx9HOJnoKczjvXehn",
+            "name": "Cinta Laura Kiehl",
+            "type": "artist",
+            "uri": "spotify:artist:2hpcsQx9HOJnoKczjvXehn"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Under exclusive license to Warner Music Regional Asia. An Asiatic Records Release, \u00a9 2023 GOING NOODLES PTE LTD",
+            "type": "C"
+        },
+        {
+            "text": "Under exclusive license to Warner Music Regional Asia. An Asiatic Records Release, \u2117 2023 GOING NOODLES PTE LTD",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197765186"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5nb8r2gQC3ro3g5s1VETMz",
+    "id": "5nb8r2gQC3ro3g5s1VETMz",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273531dd10f0beb80a3c207f6e6",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02531dd10f0beb80a3c207f6e6",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851531dd10f0beb80a3c207f6e6",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Warner Music Regional Asia",
+    "name": "Bossy",
+    "popularity": 44,
+    "release_date": "2023-08-04",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5nb8r2gQC3ro3g5s1VETMz/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0AsbBukUWcA4lJT5ARtlgQ",
+                        "id": "0AsbBukUWcA4lJT5ARtlgQ",
+                        "name": "Ramengvrl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0AsbBukUWcA4lJT5ARtlgQ"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2hpcsQx9HOJnoKczjvXehn",
+                        "id": "2hpcsQx9HOJnoKczjvXehn",
+                        "name": "Cinta Laura Kiehl",
+                        "type": "artist",
+                        "uri": "spotify:artist:2hpcsQx9HOJnoKczjvXehn"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 134947,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3uuytiAc3p8k73EM9WENt2",
+                "id": "3uuytiAc3p8k73EM9WENt2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bossy",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3uuytiAc3p8k73EM9WENt2"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:5nb8r2gQC3ro3g5s1VETMz"
 }

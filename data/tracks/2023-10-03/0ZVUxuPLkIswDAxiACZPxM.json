@@ -26,4 +26,60 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0ZVUxuPLkIswDAxiACZPxM"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+            },
+            "href": "https://api.spotify.com/v1/artists/0xPoVNPnxIIUS1vrxAYV00",
+            "id": "0xPoVNPnxIIUS1vrxAYV00",
+            "name": "Del Water Gap",
+            "type": "artist",
+            "uri": "spotify:artist:0xPoVNPnxIIUS1vrxAYV00"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 211000,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ZVUxuPLkIswDAxiACZPxM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ZVUxuPLkIswDAxiACZPxM",
+    "id": "0ZVUxuPLkIswDAxiACZPxM",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Quilt of Steam",
+    "preview_url": "https://p.scdn.co/mp3-preview/1a008483af6554930635cb134e5f8834c6c1ff80?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0ZVUxuPLkIswDAxiACZPxM"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+            },
+            "href": "https://api.spotify.com/v1/artists/0xPoVNPnxIIUS1vrxAYV00",
+            "id": "0xPoVNPnxIIUS1vrxAYV00",
+            "name": "Del Water Gap",
+            "type": "artist",
+            "uri": "spotify:artist:0xPoVNPnxIIUS1vrxAYV00"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 211000,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ZVUxuPLkIswDAxiACZPxM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ZVUxuPLkIswDAxiACZPxM",
+    "id": "0ZVUxuPLkIswDAxiACZPxM",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Quilt of Steam",
+    "preview_url": "https://p.scdn.co/mp3-preview/1a008483af6554930635cb134e5f8834c6c1ff80?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0ZVUxuPLkIswDAxiACZPxM"
 }

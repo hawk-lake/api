@@ -26,4 +26,60 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:38AfAGN9N2nyd6Hz6NENYg"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+            "id": "0IwZVmMMGE7nNXS7vN9SIo",
+            "name": "MISAMO",
+            "type": "artist",
+            "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 140413,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/38AfAGN9N2nyd6Hz6NENYg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/38AfAGN9N2nyd6Hz6NENYg",
+    "id": "38AfAGN9N2nyd6Hz6NENYg",
+    "is_local": false,
+    "is_playable": true,
+    "name": "It's not easy for you",
+    "preview_url": "https://p.scdn.co/mp3-preview/cbe0cf1024b39b4a8914c483bb7b468beba88d49?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:38AfAGN9N2nyd6Hz6NENYg"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+            "id": "0IwZVmMMGE7nNXS7vN9SIo",
+            "name": "MISAMO",
+            "type": "artist",
+            "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 140413,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/38AfAGN9N2nyd6Hz6NENYg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/38AfAGN9N2nyd6Hz6NENYg",
+    "id": "38AfAGN9N2nyd6Hz6NENYg",
+    "is_local": false,
+    "is_playable": true,
+    "name": "It's not easy for you",
+    "preview_url": "https://p.scdn.co/mp3-preview/cbe0cf1024b39b4a8914c483bb7b468beba88d49?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:38AfAGN9N2nyd6Hz6NENYg"
 }

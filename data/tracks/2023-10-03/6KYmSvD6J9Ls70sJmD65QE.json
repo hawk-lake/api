@@ -26,4 +26,60 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:6KYmSvD6J9Ls70sJmD65QE"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            },
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+            "id": "7MhMgCo0Bl0Kukl93PZbYS",
+            "name": "Blur",
+            "type": "artist",
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 256795,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/6KYmSvD6J9Ls70sJmD65QE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6KYmSvD6J9Ls70sJmD65QE",
+    "id": "6KYmSvD6J9Ls70sJmD65QE",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Goodbye Albert",
+    "preview_url": "https://p.scdn.co/mp3-preview/140bc82cf637e9611504475e51dca781e51e76b6?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:6KYmSvD6J9Ls70sJmD65QE"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            },
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+            "id": "7MhMgCo0Bl0Kukl93PZbYS",
+            "name": "Blur",
+            "type": "artist",
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 256795,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/6KYmSvD6J9Ls70sJmD65QE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6KYmSvD6J9Ls70sJmD65QE",
+    "id": "6KYmSvD6J9Ls70sJmD65QE",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Goodbye Albert",
+    "preview_url": "https://p.scdn.co/mp3-preview/140bc82cf637e9611504475e51dca781e51e76b6?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:6KYmSvD6J9Ls70sJmD65QE"
 }

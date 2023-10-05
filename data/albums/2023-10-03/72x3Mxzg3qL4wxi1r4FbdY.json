@@ -194,4 +194,200 @@
     },
     "type": "album",
     "uri": "spotify:album:72x3Mxzg3qL4wxi1r4FbdY"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+            },
+            "href": "https://api.spotify.com/v1/artists/3iri9nBFs9e4wN7PLIetAw",
+            "id": "3iri9nBFs9e4wN7PLIetAw",
+            "name": "gnash",
+            "type": "artist",
+            "uri": "spotify:artist:3iri9nBFs9e4wN7PLIetAw"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Atlantic Recording Corporation",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Atlantic Recording Corporation",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679674968"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/72x3Mxzg3qL4wxi1r4FbdY"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/72x3Mxzg3qL4wxi1r4FbdY",
+    "id": "72x3Mxzg3qL4wxi1r4FbdY",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273690769470c155b56859d9672",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02690769470c155b56859d9672",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851690769470c155b56859d9672",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records",
+    "name": "wet cement",
+    "popularity": 31,
+    "release_date": "2023-08-11",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/72x3Mxzg3qL4wxi1r4FbdY/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3iri9nBFs9e4wN7PLIetAw",
+                        "id": "3iri9nBFs9e4wN7PLIetAw",
+                        "name": "gnash",
+                        "type": "artist",
+                        "uri": "spotify:artist:3iri9nBFs9e4wN7PLIetAw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178966,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3PK7o6gJrL2szmwGziGC4e"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3PK7o6gJrL2szmwGziGC4e",
+                "id": "3PK7o6gJrL2szmwGziGC4e",
+                "is_local": false,
+                "is_playable": true,
+                "name": "wet cement",
+                "preview_url": "https://p.scdn.co/mp3-preview/6b2c3caee4108ec2a10ba84643565f6f3f16a78c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3PK7o6gJrL2szmwGziGC4e"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:72x3Mxzg3qL4wxi1r4FbdY"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+            },
+            "href": "https://api.spotify.com/v1/artists/3iri9nBFs9e4wN7PLIetAw",
+            "id": "3iri9nBFs9e4wN7PLIetAw",
+            "name": "gnash",
+            "type": "artist",
+            "uri": "spotify:artist:3iri9nBFs9e4wN7PLIetAw"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Atlantic Recording Corporation",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Atlantic Recording Corporation",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679674968"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/72x3Mxzg3qL4wxi1r4FbdY"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/72x3Mxzg3qL4wxi1r4FbdY",
+    "id": "72x3Mxzg3qL4wxi1r4FbdY",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273690769470c155b56859d9672",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02690769470c155b56859d9672",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851690769470c155b56859d9672",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records",
+    "name": "wet cement",
+    "popularity": 31,
+    "release_date": "2023-08-11",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/72x3Mxzg3qL4wxi1r4FbdY/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3iri9nBFs9e4wN7PLIetAw",
+                        "id": "3iri9nBFs9e4wN7PLIetAw",
+                        "name": "gnash",
+                        "type": "artist",
+                        "uri": "spotify:artist:3iri9nBFs9e4wN7PLIetAw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178966,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3PK7o6gJrL2szmwGziGC4e"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3PK7o6gJrL2szmwGziGC4e",
+                "id": "3PK7o6gJrL2szmwGziGC4e",
+                "is_local": false,
+                "is_playable": true,
+                "name": "wet cement",
+                "preview_url": "https://p.scdn.co/mp3-preview/6b2c3caee4108ec2a10ba84643565f6f3f16a78c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3PK7o6gJrL2szmwGziGC4e"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:72x3Mxzg3qL4wxi1r4FbdY"
 }

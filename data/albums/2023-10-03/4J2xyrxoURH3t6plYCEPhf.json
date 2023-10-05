@@ -716,4 +716,722 @@
     },
     "type": "album",
     "uri": "spotify:album:4J2xyrxoURH3t6plYCEPhf"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "C"
+        },
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "887828047963"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/4J2xyrxoURH3t6plYCEPhf",
+    "id": "4J2xyrxoURH3t6plYCEPhf",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273666132e3a57ef9c7e237406c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02666132e3a57ef9c7e237406c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851666132e3a57ef9c7e237406c",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Domino Recording Co",
+    "name": "Euphoric",
+    "popularity": 46,
+    "release_date": "2023-07-28",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/4J2xyrxoURH3t6plYCEPhf/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 221493,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7ynqVX9l6jWPDduSJwIiYG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7ynqVX9l6jWPDduSJwIiYG",
+                "id": "7ynqVX9l6jWPDduSJwIiYG",
+                "is_local": false,
+                "is_playable": true,
+                "name": "It\u2019s Euphoric",
+                "preview_url": "https://p.scdn.co/mp3-preview/b00c7ce485a45905ebdb9dd4e31c6dd809b0163c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7ynqVX9l6jWPDduSJwIiYG"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 238586,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1mJltElxoEncW8mLbfgNS9"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1mJltElxoEncW8mLbfgNS9",
+                "id": "1mJltElxoEncW8mLbfgNS9",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Give It Up For Love",
+                "preview_url": "https://p.scdn.co/mp3-preview/7d430669abdade1d2ad8688d36438d9ebf201d90?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1mJltElxoEncW8mLbfgNS9"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 169386,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4MAay2lkhRjskJuWlEuB5b",
+                "id": "4MAay2lkhRjskJuWlEuB5b",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Some Things You\u2019ll Never Know",
+                "preview_url": "https://p.scdn.co/mp3-preview/5d3dc61ed86bb5365bbcc812a43525fe9263ccaa?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:4MAay2lkhRjskJuWlEuB5b"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 269613,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3HBCtnZLvQtMxCnbN3NHbe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3HBCtnZLvQtMxCnbN3NHbe",
+                "id": "3HBCtnZLvQtMxCnbN3NHbe",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Mountain Song",
+                "preview_url": "https://p.scdn.co/mp3-preview/2cbd9cd05498666ade3d54fbabad5f8006f28965?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3HBCtnZLvQtMxCnbN3NHbe"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180213,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2iYGhKqO7kNYXebhHf0b9m"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2iYGhKqO7kNYXebhHf0b9m",
+                "id": "2iYGhKqO7kNYXebhHf0b9m",
+                "is_local": false,
+                "is_playable": true,
+                "name": "All Night",
+                "preview_url": "https://p.scdn.co/mp3-preview/8901b14cdaa69af7b67a66cb055cdbd72d706048?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:2iYGhKqO7kNYXebhHf0b9m"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 225920,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/49UTdRfpD86PNS0ljfLtkK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/49UTdRfpD86PNS0ljfLtkK",
+                "id": "49UTdRfpD86PNS0ljfLtkK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Live Like We\u2019re Dancing (Part II)",
+                "preview_url": "https://p.scdn.co/mp3-preview/9e7d071d59873c148584e1be8286c2f21964f3af?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:49UTdRfpD86PNS0ljfLtkK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231693,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1uVBFpdfTAt0aNEtGxfQHh"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1uVBFpdfTAt0aNEtGxfQHh",
+                "id": "1uVBFpdfTAt0aNEtGxfQHh",
+                "is_local": false,
+                "is_playable": true,
+                "name": "The Dream",
+                "preview_url": "https://p.scdn.co/mp3-preview/fc5b0e828df86d6bdd0faf13eee1e173c55afd79?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:1uVBFpdfTAt0aNEtGxfQHh"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 250666,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0jt8c4kmkKdW0ckU40Cv98"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0jt8c4kmkKdW0ckU40Cv98",
+                "id": "0jt8c4kmkKdW0ckU40Cv98",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Keep On",
+                "preview_url": "https://p.scdn.co/mp3-preview/80c759e527ee3494980cd13eac22f1fac149a295?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:0jt8c4kmkKdW0ckU40Cv98"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 171266,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7c3EwqFp2A5triuCsPzI7P"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7c3EwqFp2A5triuCsPzI7P",
+                "id": "7c3EwqFp2A5triuCsPzI7P",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Friends Will Never Let You Go",
+                "preview_url": "https://p.scdn.co/mp3-preview/49558035156c41faba2166a5054bd59c70dd594c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:7c3EwqFp2A5triuCsPzI7P"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 219800,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7zhh7c8HQwMx97SKAgJqOn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7zhh7c8HQwMx97SKAgJqOn",
+                "id": "7zhh7c8HQwMx97SKAgJqOn",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So What",
+                "preview_url": "https://p.scdn.co/mp3-preview/89b08c93722efb3bea7315c56595e92f774c1374?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:7zhh7c8HQwMx97SKAgJqOn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:4J2xyrxoURH3t6plYCEPhf"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "C"
+        },
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "887828047963"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/4J2xyrxoURH3t6plYCEPhf",
+    "id": "4J2xyrxoURH3t6plYCEPhf",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273666132e3a57ef9c7e237406c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02666132e3a57ef9c7e237406c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851666132e3a57ef9c7e237406c",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Domino Recording Co",
+    "name": "Euphoric",
+    "popularity": 46,
+    "release_date": "2023-07-28",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/4J2xyrxoURH3t6plYCEPhf/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 221493,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7ynqVX9l6jWPDduSJwIiYG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7ynqVX9l6jWPDduSJwIiYG",
+                "id": "7ynqVX9l6jWPDduSJwIiYG",
+                "is_local": false,
+                "is_playable": true,
+                "name": "It\u2019s Euphoric",
+                "preview_url": "https://p.scdn.co/mp3-preview/b00c7ce485a45905ebdb9dd4e31c6dd809b0163c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7ynqVX9l6jWPDduSJwIiYG"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 238586,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1mJltElxoEncW8mLbfgNS9"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1mJltElxoEncW8mLbfgNS9",
+                "id": "1mJltElxoEncW8mLbfgNS9",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Give It Up For Love",
+                "preview_url": "https://p.scdn.co/mp3-preview/7d430669abdade1d2ad8688d36438d9ebf201d90?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1mJltElxoEncW8mLbfgNS9"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 169386,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4MAay2lkhRjskJuWlEuB5b",
+                "id": "4MAay2lkhRjskJuWlEuB5b",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Some Things You\u2019ll Never Know",
+                "preview_url": "https://p.scdn.co/mp3-preview/5d3dc61ed86bb5365bbcc812a43525fe9263ccaa?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:4MAay2lkhRjskJuWlEuB5b"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 269613,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3HBCtnZLvQtMxCnbN3NHbe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3HBCtnZLvQtMxCnbN3NHbe",
+                "id": "3HBCtnZLvQtMxCnbN3NHbe",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Mountain Song",
+                "preview_url": "https://p.scdn.co/mp3-preview/2cbd9cd05498666ade3d54fbabad5f8006f28965?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3HBCtnZLvQtMxCnbN3NHbe"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180213,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2iYGhKqO7kNYXebhHf0b9m"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2iYGhKqO7kNYXebhHf0b9m",
+                "id": "2iYGhKqO7kNYXebhHf0b9m",
+                "is_local": false,
+                "is_playable": true,
+                "name": "All Night",
+                "preview_url": "https://p.scdn.co/mp3-preview/8901b14cdaa69af7b67a66cb055cdbd72d706048?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:2iYGhKqO7kNYXebhHf0b9m"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 225920,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/49UTdRfpD86PNS0ljfLtkK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/49UTdRfpD86PNS0ljfLtkK",
+                "id": "49UTdRfpD86PNS0ljfLtkK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Live Like We\u2019re Dancing (Part II)",
+                "preview_url": "https://p.scdn.co/mp3-preview/9e7d071d59873c148584e1be8286c2f21964f3af?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:49UTdRfpD86PNS0ljfLtkK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231693,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1uVBFpdfTAt0aNEtGxfQHh"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1uVBFpdfTAt0aNEtGxfQHh",
+                "id": "1uVBFpdfTAt0aNEtGxfQHh",
+                "is_local": false,
+                "is_playable": true,
+                "name": "The Dream",
+                "preview_url": "https://p.scdn.co/mp3-preview/fc5b0e828df86d6bdd0faf13eee1e173c55afd79?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:1uVBFpdfTAt0aNEtGxfQHh"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 250666,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0jt8c4kmkKdW0ckU40Cv98"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0jt8c4kmkKdW0ckU40Cv98",
+                "id": "0jt8c4kmkKdW0ckU40Cv98",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Keep On",
+                "preview_url": "https://p.scdn.co/mp3-preview/80c759e527ee3494980cd13eac22f1fac149a295?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:0jt8c4kmkKdW0ckU40Cv98"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 171266,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7c3EwqFp2A5triuCsPzI7P"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7c3EwqFp2A5triuCsPzI7P",
+                "id": "7c3EwqFp2A5triuCsPzI7P",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Friends Will Never Let You Go",
+                "preview_url": "https://p.scdn.co/mp3-preview/49558035156c41faba2166a5054bd59c70dd594c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:7c3EwqFp2A5triuCsPzI7P"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+                        "id": "06knYh538h5SI7OAEF8ek3",
+                        "name": "Georgia",
+                        "type": "artist",
+                        "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 219800,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7zhh7c8HQwMx97SKAgJqOn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7zhh7c8HQwMx97SKAgJqOn",
+                "id": "7zhh7c8HQwMx97SKAgJqOn",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So What",
+                "preview_url": "https://p.scdn.co/mp3-preview/89b08c93722efb3bea7315c56595e92f774c1374?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:7zhh7c8HQwMx97SKAgJqOn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:4J2xyrxoURH3t6plYCEPhf"
 }

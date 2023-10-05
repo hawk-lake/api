@@ -26,4 +26,60 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3o790sA4zssA7vtFpElKKS"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+            },
+            "href": "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+            "id": "1CoZyIx7UvdxT5c8UkMzHd",
+            "name": "Jorja Smith",
+            "type": "artist",
+            "uri": "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204920,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3o790sA4zssA7vtFpElKKS",
+    "id": "3o790sA4zssA7vtFpElKKS",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Falling or flying",
+    "preview_url": "https://p.scdn.co/mp3-preview/29bc0e7c0b59f35506a814b17cad47696b25bc42?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3o790sA4zssA7vtFpElKKS"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+            },
+            "href": "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+            "id": "1CoZyIx7UvdxT5c8UkMzHd",
+            "name": "Jorja Smith",
+            "type": "artist",
+            "uri": "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204920,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3o790sA4zssA7vtFpElKKS",
+    "id": "3o790sA4zssA7vtFpElKKS",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Falling or flying",
+    "preview_url": "https://p.scdn.co/mp3-preview/29bc0e7c0b59f35506a814b17cad47696b25bc42?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3o790sA4zssA7vtFpElKKS"
 }

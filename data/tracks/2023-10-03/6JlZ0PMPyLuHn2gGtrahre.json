@@ -26,4 +26,60 @@
     "track_number": 10,
     "type": "track",
     "uri": "spotify:track:6JlZ0PMPyLuHn2gGtrahre"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+            },
+            "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+            "id": "6eUKZXaKkcviH0Ku9w2n3V",
+            "name": "Ed Sheeran",
+            "type": "artist",
+            "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 178615,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/6JlZ0PMPyLuHn2gGtrahre"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6JlZ0PMPyLuHn2gGtrahre",
+    "id": "6JlZ0PMPyLuHn2gGtrahre",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Spring",
+    "preview_url": "https://p.scdn.co/mp3-preview/1818e97a0c938743309d9074c6b1a0491112cd60?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:6JlZ0PMPyLuHn2gGtrahre"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+            },
+            "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+            "id": "6eUKZXaKkcviH0Ku9w2n3V",
+            "name": "Ed Sheeran",
+            "type": "artist",
+            "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 178615,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/6JlZ0PMPyLuHn2gGtrahre"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6JlZ0PMPyLuHn2gGtrahre",
+    "id": "6JlZ0PMPyLuHn2gGtrahre",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Spring",
+    "preview_url": "https://p.scdn.co/mp3-preview/1818e97a0c938743309d9074c6b1a0491112cd60?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:6JlZ0PMPyLuHn2gGtrahre"
 }

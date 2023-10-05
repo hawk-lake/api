@@ -26,4 +26,60 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:59S4EEFLfs9XdLWA3RaayU"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+            },
+            "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+            "id": "6nS5roXSAGhTGr34W6n7Et",
+            "name": "Disclosure",
+            "type": "artist",
+            "uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 256790,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/59S4EEFLfs9XdLWA3RaayU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/59S4EEFLfs9XdLWA3RaayU",
+    "id": "59S4EEFLfs9XdLWA3RaayU",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Go The Distance",
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:59S4EEFLfs9XdLWA3RaayU"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+            },
+            "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+            "id": "6nS5roXSAGhTGr34W6n7Et",
+            "name": "Disclosure",
+            "type": "artist",
+            "uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 256790,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/59S4EEFLfs9XdLWA3RaayU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/59S4EEFLfs9XdLWA3RaayU",
+    "id": "59S4EEFLfs9XdLWA3RaayU",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Go The Distance",
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:59S4EEFLfs9XdLWA3RaayU"
 }

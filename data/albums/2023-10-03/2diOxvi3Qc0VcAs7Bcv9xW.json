@@ -624,4 +624,630 @@
     },
     "type": "album",
     "uri": "spotify:album:2diOxvi3Qc0VcAs7Bcv9xW"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+            },
+            "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+            "id": "0zlMouo6dENL2tsOY9JssU",
+            "name": "Lufthaus",
+            "type": "artist",
+            "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            },
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+            "id": "2HcwFjNelS49kFbfvMxQYw",
+            "name": "Robbie Williams",
+            "type": "artist",
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Armada Music B.V. under exclusive license from Farrell Music LTD",
+            "type": "C"
+        },
+        {
+            "text": "2023 Armada Music B.V. under exclusive license from Farrell Music LTD",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720693016998"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2diOxvi3Qc0VcAs7Bcv9xW"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2diOxvi3Qc0VcAs7Bcv9xW",
+    "id": "2diOxvi3Qc0VcAs7Bcv9xW",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737915b42c7afbb926945aa279",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027915b42c7afbb926945aa279",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517915b42c7afbb926945aa279",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Armada Music",
+    "name": "Alcohol",
+    "popularity": 35,
+    "release_date": "2023-07-28",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2diOxvi3Qc0VcAs7Bcv9xW/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+                        "id": "0zlMouo6dENL2tsOY9JssU",
+                        "name": "Lufthaus",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                        "id": "2HcwFjNelS49kFbfvMxQYw",
+                        "name": "Robbie Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203109,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4axu2A6Q4GIglXWF5gPLpK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4axu2A6Q4GIglXWF5gPLpK",
+                "id": "4axu2A6Q4GIglXWF5gPLpK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Alcohol",
+                "preview_url": "https://p.scdn.co/mp3-preview/f65a170e0e4a5f33400fe7a59a396f1f0e09a94b?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4axu2A6Q4GIglXWF5gPLpK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+                        "id": "0zlMouo6dENL2tsOY9JssU",
+                        "name": "Lufthaus",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                        "id": "2HcwFjNelS49kFbfvMxQYw",
+                        "name": "Robbie Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 156031,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/02MFRfhrxMxPlA5YOr2jdj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/02MFRfhrxMxPlA5YOr2jdj",
+                "id": "02MFRfhrxMxPlA5YOr2jdj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Ringo",
+                "preview_url": "https://p.scdn.co/mp3-preview/69b6d08837e4373199295a893c6dbce31ef583b7?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:02MFRfhrxMxPlA5YOr2jdj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+                        "id": "0zlMouo6dENL2tsOY9JssU",
+                        "name": "Lufthaus",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                        "id": "2HcwFjNelS49kFbfvMxQYw",
+                        "name": "Robbie Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 242053,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5g4jTyFn0SBYydxWgax3DM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5g4jTyFn0SBYydxWgax3DM",
+                "id": "5g4jTyFn0SBYydxWgax3DM",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Unlovable",
+                "preview_url": "https://p.scdn.co/mp3-preview/f84b8210cc8b88a379bd507e5d3db251d25fd117?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5g4jTyFn0SBYydxWgax3DM"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+                        "id": "0zlMouo6dENL2tsOY9JssU",
+                        "name": "Lufthaus",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                        "id": "2HcwFjNelS49kFbfvMxQYw",
+                        "name": "Robbie Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 221703,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5aVDgpBUC4zgk9aiQxkBPX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5aVDgpBUC4zgk9aiQxkBPX",
+                "id": "5aVDgpBUC4zgk9aiQxkBPX",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Soul Seekers",
+                "preview_url": "https://p.scdn.co/mp3-preview/de88d2301e53b27d0d60897a4041cb4b3203312e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:5aVDgpBUC4zgk9aiQxkBPX"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+                        "id": "0zlMouo6dENL2tsOY9JssU",
+                        "name": "Lufthaus",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                        "id": "2HcwFjNelS49kFbfvMxQYw",
+                        "name": "Robbie Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 261772,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0z3MxJD4ZTxqFkw7wh8LGL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0z3MxJD4ZTxqFkw7wh8LGL",
+                "id": "0z3MxJD4ZTxqFkw7wh8LGL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "To The Light",
+                "preview_url": "https://p.scdn.co/mp3-preview/54a7c895778a3359ff5cbb5367f9744b9b8a1216?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:0z3MxJD4ZTxqFkw7wh8LGL"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+                        "id": "0zlMouo6dENL2tsOY9JssU",
+                        "name": "Lufthaus",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                        "id": "2HcwFjNelS49kFbfvMxQYw",
+                        "name": "Robbie Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 241010,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0g6UzPVsyDpFfmgUNhPWQ4"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0g6UzPVsyDpFfmgUNhPWQ4",
+                "id": "0g6UzPVsyDpFfmgUNhPWQ4",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Sway",
+                "preview_url": "https://p.scdn.co/mp3-preview/46e77aefec1e8542716409d49a15d0750f72f360?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0g6UzPVsyDpFfmgUNhPWQ4"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 6
+    },
+    "type": "album",
+    "uri": "spotify:album:2diOxvi3Qc0VcAs7Bcv9xW"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+            },
+            "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+            "id": "0zlMouo6dENL2tsOY9JssU",
+            "name": "Lufthaus",
+            "type": "artist",
+            "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            },
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+            "id": "2HcwFjNelS49kFbfvMxQYw",
+            "name": "Robbie Williams",
+            "type": "artist",
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Armada Music B.V. under exclusive license from Farrell Music LTD",
+            "type": "C"
+        },
+        {
+            "text": "2023 Armada Music B.V. under exclusive license from Farrell Music LTD",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720693016998"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2diOxvi3Qc0VcAs7Bcv9xW"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2diOxvi3Qc0VcAs7Bcv9xW",
+    "id": "2diOxvi3Qc0VcAs7Bcv9xW",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737915b42c7afbb926945aa279",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027915b42c7afbb926945aa279",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517915b42c7afbb926945aa279",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Armada Music",
+    "name": "Alcohol",
+    "popularity": 35,
+    "release_date": "2023-07-28",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2diOxvi3Qc0VcAs7Bcv9xW/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+                        "id": "0zlMouo6dENL2tsOY9JssU",
+                        "name": "Lufthaus",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                        "id": "2HcwFjNelS49kFbfvMxQYw",
+                        "name": "Robbie Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203109,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4axu2A6Q4GIglXWF5gPLpK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4axu2A6Q4GIglXWF5gPLpK",
+                "id": "4axu2A6Q4GIglXWF5gPLpK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Alcohol",
+                "preview_url": "https://p.scdn.co/mp3-preview/f65a170e0e4a5f33400fe7a59a396f1f0e09a94b?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4axu2A6Q4GIglXWF5gPLpK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+                        "id": "0zlMouo6dENL2tsOY9JssU",
+                        "name": "Lufthaus",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                        "id": "2HcwFjNelS49kFbfvMxQYw",
+                        "name": "Robbie Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 156031,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/02MFRfhrxMxPlA5YOr2jdj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/02MFRfhrxMxPlA5YOr2jdj",
+                "id": "02MFRfhrxMxPlA5YOr2jdj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Ringo",
+                "preview_url": "https://p.scdn.co/mp3-preview/69b6d08837e4373199295a893c6dbce31ef583b7?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:02MFRfhrxMxPlA5YOr2jdj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+                        "id": "0zlMouo6dENL2tsOY9JssU",
+                        "name": "Lufthaus",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                        "id": "2HcwFjNelS49kFbfvMxQYw",
+                        "name": "Robbie Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 242053,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5g4jTyFn0SBYydxWgax3DM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5g4jTyFn0SBYydxWgax3DM",
+                "id": "5g4jTyFn0SBYydxWgax3DM",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Unlovable",
+                "preview_url": "https://p.scdn.co/mp3-preview/f84b8210cc8b88a379bd507e5d3db251d25fd117?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5g4jTyFn0SBYydxWgax3DM"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+                        "id": "0zlMouo6dENL2tsOY9JssU",
+                        "name": "Lufthaus",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                        "id": "2HcwFjNelS49kFbfvMxQYw",
+                        "name": "Robbie Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 221703,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5aVDgpBUC4zgk9aiQxkBPX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5aVDgpBUC4zgk9aiQxkBPX",
+                "id": "5aVDgpBUC4zgk9aiQxkBPX",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Soul Seekers",
+                "preview_url": "https://p.scdn.co/mp3-preview/de88d2301e53b27d0d60897a4041cb4b3203312e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:5aVDgpBUC4zgk9aiQxkBPX"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+                        "id": "0zlMouo6dENL2tsOY9JssU",
+                        "name": "Lufthaus",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                        "id": "2HcwFjNelS49kFbfvMxQYw",
+                        "name": "Robbie Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 261772,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0z3MxJD4ZTxqFkw7wh8LGL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0z3MxJD4ZTxqFkw7wh8LGL",
+                "id": "0z3MxJD4ZTxqFkw7wh8LGL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "To The Light",
+                "preview_url": "https://p.scdn.co/mp3-preview/54a7c895778a3359ff5cbb5367f9744b9b8a1216?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:0z3MxJD4ZTxqFkw7wh8LGL"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zlMouo6dENL2tsOY9JssU",
+                        "id": "0zlMouo6dENL2tsOY9JssU",
+                        "name": "Lufthaus",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zlMouo6dENL2tsOY9JssU"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                        "id": "2HcwFjNelS49kFbfvMxQYw",
+                        "name": "Robbie Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 241010,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0g6UzPVsyDpFfmgUNhPWQ4"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0g6UzPVsyDpFfmgUNhPWQ4",
+                "id": "0g6UzPVsyDpFfmgUNhPWQ4",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Sway",
+                "preview_url": "https://p.scdn.co/mp3-preview/46e77aefec1e8542716409d49a15d0750f72f360?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0g6UzPVsyDpFfmgUNhPWQ4"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 6
+    },
+    "type": "album",
+    "uri": "spotify:album:2diOxvi3Qc0VcAs7Bcv9xW"
 }

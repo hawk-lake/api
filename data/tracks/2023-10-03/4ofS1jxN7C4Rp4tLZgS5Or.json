@@ -26,4 +26,60 @@
     "track_number": 11,
     "type": "track",
     "uri": "spotify:track:4ofS1jxN7C4Rp4tLZgS5Or"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqDE7qDGCsyzJwohVaoX",
+            "id": "1zNqDE7qDGCsyzJwohVaoX",
+            "name": "Anne-Marie",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqDE7qDGCsyzJwohVaoX"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 155893,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ofS1jxN7C4Rp4tLZgS5Or"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ofS1jxN7C4Rp4tLZgS5Or",
+    "id": "4ofS1jxN7C4Rp4tLZgS5Or",
+    "is_local": false,
+    "is_playable": true,
+    "name": "CUCKOO",
+    "preview_url": "https://p.scdn.co/mp3-preview/7988e52dba0a11b8253826beb31b7198c3633762?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:4ofS1jxN7C4Rp4tLZgS5Or"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqDE7qDGCsyzJwohVaoX",
+            "id": "1zNqDE7qDGCsyzJwohVaoX",
+            "name": "Anne-Marie",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqDE7qDGCsyzJwohVaoX"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 155893,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ofS1jxN7C4Rp4tLZgS5Or"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ofS1jxN7C4Rp4tLZgS5Or",
+    "id": "4ofS1jxN7C4Rp4tLZgS5Or",
+    "is_local": false,
+    "is_playable": true,
+    "name": "CUCKOO",
+    "preview_url": "https://p.scdn.co/mp3-preview/7988e52dba0a11b8253826beb31b7198c3633762?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:4ofS1jxN7C4Rp4tLZgS5Or"
 }

@@ -36,4 +36,80 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:0mBmHDhwhEiX9kNCLKshAb"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3X2DdnmoANw8Rg8luHyZQb",
+            "id": "3X2DdnmoANw8Rg8luHyZQb",
+            "name": "Romy",
+            "type": "artist",
+            "uri": "spotify:artist:3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+            "id": "4oLeXFyACqeem2VImYeBFe",
+            "name": "Fred again..",
+            "type": "artist",
+            "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 234053,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0mBmHDhwhEiX9kNCLKshAb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0mBmHDhwhEiX9kNCLKshAb",
+    "id": "0mBmHDhwhEiX9kNCLKshAb",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Strong",
+    "preview_url": "https://p.scdn.co/mp3-preview/1224adde54c9e0b8af57c84b1ea964d736e2d88a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:0mBmHDhwhEiX9kNCLKshAb"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3X2DdnmoANw8Rg8luHyZQb",
+            "id": "3X2DdnmoANw8Rg8luHyZQb",
+            "name": "Romy",
+            "type": "artist",
+            "uri": "spotify:artist:3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+            "id": "4oLeXFyACqeem2VImYeBFe",
+            "name": "Fred again..",
+            "type": "artist",
+            "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 234053,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0mBmHDhwhEiX9kNCLKshAb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0mBmHDhwhEiX9kNCLKshAb",
+    "id": "0mBmHDhwhEiX9kNCLKshAb",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Strong",
+    "preview_url": "https://p.scdn.co/mp3-preview/1224adde54c9e0b8af57c84b1ea964d736e2d88a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:0mBmHDhwhEiX9kNCLKshAb"
 }

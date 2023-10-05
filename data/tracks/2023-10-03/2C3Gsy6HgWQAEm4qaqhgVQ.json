@@ -26,4 +26,60 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:2C3Gsy6HgWQAEm4qaqhgVQ"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
+            "id": "2wY79sveU1sp5g7SokKOiI",
+            "name": "Sam Smith",
+            "type": "artist",
+            "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 187764,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2C3Gsy6HgWQAEm4qaqhgVQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2C3Gsy6HgWQAEm4qaqhgVQ",
+    "id": "2C3Gsy6HgWQAEm4qaqhgVQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Man I Am (From Barbie The Album)",
+    "preview_url": "https://p.scdn.co/mp3-preview/d5e46c28ddb0e05d7ef989aee9150f9bd805d33e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2C3Gsy6HgWQAEm4qaqhgVQ"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
+            "id": "2wY79sveU1sp5g7SokKOiI",
+            "name": "Sam Smith",
+            "type": "artist",
+            "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 187764,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2C3Gsy6HgWQAEm4qaqhgVQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2C3Gsy6HgWQAEm4qaqhgVQ",
+    "id": "2C3Gsy6HgWQAEm4qaqhgVQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Man I Am (From Barbie The Album)",
+    "preview_url": "https://p.scdn.co/mp3-preview/d5e46c28ddb0e05d7ef989aee9150f9bd805d33e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2C3Gsy6HgWQAEm4qaqhgVQ"
 }

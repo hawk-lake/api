@@ -26,4 +26,60 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:159GBXufpAbopEhLZXc7aP"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+            "id": "0hDjKSKjl1DC7ovYTDJHe8",
+            "name": "Bruno Major",
+            "type": "artist",
+            "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 194829,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/159GBXufpAbopEhLZXc7aP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/159GBXufpAbopEhLZXc7aP",
+    "id": "159GBXufpAbopEhLZXc7aP",
+    "is_local": false,
+    "is_playable": true,
+    "name": "18",
+    "preview_url": "https://p.scdn.co/mp3-preview/7fad223d62f2752ca1d6372f962a260f05f07f4f?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:159GBXufpAbopEhLZXc7aP"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+            "id": "0hDjKSKjl1DC7ovYTDJHe8",
+            "name": "Bruno Major",
+            "type": "artist",
+            "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 194829,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/159GBXufpAbopEhLZXc7aP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/159GBXufpAbopEhLZXc7aP",
+    "id": "159GBXufpAbopEhLZXc7aP",
+    "is_local": false,
+    "is_playable": true,
+    "name": "18",
+    "preview_url": "https://p.scdn.co/mp3-preview/7fad223d62f2752ca1d6372f962a260f05f07f4f?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:159GBXufpAbopEhLZXc7aP"
 }

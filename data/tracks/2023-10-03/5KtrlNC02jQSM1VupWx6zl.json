@@ -26,4 +26,60 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:5KtrlNC02jQSM1VupWx6zl"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+            },
+            "href": "https://api.spotify.com/v1/artists/0xPoVNPnxIIUS1vrxAYV00",
+            "id": "0xPoVNPnxIIUS1vrxAYV00",
+            "name": "Del Water Gap",
+            "type": "artist",
+            "uri": "spotify:artist:0xPoVNPnxIIUS1vrxAYV00"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 182826,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5KtrlNC02jQSM1VupWx6zl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5KtrlNC02jQSM1VupWx6zl",
+    "id": "5KtrlNC02jQSM1VupWx6zl",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Losing You",
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5KtrlNC02jQSM1VupWx6zl"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+            },
+            "href": "https://api.spotify.com/v1/artists/0xPoVNPnxIIUS1vrxAYV00",
+            "id": "0xPoVNPnxIIUS1vrxAYV00",
+            "name": "Del Water Gap",
+            "type": "artist",
+            "uri": "spotify:artist:0xPoVNPnxIIUS1vrxAYV00"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 182826,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5KtrlNC02jQSM1VupWx6zl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5KtrlNC02jQSM1VupWx6zl",
+    "id": "5KtrlNC02jQSM1VupWx6zl",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Losing You",
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5KtrlNC02jQSM1VupWx6zl"
 }

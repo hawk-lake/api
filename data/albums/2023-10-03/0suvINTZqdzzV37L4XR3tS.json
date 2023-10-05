@@ -252,4 +252,258 @@
     },
     "type": "album",
     "uri": "spotify:album:0suvINTZqdzzV37L4XR3tS"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+            },
+            "href": "https://api.spotify.com/v1/artists/79QUtAVxGAAoiWNlqBz9iy",
+            "id": "79QUtAVxGAAoiWNlqBz9iy",
+            "name": "Leigh-Anne",
+            "type": "artist",
+            "uri": "spotify:artist:79QUtAVxGAAoiWNlqBz9iy"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Under Exclusive Licence to Warner Music UK Limited, \u00a9 2023 MADEINTHE90S LIMITED",
+            "type": "C"
+        },
+        {
+            "text": "Under Exclusive Licence to Warner Music UK Limited, \u2117 2023 MADEINTHE90S LIMITED",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197755057"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0suvINTZqdzzV37L4XR3tS"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0suvINTZqdzzV37L4XR3tS",
+    "id": "0suvINTZqdzzV37L4XR3tS",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e2d8da5a32da9cd5f7937cf8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e2d8da5a32da9cd5f7937cf8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e2d8da5a32da9cd5f7937cf8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Warner Records",
+    "name": "Don't Say Love (R&B Version)",
+    "popularity": 41,
+    "release_date": "2023-08-04",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0suvINTZqdzzV37L4XR3tS/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/79QUtAVxGAAoiWNlqBz9iy",
+                        "id": "79QUtAVxGAAoiWNlqBz9iy",
+                        "name": "Leigh-Anne",
+                        "type": "artist",
+                        "uri": "spotify:artist:79QUtAVxGAAoiWNlqBz9iy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180131,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/01FKgn2t3o8adgrrfkN0HQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/01FKgn2t3o8adgrrfkN0HQ",
+                "id": "01FKgn2t3o8adgrrfkN0HQ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Don't Say Love - R&B Version",
+                "preview_url": "https://p.scdn.co/mp3-preview/18c31eb0fc71c43f22333e74a3f132b23f97a7af?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:01FKgn2t3o8adgrrfkN0HQ"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/79QUtAVxGAAoiWNlqBz9iy",
+                        "id": "79QUtAVxGAAoiWNlqBz9iy",
+                        "name": "Leigh-Anne",
+                        "type": "artist",
+                        "uri": "spotify:artist:79QUtAVxGAAoiWNlqBz9iy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180000,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/52jreaOJhzqOGpWGhLn2gP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/52jreaOJhzqOGpWGhLn2gP",
+                "id": "52jreaOJhzqOGpWGhLn2gP",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Don't Say Love",
+                "preview_url": "https://p.scdn.co/mp3-preview/931bd36903f5611cf014229845c6bcec0ddb7074?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:52jreaOJhzqOGpWGhLn2gP"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:0suvINTZqdzzV37L4XR3tS"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+            },
+            "href": "https://api.spotify.com/v1/artists/79QUtAVxGAAoiWNlqBz9iy",
+            "id": "79QUtAVxGAAoiWNlqBz9iy",
+            "name": "Leigh-Anne",
+            "type": "artist",
+            "uri": "spotify:artist:79QUtAVxGAAoiWNlqBz9iy"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Under Exclusive Licence to Warner Music UK Limited, \u00a9 2023 MADEINTHE90S LIMITED",
+            "type": "C"
+        },
+        {
+            "text": "Under Exclusive Licence to Warner Music UK Limited, \u2117 2023 MADEINTHE90S LIMITED",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197755057"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0suvINTZqdzzV37L4XR3tS"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0suvINTZqdzzV37L4XR3tS",
+    "id": "0suvINTZqdzzV37L4XR3tS",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e2d8da5a32da9cd5f7937cf8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e2d8da5a32da9cd5f7937cf8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e2d8da5a32da9cd5f7937cf8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Warner Records",
+    "name": "Don't Say Love (R&B Version)",
+    "popularity": 41,
+    "release_date": "2023-08-04",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0suvINTZqdzzV37L4XR3tS/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/79QUtAVxGAAoiWNlqBz9iy",
+                        "id": "79QUtAVxGAAoiWNlqBz9iy",
+                        "name": "Leigh-Anne",
+                        "type": "artist",
+                        "uri": "spotify:artist:79QUtAVxGAAoiWNlqBz9iy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180131,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/01FKgn2t3o8adgrrfkN0HQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/01FKgn2t3o8adgrrfkN0HQ",
+                "id": "01FKgn2t3o8adgrrfkN0HQ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Don't Say Love - R&B Version",
+                "preview_url": "https://p.scdn.co/mp3-preview/18c31eb0fc71c43f22333e74a3f132b23f97a7af?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:01FKgn2t3o8adgrrfkN0HQ"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/79QUtAVxGAAoiWNlqBz9iy",
+                        "id": "79QUtAVxGAAoiWNlqBz9iy",
+                        "name": "Leigh-Anne",
+                        "type": "artist",
+                        "uri": "spotify:artist:79QUtAVxGAAoiWNlqBz9iy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180000,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/52jreaOJhzqOGpWGhLn2gP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/52jreaOJhzqOGpWGhLn2gP",
+                "id": "52jreaOJhzqOGpWGhLn2gP",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Don't Say Love",
+                "preview_url": "https://p.scdn.co/mp3-preview/931bd36903f5611cf014229845c6bcec0ddb7074?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:52jreaOJhzqOGpWGhLn2gP"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:0suvINTZqdzzV37L4XR3tS"
 }

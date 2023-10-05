@@ -26,4 +26,60 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:3y5dENwxa6439HXygcdnm6"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+            "id": "5NhgsV7qPWHZqYEMKzbYvo",
+            "name": "Faouzia",
+            "type": "artist",
+            "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 152665,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3y5dENwxa6439HXygcdnm6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3y5dENwxa6439HXygcdnm6",
+    "id": "3y5dENwxa6439HXygcdnm6",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Plastic Therapy",
+    "preview_url": "https://p.scdn.co/mp3-preview/3c68320adb564db472c9d4f40af7594e3d6fdcd0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3y5dENwxa6439HXygcdnm6"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+            "id": "5NhgsV7qPWHZqYEMKzbYvo",
+            "name": "Faouzia",
+            "type": "artist",
+            "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 152665,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3y5dENwxa6439HXygcdnm6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3y5dENwxa6439HXygcdnm6",
+    "id": "3y5dENwxa6439HXygcdnm6",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Plastic Therapy",
+    "preview_url": "https://p.scdn.co/mp3-preview/3c68320adb564db472c9d4f40af7594e3d6fdcd0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3y5dENwxa6439HXygcdnm6"
 }

@@ -36,4 +36,80 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:5yXf2ZVlBdgIGxbSKb6VFW"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+            },
+            "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+            "id": "59oA5WbbQvomJz2BuRG071",
+            "name": "Jungle",
+            "type": "artist",
+            "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
+            },
+            "href": "https://api.spotify.com/v1/artists/0s0nktI1hRDRcexcJGkZ2D",
+            "id": "0s0nktI1hRDRcexcJGkZ2D",
+            "name": "Mood Talk",
+            "type": "artist",
+            "uri": "spotify:artist:0s0nktI1hRDRcexcJGkZ2D"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 226280,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5yXf2ZVlBdgIGxbSKb6VFW",
+    "id": "5yXf2ZVlBdgIGxbSKb6VFW",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Don't Play",
+    "preview_url": "https://p.scdn.co/mp3-preview/c5cce9c4643dbee7f30bc3b91a22a5c1e472a3b5?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:5yXf2ZVlBdgIGxbSKb6VFW"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+            },
+            "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+            "id": "59oA5WbbQvomJz2BuRG071",
+            "name": "Jungle",
+            "type": "artist",
+            "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
+            },
+            "href": "https://api.spotify.com/v1/artists/0s0nktI1hRDRcexcJGkZ2D",
+            "id": "0s0nktI1hRDRcexcJGkZ2D",
+            "name": "Mood Talk",
+            "type": "artist",
+            "uri": "spotify:artist:0s0nktI1hRDRcexcJGkZ2D"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 226280,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5yXf2ZVlBdgIGxbSKb6VFW",
+    "id": "5yXf2ZVlBdgIGxbSKb6VFW",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Don't Play",
+    "preview_url": "https://p.scdn.co/mp3-preview/c5cce9c4643dbee7f30bc3b91a22a5c1e472a3b5?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:5yXf2ZVlBdgIGxbSKb6VFW"
 }

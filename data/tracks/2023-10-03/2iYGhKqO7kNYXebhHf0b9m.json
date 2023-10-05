@@ -26,4 +26,60 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:2iYGhKqO7kNYXebhHf0b9m"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180213,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2iYGhKqO7kNYXebhHf0b9m"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2iYGhKqO7kNYXebhHf0b9m",
+    "id": "2iYGhKqO7kNYXebhHf0b9m",
+    "is_local": false,
+    "is_playable": true,
+    "name": "All Night",
+    "preview_url": "https://p.scdn.co/mp3-preview/8901b14cdaa69af7b67a66cb055cdbd72d706048?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:2iYGhKqO7kNYXebhHf0b9m"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180213,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2iYGhKqO7kNYXebhHf0b9m"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2iYGhKqO7kNYXebhHf0b9m",
+    "id": "2iYGhKqO7kNYXebhHf0b9m",
+    "is_local": false,
+    "is_playable": true,
+    "name": "All Night",
+    "preview_url": "https://p.scdn.co/mp3-preview/8901b14cdaa69af7b67a66cb055cdbd72d706048?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:2iYGhKqO7kNYXebhHf0b9m"
 }

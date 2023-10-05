@@ -26,4 +26,60 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:3uxEuT3kxf5n1NXRdVwk3q"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6auWB5YAlcKaHyrbTH66nd",
+            "id": "6auWB5YAlcKaHyrbTH66nd",
+            "name": "No Rome",
+            "type": "artist",
+            "uri": "spotify:artist:6auWB5YAlcKaHyrbTH66nd"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 160193,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3uxEuT3kxf5n1NXRdVwk3q"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3uxEuT3kxf5n1NXRdVwk3q",
+    "id": "3uxEuT3kxf5n1NXRdVwk3q",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Deep Diving",
+    "preview_url": "https://p.scdn.co/mp3-preview/6e5f9f3dd8ef4aac24a4606316dd762a2386183b?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:3uxEuT3kxf5n1NXRdVwk3q"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6auWB5YAlcKaHyrbTH66nd",
+            "id": "6auWB5YAlcKaHyrbTH66nd",
+            "name": "No Rome",
+            "type": "artist",
+            "uri": "spotify:artist:6auWB5YAlcKaHyrbTH66nd"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 160193,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3uxEuT3kxf5n1NXRdVwk3q"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3uxEuT3kxf5n1NXRdVwk3q",
+    "id": "3uxEuT3kxf5n1NXRdVwk3q",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Deep Diving",
+    "preview_url": "https://p.scdn.co/mp3-preview/6e5f9f3dd8ef4aac24a4606316dd762a2386183b?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:3uxEuT3kxf5n1NXRdVwk3q"
 }

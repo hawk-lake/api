@@ -36,4 +36,80 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:3HFCBkfwYzetDGXVpwJFry"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mqguTgtaoCMNMZD6txCh6",
+            "id": "5mqguTgtaoCMNMZD6txCh6",
+            "name": "Phum Viphurit",
+            "type": "artist",
+            "uri": "spotify:artist:5mqguTgtaoCMNMZD6txCh6"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 251814,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3HFCBkfwYzetDGXVpwJFry",
+    "id": "3HFCBkfwYzetDGXVpwJFry",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Catwalk",
+    "preview_url": "https://p.scdn.co/mp3-preview/89cd265ea4eacedd33c5a14297dc76d8a7eb130e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:3HFCBkfwYzetDGXVpwJFry"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mqguTgtaoCMNMZD6txCh6",
+            "id": "5mqguTgtaoCMNMZD6txCh6",
+            "name": "Phum Viphurit",
+            "type": "artist",
+            "uri": "spotify:artist:5mqguTgtaoCMNMZD6txCh6"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 251814,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3HFCBkfwYzetDGXVpwJFry",
+    "id": "3HFCBkfwYzetDGXVpwJFry",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Catwalk",
+    "preview_url": "https://p.scdn.co/mp3-preview/89cd265ea4eacedd33c5a14297dc76d8a7eb130e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:3HFCBkfwYzetDGXVpwJFry"
 }

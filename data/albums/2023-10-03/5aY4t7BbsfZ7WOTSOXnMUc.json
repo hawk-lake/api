@@ -292,4 +292,298 @@
     },
     "type": "album",
     "uri": "spotify:album:5aY4t7BbsfZ7WOTSOXnMUc"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Cs47vvRsPgEfliBU9KDiB",
+            "id": "0Cs47vvRsPgEfliBU9KDiB",
+            "name": "D.O.D",
+            "type": "artist",
+            "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Q6nIcaBED8qUel8bBx6Cr",
+            "id": "4Q6nIcaBED8qUel8bBx6Cr",
+            "name": "Jax Jones",
+            "type": "artist",
+            "uri": "spotify:artist:4Q6nIcaBED8qUel8bBx6Cr"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Armada Music B.V.",
+            "type": "C"
+        },
+        {
+            "text": "2023 Armada Music B.V.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720996270615"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5aY4t7BbsfZ7WOTSOXnMUc",
+    "id": "5aY4t7BbsfZ7WOTSOXnMUc",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736c1c1401596d2c46a9e96eed",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026c1c1401596d2c46a9e96eed",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516c1c1401596d2c46a9e96eed",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Armada Music",
+    "name": "Need You Now",
+    "popularity": 54,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5aY4t7BbsfZ7WOTSOXnMUc/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Cs47vvRsPgEfliBU9KDiB",
+                        "id": "0Cs47vvRsPgEfliBU9KDiB",
+                        "name": "D.O.D",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4Q6nIcaBED8qUel8bBx6Cr",
+                        "id": "4Q6nIcaBED8qUel8bBx6Cr",
+                        "name": "Jax Jones",
+                        "type": "artist",
+                        "uri": "spotify:artist:4Q6nIcaBED8qUel8bBx6Cr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 160000,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7K9ZxHYSwVJ1BTC044EUNw",
+                "id": "7K9ZxHYSwVJ1BTC044EUNw",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Need You Now",
+                "preview_url": "https://p.scdn.co/mp3-preview/7e265a51cc83fd9588f9cae70147749b8a663c22?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7K9ZxHYSwVJ1BTC044EUNw"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Cs47vvRsPgEfliBU9KDiB",
+                        "id": "0Cs47vvRsPgEfliBU9KDiB",
+                        "name": "D.O.D",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178453,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6se0sPPSR0rWGbTyp3rLyL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6se0sPPSR0rWGbTyp3rLyL",
+                "id": "6se0sPPSR0rWGbTyp3rLyL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So Much In Love",
+                "preview_url": "https://p.scdn.co/mp3-preview/8c61e43bd635694b68341ae751029ed5578a872a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:6se0sPPSR0rWGbTyp3rLyL"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:5aY4t7BbsfZ7WOTSOXnMUc"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Cs47vvRsPgEfliBU9KDiB",
+            "id": "0Cs47vvRsPgEfliBU9KDiB",
+            "name": "D.O.D",
+            "type": "artist",
+            "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Q6nIcaBED8qUel8bBx6Cr",
+            "id": "4Q6nIcaBED8qUel8bBx6Cr",
+            "name": "Jax Jones",
+            "type": "artist",
+            "uri": "spotify:artist:4Q6nIcaBED8qUel8bBx6Cr"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Armada Music B.V.",
+            "type": "C"
+        },
+        {
+            "text": "2023 Armada Music B.V.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720996270615"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5aY4t7BbsfZ7WOTSOXnMUc",
+    "id": "5aY4t7BbsfZ7WOTSOXnMUc",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736c1c1401596d2c46a9e96eed",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026c1c1401596d2c46a9e96eed",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516c1c1401596d2c46a9e96eed",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Armada Music",
+    "name": "Need You Now",
+    "popularity": 54,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5aY4t7BbsfZ7WOTSOXnMUc/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Cs47vvRsPgEfliBU9KDiB",
+                        "id": "0Cs47vvRsPgEfliBU9KDiB",
+                        "name": "D.O.D",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4Q6nIcaBED8qUel8bBx6Cr",
+                        "id": "4Q6nIcaBED8qUel8bBx6Cr",
+                        "name": "Jax Jones",
+                        "type": "artist",
+                        "uri": "spotify:artist:4Q6nIcaBED8qUel8bBx6Cr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 160000,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7K9ZxHYSwVJ1BTC044EUNw",
+                "id": "7K9ZxHYSwVJ1BTC044EUNw",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Need You Now",
+                "preview_url": "https://p.scdn.co/mp3-preview/7e265a51cc83fd9588f9cae70147749b8a663c22?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7K9ZxHYSwVJ1BTC044EUNw"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Cs47vvRsPgEfliBU9KDiB",
+                        "id": "0Cs47vvRsPgEfliBU9KDiB",
+                        "name": "D.O.D",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178453,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6se0sPPSR0rWGbTyp3rLyL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6se0sPPSR0rWGbTyp3rLyL",
+                "id": "6se0sPPSR0rWGbTyp3rLyL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So Much In Love",
+                "preview_url": "https://p.scdn.co/mp3-preview/8c61e43bd635694b68341ae751029ed5578a872a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:6se0sPPSR0rWGbTyp3rLyL"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:5aY4t7BbsfZ7WOTSOXnMUc"
 }
