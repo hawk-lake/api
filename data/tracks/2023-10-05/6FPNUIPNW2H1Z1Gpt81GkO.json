@@ -1,0 +1,75 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+            },
+            "href": "https://api.spotify.com/v1/artists/28ot3wh4oNmoFOdVajibBl",
+            "id": "28ot3wh4oNmoFOdVajibBl",
+            "name": "NMIXX",
+            "type": "artist",
+            "uri": "spotify:artist:28ot3wh4oNmoFOdVajibBl"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 160146,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/6FPNUIPNW2H1Z1Gpt81GkO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6FPNUIPNW2H1Z1Gpt81GkO",
+    "id": "6FPNUIPNW2H1Z1Gpt81GkO",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0nYtg6MqCDmolLI5vsSAy1",
+        "id": "0nYtg6MqCDmolLI5vsSAy1",
+        "type": "track",
+        "uri": "spotify:track:0nYtg6MqCDmolLI5vsSAy1"
+    },
+    "name": "HOME",
+    "preview_url": "https://p.scdn.co/mp3-preview/aa266ce7c84585b62e5b32ade0536d1496828067?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:6FPNUIPNW2H1Z1Gpt81GkO"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+            },
+            "href": "https://api.spotify.com/v1/artists/28ot3wh4oNmoFOdVajibBl",
+            "id": "28ot3wh4oNmoFOdVajibBl",
+            "name": "NMIXX",
+            "type": "artist",
+            "uri": "spotify:artist:28ot3wh4oNmoFOdVajibBl"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 160146,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/6FPNUIPNW2H1Z1Gpt81GkO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6FPNUIPNW2H1Z1Gpt81GkO",
+    "id": "6FPNUIPNW2H1Z1Gpt81GkO",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0nYtg6MqCDmolLI5vsSAy1",
+        "id": "0nYtg6MqCDmolLI5vsSAy1",
+        "type": "track",
+        "uri": "spotify:track:0nYtg6MqCDmolLI5vsSAy1"
+    },
+    "name": "HOME",
+    "preview_url": "https://p.scdn.co/mp3-preview/aa266ce7c84585b62e5b32ade0536d1496828067?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:6FPNUIPNW2H1Z1Gpt81GkO"
+}

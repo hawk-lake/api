@@ -1,0 +1,85 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+            },
+            "href": "https://api.spotify.com/v1/artists/3iri9nBFs9e4wN7PLIetAw",
+            "id": "3iri9nBFs9e4wN7PLIetAw",
+            "name": "gnash",
+            "type": "artist",
+            "uri": "spotify:artist:3iri9nBFs9e4wN7PLIetAw"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 178966,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3PK7o6gJrL2szmwGziGC4e"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3PK7o6gJrL2szmwGziGC4e",
+    "id": "3PK7o6gJrL2szmwGziGC4e",
+    "is_local": false,
+    "is_playable": true,
+    "name": "wet cement",
+    "preview_url": "https://p.scdn.co/mp3-preview/6b2c3caee4108ec2a10ba84643565f6f3f16a78c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3PK7o6gJrL2szmwGziGC4e"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+            },
+            "href": "https://api.spotify.com/v1/artists/3iri9nBFs9e4wN7PLIetAw",
+            "id": "3iri9nBFs9e4wN7PLIetAw",
+            "name": "gnash",
+            "type": "artist",
+            "uri": "spotify:artist:3iri9nBFs9e4wN7PLIetAw"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 178966,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3PK7o6gJrL2szmwGziGC4e"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3PK7o6gJrL2szmwGziGC4e",
+    "id": "3PK7o6gJrL2szmwGziGC4e",
+    "is_local": false,
+    "is_playable": true,
+    "name": "wet cement",
+    "preview_url": "https://p.scdn.co/mp3-preview/6b2c3caee4108ec2a10ba84643565f6f3f16a78c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3PK7o6gJrL2szmwGziGC4e"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+            },
+            "href": "https://api.spotify.com/v1/artists/3iri9nBFs9e4wN7PLIetAw",
+            "id": "3iri9nBFs9e4wN7PLIetAw",
+            "name": "gnash",
+            "type": "artist",
+            "uri": "spotify:artist:3iri9nBFs9e4wN7PLIetAw"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 178966,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3PK7o6gJrL2szmwGziGC4e"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3PK7o6gJrL2szmwGziGC4e",
+    "id": "3PK7o6gJrL2szmwGziGC4e",
+    "is_local": false,
+    "is_playable": true,
+    "name": "wet cement",
+    "preview_url": "https://p.scdn.co/mp3-preview/6b2c3caee4108ec2a10ba84643565f6f3f16a78c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3PK7o6gJrL2szmwGziGC4e"
+}

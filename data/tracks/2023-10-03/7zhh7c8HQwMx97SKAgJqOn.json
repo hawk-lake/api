@@ -1,0 +1,85 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 219800,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7zhh7c8HQwMx97SKAgJqOn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7zhh7c8HQwMx97SKAgJqOn",
+    "id": "7zhh7c8HQwMx97SKAgJqOn",
+    "is_local": false,
+    "is_playable": true,
+    "name": "So What",
+    "preview_url": "https://p.scdn.co/mp3-preview/89b08c93722efb3bea7315c56595e92f774c1374?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:7zhh7c8HQwMx97SKAgJqOn"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 219800,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7zhh7c8HQwMx97SKAgJqOn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7zhh7c8HQwMx97SKAgJqOn",
+    "id": "7zhh7c8HQwMx97SKAgJqOn",
+    "is_local": false,
+    "is_playable": true,
+    "name": "So What",
+    "preview_url": "https://p.scdn.co/mp3-preview/89b08c93722efb3bea7315c56595e92f774c1374?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:7zhh7c8HQwMx97SKAgJqOn"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 219800,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7zhh7c8HQwMx97SKAgJqOn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7zhh7c8HQwMx97SKAgJqOn",
+    "id": "7zhh7c8HQwMx97SKAgJqOn",
+    "is_local": false,
+    "is_playable": true,
+    "name": "So What",
+    "preview_url": "https://p.scdn.co/mp3-preview/89b08c93722efb3bea7315c56595e92f774c1374?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:7zhh7c8HQwMx97SKAgJqOn"
+}

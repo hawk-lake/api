@@ -1,0 +1,57 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JsHnjpbhX4SnySpvpa9DK",
+            "id": "3JsHnjpbhX4SnySpvpa9DK",
+            "name": "V",
+            "type": "artist",
+            "uri": "spotify:artist:3JsHnjpbhX4SnySpvpa9DK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 149853,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2UU11hvjN1JIn4iihEodNT",
+    "id": "2UU11hvjN1JIn4iihEodNT",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Blue",
+    "preview_url": "https://p.scdn.co/mp3-preview/d7bbc2d12d66d665fb8cbb9097a529a4d19f7bfc?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2UU11hvjN1JIn4iihEodNT"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JsHnjpbhX4SnySpvpa9DK",
+            "id": "3JsHnjpbhX4SnySpvpa9DK",
+            "name": "V",
+            "type": "artist",
+            "uri": "spotify:artist:3JsHnjpbhX4SnySpvpa9DK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 149853,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2UU11hvjN1JIn4iihEodNT",
+    "id": "2UU11hvjN1JIn4iihEodNT",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Blue",
+    "preview_url": "https://p.scdn.co/mp3-preview/d7bbc2d12d66d665fb8cbb9097a529a4d19f7bfc?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2UU11hvjN1JIn4iihEodNT"
+}

@@ -1,0 +1,85 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 107266,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/44IXD2J5yyr7PpOZzz2cmQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/44IXD2J5yyr7PpOZzz2cmQ",
+    "id": "44IXD2J5yyr7PpOZzz2cmQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Fear and Friday's (Poem)",
+    "preview_url": "https://p.scdn.co/mp3-preview/c1f004eeb25b0fa8c2a7fc2d24a6de7bb788a1c8?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:44IXD2J5yyr7PpOZzz2cmQ"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 107266,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/44IXD2J5yyr7PpOZzz2cmQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/44IXD2J5yyr7PpOZzz2cmQ",
+    "id": "44IXD2J5yyr7PpOZzz2cmQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Fear and Friday's (Poem)",
+    "preview_url": "https://p.scdn.co/mp3-preview/c1f004eeb25b0fa8c2a7fc2d24a6de7bb788a1c8?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:44IXD2J5yyr7PpOZzz2cmQ"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 107266,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/44IXD2J5yyr7PpOZzz2cmQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/44IXD2J5yyr7PpOZzz2cmQ",
+    "id": "44IXD2J5yyr7PpOZzz2cmQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Fear and Friday's (Poem)",
+    "preview_url": "https://p.scdn.co/mp3-preview/c1f004eeb25b0fa8c2a7fc2d24a6de7bb788a1c8?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:44IXD2J5yyr7PpOZzz2cmQ"
+}

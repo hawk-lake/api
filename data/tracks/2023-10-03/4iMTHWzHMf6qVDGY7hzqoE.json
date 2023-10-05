@@ -1,0 +1,85 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hEgcLvKaP0WVJbmmNpkVt",
+            "id": "2hEgcLvKaP0WVJbmmNpkVt",
+            "name": "Andr",
+            "type": "artist",
+            "uri": "spotify:artist:2hEgcLvKaP0WVJbmmNpkVt"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 195645,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4iMTHWzHMf6qVDGY7hzqoE",
+    "id": "4iMTHWzHMf6qVDGY7hzqoE",
+    "is_local": false,
+    "is_playable": true,
+    "name": "i don't lose sleep anymore",
+    "preview_url": "https://p.scdn.co/mp3-preview/d40e0fdb19018ad1647c1392519ed37a3059c69c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4iMTHWzHMf6qVDGY7hzqoE"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hEgcLvKaP0WVJbmmNpkVt",
+            "id": "2hEgcLvKaP0WVJbmmNpkVt",
+            "name": "Andr",
+            "type": "artist",
+            "uri": "spotify:artist:2hEgcLvKaP0WVJbmmNpkVt"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 195645,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4iMTHWzHMf6qVDGY7hzqoE",
+    "id": "4iMTHWzHMf6qVDGY7hzqoE",
+    "is_local": false,
+    "is_playable": true,
+    "name": "i don't lose sleep anymore",
+    "preview_url": "https://p.scdn.co/mp3-preview/d40e0fdb19018ad1647c1392519ed37a3059c69c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4iMTHWzHMf6qVDGY7hzqoE"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hEgcLvKaP0WVJbmmNpkVt",
+            "id": "2hEgcLvKaP0WVJbmmNpkVt",
+            "name": "Andr",
+            "type": "artist",
+            "uri": "spotify:artist:2hEgcLvKaP0WVJbmmNpkVt"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 195645,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4iMTHWzHMf6qVDGY7hzqoE",
+    "id": "4iMTHWzHMf6qVDGY7hzqoE",
+    "is_local": false,
+    "is_playable": true,
+    "name": "i don't lose sleep anymore",
+    "preview_url": "https://p.scdn.co/mp3-preview/d40e0fdb19018ad1647c1392519ed37a3059c69c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4iMTHWzHMf6qVDGY7hzqoE"
+}

@@ -1,0 +1,57 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+            },
+            "href": "https://api.spotify.com/v1/artists/4SpbR6yFEvexJuaBpgAU5p",
+            "id": "4SpbR6yFEvexJuaBpgAU5p",
+            "name": "LE SSERAFIM",
+            "type": "artist",
+            "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 166491,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/21ApmVGIzIAIDSBdHu6SVt",
+    "id": "21ApmVGIzIAIDSBdHu6SVt",
+    "is_local": false,
+    "is_playable": true,
+    "name": "No Celestial",
+    "preview_url": "https://p.scdn.co/mp3-preview/d9978fd5b919a06b77cb3602c4a3894539259ed0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:21ApmVGIzIAIDSBdHu6SVt"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+            },
+            "href": "https://api.spotify.com/v1/artists/4SpbR6yFEvexJuaBpgAU5p",
+            "id": "4SpbR6yFEvexJuaBpgAU5p",
+            "name": "LE SSERAFIM",
+            "type": "artist",
+            "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 166491,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/21ApmVGIzIAIDSBdHu6SVt",
+    "id": "21ApmVGIzIAIDSBdHu6SVt",
+    "is_local": false,
+    "is_playable": true,
+    "name": "No Celestial",
+    "preview_url": "https://p.scdn.co/mp3-preview/d9978fd5b919a06b77cb3602c4a3894539259ed0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:21ApmVGIzIAIDSBdHu6SVt"
+}

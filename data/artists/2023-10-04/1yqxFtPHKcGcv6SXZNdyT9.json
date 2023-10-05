@@ -1,0 +1,36 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+    },
+    "followers": {
+        "href": null,
+        "total": 280619
+    },
+    "genres": [
+        "house",
+        "pop dance"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1yqxFtPHKcGcv6SXZNdyT9",
+    "id": "1yqxFtPHKcGcv6SXZNdyT9",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb54b6c74fe769829f33e3077d",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517454b6c74fe769829f33e3077d",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17854b6c74fe769829f33e3077d",
+            "width": 160
+        }
+    ],
+    "name": "MK",
+    "popularity": 68,
+    "type": "artist",
+    "uri": "spotify:artist:1yqxFtPHKcGcv6SXZNdyT9"
+}

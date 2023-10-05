@@ -1,0 +1,77 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+            },
+            "href": "https://api.spotify.com/v1/artists/779v40cWIJUUoIDtC1IGaF",
+            "id": "779v40cWIJUUoIDtC1IGaF",
+            "name": "MIYEON",
+            "type": "artist",
+            "uri": "spotify:artist:779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+            },
+            "href": "https://api.spotify.com/v1/artists/22aCD8IrQZjcPgZw728QT6",
+            "id": "22aCD8IrQZjcPgZw728QT6",
+            "name": "YUQI",
+            "type": "artist",
+            "uri": "spotify:artist:22aCD8IrQZjcPgZw728QT6"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 176493,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ckjVyV85YJob7nFZlEHIo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1ckjVyV85YJob7nFZlEHIo",
+    "id": "1ckjVyV85YJob7nFZlEHIo",
+    "is_local": false,
+    "is_playable": true,
+    "name": "How To Twerk (Prod. Czaer)",
+    "preview_url": "https://p.scdn.co/mp3-preview/068c6ee7d24b8017041f14cf039810af1fd595d4?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:1ckjVyV85YJob7nFZlEHIo"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+            },
+            "href": "https://api.spotify.com/v1/artists/779v40cWIJUUoIDtC1IGaF",
+            "id": "779v40cWIJUUoIDtC1IGaF",
+            "name": "MIYEON",
+            "type": "artist",
+            "uri": "spotify:artist:779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+            },
+            "href": "https://api.spotify.com/v1/artists/22aCD8IrQZjcPgZw728QT6",
+            "id": "22aCD8IrQZjcPgZw728QT6",
+            "name": "YUQI",
+            "type": "artist",
+            "uri": "spotify:artist:22aCD8IrQZjcPgZw728QT6"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 176493,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ckjVyV85YJob7nFZlEHIo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1ckjVyV85YJob7nFZlEHIo",
+    "id": "1ckjVyV85YJob7nFZlEHIo",
+    "is_local": false,
+    "is_playable": true,
+    "name": "How To Twerk (Prod. Czaer)",
+    "preview_url": "https://p.scdn.co/mp3-preview/068c6ee7d24b8017041f14cf039810af1fd595d4?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:1ckjVyV85YJob7nFZlEHIo"
+}

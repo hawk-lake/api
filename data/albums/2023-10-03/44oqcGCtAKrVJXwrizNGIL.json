@@ -1,0 +1,1089 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+            "id": "0IwZVmMMGE7nNXS7vN9SIo",
+            "name": "MISAMO",
+            "type": "artist",
+            "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 JYP Entertainment",
+            "type": "C"
+        },
+        {
+            "text": "2023 JYP Entertainment",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197717185"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/44oqcGCtAKrVJXwrizNGIL"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/44oqcGCtAKrVJXwrizNGIL",
+    "id": "44oqcGCtAKrVJXwrizNGIL",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab91462d3a423a9bba231e10",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab91462d3a423a9bba231e10",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ab91462d3a423a9bba231e10",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "JYP Entertainment",
+    "name": "Masterpiece",
+    "popularity": 29,
+    "release_date": "2023-07-26",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/44oqcGCtAKrVJXwrizNGIL/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 185600,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3Rjvc3KfE0IviQCmQ61zgA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3Rjvc3KfE0IviQCmQ61zgA",
+                "id": "3Rjvc3KfE0IviQCmQ61zgA",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Do not touch",
+                "preview_url": "https://p.scdn.co/mp3-preview/25a57d28fe038c93cab30fb340ea6ee4d875b675?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3Rjvc3KfE0IviQCmQ61zgA"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0Xu00cuQBWn7FKhvK3DWlf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0Xu00cuQBWn7FKhvK3DWlf",
+                "id": "0Xu00cuQBWn7FKhvK3DWlf",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Behind The Curtain",
+                "preview_url": "https://p.scdn.co/mp3-preview/b92390d05e29f56291c4fbe5088151c933531dce?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0Xu00cuQBWn7FKhvK3DWlf"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182321,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7eIchUQyN5xAhDm8zqEakB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7eIchUQyN5xAhDm8zqEakB",
+                "id": "7eIchUQyN5xAhDm8zqEakB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Marshmallow",
+                "preview_url": "https://p.scdn.co/mp3-preview/7013c916ca1f4774f48f74969a1d5290826605ed?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:7eIchUQyN5xAhDm8zqEakB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197080,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5btq1AKgTSpdq6069DinBp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5btq1AKgTSpdq6069DinBp",
+                "id": "5btq1AKgTSpdq6069DinBp",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Funny Valentine",
+                "preview_url": "https://p.scdn.co/mp3-preview/84c03a91b28a531e62e6fc9bd5319926d2d6dfe8?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:5btq1AKgTSpdq6069DinBp"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 140413,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/38AfAGN9N2nyd6Hz6NENYg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/38AfAGN9N2nyd6Hz6NENYg",
+                "id": "38AfAGN9N2nyd6Hz6NENYg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "It's not easy for you",
+                "preview_url": "https://p.scdn.co/mp3-preview/cbe0cf1024b39b4a8914c483bb7b468beba88d49?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:38AfAGN9N2nyd6Hz6NENYg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197120,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SruNidNYJm07NRcUWCIXw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SruNidNYJm07NRcUWCIXw",
+                "id": "5SruNidNYJm07NRcUWCIXw",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Rewind you",
+                "preview_url": "https://p.scdn.co/mp3-preview/d892e72930946f857819a5b65949838005f130bf?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:5SruNidNYJm07NRcUWCIXw"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 268573,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7KHQFjwISv6DgR7wGpRNbL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7KHQFjwISv6DgR7wGpRNbL",
+                "id": "7KHQFjwISv6DgR7wGpRNbL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bouquet",
+                "preview_url": "https://p.scdn.co/mp3-preview/9d8085af6084f6adf4d2753a30b38fe803f59d78?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7KHQFjwISv6DgR7wGpRNbL"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 7
+    },
+    "type": "album",
+    "uri": "spotify:album:44oqcGCtAKrVJXwrizNGIL"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+            "id": "0IwZVmMMGE7nNXS7vN9SIo",
+            "name": "MISAMO",
+            "type": "artist",
+            "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 JYP Entertainment",
+            "type": "C"
+        },
+        {
+            "text": "2023 JYP Entertainment",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197717185"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/44oqcGCtAKrVJXwrizNGIL"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/44oqcGCtAKrVJXwrizNGIL",
+    "id": "44oqcGCtAKrVJXwrizNGIL",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab91462d3a423a9bba231e10",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab91462d3a423a9bba231e10",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ab91462d3a423a9bba231e10",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "JYP Entertainment",
+    "name": "Masterpiece",
+    "popularity": 29,
+    "release_date": "2023-07-26",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/44oqcGCtAKrVJXwrizNGIL/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 185600,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3Rjvc3KfE0IviQCmQ61zgA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3Rjvc3KfE0IviQCmQ61zgA",
+                "id": "3Rjvc3KfE0IviQCmQ61zgA",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Do not touch",
+                "preview_url": "https://p.scdn.co/mp3-preview/25a57d28fe038c93cab30fb340ea6ee4d875b675?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3Rjvc3KfE0IviQCmQ61zgA"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0Xu00cuQBWn7FKhvK3DWlf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0Xu00cuQBWn7FKhvK3DWlf",
+                "id": "0Xu00cuQBWn7FKhvK3DWlf",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Behind The Curtain",
+                "preview_url": "https://p.scdn.co/mp3-preview/b92390d05e29f56291c4fbe5088151c933531dce?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0Xu00cuQBWn7FKhvK3DWlf"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182321,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7eIchUQyN5xAhDm8zqEakB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7eIchUQyN5xAhDm8zqEakB",
+                "id": "7eIchUQyN5xAhDm8zqEakB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Marshmallow",
+                "preview_url": "https://p.scdn.co/mp3-preview/7013c916ca1f4774f48f74969a1d5290826605ed?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:7eIchUQyN5xAhDm8zqEakB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197080,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5btq1AKgTSpdq6069DinBp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5btq1AKgTSpdq6069DinBp",
+                "id": "5btq1AKgTSpdq6069DinBp",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Funny Valentine",
+                "preview_url": "https://p.scdn.co/mp3-preview/84c03a91b28a531e62e6fc9bd5319926d2d6dfe8?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:5btq1AKgTSpdq6069DinBp"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 140413,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/38AfAGN9N2nyd6Hz6NENYg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/38AfAGN9N2nyd6Hz6NENYg",
+                "id": "38AfAGN9N2nyd6Hz6NENYg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "It's not easy for you",
+                "preview_url": "https://p.scdn.co/mp3-preview/cbe0cf1024b39b4a8914c483bb7b468beba88d49?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:38AfAGN9N2nyd6Hz6NENYg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197120,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SruNidNYJm07NRcUWCIXw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SruNidNYJm07NRcUWCIXw",
+                "id": "5SruNidNYJm07NRcUWCIXw",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Rewind you",
+                "preview_url": "https://p.scdn.co/mp3-preview/d892e72930946f857819a5b65949838005f130bf?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:5SruNidNYJm07NRcUWCIXw"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 268573,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7KHQFjwISv6DgR7wGpRNbL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7KHQFjwISv6DgR7wGpRNbL",
+                "id": "7KHQFjwISv6DgR7wGpRNbL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bouquet",
+                "preview_url": "https://p.scdn.co/mp3-preview/9d8085af6084f6adf4d2753a30b38fe803f59d78?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7KHQFjwISv6DgR7wGpRNbL"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 7
+    },
+    "type": "album",
+    "uri": "spotify:album:44oqcGCtAKrVJXwrizNGIL"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+            "id": "0IwZVmMMGE7nNXS7vN9SIo",
+            "name": "MISAMO",
+            "type": "artist",
+            "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 JYP Entertainment",
+            "type": "C"
+        },
+        {
+            "text": "2023 JYP Entertainment",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197717185"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/44oqcGCtAKrVJXwrizNGIL"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/44oqcGCtAKrVJXwrizNGIL",
+    "id": "44oqcGCtAKrVJXwrizNGIL",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab91462d3a423a9bba231e10",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab91462d3a423a9bba231e10",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ab91462d3a423a9bba231e10",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "JYP Entertainment",
+    "name": "Masterpiece",
+    "popularity": 29,
+    "release_date": "2023-07-26",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/44oqcGCtAKrVJXwrizNGIL/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 185600,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3Rjvc3KfE0IviQCmQ61zgA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3Rjvc3KfE0IviQCmQ61zgA",
+                "id": "3Rjvc3KfE0IviQCmQ61zgA",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Do not touch",
+                "preview_url": "https://p.scdn.co/mp3-preview/25a57d28fe038c93cab30fb340ea6ee4d875b675?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3Rjvc3KfE0IviQCmQ61zgA"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0Xu00cuQBWn7FKhvK3DWlf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0Xu00cuQBWn7FKhvK3DWlf",
+                "id": "0Xu00cuQBWn7FKhvK3DWlf",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Behind The Curtain",
+                "preview_url": "https://p.scdn.co/mp3-preview/b92390d05e29f56291c4fbe5088151c933531dce?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0Xu00cuQBWn7FKhvK3DWlf"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182321,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7eIchUQyN5xAhDm8zqEakB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7eIchUQyN5xAhDm8zqEakB",
+                "id": "7eIchUQyN5xAhDm8zqEakB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Marshmallow",
+                "preview_url": "https://p.scdn.co/mp3-preview/7013c916ca1f4774f48f74969a1d5290826605ed?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:7eIchUQyN5xAhDm8zqEakB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197080,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5btq1AKgTSpdq6069DinBp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5btq1AKgTSpdq6069DinBp",
+                "id": "5btq1AKgTSpdq6069DinBp",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Funny Valentine",
+                "preview_url": "https://p.scdn.co/mp3-preview/84c03a91b28a531e62e6fc9bd5319926d2d6dfe8?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:5btq1AKgTSpdq6069DinBp"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 140413,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/38AfAGN9N2nyd6Hz6NENYg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/38AfAGN9N2nyd6Hz6NENYg",
+                "id": "38AfAGN9N2nyd6Hz6NENYg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "It's not easy for you",
+                "preview_url": "https://p.scdn.co/mp3-preview/cbe0cf1024b39b4a8914c483bb7b468beba88d49?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:38AfAGN9N2nyd6Hz6NENYg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197120,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SruNidNYJm07NRcUWCIXw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SruNidNYJm07NRcUWCIXw",
+                "id": "5SruNidNYJm07NRcUWCIXw",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Rewind you",
+                "preview_url": "https://p.scdn.co/mp3-preview/d892e72930946f857819a5b65949838005f130bf?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:5SruNidNYJm07NRcUWCIXw"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 268573,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7KHQFjwISv6DgR7wGpRNbL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7KHQFjwISv6DgR7wGpRNbL",
+                "id": "7KHQFjwISv6DgR7wGpRNbL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bouquet",
+                "preview_url": "https://p.scdn.co/mp3-preview/9d8085af6084f6adf4d2753a30b38fe803f59d78?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7KHQFjwISv6DgR7wGpRNbL"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 7
+    },
+    "type": "album",
+    "uri": "spotify:album:44oqcGCtAKrVJXwrizNGIL"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+            "id": "0IwZVmMMGE7nNXS7vN9SIo",
+            "name": "MISAMO",
+            "type": "artist",
+            "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 JYP Entertainment",
+            "type": "C"
+        },
+        {
+            "text": "2023 JYP Entertainment",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197717185"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/44oqcGCtAKrVJXwrizNGIL"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/44oqcGCtAKrVJXwrizNGIL",
+    "id": "44oqcGCtAKrVJXwrizNGIL",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab91462d3a423a9bba231e10",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab91462d3a423a9bba231e10",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ab91462d3a423a9bba231e10",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "JYP Entertainment",
+    "name": "Masterpiece",
+    "popularity": 29,
+    "release_date": "2023-07-26",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/44oqcGCtAKrVJXwrizNGIL/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 185600,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3Rjvc3KfE0IviQCmQ61zgA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3Rjvc3KfE0IviQCmQ61zgA",
+                "id": "3Rjvc3KfE0IviQCmQ61zgA",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Do not touch",
+                "preview_url": "https://p.scdn.co/mp3-preview/25a57d28fe038c93cab30fb340ea6ee4d875b675?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3Rjvc3KfE0IviQCmQ61zgA"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0Xu00cuQBWn7FKhvK3DWlf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0Xu00cuQBWn7FKhvK3DWlf",
+                "id": "0Xu00cuQBWn7FKhvK3DWlf",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Behind The Curtain",
+                "preview_url": "https://p.scdn.co/mp3-preview/b92390d05e29f56291c4fbe5088151c933531dce?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0Xu00cuQBWn7FKhvK3DWlf"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182321,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7eIchUQyN5xAhDm8zqEakB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7eIchUQyN5xAhDm8zqEakB",
+                "id": "7eIchUQyN5xAhDm8zqEakB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Marshmallow",
+                "preview_url": "https://p.scdn.co/mp3-preview/7013c916ca1f4774f48f74969a1d5290826605ed?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:7eIchUQyN5xAhDm8zqEakB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197080,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5btq1AKgTSpdq6069DinBp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5btq1AKgTSpdq6069DinBp",
+                "id": "5btq1AKgTSpdq6069DinBp",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Funny Valentine",
+                "preview_url": "https://p.scdn.co/mp3-preview/84c03a91b28a531e62e6fc9bd5319926d2d6dfe8?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:5btq1AKgTSpdq6069DinBp"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 140413,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/38AfAGN9N2nyd6Hz6NENYg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/38AfAGN9N2nyd6Hz6NENYg",
+                "id": "38AfAGN9N2nyd6Hz6NENYg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "It's not easy for you",
+                "preview_url": "https://p.scdn.co/mp3-preview/cbe0cf1024b39b4a8914c483bb7b468beba88d49?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:38AfAGN9N2nyd6Hz6NENYg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197120,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SruNidNYJm07NRcUWCIXw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SruNidNYJm07NRcUWCIXw",
+                "id": "5SruNidNYJm07NRcUWCIXw",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Rewind you",
+                "preview_url": "https://p.scdn.co/mp3-preview/d892e72930946f857819a5b65949838005f130bf?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:5SruNidNYJm07NRcUWCIXw"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+                        "id": "0IwZVmMMGE7nNXS7vN9SIo",
+                        "name": "MISAMO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 268573,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7KHQFjwISv6DgR7wGpRNbL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7KHQFjwISv6DgR7wGpRNbL",
+                "id": "7KHQFjwISv6DgR7wGpRNbL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bouquet",
+                "preview_url": "https://p.scdn.co/mp3-preview/9d8085af6084f6adf4d2753a30b38fe803f59d78?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7KHQFjwISv6DgR7wGpRNbL"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 7
+    },
+    "type": "album",
+    "uri": "spotify:album:44oqcGCtAKrVJXwrizNGIL"
+}

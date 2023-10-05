@@ -1,0 +1,537 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+            "id": "0NGAZxHanS9e0iNHpR8f2W",
+            "name": "Alok",
+            "type": "artist",
+            "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+            },
+            "href": "https://api.spotify.com/v1/artists/311uEW9rt5g2NmzjGEKS2E",
+            "id": "311uEW9rt5g2NmzjGEKS2E",
+            "name": "Mae Stephens",
+            "type": "artist",
+            "uri": "spotify:artist:311uEW9rt5g2NmzjGEKS2E"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(P) 2023 Alok Music/B1 Recordings, a Sony Music Entertainment company.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "196871417242"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6YFH6hee6fTJjlRddtl8gN",
+    "id": "6YFH6hee6fTJjlRddtl8gN",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273119e86ab31abf9323008dc1c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02119e86ab31abf9323008dc1c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851119e86ab31abf9323008dc1c",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Columbia/B1 Recordings",
+    "name": "Jungle",
+    "popularity": 68,
+    "release_date": "2023-09-22",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6YFH6hee6fTJjlRddtl8gN/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+                        "id": "0NGAZxHanS9e0iNHpR8f2W",
+                        "name": "Alok",
+                        "type": "artist",
+                        "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+                        "id": "69GGBxA162lTqCwzJG5jLp",
+                        "name": "The Chainsmokers",
+                        "type": "artist",
+                        "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/311uEW9rt5g2NmzjGEKS2E",
+                        "id": "311uEW9rt5g2NmzjGEKS2E",
+                        "name": "Mae Stephens",
+                        "type": "artist",
+                        "uri": "spotify:artist:311uEW9rt5g2NmzjGEKS2E"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 175500,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0OvO2X2Q3i98dc5RcgEN3x",
+                "id": "0OvO2X2Q3i98dc5RcgEN3x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Jungle",
+                "preview_url": "https://p.scdn.co/mp3-preview/8129813342e4d3addbf96ebe5440658603107175?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0OvO2X2Q3i98dc5RcgEN3x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6YFH6hee6fTJjlRddtl8gN"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+            "id": "0NGAZxHanS9e0iNHpR8f2W",
+            "name": "Alok",
+            "type": "artist",
+            "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+            },
+            "href": "https://api.spotify.com/v1/artists/311uEW9rt5g2NmzjGEKS2E",
+            "id": "311uEW9rt5g2NmzjGEKS2E",
+            "name": "Mae Stephens",
+            "type": "artist",
+            "uri": "spotify:artist:311uEW9rt5g2NmzjGEKS2E"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(P) 2023 Alok Music/B1 Recordings, a Sony Music Entertainment company.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "196871417242"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6YFH6hee6fTJjlRddtl8gN",
+    "id": "6YFH6hee6fTJjlRddtl8gN",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273119e86ab31abf9323008dc1c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02119e86ab31abf9323008dc1c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851119e86ab31abf9323008dc1c",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Columbia/B1 Recordings",
+    "name": "Jungle",
+    "popularity": 69,
+    "release_date": "2023-09-22",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6YFH6hee6fTJjlRddtl8gN/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+                        "id": "0NGAZxHanS9e0iNHpR8f2W",
+                        "name": "Alok",
+                        "type": "artist",
+                        "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+                        "id": "69GGBxA162lTqCwzJG5jLp",
+                        "name": "The Chainsmokers",
+                        "type": "artist",
+                        "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/311uEW9rt5g2NmzjGEKS2E",
+                        "id": "311uEW9rt5g2NmzjGEKS2E",
+                        "name": "Mae Stephens",
+                        "type": "artist",
+                        "uri": "spotify:artist:311uEW9rt5g2NmzjGEKS2E"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 175500,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0OvO2X2Q3i98dc5RcgEN3x",
+                "id": "0OvO2X2Q3i98dc5RcgEN3x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Jungle",
+                "preview_url": "https://p.scdn.co/mp3-preview/8129813342e4d3addbf96ebe5440658603107175?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0OvO2X2Q3i98dc5RcgEN3x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6YFH6hee6fTJjlRddtl8gN"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+            "id": "0NGAZxHanS9e0iNHpR8f2W",
+            "name": "Alok",
+            "type": "artist",
+            "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+            },
+            "href": "https://api.spotify.com/v1/artists/311uEW9rt5g2NmzjGEKS2E",
+            "id": "311uEW9rt5g2NmzjGEKS2E",
+            "name": "Mae Stephens",
+            "type": "artist",
+            "uri": "spotify:artist:311uEW9rt5g2NmzjGEKS2E"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(P) 2023 Alok Music/B1 Recordings, a Sony Music Entertainment company.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "196871417242"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6YFH6hee6fTJjlRddtl8gN",
+    "id": "6YFH6hee6fTJjlRddtl8gN",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273119e86ab31abf9323008dc1c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02119e86ab31abf9323008dc1c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851119e86ab31abf9323008dc1c",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Columbia/B1 Recordings",
+    "name": "Jungle",
+    "popularity": 69,
+    "release_date": "2023-09-22",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6YFH6hee6fTJjlRddtl8gN/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+                        "id": "0NGAZxHanS9e0iNHpR8f2W",
+                        "name": "Alok",
+                        "type": "artist",
+                        "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+                        "id": "69GGBxA162lTqCwzJG5jLp",
+                        "name": "The Chainsmokers",
+                        "type": "artist",
+                        "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/311uEW9rt5g2NmzjGEKS2E",
+                        "id": "311uEW9rt5g2NmzjGEKS2E",
+                        "name": "Mae Stephens",
+                        "type": "artist",
+                        "uri": "spotify:artist:311uEW9rt5g2NmzjGEKS2E"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 175500,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0OvO2X2Q3i98dc5RcgEN3x",
+                "id": "0OvO2X2Q3i98dc5RcgEN3x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Jungle",
+                "preview_url": "https://p.scdn.co/mp3-preview/8129813342e4d3addbf96ebe5440658603107175?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0OvO2X2Q3i98dc5RcgEN3x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6YFH6hee6fTJjlRddtl8gN"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+            "id": "0NGAZxHanS9e0iNHpR8f2W",
+            "name": "Alok",
+            "type": "artist",
+            "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+            },
+            "href": "https://api.spotify.com/v1/artists/311uEW9rt5g2NmzjGEKS2E",
+            "id": "311uEW9rt5g2NmzjGEKS2E",
+            "name": "Mae Stephens",
+            "type": "artist",
+            "uri": "spotify:artist:311uEW9rt5g2NmzjGEKS2E"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(P) 2023 Alok Music/B1 Recordings, a Sony Music Entertainment company.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "196871417242"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6YFH6hee6fTJjlRddtl8gN",
+    "id": "6YFH6hee6fTJjlRddtl8gN",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273119e86ab31abf9323008dc1c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02119e86ab31abf9323008dc1c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851119e86ab31abf9323008dc1c",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Columbia/B1 Recordings",
+    "name": "Jungle",
+    "popularity": 69,
+    "release_date": "2023-09-22",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6YFH6hee6fTJjlRddtl8gN/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+                        "id": "0NGAZxHanS9e0iNHpR8f2W",
+                        "name": "Alok",
+                        "type": "artist",
+                        "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+                        "id": "69GGBxA162lTqCwzJG5jLp",
+                        "name": "The Chainsmokers",
+                        "type": "artist",
+                        "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/311uEW9rt5g2NmzjGEKS2E",
+                        "id": "311uEW9rt5g2NmzjGEKS2E",
+                        "name": "Mae Stephens",
+                        "type": "artist",
+                        "uri": "spotify:artist:311uEW9rt5g2NmzjGEKS2E"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 175500,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0OvO2X2Q3i98dc5RcgEN3x",
+                "id": "0OvO2X2Q3i98dc5RcgEN3x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Jungle",
+                "preview_url": "https://p.scdn.co/mp3-preview/8129813342e4d3addbf96ebe5440658603107175?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0OvO2X2Q3i98dc5RcgEN3x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6YFH6hee6fTJjlRddtl8gN"
+}

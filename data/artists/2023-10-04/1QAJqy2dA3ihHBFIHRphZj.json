@@ -1,0 +1,38 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+    },
+    "followers": {
+        "href": null,
+        "total": 8291598
+    },
+    "genres": [
+        "ambient pop",
+        "dream pop",
+        "el paso indie",
+        "shoegaze"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+    "id": "1QAJqy2dA3ihHBFIHRphZj",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebb41a26ad71de86acf45dc886",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174b41a26ad71de86acf45dc886",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178b41a26ad71de86acf45dc886",
+            "width": 160
+        }
+    ],
+    "name": "Cigarettes After Sex",
+    "popularity": 80,
+    "type": "artist",
+    "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+}

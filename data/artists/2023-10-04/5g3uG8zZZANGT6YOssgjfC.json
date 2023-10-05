@@ -1,0 +1,33 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+    },
+    "followers": {
+        "href": null,
+        "total": 253595
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/5g3uG8zZZANGT6YOssgjfC",
+    "id": "5g3uG8zZZANGT6YOssgjfC",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb13c3f6ce49d95d1ffe6b01e3",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517413c3f6ce49d95d1ffe6b01e3",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17813c3f6ce49d95d1ffe6b01e3",
+            "width": 160
+        }
+    ],
+    "name": "Lenka",
+    "popularity": 49,
+    "type": "artist",
+    "uri": "spotify:artist:5g3uG8zZZANGT6YOssgjfC"
+}

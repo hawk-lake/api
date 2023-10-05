@@ -1,0 +1,145 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+            "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+            "name": "Ti\u00ebsto",
+            "type": "artist",
+            "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+            },
+            "href": "https://api.spotify.com/v1/artists/6veh5zbFpm31XsPdjBgPER",
+            "id": "6veh5zbFpm31XsPdjBgPER",
+            "name": "BIA",
+            "type": "artist",
+            "uri": "spotify:artist:6veh5zbFpm31XsPdjBgPER"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 188000,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7mobUfp1aL8A6CdugCMWft",
+    "id": "7mobUfp1aL8A6CdugCMWft",
+    "is_local": false,
+    "is_playable": true,
+    "name": "BOTH",
+    "preview_url": "https://p.scdn.co/mp3-preview/e4ee839be1488bee300b8ad912726f6ef2220b01?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7mobUfp1aL8A6CdugCMWft"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+            "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+            "name": "Ti\u00ebsto",
+            "type": "artist",
+            "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+            },
+            "href": "https://api.spotify.com/v1/artists/6veh5zbFpm31XsPdjBgPER",
+            "id": "6veh5zbFpm31XsPdjBgPER",
+            "name": "BIA",
+            "type": "artist",
+            "uri": "spotify:artist:6veh5zbFpm31XsPdjBgPER"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 188000,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7mobUfp1aL8A6CdugCMWft",
+    "id": "7mobUfp1aL8A6CdugCMWft",
+    "is_local": false,
+    "is_playable": true,
+    "name": "BOTH",
+    "preview_url": "https://p.scdn.co/mp3-preview/e4ee839be1488bee300b8ad912726f6ef2220b01?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7mobUfp1aL8A6CdugCMWft"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+            "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+            "name": "Ti\u00ebsto",
+            "type": "artist",
+            "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+            },
+            "href": "https://api.spotify.com/v1/artists/6veh5zbFpm31XsPdjBgPER",
+            "id": "6veh5zbFpm31XsPdjBgPER",
+            "name": "BIA",
+            "type": "artist",
+            "uri": "spotify:artist:6veh5zbFpm31XsPdjBgPER"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 188000,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7mobUfp1aL8A6CdugCMWft",
+    "id": "7mobUfp1aL8A6CdugCMWft",
+    "is_local": false,
+    "is_playable": true,
+    "name": "BOTH",
+    "preview_url": "https://p.scdn.co/mp3-preview/e4ee839be1488bee300b8ad912726f6ef2220b01?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7mobUfp1aL8A6CdugCMWft"
+}

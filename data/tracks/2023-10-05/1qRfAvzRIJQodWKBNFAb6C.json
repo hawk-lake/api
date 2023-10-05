@@ -1,0 +1,77 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+            },
+            "href": "https://api.spotify.com/v1/artists/4nvFFLtv7ZqoTr83387uK4",
+            "id": "4nvFFLtv7ZqoTr83387uK4",
+            "name": "Dynamicduo",
+            "type": "artist",
+            "uri": "spotify:artist:4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Y2AcMPMpeuPXtPQGVvRBq",
+            "id": "0Y2AcMPMpeuPXtPQGVvRBq",
+            "name": "Lee Young Ji",
+            "type": "artist",
+            "uri": "spotify:artist:0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 209546,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1qRfAvzRIJQodWKBNFAb6C",
+    "id": "1qRfAvzRIJQodWKBNFAb6C",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Smoke (Prod. Dynamicduo, Padi)",
+    "preview_url": "https://p.scdn.co/mp3-preview/967cf905ef99b85bd19276c4e0c9ef4358f29778?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1qRfAvzRIJQodWKBNFAb6C"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+            },
+            "href": "https://api.spotify.com/v1/artists/4nvFFLtv7ZqoTr83387uK4",
+            "id": "4nvFFLtv7ZqoTr83387uK4",
+            "name": "Dynamicduo",
+            "type": "artist",
+            "uri": "spotify:artist:4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Y2AcMPMpeuPXtPQGVvRBq",
+            "id": "0Y2AcMPMpeuPXtPQGVvRBq",
+            "name": "Lee Young Ji",
+            "type": "artist",
+            "uri": "spotify:artist:0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 209546,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1qRfAvzRIJQodWKBNFAb6C",
+    "id": "1qRfAvzRIJQodWKBNFAb6C",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Smoke (Prod. Dynamicduo, Padi)",
+    "preview_url": "https://p.scdn.co/mp3-preview/967cf905ef99b85bd19276c4e0c9ef4358f29778?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1qRfAvzRIJQodWKBNFAb6C"
+}

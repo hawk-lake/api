@@ -1,0 +1,393 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5g3uG8zZZANGT6YOssgjfC",
+            "id": "5g3uG8zZZANGT6YOssgjfC",
+            "name": "Lenka",
+            "type": "artist",
+            "uri": "spotify:artist:5g3uG8zZZANGT6YOssgjfC"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Skipalong Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Skipalong Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "859776196727"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/4BIX9f31KBtmBXzyJpaF2X"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/4BIX9f31KBtmBXzyJpaF2X",
+    "id": "4BIX9f31KBtmBXzyJpaF2X",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c1d50e6aa1ef2c215718e8a4",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c1d50e6aa1ef2c215718e8a4",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c1d50e6aa1ef2c215718e8a4",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Skipalong Records",
+    "name": "Silhouette",
+    "popularity": 26,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/4BIX9f31KBtmBXzyJpaF2X/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5g3uG8zZZANGT6YOssgjfC",
+                        "id": "5g3uG8zZZANGT6YOssgjfC",
+                        "name": "Lenka",
+                        "type": "artist",
+                        "uri": "spotify:artist:5g3uG8zZZANGT6YOssgjfC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 228240,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4nBSLUllNhwMYr2xcIerEu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4nBSLUllNhwMYr2xcIerEu",
+                "id": "4nBSLUllNhwMYr2xcIerEu",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Silhouette",
+                "preview_url": "https://p.scdn.co/mp3-preview/a143ef56f55ed76ad315bd79fd81b918061dfdd7?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4nBSLUllNhwMYr2xcIerEu"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:4BIX9f31KBtmBXzyJpaF2X"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5g3uG8zZZANGT6YOssgjfC",
+            "id": "5g3uG8zZZANGT6YOssgjfC",
+            "name": "Lenka",
+            "type": "artist",
+            "uri": "spotify:artist:5g3uG8zZZANGT6YOssgjfC"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Skipalong Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Skipalong Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "859776196727"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/4BIX9f31KBtmBXzyJpaF2X"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/4BIX9f31KBtmBXzyJpaF2X",
+    "id": "4BIX9f31KBtmBXzyJpaF2X",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c1d50e6aa1ef2c215718e8a4",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c1d50e6aa1ef2c215718e8a4",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c1d50e6aa1ef2c215718e8a4",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Skipalong Records",
+    "name": "Silhouette",
+    "popularity": 26,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/4BIX9f31KBtmBXzyJpaF2X/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5g3uG8zZZANGT6YOssgjfC",
+                        "id": "5g3uG8zZZANGT6YOssgjfC",
+                        "name": "Lenka",
+                        "type": "artist",
+                        "uri": "spotify:artist:5g3uG8zZZANGT6YOssgjfC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 228240,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4nBSLUllNhwMYr2xcIerEu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4nBSLUllNhwMYr2xcIerEu",
+                "id": "4nBSLUllNhwMYr2xcIerEu",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Silhouette",
+                "preview_url": "https://p.scdn.co/mp3-preview/a143ef56f55ed76ad315bd79fd81b918061dfdd7?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4nBSLUllNhwMYr2xcIerEu"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:4BIX9f31KBtmBXzyJpaF2X"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5g3uG8zZZANGT6YOssgjfC",
+            "id": "5g3uG8zZZANGT6YOssgjfC",
+            "name": "Lenka",
+            "type": "artist",
+            "uri": "spotify:artist:5g3uG8zZZANGT6YOssgjfC"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Skipalong Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Skipalong Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "859776196727"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/4BIX9f31KBtmBXzyJpaF2X"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/4BIX9f31KBtmBXzyJpaF2X",
+    "id": "4BIX9f31KBtmBXzyJpaF2X",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c1d50e6aa1ef2c215718e8a4",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c1d50e6aa1ef2c215718e8a4",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c1d50e6aa1ef2c215718e8a4",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Skipalong Records",
+    "name": "Silhouette",
+    "popularity": 26,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/4BIX9f31KBtmBXzyJpaF2X/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5g3uG8zZZANGT6YOssgjfC",
+                        "id": "5g3uG8zZZANGT6YOssgjfC",
+                        "name": "Lenka",
+                        "type": "artist",
+                        "uri": "spotify:artist:5g3uG8zZZANGT6YOssgjfC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 228240,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4nBSLUllNhwMYr2xcIerEu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4nBSLUllNhwMYr2xcIerEu",
+                "id": "4nBSLUllNhwMYr2xcIerEu",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Silhouette",
+                "preview_url": "https://p.scdn.co/mp3-preview/a143ef56f55ed76ad315bd79fd81b918061dfdd7?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4nBSLUllNhwMYr2xcIerEu"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:4BIX9f31KBtmBXzyJpaF2X"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5g3uG8zZZANGT6YOssgjfC",
+            "id": "5g3uG8zZZANGT6YOssgjfC",
+            "name": "Lenka",
+            "type": "artist",
+            "uri": "spotify:artist:5g3uG8zZZANGT6YOssgjfC"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Skipalong Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Skipalong Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "859776196727"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/4BIX9f31KBtmBXzyJpaF2X"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/4BIX9f31KBtmBXzyJpaF2X",
+    "id": "4BIX9f31KBtmBXzyJpaF2X",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c1d50e6aa1ef2c215718e8a4",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c1d50e6aa1ef2c215718e8a4",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c1d50e6aa1ef2c215718e8a4",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Skipalong Records",
+    "name": "Silhouette",
+    "popularity": 26,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/4BIX9f31KBtmBXzyJpaF2X/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5g3uG8zZZANGT6YOssgjfC",
+                        "id": "5g3uG8zZZANGT6YOssgjfC",
+                        "name": "Lenka",
+                        "type": "artist",
+                        "uri": "spotify:artist:5g3uG8zZZANGT6YOssgjfC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 228240,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4nBSLUllNhwMYr2xcIerEu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4nBSLUllNhwMYr2xcIerEu",
+                "id": "4nBSLUllNhwMYr2xcIerEu",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Silhouette",
+                "preview_url": "https://p.scdn.co/mp3-preview/a143ef56f55ed76ad315bd79fd81b918061dfdd7?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4nBSLUllNhwMYr2xcIerEu"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:4BIX9f31KBtmBXzyJpaF2X"
+}

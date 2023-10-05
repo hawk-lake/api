@@ -1,0 +1,37 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+    },
+    "followers": {
+        "href": null,
+        "total": 1274314
+    },
+    "genres": [
+        "canadian hip hop",
+        "dark trap",
+        "meme rap"
+    ],
+    "href": "https://api.spotify.com/v1/artists/41X1TR6hrK8Q2ZCpp2EqCz",
+    "id": "41X1TR6hrK8Q2ZCpp2EqCz",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb6bca811e558018074bbc1b05",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab676161000051746bca811e558018074bbc1b05",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f1786bca811e558018074bbc1b05",
+            "width": 160
+        }
+    ],
+    "name": "bbno$",
+    "popularity": 71,
+    "type": "artist",
+    "uri": "spotify:artist:41X1TR6hrK8Q2ZCpp2EqCz"
+}

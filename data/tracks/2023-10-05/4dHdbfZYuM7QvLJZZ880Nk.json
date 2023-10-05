@@ -1,0 +1,75 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+            "id": "7zYj9S9SdIunYCfSm7vzAR",
+            "name": "JEON SOMI",
+            "type": "artist",
+            "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 165213,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4dHdbfZYuM7QvLJZZ880Nk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4dHdbfZYuM7QvLJZZ880Nk",
+    "id": "4dHdbfZYuM7QvLJZZ880Nk",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3b098hlA2uM27cENS4MI4g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3b098hlA2uM27cENS4MI4g",
+        "id": "3b098hlA2uM27cENS4MI4g",
+        "type": "track",
+        "uri": "spotify:track:3b098hlA2uM27cENS4MI4g"
+    },
+    "name": "The Way",
+    "preview_url": "https://p.scdn.co/mp3-preview/6fd3c17a6c6b7c92c638dece6d5521a76fdc09e1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:4dHdbfZYuM7QvLJZZ880Nk"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+            "id": "7zYj9S9SdIunYCfSm7vzAR",
+            "name": "JEON SOMI",
+            "type": "artist",
+            "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 165213,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4dHdbfZYuM7QvLJZZ880Nk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4dHdbfZYuM7QvLJZZ880Nk",
+    "id": "4dHdbfZYuM7QvLJZZ880Nk",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3b098hlA2uM27cENS4MI4g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3b098hlA2uM27cENS4MI4g",
+        "id": "3b098hlA2uM27cENS4MI4g",
+        "type": "track",
+        "uri": "spotify:track:3b098hlA2uM27cENS4MI4g"
+    },
+    "name": "The Way",
+    "preview_url": "https://p.scdn.co/mp3-preview/6fd3c17a6c6b7c92c638dece6d5521a76fdc09e1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:4dHdbfZYuM7QvLJZZ880Nk"
+}

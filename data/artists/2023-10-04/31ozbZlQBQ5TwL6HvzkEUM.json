@@ -1,0 +1,33 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31ozbZlQBQ5TwL6HvzkEUM"
+    },
+    "followers": {
+        "href": null,
+        "total": 110
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/31ozbZlQBQ5TwL6HvzkEUM",
+    "id": "31ozbZlQBQ5TwL6HvzkEUM",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebd2e4195baecc55eb965ed57b",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174d2e4195baecc55eb965ed57b",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178d2e4195baecc55eb965ed57b",
+            "width": 160
+        }
+    ],
+    "name": "Alex Colours",
+    "popularity": 23,
+    "type": "artist",
+    "uri": "spotify:artist:31ozbZlQBQ5TwL6HvzkEUM"
+}

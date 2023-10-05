@@ -1,0 +1,85 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+            "id": "5NhgsV7qPWHZqYEMKzbYvo",
+            "name": "Faouzia",
+            "type": "artist",
+            "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 148083,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4SeS5B1tFE9oMO0MsaAvog"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4SeS5B1tFE9oMO0MsaAvog",
+    "id": "4SeS5B1tFE9oMO0MsaAvog",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Don\u2019t Call Me",
+    "preview_url": "https://p.scdn.co/mp3-preview/1748bc0fa3edd855c75aa6aed83092f966d1ebbb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4SeS5B1tFE9oMO0MsaAvog"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+            "id": "5NhgsV7qPWHZqYEMKzbYvo",
+            "name": "Faouzia",
+            "type": "artist",
+            "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 148083,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4SeS5B1tFE9oMO0MsaAvog"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4SeS5B1tFE9oMO0MsaAvog",
+    "id": "4SeS5B1tFE9oMO0MsaAvog",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Don\u2019t Call Me",
+    "preview_url": "https://p.scdn.co/mp3-preview/1748bc0fa3edd855c75aa6aed83092f966d1ebbb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4SeS5B1tFE9oMO0MsaAvog"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+            "id": "5NhgsV7qPWHZqYEMKzbYvo",
+            "name": "Faouzia",
+            "type": "artist",
+            "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 148083,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4SeS5B1tFE9oMO0MsaAvog"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4SeS5B1tFE9oMO0MsaAvog",
+    "id": "4SeS5B1tFE9oMO0MsaAvog",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Don\u2019t Call Me",
+    "preview_url": "https://p.scdn.co/mp3-preview/1748bc0fa3edd855c75aa6aed83092f966d1ebbb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4SeS5B1tFE9oMO0MsaAvog"
+}

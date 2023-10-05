@@ -1,0 +1,115 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+            },
+            "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+            "id": "3t5xRXzsuZmMDkQzgOX35S",
+            "name": "Robin Schulz",
+            "type": "artist",
+            "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+            },
+            "href": "https://api.spotify.com/v1/artists/7z2avKuuiMAT4XZJFv8Rvh",
+            "id": "7z2avKuuiMAT4XZJFv8Rvh",
+            "name": "Tom Walker",
+            "type": "artist",
+            "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 201700,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3d8aMPDoIqLM5YBCJlwUAe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3d8aMPDoIqLM5YBCJlwUAe",
+    "id": "3d8aMPDoIqLM5YBCJlwUAe",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Sun Will Shine",
+    "preview_url": "https://p.scdn.co/mp3-preview/e1291965c0d541623e01438977622f60a289ba2e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:3d8aMPDoIqLM5YBCJlwUAe"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+            },
+            "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+            "id": "3t5xRXzsuZmMDkQzgOX35S",
+            "name": "Robin Schulz",
+            "type": "artist",
+            "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+            },
+            "href": "https://api.spotify.com/v1/artists/7z2avKuuiMAT4XZJFv8Rvh",
+            "id": "7z2avKuuiMAT4XZJFv8Rvh",
+            "name": "Tom Walker",
+            "type": "artist",
+            "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 201700,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3d8aMPDoIqLM5YBCJlwUAe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3d8aMPDoIqLM5YBCJlwUAe",
+    "id": "3d8aMPDoIqLM5YBCJlwUAe",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Sun Will Shine",
+    "preview_url": "https://p.scdn.co/mp3-preview/e1291965c0d541623e01438977622f60a289ba2e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:3d8aMPDoIqLM5YBCJlwUAe"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+            },
+            "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+            "id": "3t5xRXzsuZmMDkQzgOX35S",
+            "name": "Robin Schulz",
+            "type": "artist",
+            "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+            },
+            "href": "https://api.spotify.com/v1/artists/7z2avKuuiMAT4XZJFv8Rvh",
+            "id": "7z2avKuuiMAT4XZJFv8Rvh",
+            "name": "Tom Walker",
+            "type": "artist",
+            "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 201700,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3d8aMPDoIqLM5YBCJlwUAe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3d8aMPDoIqLM5YBCJlwUAe",
+    "id": "3d8aMPDoIqLM5YBCJlwUAe",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Sun Will Shine",
+    "preview_url": "https://p.scdn.co/mp3-preview/e1291965c0d541623e01438977622f60a289ba2e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:3d8aMPDoIqLM5YBCJlwUAe"
+}

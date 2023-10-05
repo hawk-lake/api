@@ -1,0 +1,57 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TEK9tIkcoxib4GxT3O4ky",
+            "id": "4TEK9tIkcoxib4GxT3O4ky",
+            "name": "KISS OF LIFE",
+            "type": "artist",
+            "uri": "spotify:artist:4TEK9tIkcoxib4GxT3O4ky"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 203040,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7n6L2QVQ0eDqXUVRZ8qpY8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7n6L2QVQ0eDqXUVRZ8qpY8",
+    "id": "7n6L2QVQ0eDqXUVRZ8qpY8",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Bye My Neverland",
+    "preview_url": "https://p.scdn.co/mp3-preview/045df71712146f3354cc09bbe75bbab85b527d71?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:7n6L2QVQ0eDqXUVRZ8qpY8"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TEK9tIkcoxib4GxT3O4ky",
+            "id": "4TEK9tIkcoxib4GxT3O4ky",
+            "name": "KISS OF LIFE",
+            "type": "artist",
+            "uri": "spotify:artist:4TEK9tIkcoxib4GxT3O4ky"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 203040,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7n6L2QVQ0eDqXUVRZ8qpY8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7n6L2QVQ0eDqXUVRZ8qpY8",
+    "id": "7n6L2QVQ0eDqXUVRZ8qpY8",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Bye My Neverland",
+    "preview_url": "https://p.scdn.co/mp3-preview/045df71712146f3354cc09bbe75bbab85b527d71?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:7n6L2QVQ0eDqXUVRZ8qpY8"
+}

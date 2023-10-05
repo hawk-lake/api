@@ -1,0 +1,85 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4PQ0uJWdQam5rtXciDKVnS",
+            "id": "4PQ0uJWdQam5rtXciDKVnS",
+            "name": "Jasmine Yen",
+            "type": "artist",
+            "uri": "spotify:artist:4PQ0uJWdQam5rtXciDKVnS"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 161616,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0YLXLXsb9imXlSfxZJqeTk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0YLXLXsb9imXlSfxZJqeTk",
+    "id": "0YLXLXsb9imXlSfxZJqeTk",
+    "is_local": false,
+    "is_playable": true,
+    "name": "idk (english version)",
+    "preview_url": "https://p.scdn.co/mp3-preview/7401ade602f0e10db641cc16b45e60a5de42416b?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:0YLXLXsb9imXlSfxZJqeTk"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4PQ0uJWdQam5rtXciDKVnS",
+            "id": "4PQ0uJWdQam5rtXciDKVnS",
+            "name": "Jasmine Yen",
+            "type": "artist",
+            "uri": "spotify:artist:4PQ0uJWdQam5rtXciDKVnS"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 161616,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0YLXLXsb9imXlSfxZJqeTk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0YLXLXsb9imXlSfxZJqeTk",
+    "id": "0YLXLXsb9imXlSfxZJqeTk",
+    "is_local": false,
+    "is_playable": true,
+    "name": "idk (english version)",
+    "preview_url": "https://p.scdn.co/mp3-preview/7401ade602f0e10db641cc16b45e60a5de42416b?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:0YLXLXsb9imXlSfxZJqeTk"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4PQ0uJWdQam5rtXciDKVnS",
+            "id": "4PQ0uJWdQam5rtXciDKVnS",
+            "name": "Jasmine Yen",
+            "type": "artist",
+            "uri": "spotify:artist:4PQ0uJWdQam5rtXciDKVnS"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 161616,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0YLXLXsb9imXlSfxZJqeTk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0YLXLXsb9imXlSfxZJqeTk",
+    "id": "0YLXLXsb9imXlSfxZJqeTk",
+    "is_local": false,
+    "is_playable": true,
+    "name": "idk (english version)",
+    "preview_url": "https://p.scdn.co/mp3-preview/7401ade602f0e10db641cc16b45e60a5de42416b?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:0YLXLXsb9imXlSfxZJqeTk"
+}

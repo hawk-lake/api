@@ -1,0 +1,145 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+            "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "name": "David Guetta",
+            "type": "artist",
+            "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+            },
+            "href": "https://api.spotify.com/v1/artists/19HFRWmRCl27kTk6LeqAO8",
+            "id": "19HFRWmRCl27kTk6LeqAO8",
+            "name": "MORTEN",
+            "type": "artist",
+            "uri": "spotify:artist:19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4DWuml4Jf6K81b5rAPwMb6",
+            "id": "4DWuml4Jf6K81b5rAPwMb6",
+            "name": "Clementine Douglas",
+            "type": "artist",
+            "uri": "spotify:artist:4DWuml4Jf6K81b5rAPwMb6"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 268346,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ecd1U4r7OMZaTnqGJ6Dk7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ecd1U4r7OMZaTnqGJ6Dk7",
+    "id": "4ecd1U4r7OMZaTnqGJ6Dk7",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Something To Hold On To (feat. Clementine Douglas) - Extended",
+    "preview_url": "https://p.scdn.co/mp3-preview/56fb9558cc74f60aad4af3910886c9152c823708?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4ecd1U4r7OMZaTnqGJ6Dk7"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+            "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "name": "David Guetta",
+            "type": "artist",
+            "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+            },
+            "href": "https://api.spotify.com/v1/artists/19HFRWmRCl27kTk6LeqAO8",
+            "id": "19HFRWmRCl27kTk6LeqAO8",
+            "name": "MORTEN",
+            "type": "artist",
+            "uri": "spotify:artist:19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4DWuml4Jf6K81b5rAPwMb6",
+            "id": "4DWuml4Jf6K81b5rAPwMb6",
+            "name": "Clementine Douglas",
+            "type": "artist",
+            "uri": "spotify:artist:4DWuml4Jf6K81b5rAPwMb6"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 268346,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ecd1U4r7OMZaTnqGJ6Dk7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ecd1U4r7OMZaTnqGJ6Dk7",
+    "id": "4ecd1U4r7OMZaTnqGJ6Dk7",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Something To Hold On To (feat. Clementine Douglas) - Extended",
+    "preview_url": "https://p.scdn.co/mp3-preview/56fb9558cc74f60aad4af3910886c9152c823708?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4ecd1U4r7OMZaTnqGJ6Dk7"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+            "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "name": "David Guetta",
+            "type": "artist",
+            "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+            },
+            "href": "https://api.spotify.com/v1/artists/19HFRWmRCl27kTk6LeqAO8",
+            "id": "19HFRWmRCl27kTk6LeqAO8",
+            "name": "MORTEN",
+            "type": "artist",
+            "uri": "spotify:artist:19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4DWuml4Jf6K81b5rAPwMb6",
+            "id": "4DWuml4Jf6K81b5rAPwMb6",
+            "name": "Clementine Douglas",
+            "type": "artist",
+            "uri": "spotify:artist:4DWuml4Jf6K81b5rAPwMb6"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 268346,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ecd1U4r7OMZaTnqGJ6Dk7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ecd1U4r7OMZaTnqGJ6Dk7",
+    "id": "4ecd1U4r7OMZaTnqGJ6Dk7",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Something To Hold On To (feat. Clementine Douglas) - Extended",
+    "preview_url": "https://p.scdn.co/mp3-preview/56fb9558cc74f60aad4af3910886c9152c823708?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4ecd1U4r7OMZaTnqGJ6Dk7"
+}

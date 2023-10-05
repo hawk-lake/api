@@ -1,0 +1,36 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+    },
+    "followers": {
+        "href": null,
+        "total": 74128
+    },
+    "genres": [
+        "indonesian emo rap",
+        "indonesian hip hop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0AsbBukUWcA4lJT5ARtlgQ",
+    "id": "0AsbBukUWcA4lJT5ARtlgQ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb21fadfcf047d4ec1ab98524f",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517421fadfcf047d4ec1ab98524f",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17821fadfcf047d4ec1ab98524f",
+            "width": 160
+        }
+    ],
+    "name": "Ramengvrl",
+    "popularity": 41,
+    "type": "artist",
+    "uri": "spotify:artist:0AsbBukUWcA4lJT5ARtlgQ"
+}

@@ -1,0 +1,393 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+            },
+            "href": "https://api.spotify.com/v1/artists/6R57JlNKlnNrYaji0vw8xx",
+            "id": "6R57JlNKlnNrYaji0vw8xx",
+            "name": "Gareth.T",
+            "type": "artist",
+            "uri": "spotify:artist:6R57JlNKlnNrYaji0vw8xx"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "An Asiatic Records release, Warner Music Regional Asia, \u00a9 2023 Warner Music Hong Kong Ltd.",
+            "type": "C"
+        },
+        {
+            "text": "An Asiatic Records release, Warner Music Regional Asia, \u2117 2023 Warner Music Hong Kong Ltd.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197797453"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/4w3RXqpRkmFVijVJbN3NDw",
+    "id": "4w3RXqpRkmFVijVJbN3NDw",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735d94f7aeee2f9df67d3241bb",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025d94f7aeee2f9df67d3241bb",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515d94f7aeee2f9df67d3241bb",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "WM Hong Kong",
+    "name": "let me know",
+    "popularity": 45,
+    "release_date": "2023-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/4w3RXqpRkmFVijVJbN3NDw/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6R57JlNKlnNrYaji0vw8xx",
+                        "id": "6R57JlNKlnNrYaji0vw8xx",
+                        "name": "Gareth.T",
+                        "type": "artist",
+                        "uri": "spotify:artist:6R57JlNKlnNrYaji0vw8xx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 208387,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4MMPUUQG3ygmS0aHvDBVGL",
+                "id": "4MMPUUQG3ygmS0aHvDBVGL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "let me know",
+                "preview_url": "https://p.scdn.co/mp3-preview/8306ccea006d51b1fa2c15b3f8c0fa43a0d2cc88?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4MMPUUQG3ygmS0aHvDBVGL"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:4w3RXqpRkmFVijVJbN3NDw"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+            },
+            "href": "https://api.spotify.com/v1/artists/6R57JlNKlnNrYaji0vw8xx",
+            "id": "6R57JlNKlnNrYaji0vw8xx",
+            "name": "Gareth.T",
+            "type": "artist",
+            "uri": "spotify:artist:6R57JlNKlnNrYaji0vw8xx"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "An Asiatic Records release, Warner Music Regional Asia, \u00a9 2023 Warner Music Hong Kong Ltd.",
+            "type": "C"
+        },
+        {
+            "text": "An Asiatic Records release, Warner Music Regional Asia, \u2117 2023 Warner Music Hong Kong Ltd.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197797453"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/4w3RXqpRkmFVijVJbN3NDw",
+    "id": "4w3RXqpRkmFVijVJbN3NDw",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735d94f7aeee2f9df67d3241bb",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025d94f7aeee2f9df67d3241bb",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515d94f7aeee2f9df67d3241bb",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "WM Hong Kong",
+    "name": "let me know",
+    "popularity": 45,
+    "release_date": "2023-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/4w3RXqpRkmFVijVJbN3NDw/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6R57JlNKlnNrYaji0vw8xx",
+                        "id": "6R57JlNKlnNrYaji0vw8xx",
+                        "name": "Gareth.T",
+                        "type": "artist",
+                        "uri": "spotify:artist:6R57JlNKlnNrYaji0vw8xx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 208387,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4MMPUUQG3ygmS0aHvDBVGL",
+                "id": "4MMPUUQG3ygmS0aHvDBVGL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "let me know",
+                "preview_url": "https://p.scdn.co/mp3-preview/8306ccea006d51b1fa2c15b3f8c0fa43a0d2cc88?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4MMPUUQG3ygmS0aHvDBVGL"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:4w3RXqpRkmFVijVJbN3NDw"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+            },
+            "href": "https://api.spotify.com/v1/artists/6R57JlNKlnNrYaji0vw8xx",
+            "id": "6R57JlNKlnNrYaji0vw8xx",
+            "name": "Gareth.T",
+            "type": "artist",
+            "uri": "spotify:artist:6R57JlNKlnNrYaji0vw8xx"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "An Asiatic Records release, Warner Music Regional Asia, \u00a9 2023 Warner Music Hong Kong Ltd.",
+            "type": "C"
+        },
+        {
+            "text": "An Asiatic Records release, Warner Music Regional Asia, \u2117 2023 Warner Music Hong Kong Ltd.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197797453"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/4w3RXqpRkmFVijVJbN3NDw",
+    "id": "4w3RXqpRkmFVijVJbN3NDw",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735d94f7aeee2f9df67d3241bb",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025d94f7aeee2f9df67d3241bb",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515d94f7aeee2f9df67d3241bb",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "WM Hong Kong",
+    "name": "let me know",
+    "popularity": 45,
+    "release_date": "2023-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/4w3RXqpRkmFVijVJbN3NDw/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6R57JlNKlnNrYaji0vw8xx",
+                        "id": "6R57JlNKlnNrYaji0vw8xx",
+                        "name": "Gareth.T",
+                        "type": "artist",
+                        "uri": "spotify:artist:6R57JlNKlnNrYaji0vw8xx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 208387,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4MMPUUQG3ygmS0aHvDBVGL",
+                "id": "4MMPUUQG3ygmS0aHvDBVGL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "let me know",
+                "preview_url": "https://p.scdn.co/mp3-preview/8306ccea006d51b1fa2c15b3f8c0fa43a0d2cc88?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4MMPUUQG3ygmS0aHvDBVGL"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:4w3RXqpRkmFVijVJbN3NDw"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+            },
+            "href": "https://api.spotify.com/v1/artists/6R57JlNKlnNrYaji0vw8xx",
+            "id": "6R57JlNKlnNrYaji0vw8xx",
+            "name": "Gareth.T",
+            "type": "artist",
+            "uri": "spotify:artist:6R57JlNKlnNrYaji0vw8xx"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "An Asiatic Records release, Warner Music Regional Asia, \u00a9 2023 Warner Music Hong Kong Ltd.",
+            "type": "C"
+        },
+        {
+            "text": "An Asiatic Records release, Warner Music Regional Asia, \u2117 2023 Warner Music Hong Kong Ltd.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197797453"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/4w3RXqpRkmFVijVJbN3NDw",
+    "id": "4w3RXqpRkmFVijVJbN3NDw",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735d94f7aeee2f9df67d3241bb",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025d94f7aeee2f9df67d3241bb",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515d94f7aeee2f9df67d3241bb",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "WM Hong Kong",
+    "name": "let me know",
+    "popularity": 45,
+    "release_date": "2023-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/4w3RXqpRkmFVijVJbN3NDw/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6R57JlNKlnNrYaji0vw8xx",
+                        "id": "6R57JlNKlnNrYaji0vw8xx",
+                        "name": "Gareth.T",
+                        "type": "artist",
+                        "uri": "spotify:artist:6R57JlNKlnNrYaji0vw8xx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 208387,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4MMPUUQG3ygmS0aHvDBVGL",
+                "id": "4MMPUUQG3ygmS0aHvDBVGL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "let me know",
+                "preview_url": "https://p.scdn.co/mp3-preview/8306ccea006d51b1fa2c15b3f8c0fa43a0d2cc88?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4MMPUUQG3ygmS0aHvDBVGL"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:4w3RXqpRkmFVijVJbN3NDw"
+}

@@ -1,0 +1,75 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6RHTUrRF63xao58xh9FXYJ",
+            "id": "6RHTUrRF63xao58xh9FXYJ",
+            "name": "IVE",
+            "type": "artist",
+            "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 195440,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kRMDu7nOelODru9ZmwbLl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5kRMDu7nOelODru9ZmwbLl",
+    "id": "5kRMDu7nOelODru9ZmwbLl",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7foeH2Emgq8A3LWk3q6dat",
+        "id": "7foeH2Emgq8A3LWk3q6dat",
+        "type": "track",
+        "uri": "spotify:track:7foeH2Emgq8A3LWk3q6dat"
+    },
+    "name": "Kitsch",
+    "preview_url": "https://p.scdn.co/mp3-preview/d3342a1fbbe5bd47156d1d40ae09133af1ea4989?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:5kRMDu7nOelODru9ZmwbLl"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6RHTUrRF63xao58xh9FXYJ",
+            "id": "6RHTUrRF63xao58xh9FXYJ",
+            "name": "IVE",
+            "type": "artist",
+            "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 195440,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kRMDu7nOelODru9ZmwbLl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5kRMDu7nOelODru9ZmwbLl",
+    "id": "5kRMDu7nOelODru9ZmwbLl",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7foeH2Emgq8A3LWk3q6dat",
+        "id": "7foeH2Emgq8A3LWk3q6dat",
+        "type": "track",
+        "uri": "spotify:track:7foeH2Emgq8A3LWk3q6dat"
+    },
+    "name": "Kitsch",
+    "preview_url": "https://p.scdn.co/mp3-preview/d3342a1fbbe5bd47156d1d40ae09133af1ea4989?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:5kRMDu7nOelODru9ZmwbLl"
+}

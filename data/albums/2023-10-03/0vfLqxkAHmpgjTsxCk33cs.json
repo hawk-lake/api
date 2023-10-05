@@ -1,0 +1,589 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+            "id": "6S2OmqARrzebs0tKUEyXyp",
+            "name": "Demi Lovato",
+            "type": "artist",
+            "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+            "id": "0ZUdYzRCIrxbsd80MmGMqo",
+            "name": "Daisy Jones & The Six",
+            "type": "artist",
+            "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Ellemar Records, \u00a9 2023 Amazon Content Services, LLC; Atlantic Recording Corporation; and DLG Recordings, LLC under exclusive license to Island Records, a division of UMG Recordings, Inc.",
+            "type": "C"
+        },
+        {
+            "text": "Ellemar Records, \u2117 2023 Amazon Content Services, LLC; Atlantic Recording Corporation; and DLG Recordings, LLC under exclusive license to Island Records, a division of UMG Recordings, Inc.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679674272"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0vfLqxkAHmpgjTsxCk33cs"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0vfLqxkAHmpgjTsxCk33cs",
+    "id": "0vfLqxkAHmpgjTsxCk33cs",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273690b3209e93523f6e8322982",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02690b3209e93523f6e8322982",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851690b3209e93523f6e8322982",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records",
+    "name": "Let Me Down Easy",
+    "popularity": 48,
+    "release_date": "2023-08-11",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0vfLqxkAHmpgjTsxCk33cs/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+                        "id": "6S2OmqARrzebs0tKUEyXyp",
+                        "name": "Demi Lovato",
+                        "type": "artist",
+                        "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+                        "id": "0ZUdYzRCIrxbsd80MmGMqo",
+                        "name": "Daisy Jones & The Six",
+                        "type": "artist",
+                        "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 204186,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN"
+                },
+                "href": "https://api.spotify.com/v1/tracks/74YyVH1E6gSlZCbtN6OgJN",
+                "id": "74YyVH1E6gSlZCbtN6OgJN",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Let Me Down Easy",
+                "preview_url": "https://p.scdn.co/mp3-preview/4813d98c7cc7625a76608cec72fc4528ed11b5be?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:74YyVH1E6gSlZCbtN6OgJN"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+                        "id": "0ZUdYzRCIrxbsd80MmGMqo",
+                        "name": "Daisy Jones & The Six",
+                        "type": "artist",
+                        "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203666,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0TjDbcSUfkAZNNu9UtDn0S"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0TjDbcSUfkAZNNu9UtDn0S",
+                "id": "0TjDbcSUfkAZNNu9UtDn0S",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Let Me Down Easy - Acoustic Demo",
+                "preview_url": "https://p.scdn.co/mp3-preview/4984b415c84d73b6e66b2df1af695bb25c446337?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0TjDbcSUfkAZNNu9UtDn0S"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:0vfLqxkAHmpgjTsxCk33cs"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+            "id": "6S2OmqARrzebs0tKUEyXyp",
+            "name": "Demi Lovato",
+            "type": "artist",
+            "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+            "id": "0ZUdYzRCIrxbsd80MmGMqo",
+            "name": "Daisy Jones & The Six",
+            "type": "artist",
+            "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Ellemar Records, \u00a9 2023 Amazon Content Services, LLC; Atlantic Recording Corporation; and DLG Recordings, LLC under exclusive license to Island Records, a division of UMG Recordings, Inc.",
+            "type": "C"
+        },
+        {
+            "text": "Ellemar Records, \u2117 2023 Amazon Content Services, LLC; Atlantic Recording Corporation; and DLG Recordings, LLC under exclusive license to Island Records, a division of UMG Recordings, Inc.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679674272"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0vfLqxkAHmpgjTsxCk33cs"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0vfLqxkAHmpgjTsxCk33cs",
+    "id": "0vfLqxkAHmpgjTsxCk33cs",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273690b3209e93523f6e8322982",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02690b3209e93523f6e8322982",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851690b3209e93523f6e8322982",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records",
+    "name": "Let Me Down Easy",
+    "popularity": 47,
+    "release_date": "2023-08-11",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0vfLqxkAHmpgjTsxCk33cs/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+                        "id": "6S2OmqARrzebs0tKUEyXyp",
+                        "name": "Demi Lovato",
+                        "type": "artist",
+                        "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+                        "id": "0ZUdYzRCIrxbsd80MmGMqo",
+                        "name": "Daisy Jones & The Six",
+                        "type": "artist",
+                        "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 204186,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN"
+                },
+                "href": "https://api.spotify.com/v1/tracks/74YyVH1E6gSlZCbtN6OgJN",
+                "id": "74YyVH1E6gSlZCbtN6OgJN",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Let Me Down Easy",
+                "preview_url": "https://p.scdn.co/mp3-preview/4813d98c7cc7625a76608cec72fc4528ed11b5be?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:74YyVH1E6gSlZCbtN6OgJN"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+                        "id": "0ZUdYzRCIrxbsd80MmGMqo",
+                        "name": "Daisy Jones & The Six",
+                        "type": "artist",
+                        "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203666,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0TjDbcSUfkAZNNu9UtDn0S"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0TjDbcSUfkAZNNu9UtDn0S",
+                "id": "0TjDbcSUfkAZNNu9UtDn0S",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Let Me Down Easy - Acoustic Demo",
+                "preview_url": "https://p.scdn.co/mp3-preview/4984b415c84d73b6e66b2df1af695bb25c446337?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0TjDbcSUfkAZNNu9UtDn0S"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:0vfLqxkAHmpgjTsxCk33cs"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+            "id": "6S2OmqARrzebs0tKUEyXyp",
+            "name": "Demi Lovato",
+            "type": "artist",
+            "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+            "id": "0ZUdYzRCIrxbsd80MmGMqo",
+            "name": "Daisy Jones & The Six",
+            "type": "artist",
+            "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Ellemar Records, \u00a9 2023 Amazon Content Services, LLC; Atlantic Recording Corporation; and DLG Recordings, LLC under exclusive license to Island Records, a division of UMG Recordings, Inc.",
+            "type": "C"
+        },
+        {
+            "text": "Ellemar Records, \u2117 2023 Amazon Content Services, LLC; Atlantic Recording Corporation; and DLG Recordings, LLC under exclusive license to Island Records, a division of UMG Recordings, Inc.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679674272"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0vfLqxkAHmpgjTsxCk33cs"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0vfLqxkAHmpgjTsxCk33cs",
+    "id": "0vfLqxkAHmpgjTsxCk33cs",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273690b3209e93523f6e8322982",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02690b3209e93523f6e8322982",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851690b3209e93523f6e8322982",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records",
+    "name": "Let Me Down Easy",
+    "popularity": 47,
+    "release_date": "2023-08-11",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0vfLqxkAHmpgjTsxCk33cs/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+                        "id": "6S2OmqARrzebs0tKUEyXyp",
+                        "name": "Demi Lovato",
+                        "type": "artist",
+                        "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+                        "id": "0ZUdYzRCIrxbsd80MmGMqo",
+                        "name": "Daisy Jones & The Six",
+                        "type": "artist",
+                        "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 204186,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN"
+                },
+                "href": "https://api.spotify.com/v1/tracks/74YyVH1E6gSlZCbtN6OgJN",
+                "id": "74YyVH1E6gSlZCbtN6OgJN",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Let Me Down Easy",
+                "preview_url": "https://p.scdn.co/mp3-preview/4813d98c7cc7625a76608cec72fc4528ed11b5be?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:74YyVH1E6gSlZCbtN6OgJN"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+                        "id": "0ZUdYzRCIrxbsd80MmGMqo",
+                        "name": "Daisy Jones & The Six",
+                        "type": "artist",
+                        "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203666,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0TjDbcSUfkAZNNu9UtDn0S"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0TjDbcSUfkAZNNu9UtDn0S",
+                "id": "0TjDbcSUfkAZNNu9UtDn0S",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Let Me Down Easy - Acoustic Demo",
+                "preview_url": "https://p.scdn.co/mp3-preview/4984b415c84d73b6e66b2df1af695bb25c446337?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0TjDbcSUfkAZNNu9UtDn0S"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:0vfLqxkAHmpgjTsxCk33cs"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+            "id": "6S2OmqARrzebs0tKUEyXyp",
+            "name": "Demi Lovato",
+            "type": "artist",
+            "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+            "id": "0ZUdYzRCIrxbsd80MmGMqo",
+            "name": "Daisy Jones & The Six",
+            "type": "artist",
+            "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Ellemar Records, \u00a9 2023 Amazon Content Services, LLC; Atlantic Recording Corporation; and DLG Recordings, LLC under exclusive license to Island Records, a division of UMG Recordings, Inc.",
+            "type": "C"
+        },
+        {
+            "text": "Ellemar Records, \u2117 2023 Amazon Content Services, LLC; Atlantic Recording Corporation; and DLG Recordings, LLC under exclusive license to Island Records, a division of UMG Recordings, Inc.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679674272"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0vfLqxkAHmpgjTsxCk33cs"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0vfLqxkAHmpgjTsxCk33cs",
+    "id": "0vfLqxkAHmpgjTsxCk33cs",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273690b3209e93523f6e8322982",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02690b3209e93523f6e8322982",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851690b3209e93523f6e8322982",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records",
+    "name": "Let Me Down Easy",
+    "popularity": 47,
+    "release_date": "2023-08-11",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0vfLqxkAHmpgjTsxCk33cs/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+                        "id": "6S2OmqARrzebs0tKUEyXyp",
+                        "name": "Demi Lovato",
+                        "type": "artist",
+                        "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+                        "id": "0ZUdYzRCIrxbsd80MmGMqo",
+                        "name": "Daisy Jones & The Six",
+                        "type": "artist",
+                        "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 204186,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN"
+                },
+                "href": "https://api.spotify.com/v1/tracks/74YyVH1E6gSlZCbtN6OgJN",
+                "id": "74YyVH1E6gSlZCbtN6OgJN",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Let Me Down Easy",
+                "preview_url": "https://p.scdn.co/mp3-preview/4813d98c7cc7625a76608cec72fc4528ed11b5be?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:74YyVH1E6gSlZCbtN6OgJN"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+                        "id": "0ZUdYzRCIrxbsd80MmGMqo",
+                        "name": "Daisy Jones & The Six",
+                        "type": "artist",
+                        "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203666,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0TjDbcSUfkAZNNu9UtDn0S"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0TjDbcSUfkAZNNu9UtDn0S",
+                "id": "0TjDbcSUfkAZNNu9UtDn0S",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Let Me Down Easy - Acoustic Demo",
+                "preview_url": "https://p.scdn.co/mp3-preview/4984b415c84d73b6e66b2df1af695bb25c446337?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0TjDbcSUfkAZNNu9UtDn0S"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:0vfLqxkAHmpgjTsxCk33cs"
+}

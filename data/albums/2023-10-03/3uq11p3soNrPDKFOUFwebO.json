@@ -1,0 +1,473 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+            },
+            "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+            "id": "4AVFqumd2ogHFlRbKIjp1t",
+            "name": "Alesso",
+            "type": "artist",
+            "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+            },
+            "href": "https://api.spotify.com/v1/artists/34v5MVKeQnIo0CWYMbbrPf",
+            "id": "34v5MVKeQnIo0CWYMbbrPf",
+            "name": "John Newman",
+            "type": "artist",
+            "uri": "spotify:artist:34v5MVKeQnIo0CWYMbbrPf"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Tomorrowland Music, under exclusive license to Universal Music GmbH",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Tomorrowland Music, under exclusive license to Universal Music GmbH",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "00602458266153"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/3uq11p3soNrPDKFOUFwebO",
+    "id": "3uq11p3soNrPDKFOUFwebO",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737971049dbe093a2da0227268",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027971049dbe093a2da0227268",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517971049dbe093a2da0227268",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Tomorrowland Music",
+    "name": "Call Your Name",
+    "popularity": 60,
+    "release_date": "2023-07-21",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/3uq11p3soNrPDKFOUFwebO/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+                        "id": "4AVFqumd2ogHFlRbKIjp1t",
+                        "name": "Alesso",
+                        "type": "artist",
+                        "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/34v5MVKeQnIo0CWYMbbrPf",
+                        "id": "34v5MVKeQnIo0CWYMbbrPf",
+                        "name": "John Newman",
+                        "type": "artist",
+                        "uri": "spotify:artist:34v5MVKeQnIo0CWYMbbrPf"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 170976,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7FyqTJJ8bdFVpNMoMNQbXA",
+                "id": "7FyqTJJ8bdFVpNMoMNQbXA",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Call Your Name",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7FyqTJJ8bdFVpNMoMNQbXA"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:3uq11p3soNrPDKFOUFwebO"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+            },
+            "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+            "id": "4AVFqumd2ogHFlRbKIjp1t",
+            "name": "Alesso",
+            "type": "artist",
+            "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+            },
+            "href": "https://api.spotify.com/v1/artists/34v5MVKeQnIo0CWYMbbrPf",
+            "id": "34v5MVKeQnIo0CWYMbbrPf",
+            "name": "John Newman",
+            "type": "artist",
+            "uri": "spotify:artist:34v5MVKeQnIo0CWYMbbrPf"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Tomorrowland Music, under exclusive license to Universal Music GmbH",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Tomorrowland Music, under exclusive license to Universal Music GmbH",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "00602458266153"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/3uq11p3soNrPDKFOUFwebO",
+    "id": "3uq11p3soNrPDKFOUFwebO",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737971049dbe093a2da0227268",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027971049dbe093a2da0227268",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517971049dbe093a2da0227268",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Tomorrowland Music",
+    "name": "Call Your Name",
+    "popularity": 60,
+    "release_date": "2023-07-21",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/3uq11p3soNrPDKFOUFwebO/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+                        "id": "4AVFqumd2ogHFlRbKIjp1t",
+                        "name": "Alesso",
+                        "type": "artist",
+                        "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/34v5MVKeQnIo0CWYMbbrPf",
+                        "id": "34v5MVKeQnIo0CWYMbbrPf",
+                        "name": "John Newman",
+                        "type": "artist",
+                        "uri": "spotify:artist:34v5MVKeQnIo0CWYMbbrPf"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 170976,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7FyqTJJ8bdFVpNMoMNQbXA",
+                "id": "7FyqTJJ8bdFVpNMoMNQbXA",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Call Your Name",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7FyqTJJ8bdFVpNMoMNQbXA"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:3uq11p3soNrPDKFOUFwebO"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+            },
+            "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+            "id": "4AVFqumd2ogHFlRbKIjp1t",
+            "name": "Alesso",
+            "type": "artist",
+            "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+            },
+            "href": "https://api.spotify.com/v1/artists/34v5MVKeQnIo0CWYMbbrPf",
+            "id": "34v5MVKeQnIo0CWYMbbrPf",
+            "name": "John Newman",
+            "type": "artist",
+            "uri": "spotify:artist:34v5MVKeQnIo0CWYMbbrPf"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Tomorrowland Music, under exclusive license to Universal Music GmbH",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Tomorrowland Music, under exclusive license to Universal Music GmbH",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "00602458266153"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/3uq11p3soNrPDKFOUFwebO",
+    "id": "3uq11p3soNrPDKFOUFwebO",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737971049dbe093a2da0227268",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027971049dbe093a2da0227268",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517971049dbe093a2da0227268",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Tomorrowland Music",
+    "name": "Call Your Name",
+    "popularity": 60,
+    "release_date": "2023-07-21",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/3uq11p3soNrPDKFOUFwebO/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+                        "id": "4AVFqumd2ogHFlRbKIjp1t",
+                        "name": "Alesso",
+                        "type": "artist",
+                        "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/34v5MVKeQnIo0CWYMbbrPf",
+                        "id": "34v5MVKeQnIo0CWYMbbrPf",
+                        "name": "John Newman",
+                        "type": "artist",
+                        "uri": "spotify:artist:34v5MVKeQnIo0CWYMbbrPf"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 170976,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7FyqTJJ8bdFVpNMoMNQbXA",
+                "id": "7FyqTJJ8bdFVpNMoMNQbXA",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Call Your Name",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7FyqTJJ8bdFVpNMoMNQbXA"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:3uq11p3soNrPDKFOUFwebO"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+            },
+            "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+            "id": "4AVFqumd2ogHFlRbKIjp1t",
+            "name": "Alesso",
+            "type": "artist",
+            "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+            },
+            "href": "https://api.spotify.com/v1/artists/34v5MVKeQnIo0CWYMbbrPf",
+            "id": "34v5MVKeQnIo0CWYMbbrPf",
+            "name": "John Newman",
+            "type": "artist",
+            "uri": "spotify:artist:34v5MVKeQnIo0CWYMbbrPf"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Tomorrowland Music, under exclusive license to Universal Music GmbH",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Tomorrowland Music, under exclusive license to Universal Music GmbH",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "00602458266153"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/3uq11p3soNrPDKFOUFwebO",
+    "id": "3uq11p3soNrPDKFOUFwebO",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737971049dbe093a2da0227268",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027971049dbe093a2da0227268",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517971049dbe093a2da0227268",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Tomorrowland Music",
+    "name": "Call Your Name",
+    "popularity": 60,
+    "release_date": "2023-07-21",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/3uq11p3soNrPDKFOUFwebO/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+                        "id": "4AVFqumd2ogHFlRbKIjp1t",
+                        "name": "Alesso",
+                        "type": "artist",
+                        "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/34v5MVKeQnIo0CWYMbbrPf",
+                        "id": "34v5MVKeQnIo0CWYMbbrPf",
+                        "name": "John Newman",
+                        "type": "artist",
+                        "uri": "spotify:artist:34v5MVKeQnIo0CWYMbbrPf"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 170976,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7FyqTJJ8bdFVpNMoMNQbXA",
+                "id": "7FyqTJJ8bdFVpNMoMNQbXA",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Call Your Name",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7FyqTJJ8bdFVpNMoMNQbXA"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:3uq11p3soNrPDKFOUFwebO"
+}
