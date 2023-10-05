@@ -22,3 +22,7 @@ async def get_artists_albums(cnt:int):
 @router.get("/mysql/artists/related_artists")
 async def get_artists_related_artists(cnt:int):
 	return artists_related_artists(cnt)
+
+@router.get("/mysql/both/featured_playlists")
+async def get_browse_featured_playlists(cnt:int):
+	return browse_featured_playlists(cnt)
