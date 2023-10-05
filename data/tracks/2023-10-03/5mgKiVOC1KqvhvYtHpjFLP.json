@@ -1,0 +1,29 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+            "id": "1VBflYyxBhnDc9uVib98rw",
+            "name": "Icona Pop",
+            "type": "artist",
+            "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 154514,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5mgKiVOC1KqvhvYtHpjFLP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5mgKiVOC1KqvhvYtHpjFLP",
+    "id": "5mgKiVOC1KqvhvYtHpjFLP",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Loving You Ain't Easy",
+    "preview_url": "https://p.scdn.co/mp3-preview/998a493d7ef09dbe2ca74f11acd81c955ba985f5?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:5mgKiVOC1KqvhvYtHpjFLP"
+}

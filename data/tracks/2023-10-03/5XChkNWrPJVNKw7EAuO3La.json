@@ -1,0 +1,29 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3X2DdnmoANw8Rg8luHyZQb",
+            "id": "3X2DdnmoANw8Rg8luHyZQb",
+            "name": "Romy",
+            "type": "artist",
+            "uri": "spotify:artist:3X2DdnmoANw8Rg8luHyZQb"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 33560,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5XChkNWrPJVNKw7EAuO3La"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5XChkNWrPJVNKw7EAuO3La",
+    "id": "5XChkNWrPJVNKw7EAuO3La",
+    "is_local": false,
+    "is_playable": true,
+    "name": "DMC",
+    "preview_url": "https://p.scdn.co/mp3-preview/d2dfcd1cdfaa10b6247ca030ebcb5f7f706121d5?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:5XChkNWrPJVNKw7EAuO3La"
+}

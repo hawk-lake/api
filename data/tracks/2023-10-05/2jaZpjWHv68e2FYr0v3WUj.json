@@ -1,0 +1,75 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6RHTUrRF63xao58xh9FXYJ",
+            "id": "6RHTUrRF63xao58xh9FXYJ",
+            "name": "IVE",
+            "type": "artist",
+            "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 193000,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2jaZpjWHv68e2FYr0v3WUj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2jaZpjWHv68e2FYr0v3WUj",
+    "id": "2jaZpjWHv68e2FYr0v3WUj",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Owz3vrIE44Hvt0sLsfwHI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Owz3vrIE44Hvt0sLsfwHI",
+        "id": "3Owz3vrIE44Hvt0sLsfwHI",
+        "type": "track",
+        "uri": "spotify:track:3Owz3vrIE44Hvt0sLsfwHI"
+    },
+    "name": "My Satisfaction",
+    "preview_url": "https://p.scdn.co/mp3-preview/54cc84677953258b7e7cfdd5d7815eacef5424f5?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2jaZpjWHv68e2FYr0v3WUj"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6RHTUrRF63xao58xh9FXYJ",
+            "id": "6RHTUrRF63xao58xh9FXYJ",
+            "name": "IVE",
+            "type": "artist",
+            "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 193000,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2jaZpjWHv68e2FYr0v3WUj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2jaZpjWHv68e2FYr0v3WUj",
+    "id": "2jaZpjWHv68e2FYr0v3WUj",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Owz3vrIE44Hvt0sLsfwHI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Owz3vrIE44Hvt0sLsfwHI",
+        "id": "3Owz3vrIE44Hvt0sLsfwHI",
+        "type": "track",
+        "uri": "spotify:track:3Owz3vrIE44Hvt0sLsfwHI"
+    },
+    "name": "My Satisfaction",
+    "preview_url": "https://p.scdn.co/mp3-preview/54cc84677953258b7e7cfdd5d7815eacef5424f5?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2jaZpjWHv68e2FYr0v3WUj"
+}

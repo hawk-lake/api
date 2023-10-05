@@ -1,0 +1,217 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Vl4kZKeQslEl4P0ATWuue",
+            "id": "2Vl4kZKeQslEl4P0ATWuue",
+            "name": "Naiwen Yang",
+            "type": "artist",
+            "uri": "spotify:artist:2Vl4kZKeQslEl4P0ATWuue"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 AsiaMuse Entertainment Co., Ltd.",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 AsiaMuse Entertainment Co., Ltd.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189191183"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5Gk01vK87HZ4EQ52xTeyZ1"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5Gk01vK87HZ4EQ52xTeyZ1",
+    "id": "5Gk01vK87HZ4EQ52xTeyZ1",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f911a6882c4e9811844859a6",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f911a6882c4e9811844859a6",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f911a6882c4e9811844859a6",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "AsiaMuse Entertainment Co., Ltd.",
+    "name": "A Dream of Bonnie and Clyde",
+    "popularity": 24,
+    "release_date": "2023-07-21",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5Gk01vK87HZ4EQ52xTeyZ1/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2Vl4kZKeQslEl4P0ATWuue",
+                        "id": "2Vl4kZKeQslEl4P0ATWuue",
+                        "name": "Naiwen Yang",
+                        "type": "artist",
+                        "uri": "spotify:artist:2Vl4kZKeQslEl4P0ATWuue"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2CP7We7wDMW76lotAw85aR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2CP7We7wDMW76lotAw85aR",
+                        "id": "2CP7We7wDMW76lotAw85aR",
+                        "name": "JADE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2CP7We7wDMW76lotAw85aR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 174503,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2IUXNnuWKre9DXp8nUpVDZ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2IUXNnuWKre9DXp8nUpVDZ",
+                "id": "2IUXNnuWKre9DXp8nUpVDZ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "A Dream of Bonnie and Clyde (feat. JADE)",
+                "preview_url": "https://p.scdn.co/mp3-preview/1db699d1a9b9984460efe94ad16d6e3b15b42f42?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2IUXNnuWKre9DXp8nUpVDZ"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:5Gk01vK87HZ4EQ52xTeyZ1"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Vl4kZKeQslEl4P0ATWuue",
+            "id": "2Vl4kZKeQslEl4P0ATWuue",
+            "name": "Naiwen Yang",
+            "type": "artist",
+            "uri": "spotify:artist:2Vl4kZKeQslEl4P0ATWuue"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 AsiaMuse Entertainment Co., Ltd.",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 AsiaMuse Entertainment Co., Ltd.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189191183"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5Gk01vK87HZ4EQ52xTeyZ1"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5Gk01vK87HZ4EQ52xTeyZ1",
+    "id": "5Gk01vK87HZ4EQ52xTeyZ1",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f911a6882c4e9811844859a6",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f911a6882c4e9811844859a6",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f911a6882c4e9811844859a6",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "AsiaMuse Entertainment Co., Ltd.",
+    "name": "A Dream of Bonnie and Clyde",
+    "popularity": 24,
+    "release_date": "2023-07-21",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5Gk01vK87HZ4EQ52xTeyZ1/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2Vl4kZKeQslEl4P0ATWuue",
+                        "id": "2Vl4kZKeQslEl4P0ATWuue",
+                        "name": "Naiwen Yang",
+                        "type": "artist",
+                        "uri": "spotify:artist:2Vl4kZKeQslEl4P0ATWuue"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2CP7We7wDMW76lotAw85aR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2CP7We7wDMW76lotAw85aR",
+                        "id": "2CP7We7wDMW76lotAw85aR",
+                        "name": "JADE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2CP7We7wDMW76lotAw85aR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 174503,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2IUXNnuWKre9DXp8nUpVDZ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2IUXNnuWKre9DXp8nUpVDZ",
+                "id": "2IUXNnuWKre9DXp8nUpVDZ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "A Dream of Bonnie and Clyde (feat. JADE)",
+                "preview_url": "https://p.scdn.co/mp3-preview/1db699d1a9b9984460efe94ad16d6e3b15b42f42?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2IUXNnuWKre9DXp8nUpVDZ"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:5Gk01vK87HZ4EQ52xTeyZ1"
+}

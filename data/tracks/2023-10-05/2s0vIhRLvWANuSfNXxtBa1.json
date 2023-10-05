@@ -1,0 +1,75 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+            },
+            "href": "https://api.spotify.com/v1/artists/2dIgFjalVxs4ThymZ67YCE",
+            "id": "2dIgFjalVxs4ThymZ67YCE",
+            "name": "Stray Kids",
+            "type": "artist",
+            "uri": "spotify:artist:2dIgFjalVxs4ThymZ67YCE"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 171026,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2s0vIhRLvWANuSfNXxtBa1"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2s0vIhRLvWANuSfNXxtBa1",
+    "id": "2s0vIhRLvWANuSfNXxtBa1",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5podb1asONjqwKk1iMVOeG",
+        "id": "5podb1asONjqwKk1iMVOeG",
+        "type": "track",
+        "uri": "spotify:track:5podb1asONjqwKk1iMVOeG"
+    },
+    "name": "\uc704\uc778\uc804 Hall of Fame",
+    "preview_url": "https://p.scdn.co/mp3-preview/445acf4df7a2b13cbfddfe03ed264e03506a491f?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2s0vIhRLvWANuSfNXxtBa1"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+            },
+            "href": "https://api.spotify.com/v1/artists/2dIgFjalVxs4ThymZ67YCE",
+            "id": "2dIgFjalVxs4ThymZ67YCE",
+            "name": "Stray Kids",
+            "type": "artist",
+            "uri": "spotify:artist:2dIgFjalVxs4ThymZ67YCE"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 171026,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2s0vIhRLvWANuSfNXxtBa1"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2s0vIhRLvWANuSfNXxtBa1",
+    "id": "2s0vIhRLvWANuSfNXxtBa1",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5podb1asONjqwKk1iMVOeG",
+        "id": "5podb1asONjqwKk1iMVOeG",
+        "type": "track",
+        "uri": "spotify:track:5podb1asONjqwKk1iMVOeG"
+    },
+    "name": "\uc704\uc778\uc804 Hall of Fame",
+    "preview_url": "https://p.scdn.co/mp3-preview/445acf4df7a2b13cbfddfe03ed264e03506a491f?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2s0vIhRLvWANuSfNXxtBa1"
+}

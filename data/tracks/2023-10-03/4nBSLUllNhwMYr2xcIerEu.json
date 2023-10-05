@@ -1,0 +1,29 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5g3uG8zZZANGT6YOssgjfC",
+            "id": "5g3uG8zZZANGT6YOssgjfC",
+            "name": "Lenka",
+            "type": "artist",
+            "uri": "spotify:artist:5g3uG8zZZANGT6YOssgjfC"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 228240,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4nBSLUllNhwMYr2xcIerEu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4nBSLUllNhwMYr2xcIerEu",
+    "id": "4nBSLUllNhwMYr2xcIerEu",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Silhouette",
+    "preview_url": "https://p.scdn.co/mp3-preview/a143ef56f55ed76ad315bd79fd81b918061dfdd7?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4nBSLUllNhwMYr2xcIerEu"
+}

@@ -1,0 +1,215 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6RHTUrRF63xao58xh9FXYJ",
+            "id": "6RHTUrRF63xao58xh9FXYJ",
+            "name": "IVE",
+            "type": "artist",
+            "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Starship Entertainment co.,ltd",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Starship Entertainment",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189802164"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/31ZO3EEc4JPomzMGed9BEV",
+    "id": "31ZO3EEc4JPomzMGed9BEV",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739013c729c55c91dad5906adc",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029013c729c55c91dad5906adc",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519013c729c55c91dad5906adc",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Starship Entertainment",
+    "name": "Either Way",
+    "popularity": 68,
+    "release_date": "2023-09-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/31ZO3EEc4JPomzMGed9BEV/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6RHTUrRF63xao58xh9FXYJ",
+                        "id": "6RHTUrRF63xao58xh9FXYJ",
+                        "name": "IVE",
+                        "type": "artist",
+                        "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 166946,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0hfgdZKMICdgW84SUk3jfT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0hfgdZKMICdgW84SUk3jfT",
+                "id": "0hfgdZKMICdgW84SUk3jfT",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6ezYHltHYhuJckdCsYsRJI",
+                    "id": "6ezYHltHYhuJckdCsYsRJI",
+                    "type": "track",
+                    "uri": "spotify:track:6ezYHltHYhuJckdCsYsRJI"
+                },
+                "name": "Either Way",
+                "preview_url": "https://p.scdn.co/mp3-preview/bd94f0bc861b67d351f03a895e064e958446c8e9?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0hfgdZKMICdgW84SUk3jfT"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:31ZO3EEc4JPomzMGed9BEV"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6RHTUrRF63xao58xh9FXYJ",
+            "id": "6RHTUrRF63xao58xh9FXYJ",
+            "name": "IVE",
+            "type": "artist",
+            "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Starship Entertainment co.,ltd",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Starship Entertainment",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189802164"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/31ZO3EEc4JPomzMGed9BEV",
+    "id": "31ZO3EEc4JPomzMGed9BEV",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739013c729c55c91dad5906adc",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029013c729c55c91dad5906adc",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519013c729c55c91dad5906adc",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Starship Entertainment",
+    "name": "Either Way",
+    "popularity": 68,
+    "release_date": "2023-09-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/31ZO3EEc4JPomzMGed9BEV/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6RHTUrRF63xao58xh9FXYJ",
+                        "id": "6RHTUrRF63xao58xh9FXYJ",
+                        "name": "IVE",
+                        "type": "artist",
+                        "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 166946,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0hfgdZKMICdgW84SUk3jfT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0hfgdZKMICdgW84SUk3jfT",
+                "id": "0hfgdZKMICdgW84SUk3jfT",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6ezYHltHYhuJckdCsYsRJI",
+                    "id": "6ezYHltHYhuJckdCsYsRJI",
+                    "type": "track",
+                    "uri": "spotify:track:6ezYHltHYhuJckdCsYsRJI"
+                },
+                "name": "Either Way",
+                "preview_url": "https://p.scdn.co/mp3-preview/bd94f0bc861b67d351f03a895e064e958446c8e9?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0hfgdZKMICdgW84SUk3jfT"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:31ZO3EEc4JPomzMGed9BEV"
+}

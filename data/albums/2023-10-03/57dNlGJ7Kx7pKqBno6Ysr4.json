@@ -1,0 +1,197 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+            },
+            "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+            "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+            "name": "Armin van Buuren",
+            "type": "artist",
+            "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Armada Music B.V.",
+            "type": "C"
+        },
+        {
+            "text": "2023 Armada Music B.V. under exclusive license from Armin Audio B.V.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720693017940"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/57dNlGJ7Kx7pKqBno6Ysr4",
+    "id": "57dNlGJ7Kx7pKqBno6Ysr4",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27332e5d28dbc0ae78d7fc62d79",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0232e5d28dbc0ae78d7fc62d79",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485132e5d28dbc0ae78d7fc62d79",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Armada Music",
+    "name": "Lose This Feeling",
+    "popularity": 58,
+    "release_date": "2023-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/57dNlGJ7Kx7pKqBno6Ysr4/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+                        "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+                        "name": "Armin van Buuren",
+                        "type": "artist",
+                        "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 146996,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1lzIk2EDN5d1gIbxfmu2oF",
+                "id": "1lzIk2EDN5d1gIbxfmu2oF",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Lose This Feeling",
+                "preview_url": "https://p.scdn.co/mp3-preview/bb9b37d4587dc2e44dce1a9e01b36d1b43f7d531?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1lzIk2EDN5d1gIbxfmu2oF"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:57dNlGJ7Kx7pKqBno6Ysr4"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+            },
+            "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+            "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+            "name": "Armin van Buuren",
+            "type": "artist",
+            "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Armada Music B.V.",
+            "type": "C"
+        },
+        {
+            "text": "2023 Armada Music B.V. under exclusive license from Armin Audio B.V.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720693017940"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/57dNlGJ7Kx7pKqBno6Ysr4",
+    "id": "57dNlGJ7Kx7pKqBno6Ysr4",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27332e5d28dbc0ae78d7fc62d79",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0232e5d28dbc0ae78d7fc62d79",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485132e5d28dbc0ae78d7fc62d79",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Armada Music",
+    "name": "Lose This Feeling",
+    "popularity": 58,
+    "release_date": "2023-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/57dNlGJ7Kx7pKqBno6Ysr4/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+                        "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+                        "name": "Armin van Buuren",
+                        "type": "artist",
+                        "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 146996,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1lzIk2EDN5d1gIbxfmu2oF",
+                "id": "1lzIk2EDN5d1gIbxfmu2oF",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Lose This Feeling",
+                "preview_url": "https://p.scdn.co/mp3-preview/bb9b37d4587dc2e44dce1a9e01b36d1b43f7d531?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1lzIk2EDN5d1gIbxfmu2oF"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:57dNlGJ7Kx7pKqBno6Ysr4"
+}

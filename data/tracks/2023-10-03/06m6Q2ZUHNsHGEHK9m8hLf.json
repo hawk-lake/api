@@ -1,0 +1,29 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 160293,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/06m6Q2ZUHNsHGEHK9m8hLf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/06m6Q2ZUHNsHGEHK9m8hLf",
+    "id": "06m6Q2ZUHNsHGEHK9m8hLf",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Buffalo Replaced",
+    "preview_url": "https://p.scdn.co/mp3-preview/1843c1fc5c8615ffe6118f5fc61059ab4268b7d3?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:06m6Q2ZUHNsHGEHK9m8hLf"
+}

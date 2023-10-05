@@ -1,0 +1,77 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
+            },
+            "href": "https://api.spotify.com/v1/artists/1uAT5bTSp6dWbNmixIUP5t",
+            "id": "1uAT5bTSp6dWbNmixIUP5t",
+            "name": "BSS",
+            "type": "artist",
+            "uri": "spotify:artist:1uAT5bTSp6dWbNmixIUP5t"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+            },
+            "href": "https://api.spotify.com/v1/artists/56zJ6PZ3mNPBiBqglW2KxL",
+            "id": "56zJ6PZ3mNPBiBqglW2KxL",
+            "name": "Peder Elias",
+            "type": "artist",
+            "uri": "spotify:artist:56zJ6PZ3mNPBiBqglW2KxL"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 195133,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/6tAPw1Rtt3SGEOm6ohYi8l"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6tAPw1Rtt3SGEOm6ohYi8l",
+    "id": "6tAPw1Rtt3SGEOm6ohYi8l",
+    "is_local": false,
+    "is_playable": true,
+    "name": "7PM (Feat. Peder Elias)",
+    "preview_url": "https://p.scdn.co/mp3-preview/ab4ab2b4406169837a85ce4fbbf741906e1453a0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:6tAPw1Rtt3SGEOm6ohYi8l"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
+            },
+            "href": "https://api.spotify.com/v1/artists/1uAT5bTSp6dWbNmixIUP5t",
+            "id": "1uAT5bTSp6dWbNmixIUP5t",
+            "name": "BSS",
+            "type": "artist",
+            "uri": "spotify:artist:1uAT5bTSp6dWbNmixIUP5t"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+            },
+            "href": "https://api.spotify.com/v1/artists/56zJ6PZ3mNPBiBqglW2KxL",
+            "id": "56zJ6PZ3mNPBiBqglW2KxL",
+            "name": "Peder Elias",
+            "type": "artist",
+            "uri": "spotify:artist:56zJ6PZ3mNPBiBqglW2KxL"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 195133,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/6tAPw1Rtt3SGEOm6ohYi8l"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6tAPw1Rtt3SGEOm6ohYi8l",
+    "id": "6tAPw1Rtt3SGEOm6ohYi8l",
+    "is_local": false,
+    "is_playable": true,
+    "name": "7PM (Feat. Peder Elias)",
+    "preview_url": "https://p.scdn.co/mp3-preview/ab4ab2b4406169837a85ce4fbbf741906e1453a0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:6tAPw1Rtt3SGEOm6ohYi8l"
+}

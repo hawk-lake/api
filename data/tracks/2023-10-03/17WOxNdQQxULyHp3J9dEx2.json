@@ -1,0 +1,39 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5jC1DZRmodcLQvEd4WbAOX",
+            "id": "5jC1DZRmodcLQvEd4WbAOX",
+            "name": "Benjamin Varney",
+            "type": "artist",
+            "uri": "spotify:artist:5jC1DZRmodcLQvEd4WbAOX"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 290396,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/17WOxNdQQxULyHp3J9dEx2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/17WOxNdQQxULyHp3J9dEx2",
+    "id": "17WOxNdQQxULyHp3J9dEx2",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Cultivation",
+    "preview_url": "https://p.scdn.co/mp3-preview/2a27a3dc258170a334dfe50292bada5ba446c5d9?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:17WOxNdQQxULyHp3J9dEx2"
+}

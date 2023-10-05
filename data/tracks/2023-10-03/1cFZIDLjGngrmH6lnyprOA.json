@@ -1,0 +1,58 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hk94pAZS1iYSqoICeTyh1",
+            "id": "2hk94pAZS1iYSqoICeTyh1",
+            "name": "Supershy",
+            "type": "artist",
+            "uri": "spotify:artist:2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+            },
+            "href": "https://api.spotify.com/v1/artists/1uiEZYehlNivdK3iQyAbye",
+            "id": "1uiEZYehlNivdK3iQyAbye",
+            "name": "Tom Misch",
+            "type": "artist",
+            "uri": "spotify:artist:1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+            },
+            "href": "https://api.spotify.com/v1/artists/0W498bDDNlJIrYMKXdpLHA",
+            "id": "0W498bDDNlJIrYMKXdpLHA",
+            "name": "Roberta Flack",
+            "type": "artist",
+            "uri": "spotify:artist:0W498bDDNlJIrYMKXdpLHA"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 215000,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1cFZIDLjGngrmH6lnyprOA",
+    "id": "1cFZIDLjGngrmH6lnyprOA",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5789JwERVglbf574Olz2Bi",
+        "id": "5789JwERVglbf574Olz2Bi",
+        "type": "track",
+        "uri": "spotify:track:5789JwERVglbf574Olz2Bi"
+    },
+    "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+    "preview_url": "https://p.scdn.co/mp3-preview/532f62ca038d9ff60a439a09009dc33461bb9af0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1cFZIDLjGngrmH6lnyprOA"
+}

@@ -1,0 +1,41 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+    },
+    "followers": {
+        "href": null,
+        "total": 23676683
+    },
+    "genres": [
+        "dance pop",
+        "edm",
+        "electro house",
+        "house",
+        "pop",
+        "progressive house",
+        "uk dance"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY",
+    "id": "7CajNmpbOovFoOoasH2HaY",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517437bff6aa1d42bede9048750f",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17837bff6aa1d42bede9048750f",
+            "width": 160
+        }
+    ],
+    "name": "Calvin Harris",
+    "popularity": 85,
+    "type": "artist",
+    "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY"
+}

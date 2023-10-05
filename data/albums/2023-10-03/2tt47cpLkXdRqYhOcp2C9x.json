@@ -1,0 +1,463 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+            },
+            "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+            "id": "7gW0r5CkdEUMm42w9XpyZO",
+            "name": "Laufey",
+            "type": "artist",
+            "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Laufey under exclusive license to AWAL Recordings America, Inc.",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Laufey under exclusive license to AWAL Recordings America, Inc.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189592171"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2tt47cpLkXdRqYhOcp2C9x",
+    "id": "2tt47cpLkXdRqYhOcp2C9x",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736b83d486635223b8294c8cb8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026b83d486635223b8294c8cb8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516b83d486635223b8294c8cb8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Laufey",
+    "name": "California and Me",
+    "popularity": 61,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2tt47cpLkXdRqYhOcp2C9x/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+                        "id": "7gW0r5CkdEUMm42w9XpyZO",
+                        "name": "Laufey",
+                        "type": "artist",
+                        "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/09KZU0NsS7jRa5p0SflmGY",
+                        "id": "09KZU0NsS7jRa5p0SflmGY",
+                        "name": "Philharmonia Orchestra",
+                        "type": "artist",
+                        "uri": "spotify:artist:09KZU0NsS7jRa5p0SflmGY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 216306,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5VP1yXviUwA0KA0ewit5pe",
+                "id": "5VP1yXviUwA0KA0ewit5pe",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/768tjNAwyH3nIFee5BIdcl",
+                    "id": "768tjNAwyH3nIFee5BIdcl",
+                    "type": "track",
+                    "uri": "spotify:track:768tjNAwyH3nIFee5BIdcl"
+                },
+                "name": "California and Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/55ee3caf2b78aa2ee5b3d2d8320553fb0ade128d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:5VP1yXviUwA0KA0ewit5pe"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+                        "id": "7gW0r5CkdEUMm42w9XpyZO",
+                        "name": "Laufey",
+                        "type": "artist",
+                        "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 169573,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
+                },
+                "href": "https://api.spotify.com/v1/tracks/43iIQbw5hx986dUEZbr3eN",
+                "id": "43iIQbw5hx986dUEZbr3eN",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0moo3a53yJBEr3KygizSnV"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/0moo3a53yJBEr3KygizSnV",
+                    "id": "0moo3a53yJBEr3KygizSnV",
+                    "type": "track",
+                    "uri": "spotify:track:0moo3a53yJBEr3KygizSnV"
+                },
+                "name": "From The Start",
+                "preview_url": "https://p.scdn.co/mp3-preview/3cdcd256d89b8634adc47aebbcf6db256e3b9978?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:43iIQbw5hx986dUEZbr3eN"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+                        "id": "7gW0r5CkdEUMm42w9XpyZO",
+                        "name": "Laufey",
+                        "type": "artist",
+                        "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 246693,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0pfpeTGQOWlGp6YUUbBD42",
+                "id": "0pfpeTGQOWlGp6YUUbBD42",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/58xW4zdvG8gqF9Y7z3k39c"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/58xW4zdvG8gqF9Y7z3k39c",
+                    "id": "58xW4zdvG8gqF9Y7z3k39c",
+                    "type": "track",
+                    "uri": "spotify:track:58xW4zdvG8gqF9Y7z3k39c"
+                },
+                "name": "Bewitched",
+                "preview_url": "https://p.scdn.co/mp3-preview/799be8612bd51059cdd8392c8a1ef93185288c0b?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:0pfpeTGQOWlGp6YUUbBD42"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+                        "id": "7gW0r5CkdEUMm42w9XpyZO",
+                        "name": "Laufey",
+                        "type": "artist",
+                        "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 234266,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/08PdFBcXzpkn1cWNgmKqhn",
+                "id": "08PdFBcXzpkn1cWNgmKqhn",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1U24F5OTpwjdhOKh7mKih5"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/1U24F5OTpwjdhOKh7mKih5",
+                    "id": "1U24F5OTpwjdhOKh7mKih5",
+                    "type": "track",
+                    "uri": "spotify:track:1U24F5OTpwjdhOKh7mKih5"
+                },
+                "name": "Promise",
+                "preview_url": "https://p.scdn.co/mp3-preview/2a9f6feb9ebe1632f2ea96572b941cbf7e67670b?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:08PdFBcXzpkn1cWNgmKqhn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 4
+    },
+    "type": "album",
+    "uri": "spotify:album:2tt47cpLkXdRqYhOcp2C9x"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+            },
+            "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+            "id": "7gW0r5CkdEUMm42w9XpyZO",
+            "name": "Laufey",
+            "type": "artist",
+            "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Laufey under exclusive license to AWAL Recordings America, Inc.",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Laufey under exclusive license to AWAL Recordings America, Inc.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189592171"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2tt47cpLkXdRqYhOcp2C9x",
+    "id": "2tt47cpLkXdRqYhOcp2C9x",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736b83d486635223b8294c8cb8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026b83d486635223b8294c8cb8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516b83d486635223b8294c8cb8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Laufey",
+    "name": "California and Me",
+    "popularity": 61,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2tt47cpLkXdRqYhOcp2C9x/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+                        "id": "7gW0r5CkdEUMm42w9XpyZO",
+                        "name": "Laufey",
+                        "type": "artist",
+                        "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/09KZU0NsS7jRa5p0SflmGY",
+                        "id": "09KZU0NsS7jRa5p0SflmGY",
+                        "name": "Philharmonia Orchestra",
+                        "type": "artist",
+                        "uri": "spotify:artist:09KZU0NsS7jRa5p0SflmGY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 216306,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5VP1yXviUwA0KA0ewit5pe",
+                "id": "5VP1yXviUwA0KA0ewit5pe",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/768tjNAwyH3nIFee5BIdcl",
+                    "id": "768tjNAwyH3nIFee5BIdcl",
+                    "type": "track",
+                    "uri": "spotify:track:768tjNAwyH3nIFee5BIdcl"
+                },
+                "name": "California and Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/55ee3caf2b78aa2ee5b3d2d8320553fb0ade128d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:5VP1yXviUwA0KA0ewit5pe"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+                        "id": "7gW0r5CkdEUMm42w9XpyZO",
+                        "name": "Laufey",
+                        "type": "artist",
+                        "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 169573,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
+                },
+                "href": "https://api.spotify.com/v1/tracks/43iIQbw5hx986dUEZbr3eN",
+                "id": "43iIQbw5hx986dUEZbr3eN",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0moo3a53yJBEr3KygizSnV"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/0moo3a53yJBEr3KygizSnV",
+                    "id": "0moo3a53yJBEr3KygizSnV",
+                    "type": "track",
+                    "uri": "spotify:track:0moo3a53yJBEr3KygizSnV"
+                },
+                "name": "From The Start",
+                "preview_url": "https://p.scdn.co/mp3-preview/3cdcd256d89b8634adc47aebbcf6db256e3b9978?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:43iIQbw5hx986dUEZbr3eN"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+                        "id": "7gW0r5CkdEUMm42w9XpyZO",
+                        "name": "Laufey",
+                        "type": "artist",
+                        "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 246693,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0pfpeTGQOWlGp6YUUbBD42",
+                "id": "0pfpeTGQOWlGp6YUUbBD42",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/58xW4zdvG8gqF9Y7z3k39c"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/58xW4zdvG8gqF9Y7z3k39c",
+                    "id": "58xW4zdvG8gqF9Y7z3k39c",
+                    "type": "track",
+                    "uri": "spotify:track:58xW4zdvG8gqF9Y7z3k39c"
+                },
+                "name": "Bewitched",
+                "preview_url": "https://p.scdn.co/mp3-preview/799be8612bd51059cdd8392c8a1ef93185288c0b?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:0pfpeTGQOWlGp6YUUbBD42"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+                        "id": "7gW0r5CkdEUMm42w9XpyZO",
+                        "name": "Laufey",
+                        "type": "artist",
+                        "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 234266,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/08PdFBcXzpkn1cWNgmKqhn",
+                "id": "08PdFBcXzpkn1cWNgmKqhn",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1U24F5OTpwjdhOKh7mKih5"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/1U24F5OTpwjdhOKh7mKih5",
+                    "id": "1U24F5OTpwjdhOKh7mKih5",
+                    "type": "track",
+                    "uri": "spotify:track:1U24F5OTpwjdhOKh7mKih5"
+                },
+                "name": "Promise",
+                "preview_url": "https://p.scdn.co/mp3-preview/2a9f6feb9ebe1632f2ea96572b941cbf7e67670b?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:08PdFBcXzpkn1cWNgmKqhn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 4
+    },
+    "type": "album",
+    "uri": "spotify:album:2tt47cpLkXdRqYhOcp2C9x"
+}

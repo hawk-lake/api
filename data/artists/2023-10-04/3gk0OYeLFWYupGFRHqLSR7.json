@@ -1,0 +1,42 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+    },
+    "followers": {
+        "href": null,
+        "total": 472573
+    },
+    "genres": [
+        "classic hardstyle",
+        "dutch house",
+        "edm",
+        "electro house",
+        "euphoric hardstyle",
+        "melbourne bounce",
+        "pop dance",
+        "progressive electro house"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3gk0OYeLFWYupGFRHqLSR7",
+    "id": "3gk0OYeLFWYupGFRHqLSR7",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb6ac09498c431e91aa27ce76c",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab676161000051746ac09498c431e91aa27ce76c",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f1786ac09498c431e91aa27ce76c",
+            "width": 160
+        }
+    ],
+    "name": "Showtek",
+    "popularity": 61,
+    "type": "artist",
+    "uri": "spotify:artist:3gk0OYeLFWYupGFRHqLSR7"
+}

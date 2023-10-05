@@ -1,0 +1,29 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+            "id": "1VBflYyxBhnDc9uVib98rw",
+            "name": "Icona Pop",
+            "type": "artist",
+            "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 143081,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/16Cv47YFbROCj4fzuxo7Z6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/16Cv47YFbROCj4fzuxo7Z6",
+    "id": "16Cv47YFbROCj4fzuxo7Z6",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Fall In Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/63921c7c8edcc222b81a2c23f172610f98a3bda0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:16Cv47YFbROCj4fzuxo7Z6"
+}

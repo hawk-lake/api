@@ -1,0 +1,57 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GwM5CHqhWXzG3l5kzRSAS",
+            "id": "6GwM5CHqhWXzG3l5kzRSAS",
+            "name": "Younha",
+            "type": "artist",
+            "uri": "spotify:artist:6GwM5CHqhWXzG3l5kzRSAS"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 209480,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7p3VfO8xaV41JFrFpZkb3d"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7p3VfO8xaV41JFrFpZkb3d",
+    "id": "7p3VfO8xaV41JFrFpZkb3d",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Highlight",
+    "preview_url": "https://p.scdn.co/mp3-preview/2cea8441d36f81c17ef1a5c7196aa803cdba1682?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:7p3VfO8xaV41JFrFpZkb3d"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GwM5CHqhWXzG3l5kzRSAS",
+            "id": "6GwM5CHqhWXzG3l5kzRSAS",
+            "name": "Younha",
+            "type": "artist",
+            "uri": "spotify:artist:6GwM5CHqhWXzG3l5kzRSAS"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 209480,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7p3VfO8xaV41JFrFpZkb3d"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7p3VfO8xaV41JFrFpZkb3d",
+    "id": "7p3VfO8xaV41JFrFpZkb3d",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Highlight",
+    "preview_url": "https://p.scdn.co/mp3-preview/2cea8441d36f81c17ef1a5c7196aa803cdba1682?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:7p3VfO8xaV41JFrFpZkb3d"
+}

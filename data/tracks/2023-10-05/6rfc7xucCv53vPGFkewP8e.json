@@ -1,0 +1,57 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
+            },
+            "href": "https://api.spotify.com/v1/artists/0W0w607z3JEA1vXLz9FVGw",
+            "id": "0W0w607z3JEA1vXLz9FVGw",
+            "name": "NCT DOJAEJUNG",
+            "type": "artist",
+            "uri": "spotify:artist:0W0w607z3JEA1vXLz9FVGw"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 198120,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/6rfc7xucCv53vPGFkewP8e"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6rfc7xucCv53vPGFkewP8e",
+    "id": "6rfc7xucCv53vPGFkewP8e",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Ordinary",
+    "preview_url": "https://p.scdn.co/mp3-preview/0171634a2842d7ae46ec1e2b95b7a0478186616e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:6rfc7xucCv53vPGFkewP8e"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
+            },
+            "href": "https://api.spotify.com/v1/artists/0W0w607z3JEA1vXLz9FVGw",
+            "id": "0W0w607z3JEA1vXLz9FVGw",
+            "name": "NCT DOJAEJUNG",
+            "type": "artist",
+            "uri": "spotify:artist:0W0w607z3JEA1vXLz9FVGw"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 198120,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/6rfc7xucCv53vPGFkewP8e"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6rfc7xucCv53vPGFkewP8e",
+    "id": "6rfc7xucCv53vPGFkewP8e",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Ordinary",
+    "preview_url": "https://p.scdn.co/mp3-preview/0171634a2842d7ae46ec1e2b95b7a0478186616e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:6rfc7xucCv53vPGFkewP8e"
+}

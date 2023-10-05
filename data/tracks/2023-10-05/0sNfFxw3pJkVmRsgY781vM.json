@@ -1,0 +1,57 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+            },
+            "href": "https://api.spotify.com/v1/artists/4SpbR6yFEvexJuaBpgAU5p",
+            "id": "4SpbR6yFEvexJuaBpgAU5p",
+            "name": "LE SSERAFIM",
+            "type": "artist",
+            "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 206831,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0sNfFxw3pJkVmRsgY781vM",
+    "id": "0sNfFxw3pJkVmRsgY781vM",
+    "is_local": false,
+    "is_playable": true,
+    "name": "FEARNOT (Between you, me and the lamppost)",
+    "preview_url": "https://p.scdn.co/mp3-preview/be985f19f2eaef1a4c74ab86081fa75d17c1dcf9?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:0sNfFxw3pJkVmRsgY781vM"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+            },
+            "href": "https://api.spotify.com/v1/artists/4SpbR6yFEvexJuaBpgAU5p",
+            "id": "4SpbR6yFEvexJuaBpgAU5p",
+            "name": "LE SSERAFIM",
+            "type": "artist",
+            "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 206831,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0sNfFxw3pJkVmRsgY781vM",
+    "id": "0sNfFxw3pJkVmRsgY781vM",
+    "is_local": false,
+    "is_playable": true,
+    "name": "FEARNOT (Between you, me and the lamppost)",
+    "preview_url": "https://p.scdn.co/mp3-preview/be985f19f2eaef1a4c74ab86081fa75d17c1dcf9?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:0sNfFxw3pJkVmRsgY781vM"
+}

@@ -1,0 +1,197 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+            },
+            "href": "https://api.spotify.com/v1/artists/164Uj4eKjl6zTBKfJLFKKK",
+            "id": "164Uj4eKjl6zTBKfJLFKKK",
+            "name": "JVKE",
+            "type": "artist",
+            "uri": "spotify:artist:164Uj4eKjl6zTBKfJLFKKK"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 JVKE MUSIC LLC under exclusive license to AWAL Recordings America, Inc.",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 JVKE MUSIC LLC under exclusive license to AWAL Recordings America, Inc.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189968631"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/23Dast9Z49J73VBjh3JulP",
+    "id": "23Dast9Z49J73VBjh3JulP",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b4bf03e0316b9835600c55af",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b4bf03e0316b9835600c55af",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b4bf03e0316b9835600c55af",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "JVKE",
+    "name": "this is what space feels like",
+    "popularity": 54,
+    "release_date": "2023-09-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/23Dast9Z49J73VBjh3JulP/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/164Uj4eKjl6zTBKfJLFKKK",
+                        "id": "164Uj4eKjl6zTBKfJLFKKK",
+                        "name": "JVKE",
+                        "type": "artist",
+                        "uri": "spotify:artist:164Uj4eKjl6zTBKfJLFKKK"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 183017,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6PetYmvjKZBjiUYlnlAcn1",
+                "id": "6PetYmvjKZBjiUYlnlAcn1",
+                "is_local": false,
+                "is_playable": true,
+                "name": "this is what space feels like",
+                "preview_url": "https://p.scdn.co/mp3-preview/d3f8139f9dadf929255b06f58e54812581c6e978?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6PetYmvjKZBjiUYlnlAcn1"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:23Dast9Z49J73VBjh3JulP"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+            },
+            "href": "https://api.spotify.com/v1/artists/164Uj4eKjl6zTBKfJLFKKK",
+            "id": "164Uj4eKjl6zTBKfJLFKKK",
+            "name": "JVKE",
+            "type": "artist",
+            "uri": "spotify:artist:164Uj4eKjl6zTBKfJLFKKK"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 JVKE MUSIC LLC under exclusive license to AWAL Recordings America, Inc.",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 JVKE MUSIC LLC under exclusive license to AWAL Recordings America, Inc.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189968631"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/23Dast9Z49J73VBjh3JulP",
+    "id": "23Dast9Z49J73VBjh3JulP",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b4bf03e0316b9835600c55af",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b4bf03e0316b9835600c55af",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b4bf03e0316b9835600c55af",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "JVKE",
+    "name": "this is what space feels like",
+    "popularity": 56,
+    "release_date": "2023-09-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/23Dast9Z49J73VBjh3JulP/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/164Uj4eKjl6zTBKfJLFKKK",
+                        "id": "164Uj4eKjl6zTBKfJLFKKK",
+                        "name": "JVKE",
+                        "type": "artist",
+                        "uri": "spotify:artist:164Uj4eKjl6zTBKfJLFKKK"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 183017,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6PetYmvjKZBjiUYlnlAcn1",
+                "id": "6PetYmvjKZBjiUYlnlAcn1",
+                "is_local": false,
+                "is_playable": true,
+                "name": "this is what space feels like",
+                "preview_url": "https://p.scdn.co/mp3-preview/d3f8139f9dadf929255b06f58e54812581c6e978?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6PetYmvjKZBjiUYlnlAcn1"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:23Dast9Z49J73VBjh3JulP"
+}

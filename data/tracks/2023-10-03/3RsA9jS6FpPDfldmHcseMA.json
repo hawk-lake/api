@@ -1,0 +1,29 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+            },
+            "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+            "id": "6nS5roXSAGhTGr34W6n7Et",
+            "name": "Disclosure",
+            "type": "artist",
+            "uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 124344,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3RsA9jS6FpPDfldmHcseMA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3RsA9jS6FpPDfldmHcseMA",
+    "id": "3RsA9jS6FpPDfldmHcseMA",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Purify",
+    "preview_url": "https://p.scdn.co/mp3-preview/55706abe9cb07a97f9fba4e54448572465400ed5?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:3RsA9jS6FpPDfldmHcseMA"
+}

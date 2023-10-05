@@ -1,0 +1,197 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dayhmhJfL4I8w1PuL9MqQ",
+            "id": "3dayhmhJfL4I8w1PuL9MqQ",
+            "name": "Tyson Yoshi",
+            "type": "artist",
+            "uri": "spotify:artist:3dayhmhJfL4I8w1PuL9MqQ"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Just Kidding Limited",
+            "type": "C"
+        },
+        {
+            "text": "2023 Just Kidding Limited",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "732131558777"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7sRtmBFmILBIybIywVhXQM",
+    "id": "7sRtmBFmILBIybIywVhXQM",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738365663bcfc138341136a138",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028365663bcfc138341136a138",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518365663bcfc138341136a138",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Just Kidding Limited",
+    "name": "see you in hell",
+    "popularity": 41,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7sRtmBFmILBIybIywVhXQM/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3dayhmhJfL4I8w1PuL9MqQ",
+                        "id": "3dayhmhJfL4I8w1PuL9MqQ",
+                        "name": "Tyson Yoshi",
+                        "type": "artist",
+                        "uri": "spotify:artist:3dayhmhJfL4I8w1PuL9MqQ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 172430,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6UyQKEayts0gGkocQIQ3bU",
+                "id": "6UyQKEayts0gGkocQIQ3bU",
+                "is_local": false,
+                "is_playable": true,
+                "name": "see you in hell",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6UyQKEayts0gGkocQIQ3bU"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:7sRtmBFmILBIybIywVhXQM"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dayhmhJfL4I8w1PuL9MqQ",
+            "id": "3dayhmhJfL4I8w1PuL9MqQ",
+            "name": "Tyson Yoshi",
+            "type": "artist",
+            "uri": "spotify:artist:3dayhmhJfL4I8w1PuL9MqQ"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Just Kidding Limited",
+            "type": "C"
+        },
+        {
+            "text": "2023 Just Kidding Limited",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "732131558777"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7sRtmBFmILBIybIywVhXQM",
+    "id": "7sRtmBFmILBIybIywVhXQM",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738365663bcfc138341136a138",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028365663bcfc138341136a138",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518365663bcfc138341136a138",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Just Kidding Limited",
+    "name": "see you in hell",
+    "popularity": 41,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7sRtmBFmILBIybIywVhXQM/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3dayhmhJfL4I8w1PuL9MqQ",
+                        "id": "3dayhmhJfL4I8w1PuL9MqQ",
+                        "name": "Tyson Yoshi",
+                        "type": "artist",
+                        "uri": "spotify:artist:3dayhmhJfL4I8w1PuL9MqQ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 172430,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6UyQKEayts0gGkocQIQ3bU",
+                "id": "6UyQKEayts0gGkocQIQ3bU",
+                "is_local": false,
+                "is_playable": true,
+                "name": "see you in hell",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6UyQKEayts0gGkocQIQ3bU"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:7sRtmBFmILBIybIywVhXQM"
+}

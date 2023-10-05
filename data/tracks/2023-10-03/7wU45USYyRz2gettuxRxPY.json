@@ -1,0 +1,29 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqDE7qDGCsyzJwohVaoX",
+            "id": "1zNqDE7qDGCsyzJwohVaoX",
+            "name": "Anne-Marie",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqDE7qDGCsyzJwohVaoX"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 142493,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7wU45USYyRz2gettuxRxPY"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7wU45USYyRz2gettuxRxPY",
+    "id": "7wU45USYyRz2gettuxRxPY",
+    "is_local": false,
+    "is_playable": true,
+    "name": "KILLS ME TO LOVE YOU",
+    "preview_url": "https://p.scdn.co/mp3-preview/2f5ea203b49bcf4d5d0e5a9147e2445bd8f0ff9c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:7wU45USYyRz2gettuxRxPY"
+}

@@ -1,0 +1,197 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ysBnLN6adcJ61Icq0KFk6",
+            "id": "6ysBnLN6adcJ61Icq0KFk6",
+            "name": "DEREK DALI",
+            "type": "artist",
+            "uri": "spotify:artist:6ysBnLN6adcJ61Icq0KFk6"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 UNIMAGINED",
+            "type": "C"
+        },
+        {
+            "text": "2023 UNIMAGINED",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "193017127515"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0r9CWKeNllgadGS079yej4"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0r9CWKeNllgadGS079yej4",
+    "id": "0r9CWKeNllgadGS079yej4",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a98dec2865635dcc31cdc866",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a98dec2865635dcc31cdc866",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a98dec2865635dcc31cdc866",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "88rising Records LLC",
+    "name": "TRIPPIN",
+    "popularity": 22,
+    "release_date": "2023-09-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0r9CWKeNllgadGS079yej4/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6ysBnLN6adcJ61Icq0KFk6",
+                        "id": "6ysBnLN6adcJ61Icq0KFk6",
+                        "name": "DEREK DALI",
+                        "type": "artist",
+                        "uri": "spotify:artist:6ysBnLN6adcJ61Icq0KFk6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197647,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3w45N7JMqsnYqko8VmQ9DS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3w45N7JMqsnYqko8VmQ9DS",
+                "id": "3w45N7JMqsnYqko8VmQ9DS",
+                "is_local": false,
+                "is_playable": true,
+                "name": "TRIPPIN",
+                "preview_url": "https://p.scdn.co/mp3-preview/638dfa6c77d909fa1d2ec0fa243528fa3c7ff451?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3w45N7JMqsnYqko8VmQ9DS"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:0r9CWKeNllgadGS079yej4"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ysBnLN6adcJ61Icq0KFk6",
+            "id": "6ysBnLN6adcJ61Icq0KFk6",
+            "name": "DEREK DALI",
+            "type": "artist",
+            "uri": "spotify:artist:6ysBnLN6adcJ61Icq0KFk6"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 UNIMAGINED",
+            "type": "C"
+        },
+        {
+            "text": "2023 UNIMAGINED",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "193017127515"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0r9CWKeNllgadGS079yej4"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0r9CWKeNllgadGS079yej4",
+    "id": "0r9CWKeNllgadGS079yej4",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a98dec2865635dcc31cdc866",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a98dec2865635dcc31cdc866",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a98dec2865635dcc31cdc866",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "88rising Records LLC",
+    "name": "TRIPPIN",
+    "popularity": 26,
+    "release_date": "2023-09-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0r9CWKeNllgadGS079yej4/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6ysBnLN6adcJ61Icq0KFk6",
+                        "id": "6ysBnLN6adcJ61Icq0KFk6",
+                        "name": "DEREK DALI",
+                        "type": "artist",
+                        "uri": "spotify:artist:6ysBnLN6adcJ61Icq0KFk6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197647,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3w45N7JMqsnYqko8VmQ9DS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3w45N7JMqsnYqko8VmQ9DS",
+                "id": "3w45N7JMqsnYqko8VmQ9DS",
+                "is_local": false,
+                "is_playable": true,
+                "name": "TRIPPIN",
+                "preview_url": "https://p.scdn.co/mp3-preview/638dfa6c77d909fa1d2ec0fa243528fa3c7ff451?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3w45N7JMqsnYqko8VmQ9DS"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:0r9CWKeNllgadGS079yej4"
+}

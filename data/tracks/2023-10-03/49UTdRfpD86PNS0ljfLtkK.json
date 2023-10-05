@@ -1,0 +1,29 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 225920,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/49UTdRfpD86PNS0ljfLtkK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/49UTdRfpD86PNS0ljfLtkK",
+    "id": "49UTdRfpD86PNS0ljfLtkK",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Live Like We\u2019re Dancing (Part II)",
+    "preview_url": "https://p.scdn.co/mp3-preview/9e7d071d59873c148584e1be8286c2f21964f3af?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:49UTdRfpD86PNS0ljfLtkK"
+}

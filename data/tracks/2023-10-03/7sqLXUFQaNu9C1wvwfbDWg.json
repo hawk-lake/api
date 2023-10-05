@@ -1,0 +1,29 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 299952,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7sqLXUFQaNu9C1wvwfbDWg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7sqLXUFQaNu9C1wvwfbDWg",
+    "id": "7sqLXUFQaNu9C1wvwfbDWg",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Get Back",
+    "preview_url": "https://p.scdn.co/mp3-preview/4a633ffce830702cc6f00ab5d74a783e5a3a0b75?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:7sqLXUFQaNu9C1wvwfbDWg"
+}

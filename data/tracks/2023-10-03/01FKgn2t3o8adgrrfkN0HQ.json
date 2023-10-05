@@ -1,0 +1,29 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+            },
+            "href": "https://api.spotify.com/v1/artists/79QUtAVxGAAoiWNlqBz9iy",
+            "id": "79QUtAVxGAAoiWNlqBz9iy",
+            "name": "Leigh-Anne",
+            "type": "artist",
+            "uri": "spotify:artist:79QUtAVxGAAoiWNlqBz9iy"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180131,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/01FKgn2t3o8adgrrfkN0HQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/01FKgn2t3o8adgrrfkN0HQ",
+    "id": "01FKgn2t3o8adgrrfkN0HQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Don't Say Love - R&B Version",
+    "preview_url": "https://p.scdn.co/mp3-preview/18c31eb0fc71c43f22333e74a3f132b23f97a7af?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:01FKgn2t3o8adgrrfkN0HQ"
+}
