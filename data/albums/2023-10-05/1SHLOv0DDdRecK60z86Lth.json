@@ -194,4 +194,102 @@
     },
     "type": "album",
     "uri": "spotify:album:1SHLOv0DDdRecK60z86Lth"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+            },
+            "href": "https://api.spotify.com/v1/artists/6YVMFz59CuY7ngCxTxjpxE",
+            "id": "6YVMFz59CuY7ngCxTxjpxE",
+            "name": "aespa",
+            "type": "artist",
+            "uri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 SM Entertainment, under exclusive license to Warner Records Inc.",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 SM Entertainment, under exclusive license to Warner Records Inc.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "888735944338"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/1SHLOv0DDdRecK60z86Lth",
+    "id": "1SHLOv0DDdRecK60z86Lth",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0240157e24ffc34938be2b5341",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485140157e24ffc34938be2b5341",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Warner Records",
+    "name": "Better Things",
+    "popularity": 73,
+    "release_date": "2023-08-18",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/1SHLOv0DDdRecK60z86Lth/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6YVMFz59CuY7ngCxTxjpxE",
+                        "id": "6YVMFz59CuY7ngCxTxjpxE",
+                        "name": "aespa",
+                        "type": "artist",
+                        "uri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203216,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6zZWoHlF2zNSLUNLvx4GUl",
+                "id": "6zZWoHlF2zNSLUNLvx4GUl",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Better Things",
+                "preview_url": "https://p.scdn.co/mp3-preview/54e10e7a50a44013ca75be6d0e27faf95a2b3f0f?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6zZWoHlF2zNSLUNLvx4GUl"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:1SHLOv0DDdRecK60z86Lth"
 }

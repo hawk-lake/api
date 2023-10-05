@@ -82,4 +82,144 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:0ttVAF5zheWZoLI3pURxWS"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+            "id": "0hDjKSKjl1DC7ovYTDJHe8",
+            "name": "Bruno Major",
+            "type": "artist",
+            "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 212052,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ttVAF5zheWZoLI3pURxWS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ttVAF5zheWZoLI3pURxWS",
+    "id": "0ttVAF5zheWZoLI3pURxWS",
+    "is_local": false,
+    "is_playable": true,
+    "name": "A Strange Kind Of Beautiful",
+    "preview_url": "https://p.scdn.co/mp3-preview/5762a897427b81d68967c1386d2c28c01b9714b6?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0ttVAF5zheWZoLI3pURxWS"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+            "id": "0hDjKSKjl1DC7ovYTDJHe8",
+            "name": "Bruno Major",
+            "type": "artist",
+            "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 212052,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ttVAF5zheWZoLI3pURxWS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ttVAF5zheWZoLI3pURxWS",
+    "id": "0ttVAF5zheWZoLI3pURxWS",
+    "is_local": false,
+    "is_playable": true,
+    "name": "A Strange Kind Of Beautiful",
+    "preview_url": "https://p.scdn.co/mp3-preview/5762a897427b81d68967c1386d2c28c01b9714b6?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0ttVAF5zheWZoLI3pURxWS"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+            "id": "0hDjKSKjl1DC7ovYTDJHe8",
+            "name": "Bruno Major",
+            "type": "artist",
+            "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 212052,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ttVAF5zheWZoLI3pURxWS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ttVAF5zheWZoLI3pURxWS",
+    "id": "0ttVAF5zheWZoLI3pURxWS",
+    "is_local": false,
+    "is_playable": true,
+    "name": "A Strange Kind Of Beautiful",
+    "preview_url": "https://p.scdn.co/mp3-preview/5762a897427b81d68967c1386d2c28c01b9714b6?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0ttVAF5zheWZoLI3pURxWS"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+            "id": "0hDjKSKjl1DC7ovYTDJHe8",
+            "name": "Bruno Major",
+            "type": "artist",
+            "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 212052,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ttVAF5zheWZoLI3pURxWS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ttVAF5zheWZoLI3pURxWS",
+    "id": "0ttVAF5zheWZoLI3pURxWS",
+    "is_local": false,
+    "is_playable": true,
+    "name": "A Strange Kind Of Beautiful",
+    "preview_url": "https://p.scdn.co/mp3-preview/5762a897427b81d68967c1386d2c28c01b9714b6?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0ttVAF5zheWZoLI3pURxWS"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+            "id": "0hDjKSKjl1DC7ovYTDJHe8",
+            "name": "Bruno Major",
+            "type": "artist",
+            "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 212052,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ttVAF5zheWZoLI3pURxWS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ttVAF5zheWZoLI3pURxWS",
+    "id": "0ttVAF5zheWZoLI3pURxWS",
+    "is_local": false,
+    "is_playable": true,
+    "name": "A Strange Kind Of Beautiful",
+    "preview_url": "https://p.scdn.co/mp3-preview/5762a897427b81d68967c1386d2c28c01b9714b6?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0ttVAF5zheWZoLI3pURxWS"
 }

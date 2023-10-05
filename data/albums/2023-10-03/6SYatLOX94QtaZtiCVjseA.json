@@ -390,4 +390,494 @@
     },
     "type": "album",
     "uri": "spotify:album:6SYatLOX94QtaZtiCVjseA"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Ec6c9lhFbsTfuwmIkhZa9",
+            "id": "7Ec6c9lhFbsTfuwmIkhZa9",
+            "name": "\u5b88\u591c\u4eba",
+            "type": "artist",
+            "uri": "spotify:artist:7Ec6c9lhFbsTfuwmIkhZa9"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 WiFi Music Limited",
+            "type": "C"
+        },
+        {
+            "text": "2023 WiFi Music Limited",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "4711232858227"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6SYatLOX94QtaZtiCVjseA"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6SYatLOX94QtaZtiCVjseA",
+    "id": "6SYatLOX94QtaZtiCVjseA",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273965451ea0979b4c450c29792",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02965451ea0979b4c450c29792",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851965451ea0979b4c450c29792",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "WiFi Music Limited",
+    "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
+    "popularity": 33,
+    "release_date": "2023-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6SYatLOX94QtaZtiCVjseA/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7Ec6c9lhFbsTfuwmIkhZa9",
+                        "id": "7Ec6c9lhFbsTfuwmIkhZa9",
+                        "name": "\u5b88\u591c\u4eba",
+                        "type": "artist",
+                        "uri": "spotify:artist:7Ec6c9lhFbsTfuwmIkhZa9"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 225156,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1sPe0BW8Ob7lZ1lTY5M44V"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1sPe0BW8Ob7lZ1lTY5M44V",
+                "id": "1sPe0BW8Ob7lZ1lTY5M44V",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
+                "preview_url": "https://p.scdn.co/mp3-preview/c16b94ffbdf918c728be670b6782d6af62d0b814?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1sPe0BW8Ob7lZ1lTY5M44V"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6SYatLOX94QtaZtiCVjseA"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Ec6c9lhFbsTfuwmIkhZa9",
+            "id": "7Ec6c9lhFbsTfuwmIkhZa9",
+            "name": "\u5b88\u591c\u4eba",
+            "type": "artist",
+            "uri": "spotify:artist:7Ec6c9lhFbsTfuwmIkhZa9"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 WiFi Music Limited",
+            "type": "C"
+        },
+        {
+            "text": "2023 WiFi Music Limited",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "4711232858227"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6SYatLOX94QtaZtiCVjseA"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6SYatLOX94QtaZtiCVjseA",
+    "id": "6SYatLOX94QtaZtiCVjseA",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273965451ea0979b4c450c29792",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02965451ea0979b4c450c29792",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851965451ea0979b4c450c29792",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "WiFi Music Limited",
+    "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
+    "popularity": 33,
+    "release_date": "2023-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6SYatLOX94QtaZtiCVjseA/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7Ec6c9lhFbsTfuwmIkhZa9",
+                        "id": "7Ec6c9lhFbsTfuwmIkhZa9",
+                        "name": "\u5b88\u591c\u4eba",
+                        "type": "artist",
+                        "uri": "spotify:artist:7Ec6c9lhFbsTfuwmIkhZa9"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 225156,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1sPe0BW8Ob7lZ1lTY5M44V"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1sPe0BW8Ob7lZ1lTY5M44V",
+                "id": "1sPe0BW8Ob7lZ1lTY5M44V",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
+                "preview_url": "https://p.scdn.co/mp3-preview/c16b94ffbdf918c728be670b6782d6af62d0b814?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1sPe0BW8Ob7lZ1lTY5M44V"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6SYatLOX94QtaZtiCVjseA"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Ec6c9lhFbsTfuwmIkhZa9",
+            "id": "7Ec6c9lhFbsTfuwmIkhZa9",
+            "name": "\u5b88\u591c\u4eba",
+            "type": "artist",
+            "uri": "spotify:artist:7Ec6c9lhFbsTfuwmIkhZa9"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 WiFi Music Limited",
+            "type": "C"
+        },
+        {
+            "text": "2023 WiFi Music Limited",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "4711232858227"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6SYatLOX94QtaZtiCVjseA"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6SYatLOX94QtaZtiCVjseA",
+    "id": "6SYatLOX94QtaZtiCVjseA",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273965451ea0979b4c450c29792",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02965451ea0979b4c450c29792",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851965451ea0979b4c450c29792",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "WiFi Music Limited",
+    "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
+    "popularity": 33,
+    "release_date": "2023-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6SYatLOX94QtaZtiCVjseA/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7Ec6c9lhFbsTfuwmIkhZa9",
+                        "id": "7Ec6c9lhFbsTfuwmIkhZa9",
+                        "name": "\u5b88\u591c\u4eba",
+                        "type": "artist",
+                        "uri": "spotify:artist:7Ec6c9lhFbsTfuwmIkhZa9"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 225156,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1sPe0BW8Ob7lZ1lTY5M44V"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1sPe0BW8Ob7lZ1lTY5M44V",
+                "id": "1sPe0BW8Ob7lZ1lTY5M44V",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
+                "preview_url": "https://p.scdn.co/mp3-preview/c16b94ffbdf918c728be670b6782d6af62d0b814?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1sPe0BW8Ob7lZ1lTY5M44V"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6SYatLOX94QtaZtiCVjseA"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Ec6c9lhFbsTfuwmIkhZa9",
+            "id": "7Ec6c9lhFbsTfuwmIkhZa9",
+            "name": "\u5b88\u591c\u4eba",
+            "type": "artist",
+            "uri": "spotify:artist:7Ec6c9lhFbsTfuwmIkhZa9"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 WiFi Music Limited",
+            "type": "C"
+        },
+        {
+            "text": "2023 WiFi Music Limited",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "4711232858227"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6SYatLOX94QtaZtiCVjseA"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6SYatLOX94QtaZtiCVjseA",
+    "id": "6SYatLOX94QtaZtiCVjseA",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273965451ea0979b4c450c29792",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02965451ea0979b4c450c29792",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851965451ea0979b4c450c29792",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "WiFi Music Limited",
+    "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
+    "popularity": 33,
+    "release_date": "2023-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6SYatLOX94QtaZtiCVjseA/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7Ec6c9lhFbsTfuwmIkhZa9",
+                        "id": "7Ec6c9lhFbsTfuwmIkhZa9",
+                        "name": "\u5b88\u591c\u4eba",
+                        "type": "artist",
+                        "uri": "spotify:artist:7Ec6c9lhFbsTfuwmIkhZa9"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 225156,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1sPe0BW8Ob7lZ1lTY5M44V"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1sPe0BW8Ob7lZ1lTY5M44V",
+                "id": "1sPe0BW8Ob7lZ1lTY5M44V",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
+                "preview_url": "https://p.scdn.co/mp3-preview/c16b94ffbdf918c728be670b6782d6af62d0b814?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1sPe0BW8Ob7lZ1lTY5M44V"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6SYatLOX94QtaZtiCVjseA"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Ec6c9lhFbsTfuwmIkhZa9",
+            "id": "7Ec6c9lhFbsTfuwmIkhZa9",
+            "name": "\u5b88\u591c\u4eba",
+            "type": "artist",
+            "uri": "spotify:artist:7Ec6c9lhFbsTfuwmIkhZa9"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 WiFi Music Limited",
+            "type": "C"
+        },
+        {
+            "text": "2023 WiFi Music Limited",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "4711232858227"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6SYatLOX94QtaZtiCVjseA"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6SYatLOX94QtaZtiCVjseA",
+    "id": "6SYatLOX94QtaZtiCVjseA",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273965451ea0979b4c450c29792",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02965451ea0979b4c450c29792",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851965451ea0979b4c450c29792",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "WiFi Music Limited",
+    "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
+    "popularity": 33,
+    "release_date": "2023-09-15",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6SYatLOX94QtaZtiCVjseA/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7Ec6c9lhFbsTfuwmIkhZa9",
+                        "id": "7Ec6c9lhFbsTfuwmIkhZa9",
+                        "name": "\u5b88\u591c\u4eba",
+                        "type": "artist",
+                        "uri": "spotify:artist:7Ec6c9lhFbsTfuwmIkhZa9"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 225156,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1sPe0BW8Ob7lZ1lTY5M44V"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1sPe0BW8Ob7lZ1lTY5M44V",
+                "id": "1sPe0BW8Ob7lZ1lTY5M44V",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
+                "preview_url": "https://p.scdn.co/mp3-preview/c16b94ffbdf918c728be670b6782d6af62d0b814?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1sPe0BW8Ob7lZ1lTY5M44V"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6SYatLOX94QtaZtiCVjseA"
 }

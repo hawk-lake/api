@@ -54,4 +54,32 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:5pclRrU254BhS94sYWeCxt"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
+            },
+            "href": "https://api.spotify.com/v1/artists/0W0w607z3JEA1vXLz9FVGw",
+            "id": "0W0w607z3JEA1vXLz9FVGw",
+            "name": "NCT DOJAEJUNG",
+            "type": "artist",
+            "uri": "spotify:artist:0W0w607z3JEA1vXLz9FVGw"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 203426,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5pclRrU254BhS94sYWeCxt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5pclRrU254BhS94sYWeCxt",
+    "id": "5pclRrU254BhS94sYWeCxt",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Can We Go Back",
+    "preview_url": "https://p.scdn.co/mp3-preview/b7c7b0deca4ab6efa99c15e22fe18b82d3843760?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:5pclRrU254BhS94sYWeCxt"
 }

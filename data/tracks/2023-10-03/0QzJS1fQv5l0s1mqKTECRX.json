@@ -82,4 +82,144 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:0QzJS1fQv5l0s1mqKTECRX"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 104253,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0QzJS1fQv5l0s1mqKTECRX",
+    "id": "0QzJS1fQv5l0s1mqKTECRX",
+    "is_local": false,
+    "is_playable": true,
+    "name": "When Memories Snow",
+    "preview_url": "https://p.scdn.co/mp3-preview/6346834551bad067db235c1e494fdc0a4b09f375?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0QzJS1fQv5l0s1mqKTECRX"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 104253,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0QzJS1fQv5l0s1mqKTECRX",
+    "id": "0QzJS1fQv5l0s1mqKTECRX",
+    "is_local": false,
+    "is_playable": true,
+    "name": "When Memories Snow",
+    "preview_url": "https://p.scdn.co/mp3-preview/6346834551bad067db235c1e494fdc0a4b09f375?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0QzJS1fQv5l0s1mqKTECRX"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 104253,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0QzJS1fQv5l0s1mqKTECRX",
+    "id": "0QzJS1fQv5l0s1mqKTECRX",
+    "is_local": false,
+    "is_playable": true,
+    "name": "When Memories Snow",
+    "preview_url": "https://p.scdn.co/mp3-preview/6346834551bad067db235c1e494fdc0a4b09f375?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0QzJS1fQv5l0s1mqKTECRX"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 104253,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0QzJS1fQv5l0s1mqKTECRX",
+    "id": "0QzJS1fQv5l0s1mqKTECRX",
+    "is_local": false,
+    "is_playable": true,
+    "name": "When Memories Snow",
+    "preview_url": "https://p.scdn.co/mp3-preview/6346834551bad067db235c1e494fdc0a4b09f375?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0QzJS1fQv5l0s1mqKTECRX"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 104253,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0QzJS1fQv5l0s1mqKTECRX",
+    "id": "0QzJS1fQv5l0s1mqKTECRX",
+    "is_local": false,
+    "is_playable": true,
+    "name": "When Memories Snow",
+    "preview_url": "https://p.scdn.co/mp3-preview/6346834551bad067db235c1e494fdc0a4b09f375?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0QzJS1fQv5l0s1mqKTECRX"
 }

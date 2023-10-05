@@ -708,4 +708,359 @@
     },
     "type": "album",
     "uri": "spotify:album:1GIkapvyAw5lwdNw66hI44"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+            },
+            "href": "https://api.spotify.com/v1/artists/7F1iAHRYxR3MY7yAEuFqgL",
+            "id": "7F1iAHRYxR3MY7yAEuFqgL",
+            "name": "JIHYO",
+            "type": "artist",
+            "uri": "spotify:artist:7F1iAHRYxR3MY7yAEuFqgL"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 JYP Entertainment",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 JYP Entertainment",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8809928950860"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/1GIkapvyAw5lwdNw66hI44",
+    "id": "1GIkapvyAw5lwdNw66hI44",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27392b61d0844e0d9fbfff2ca43",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0292b61d0844e0d9fbfff2ca43",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485192b61d0844e0d9fbfff2ca43",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Republic Records \u2013 JIHYO (TWICE)",
+    "name": "ZONE",
+    "popularity": 76,
+    "release_date": "2023-08-18",
+    "release_date_precision": "day",
+    "total_tracks": 7,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/1GIkapvyAw5lwdNw66hI44/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7F1iAHRYxR3MY7yAEuFqgL",
+                        "id": "7F1iAHRYxR3MY7yAEuFqgL",
+                        "name": "JIHYO",
+                        "type": "artist",
+                        "uri": "spotify:artist:7F1iAHRYxR3MY7yAEuFqgL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 185920,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3gafQxekHAbM52PxdX9SDR"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3gafQxekHAbM52PxdX9SDR",
+                "id": "3gafQxekHAbM52PxdX9SDR",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/4Cyf87ul1le0xTWRFBoYd7",
+                    "id": "4Cyf87ul1le0xTWRFBoYd7",
+                    "type": "track",
+                    "uri": "spotify:track:4Cyf87ul1le0xTWRFBoYd7"
+                },
+                "name": "Killin\u2019 Me Good",
+                "preview_url": "https://p.scdn.co/mp3-preview/ab213438ca8286cb66bd381516a4e89fb03830ed?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3gafQxekHAbM52PxdX9SDR"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7F1iAHRYxR3MY7yAEuFqgL",
+                        "id": "7F1iAHRYxR3MY7yAEuFqgL",
+                        "name": "JIHYO",
+                        "type": "artist",
+                        "uri": "spotify:artist:7F1iAHRYxR3MY7yAEuFqgL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6fWVd57NKTalqvmjRd2t8Z",
+                        "id": "6fWVd57NKTalqvmjRd2t8Z",
+                        "name": "24kGoldn",
+                        "type": "artist",
+                        "uri": "spotify:artist:6fWVd57NKTalqvmjRd2t8Z"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 170626,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3cWwRhaX0YpWnqIpn22Jqt"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3cWwRhaX0YpWnqIpn22Jqt",
+                "id": "3cWwRhaX0YpWnqIpn22Jqt",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/28mFFxAwJ9cx9j7z9yu64R"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/28mFFxAwJ9cx9j7z9yu64R",
+                    "id": "28mFFxAwJ9cx9j7z9yu64R",
+                    "type": "track",
+                    "uri": "spotify:track:28mFFxAwJ9cx9j7z9yu64R"
+                },
+                "name": "Talkin\u2019 About It (Feat. 24kGoldn)",
+                "preview_url": "https://p.scdn.co/mp3-preview/cdc11d3c4d1b8e26a3d6588d765e49224722f842?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:3cWwRhaX0YpWnqIpn22Jqt"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7F1iAHRYxR3MY7yAEuFqgL",
+                        "id": "7F1iAHRYxR3MY7yAEuFqgL",
+                        "name": "JIHYO",
+                        "type": "artist",
+                        "uri": "spotify:artist:7F1iAHRYxR3MY7yAEuFqgL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 155013,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/03y500JjW66qgJb6LFQuFf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/03y500JjW66qgJb6LFQuFf",
+                "id": "03y500JjW66qgJb6LFQuFf",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0aUNIY0nITYfGH1ooJBRvR"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/0aUNIY0nITYfGH1ooJBRvR",
+                    "id": "0aUNIY0nITYfGH1ooJBRvR",
+                    "type": "track",
+                    "uri": "spotify:track:0aUNIY0nITYfGH1ooJBRvR"
+                },
+                "name": "Closer",
+                "preview_url": "https://p.scdn.co/mp3-preview/b0d4b7ad7816568fcc4666f2cf737dec75a844bf?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:03y500JjW66qgJb6LFQuFf"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7F1iAHRYxR3MY7yAEuFqgL",
+                        "id": "7F1iAHRYxR3MY7yAEuFqgL",
+                        "name": "JIHYO",
+                        "type": "artist",
+                        "uri": "spotify:artist:7F1iAHRYxR3MY7yAEuFqgL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194320,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0PUqjpgowMROMbnVmlxXiN"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0PUqjpgowMROMbnVmlxXiN",
+                "id": "0PUqjpgowMROMbnVmlxXiN",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6ulJY8ia7SDCPO4Lnge1Pu",
+                    "id": "6ulJY8ia7SDCPO4Lnge1Pu",
+                    "type": "track",
+                    "uri": "spotify:track:6ulJY8ia7SDCPO4Lnge1Pu"
+                },
+                "name": "Wishing On You",
+                "preview_url": "https://p.scdn.co/mp3-preview/115b5d6e635608d0bcbe649d894f49e6365fbdcc?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:0PUqjpgowMROMbnVmlxXiN"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7F1iAHRYxR3MY7yAEuFqgL",
+                        "id": "7F1iAHRYxR3MY7yAEuFqgL",
+                        "name": "JIHYO",
+                        "type": "artist",
+                        "uri": "spotify:artist:7F1iAHRYxR3MY7yAEuFqgL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5dCvSnVduaFleCnyy98JMo",
+                        "id": "5dCvSnVduaFleCnyy98JMo",
+                        "name": "HEIZE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5dCvSnVduaFleCnyy98JMo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222600,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/24H2S00MPOOhhcqB0RjfgA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/24H2S00MPOOhhcqB0RjfgA",
+                "id": "24H2S00MPOOhhcqB0RjfgA",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/2cxtmZSUIdiIahNTPjhggE",
+                    "id": "2cxtmZSUIdiIahNTPjhggE",
+                    "type": "track",
+                    "uri": "spotify:track:2cxtmZSUIdiIahNTPjhggE"
+                },
+                "name": "Don't Wanna Go Back (Duet with \ud5e4\uc774\uc988)",
+                "preview_url": "https://p.scdn.co/mp3-preview/16de255bc66d064d39bac226b7b0d2b865717d45?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:24H2S00MPOOhhcqB0RjfgA"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7F1iAHRYxR3MY7yAEuFqgL",
+                        "id": "7F1iAHRYxR3MY7yAEuFqgL",
+                        "name": "JIHYO",
+                        "type": "artist",
+                        "uri": "spotify:artist:7F1iAHRYxR3MY7yAEuFqgL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 177466,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4jMwFfhWrI2U1fNbEXzStj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4jMwFfhWrI2U1fNbEXzStj",
+                "id": "4jMwFfhWrI2U1fNbEXzStj",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0qcMgoijmPzjpdqin1VQlc"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/0qcMgoijmPzjpdqin1VQlc",
+                    "id": "0qcMgoijmPzjpdqin1VQlc",
+                    "type": "track",
+                    "uri": "spotify:track:0qcMgoijmPzjpdqin1VQlc"
+                },
+                "name": "Room",
+                "preview_url": "https://p.scdn.co/mp3-preview/bd40ff22729ab3c60948d49840530ac0a0420010?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:4jMwFfhWrI2U1fNbEXzStj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7F1iAHRYxR3MY7yAEuFqgL",
+                        "id": "7F1iAHRYxR3MY7yAEuFqgL",
+                        "name": "JIHYO",
+                        "type": "artist",
+                        "uri": "spotify:artist:7F1iAHRYxR3MY7yAEuFqgL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215466,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4fXmGGRKyldjmek508Afnb"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4fXmGGRKyldjmek508Afnb",
+                "id": "4fXmGGRKyldjmek508Afnb",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/0g6LJdn1CGodzl5zDB2IHi",
+                    "id": "0g6LJdn1CGodzl5zDB2IHi",
+                    "type": "track",
+                    "uri": "spotify:track:0g6LJdn1CGodzl5zDB2IHi"
+                },
+                "name": "Nightmare",
+                "preview_url": "https://p.scdn.co/mp3-preview/5789942eb048daea14a8f338511accda0e495a33?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:4fXmGGRKyldjmek508Afnb"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 7
+    },
+    "type": "album",
+    "uri": "spotify:album:1GIkapvyAw5lwdNw66hI44"
 }

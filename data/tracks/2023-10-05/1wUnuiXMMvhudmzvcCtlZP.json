@@ -54,4 +54,32 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:1wUnuiXMMvhudmzvcCtlZP"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HvZYsbFfjnjFrWF950C9d",
+            "id": "6HvZYsbFfjnjFrWF950C9d",
+            "name": "NewJeans",
+            "type": "artist",
+            "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 36226,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1wUnuiXMMvhudmzvcCtlZP",
+    "id": "1wUnuiXMMvhudmzvcCtlZP",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Get Up",
+    "preview_url": "https://p.scdn.co/mp3-preview/1426c96f964a5318bee74ca95c6cae3e145c6e4c?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:1wUnuiXMMvhudmzvcCtlZP"
 }

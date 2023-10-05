@@ -82,4 +82,144 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:3J1auU8gpxaDB7rEBYihwa"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ClmHgLorY9RUCIvsTdT7A",
+            "id": "1ClmHgLorY9RUCIvsTdT7A",
+            "name": "BEKA",
+            "type": "artist",
+            "uri": "spotify:artist:1ClmHgLorY9RUCIvsTdT7A"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 175667,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3J1auU8gpxaDB7rEBYihwa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3J1auU8gpxaDB7rEBYihwa",
+    "id": "3J1auU8gpxaDB7rEBYihwa",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Tears",
+    "preview_url": "https://p.scdn.co/mp3-preview/3cbda73e465c2e57c811f7c2ce4f03c63c3a1327?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3J1auU8gpxaDB7rEBYihwa"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ClmHgLorY9RUCIvsTdT7A",
+            "id": "1ClmHgLorY9RUCIvsTdT7A",
+            "name": "BEKA",
+            "type": "artist",
+            "uri": "spotify:artist:1ClmHgLorY9RUCIvsTdT7A"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 175667,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3J1auU8gpxaDB7rEBYihwa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3J1auU8gpxaDB7rEBYihwa",
+    "id": "3J1auU8gpxaDB7rEBYihwa",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Tears",
+    "preview_url": "https://p.scdn.co/mp3-preview/3cbda73e465c2e57c811f7c2ce4f03c63c3a1327?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3J1auU8gpxaDB7rEBYihwa"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ClmHgLorY9RUCIvsTdT7A",
+            "id": "1ClmHgLorY9RUCIvsTdT7A",
+            "name": "BEKA",
+            "type": "artist",
+            "uri": "spotify:artist:1ClmHgLorY9RUCIvsTdT7A"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 175667,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3J1auU8gpxaDB7rEBYihwa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3J1auU8gpxaDB7rEBYihwa",
+    "id": "3J1auU8gpxaDB7rEBYihwa",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Tears",
+    "preview_url": "https://p.scdn.co/mp3-preview/3cbda73e465c2e57c811f7c2ce4f03c63c3a1327?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3J1auU8gpxaDB7rEBYihwa"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ClmHgLorY9RUCIvsTdT7A",
+            "id": "1ClmHgLorY9RUCIvsTdT7A",
+            "name": "BEKA",
+            "type": "artist",
+            "uri": "spotify:artist:1ClmHgLorY9RUCIvsTdT7A"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 175667,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3J1auU8gpxaDB7rEBYihwa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3J1auU8gpxaDB7rEBYihwa",
+    "id": "3J1auU8gpxaDB7rEBYihwa",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Tears",
+    "preview_url": "https://p.scdn.co/mp3-preview/3cbda73e465c2e57c811f7c2ce4f03c63c3a1327?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3J1auU8gpxaDB7rEBYihwa"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ClmHgLorY9RUCIvsTdT7A",
+            "id": "1ClmHgLorY9RUCIvsTdT7A",
+            "name": "BEKA",
+            "type": "artist",
+            "uri": "spotify:artist:1ClmHgLorY9RUCIvsTdT7A"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 175667,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3J1auU8gpxaDB7rEBYihwa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3J1auU8gpxaDB7rEBYihwa",
+    "id": "3J1auU8gpxaDB7rEBYihwa",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Tears",
+    "preview_url": "https://p.scdn.co/mp3-preview/3cbda73e465c2e57c811f7c2ce4f03c63c3a1327?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3J1auU8gpxaDB7rEBYihwa"
 }

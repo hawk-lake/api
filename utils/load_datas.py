@@ -49,8 +49,8 @@ def albums(cnt):
     from files import file_json
 
     conn = open_connector()
-    # nowdate = datetime.now().strftime("%Y-%m-%d")
-    nowdate = "2023-10-03"
+    nowdate = datetime.now().strftime("%Y-%m-%d")
+    # nowdate = "2023-10-03"
     try: os.makedirs(f"{data_dir}/albums/{nowdate}")
     except: pass
     try: os.makedirs(f"{data_dir}/tracks/{nowdate}")
@@ -214,4 +214,5 @@ def browse_featured_playlists(cnt):
 
 if __name__ == "__main__":
     # browse_new_releases(3)
-    browse_featured_playlists(1)
+    albums(1)
+    # browse_featured_playlists(1)

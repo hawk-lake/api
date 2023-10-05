@@ -82,4 +82,144 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:3plxwjwJXQ7dyRFzJEyQ9r"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3X2DdnmoANw8Rg8luHyZQb",
+            "id": "3X2DdnmoANw8Rg8luHyZQb",
+            "name": "Romy",
+            "type": "artist",
+            "uri": "spotify:artist:3X2DdnmoANw8Rg8luHyZQb"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 190720,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3plxwjwJXQ7dyRFzJEyQ9r"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3plxwjwJXQ7dyRFzJEyQ9r",
+    "id": "3plxwjwJXQ7dyRFzJEyQ9r",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Sea",
+    "preview_url": "https://p.scdn.co/mp3-preview/33743f8365d414cb19ac5dc8d581546049e8dad7?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3plxwjwJXQ7dyRFzJEyQ9r"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3X2DdnmoANw8Rg8luHyZQb",
+            "id": "3X2DdnmoANw8Rg8luHyZQb",
+            "name": "Romy",
+            "type": "artist",
+            "uri": "spotify:artist:3X2DdnmoANw8Rg8luHyZQb"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 190720,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3plxwjwJXQ7dyRFzJEyQ9r"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3plxwjwJXQ7dyRFzJEyQ9r",
+    "id": "3plxwjwJXQ7dyRFzJEyQ9r",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Sea",
+    "preview_url": "https://p.scdn.co/mp3-preview/33743f8365d414cb19ac5dc8d581546049e8dad7?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3plxwjwJXQ7dyRFzJEyQ9r"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3X2DdnmoANw8Rg8luHyZQb",
+            "id": "3X2DdnmoANw8Rg8luHyZQb",
+            "name": "Romy",
+            "type": "artist",
+            "uri": "spotify:artist:3X2DdnmoANw8Rg8luHyZQb"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 190720,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3plxwjwJXQ7dyRFzJEyQ9r"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3plxwjwJXQ7dyRFzJEyQ9r",
+    "id": "3plxwjwJXQ7dyRFzJEyQ9r",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Sea",
+    "preview_url": "https://p.scdn.co/mp3-preview/33743f8365d414cb19ac5dc8d581546049e8dad7?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3plxwjwJXQ7dyRFzJEyQ9r"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3X2DdnmoANw8Rg8luHyZQb",
+            "id": "3X2DdnmoANw8Rg8luHyZQb",
+            "name": "Romy",
+            "type": "artist",
+            "uri": "spotify:artist:3X2DdnmoANw8Rg8luHyZQb"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 190720,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3plxwjwJXQ7dyRFzJEyQ9r"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3plxwjwJXQ7dyRFzJEyQ9r",
+    "id": "3plxwjwJXQ7dyRFzJEyQ9r",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Sea",
+    "preview_url": "https://p.scdn.co/mp3-preview/33743f8365d414cb19ac5dc8d581546049e8dad7?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3plxwjwJXQ7dyRFzJEyQ9r"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3X2DdnmoANw8Rg8luHyZQb",
+            "id": "3X2DdnmoANw8Rg8luHyZQb",
+            "name": "Romy",
+            "type": "artist",
+            "uri": "spotify:artist:3X2DdnmoANw8Rg8luHyZQb"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 190720,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3plxwjwJXQ7dyRFzJEyQ9r"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3plxwjwJXQ7dyRFzJEyQ9r",
+    "id": "3plxwjwJXQ7dyRFzJEyQ9r",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Sea",
+    "preview_url": "https://p.scdn.co/mp3-preview/33743f8365d414cb19ac5dc8d581546049e8dad7?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3plxwjwJXQ7dyRFzJEyQ9r"
 }

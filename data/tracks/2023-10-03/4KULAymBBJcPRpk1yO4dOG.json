@@ -112,4 +112,194 @@
     "track_number": 11,
     "type": "track",
     "uri": "spotify:track:4KULAymBBJcPRpk1yO4dOG"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+            },
+            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+            "id": "70kkdajctXSbqSMJbQO424",
+            "name": "Kacey Musgraves",
+            "type": "artist",
+            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 227195,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4KULAymBBJcPRpk1yO4dOG",
+    "id": "4KULAymBBJcPRpk1yO4dOG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I Remember Everything (feat. Kacey Musgraves)",
+    "preview_url": "https://p.scdn.co/mp3-preview/22b240f7ef2eff38bd12fb0c94dfea5e1d70e20a?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:4KULAymBBJcPRpk1yO4dOG"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+            },
+            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+            "id": "70kkdajctXSbqSMJbQO424",
+            "name": "Kacey Musgraves",
+            "type": "artist",
+            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 227195,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4KULAymBBJcPRpk1yO4dOG",
+    "id": "4KULAymBBJcPRpk1yO4dOG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I Remember Everything (feat. Kacey Musgraves)",
+    "preview_url": "https://p.scdn.co/mp3-preview/22b240f7ef2eff38bd12fb0c94dfea5e1d70e20a?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:4KULAymBBJcPRpk1yO4dOG"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+            },
+            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+            "id": "70kkdajctXSbqSMJbQO424",
+            "name": "Kacey Musgraves",
+            "type": "artist",
+            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 227195,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4KULAymBBJcPRpk1yO4dOG",
+    "id": "4KULAymBBJcPRpk1yO4dOG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I Remember Everything (feat. Kacey Musgraves)",
+    "preview_url": "https://p.scdn.co/mp3-preview/22b240f7ef2eff38bd12fb0c94dfea5e1d70e20a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:4KULAymBBJcPRpk1yO4dOG"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+            },
+            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+            "id": "70kkdajctXSbqSMJbQO424",
+            "name": "Kacey Musgraves",
+            "type": "artist",
+            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 227195,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4KULAymBBJcPRpk1yO4dOG",
+    "id": "4KULAymBBJcPRpk1yO4dOG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I Remember Everything (feat. Kacey Musgraves)",
+    "preview_url": "https://p.scdn.co/mp3-preview/22b240f7ef2eff38bd12fb0c94dfea5e1d70e20a?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:4KULAymBBJcPRpk1yO4dOG"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+            },
+            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+            "id": "70kkdajctXSbqSMJbQO424",
+            "name": "Kacey Musgraves",
+            "type": "artist",
+            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 227195,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4KULAymBBJcPRpk1yO4dOG",
+    "id": "4KULAymBBJcPRpk1yO4dOG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I Remember Everything (feat. Kacey Musgraves)",
+    "preview_url": "https://p.scdn.co/mp3-preview/22b240f7ef2eff38bd12fb0c94dfea5e1d70e20a?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:4KULAymBBJcPRpk1yO4dOG"
 }

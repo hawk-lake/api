@@ -506,4 +506,639 @@
     },
     "type": "album",
     "uri": "spotify:album:6EIC2a6khsh1h1DfG8WlBW"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+            },
+            "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+            "id": "1QAJqy2dA3ihHBFIHRphZj",
+            "name": "Cigarettes After Sex",
+            "type": "artist",
+            "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Spanish Prayers under exclusive license to Partisan Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Spanish Prayers under exclusive license to Partisan Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "0720841145509"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6EIC2a6khsh1h1DfG8WlBW",
+    "id": "6EIC2a6khsh1h1DfG8WlBW",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27387c0f27bc1663b7c563d2489",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0287c0f27bc1663b7c563d2489",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485187c0f27bc1663b7c563d2489",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Partisan Records",
+    "name": "Bubblegum",
+    "popularity": 66,
+    "release_date": "2023-07-18",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6EIC2a6khsh1h1DfG8WlBW/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+                        "id": "1QAJqy2dA3ihHBFIHRphZj",
+                        "name": "Cigarettes After Sex",
+                        "type": "artist",
+                        "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 279133,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7oEQMrBcT9kvJF1mJpk5IP",
+                "id": "7oEQMrBcT9kvJF1mJpk5IP",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bubblegum",
+                "preview_url": "https://p.scdn.co/mp3-preview/4ab0f1df56229ed305f6706e7133512e3b9421e6?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7oEQMrBcT9kvJF1mJpk5IP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+                        "id": "1QAJqy2dA3ihHBFIHRphZj",
+                        "name": "Cigarettes After Sex",
+                        "type": "artist",
+                        "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 362973,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1xbOdb9kv5YKBIzJSrKNEy",
+                "id": "1xbOdb9kv5YKBIzJSrKNEy",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stop Waiting",
+                "preview_url": "https://p.scdn.co/mp3-preview/68735f2b70f7d2393e38da87e556d6d9c4140d4d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1xbOdb9kv5YKBIzJSrKNEy"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:6EIC2a6khsh1h1DfG8WlBW"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+            },
+            "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+            "id": "1QAJqy2dA3ihHBFIHRphZj",
+            "name": "Cigarettes After Sex",
+            "type": "artist",
+            "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Spanish Prayers under exclusive license to Partisan Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Spanish Prayers under exclusive license to Partisan Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "0720841145509"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6EIC2a6khsh1h1DfG8WlBW",
+    "id": "6EIC2a6khsh1h1DfG8WlBW",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27387c0f27bc1663b7c563d2489",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0287c0f27bc1663b7c563d2489",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485187c0f27bc1663b7c563d2489",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Partisan Records",
+    "name": "Bubblegum",
+    "popularity": 66,
+    "release_date": "2023-07-18",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6EIC2a6khsh1h1DfG8WlBW/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+                        "id": "1QAJqy2dA3ihHBFIHRphZj",
+                        "name": "Cigarettes After Sex",
+                        "type": "artist",
+                        "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 279133,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7oEQMrBcT9kvJF1mJpk5IP",
+                "id": "7oEQMrBcT9kvJF1mJpk5IP",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bubblegum",
+                "preview_url": "https://p.scdn.co/mp3-preview/4ab0f1df56229ed305f6706e7133512e3b9421e6?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7oEQMrBcT9kvJF1mJpk5IP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+                        "id": "1QAJqy2dA3ihHBFIHRphZj",
+                        "name": "Cigarettes After Sex",
+                        "type": "artist",
+                        "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 362973,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1xbOdb9kv5YKBIzJSrKNEy",
+                "id": "1xbOdb9kv5YKBIzJSrKNEy",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stop Waiting",
+                "preview_url": "https://p.scdn.co/mp3-preview/68735f2b70f7d2393e38da87e556d6d9c4140d4d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1xbOdb9kv5YKBIzJSrKNEy"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:6EIC2a6khsh1h1DfG8WlBW"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+            },
+            "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+            "id": "1QAJqy2dA3ihHBFIHRphZj",
+            "name": "Cigarettes After Sex",
+            "type": "artist",
+            "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Spanish Prayers under exclusive license to Partisan Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Spanish Prayers under exclusive license to Partisan Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "0720841145509"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6EIC2a6khsh1h1DfG8WlBW",
+    "id": "6EIC2a6khsh1h1DfG8WlBW",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27387c0f27bc1663b7c563d2489",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0287c0f27bc1663b7c563d2489",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485187c0f27bc1663b7c563d2489",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Partisan Records",
+    "name": "Bubblegum",
+    "popularity": 66,
+    "release_date": "2023-07-18",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6EIC2a6khsh1h1DfG8WlBW/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+                        "id": "1QAJqy2dA3ihHBFIHRphZj",
+                        "name": "Cigarettes After Sex",
+                        "type": "artist",
+                        "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 279133,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7oEQMrBcT9kvJF1mJpk5IP",
+                "id": "7oEQMrBcT9kvJF1mJpk5IP",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bubblegum",
+                "preview_url": "https://p.scdn.co/mp3-preview/4ab0f1df56229ed305f6706e7133512e3b9421e6?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7oEQMrBcT9kvJF1mJpk5IP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+                        "id": "1QAJqy2dA3ihHBFIHRphZj",
+                        "name": "Cigarettes After Sex",
+                        "type": "artist",
+                        "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 362973,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1xbOdb9kv5YKBIzJSrKNEy",
+                "id": "1xbOdb9kv5YKBIzJSrKNEy",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stop Waiting",
+                "preview_url": "https://p.scdn.co/mp3-preview/68735f2b70f7d2393e38da87e556d6d9c4140d4d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1xbOdb9kv5YKBIzJSrKNEy"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:6EIC2a6khsh1h1DfG8WlBW"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+            },
+            "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+            "id": "1QAJqy2dA3ihHBFIHRphZj",
+            "name": "Cigarettes After Sex",
+            "type": "artist",
+            "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Spanish Prayers under exclusive license to Partisan Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Spanish Prayers under exclusive license to Partisan Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "0720841145509"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6EIC2a6khsh1h1DfG8WlBW",
+    "id": "6EIC2a6khsh1h1DfG8WlBW",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27387c0f27bc1663b7c563d2489",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0287c0f27bc1663b7c563d2489",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485187c0f27bc1663b7c563d2489",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Partisan Records",
+    "name": "Bubblegum",
+    "popularity": 66,
+    "release_date": "2023-07-18",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6EIC2a6khsh1h1DfG8WlBW/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+                        "id": "1QAJqy2dA3ihHBFIHRphZj",
+                        "name": "Cigarettes After Sex",
+                        "type": "artist",
+                        "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 279133,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7oEQMrBcT9kvJF1mJpk5IP",
+                "id": "7oEQMrBcT9kvJF1mJpk5IP",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bubblegum",
+                "preview_url": "https://p.scdn.co/mp3-preview/4ab0f1df56229ed305f6706e7133512e3b9421e6?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7oEQMrBcT9kvJF1mJpk5IP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+                        "id": "1QAJqy2dA3ihHBFIHRphZj",
+                        "name": "Cigarettes After Sex",
+                        "type": "artist",
+                        "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 362973,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1xbOdb9kv5YKBIzJSrKNEy",
+                "id": "1xbOdb9kv5YKBIzJSrKNEy",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stop Waiting",
+                "preview_url": "https://p.scdn.co/mp3-preview/68735f2b70f7d2393e38da87e556d6d9c4140d4d?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1xbOdb9kv5YKBIzJSrKNEy"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:6EIC2a6khsh1h1DfG8WlBW"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+            },
+            "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+            "id": "1QAJqy2dA3ihHBFIHRphZj",
+            "name": "Cigarettes After Sex",
+            "type": "artist",
+            "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Spanish Prayers under exclusive license to Partisan Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Spanish Prayers under exclusive license to Partisan Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "0720841145509"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6EIC2a6khsh1h1DfG8WlBW",
+    "id": "6EIC2a6khsh1h1DfG8WlBW",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27387c0f27bc1663b7c563d2489",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0287c0f27bc1663b7c563d2489",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485187c0f27bc1663b7c563d2489",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Partisan Records",
+    "name": "Bubblegum",
+    "popularity": 66,
+    "release_date": "2023-07-18",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6EIC2a6khsh1h1DfG8WlBW/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+                        "id": "1QAJqy2dA3ihHBFIHRphZj",
+                        "name": "Cigarettes After Sex",
+                        "type": "artist",
+                        "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 279133,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7oEQMrBcT9kvJF1mJpk5IP",
+                "id": "7oEQMrBcT9kvJF1mJpk5IP",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bubblegum",
+                "preview_url": "https://p.scdn.co/mp3-preview/4ab0f1df56229ed305f6706e7133512e3b9421e6?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7oEQMrBcT9kvJF1mJpk5IP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+                        "id": "1QAJqy2dA3ihHBFIHRphZj",
+                        "name": "Cigarettes After Sex",
+                        "type": "artist",
+                        "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 362973,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1xbOdb9kv5YKBIzJSrKNEy",
+                "id": "1xbOdb9kv5YKBIzJSrKNEy",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stop Waiting",
+                "preview_url": "https://p.scdn.co/mp3-preview/68735f2b70f7d2393e38da87e556d6d9c4140d4d?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1xbOdb9kv5YKBIzJSrKNEy"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:6EIC2a6khsh1h1DfG8WlBW"
 }

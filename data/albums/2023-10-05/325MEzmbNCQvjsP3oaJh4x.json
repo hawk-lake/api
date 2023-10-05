@@ -252,4 +252,131 @@
     },
     "type": "album",
     "uri": "spotify:album:325MEzmbNCQvjsP3oaJh4x"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+            },
+            "href": "https://api.spotify.com/v1/artists/01XYiBYaoMJcNhPokrg0l0",
+            "id": "01XYiBYaoMJcNhPokrg0l0",
+            "name": "STAYC",
+            "type": "artist",
+            "uri": "spotify:artist:01XYiBYaoMJcNhPokrg0l0"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 High Up Entertainment,under license to Kakao Entertainment",
+            "type": "C"
+        },
+        {
+            "text": "2023 High Up Entertainment,under license to Kakao Entertainment",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8804775264672"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/325MEzmbNCQvjsP3oaJh4x",
+    "id": "325MEzmbNCQvjsP3oaJh4x",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ebbb6b66adf9f2392bb86733",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ebbb6b66adf9f2392bb86733",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "High Up Entertainment",
+    "name": "Teddy Bear",
+    "popularity": 59,
+    "release_date": "2023-02-14",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/325MEzmbNCQvjsP3oaJh4x/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/01XYiBYaoMJcNhPokrg0l0",
+                        "id": "01XYiBYaoMJcNhPokrg0l0",
+                        "name": "STAYC",
+                        "type": "artist",
+                        "uri": "spotify:artist:01XYiBYaoMJcNhPokrg0l0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 189773,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4kSDi21MeOoSvpZs6MveI9",
+                "id": "4kSDi21MeOoSvpZs6MveI9",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Teddy Bear",
+                "preview_url": "https://p.scdn.co/mp3-preview/32f0104f2fd3689e5ea195e2d808a68b3de67013?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4kSDi21MeOoSvpZs6MveI9"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/01XYiBYaoMJcNhPokrg0l0",
+                        "id": "01XYiBYaoMJcNhPokrg0l0",
+                        "name": "STAYC",
+                        "type": "artist",
+                        "uri": "spotify:artist:01XYiBYaoMJcNhPokrg0l0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178293,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7KqISJoXbapng18bmmG0oa"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7KqISJoXbapng18bmmG0oa",
+                "id": "7KqISJoXbapng18bmmG0oa",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Poppy (Korean Ver.)",
+                "preview_url": "https://p.scdn.co/mp3-preview/38710440ad77fa6e232f63f41147c1fac70ef2ed?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7KqISJoXbapng18bmmG0oa"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:325MEzmbNCQvjsP3oaJh4x"
 }

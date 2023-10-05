@@ -54,4 +54,32 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:0bMoNdAnxNR0OuQbGDovrr"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+            },
+            "href": "https://api.spotify.com/v1/artists/4SpbR6yFEvexJuaBpgAU5p",
+            "id": "4SpbR6yFEvexJuaBpgAU5p",
+            "name": "LE SSERAFIM",
+            "type": "artist",
+            "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 184444,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0bMoNdAnxNR0OuQbGDovrr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0bMoNdAnxNR0OuQbGDovrr",
+    "id": "0bMoNdAnxNR0OuQbGDovrr",
+    "is_local": false,
+    "is_playable": true,
+    "name": "ANTIFRAGILE",
+    "preview_url": "https://p.scdn.co/mp3-preview/c34779ecfb7b14b69518e8489df2227b02272772?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:0bMoNdAnxNR0OuQbGDovrr"
 }

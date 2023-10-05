@@ -112,4 +112,194 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:3itgPtXSu4I9mr2QD6yrzP"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+            },
+            "href": "https://api.spotify.com/v1/artists/3oVcF3VdpMuvMvLLyHPT4t",
+            "id": "3oVcF3VdpMuvMvLLyHPT4t",
+            "name": "Sierra Ferrell",
+            "type": "artist",
+            "uri": "spotify:artist:3oVcF3VdpMuvMvLLyHPT4t"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216026,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3itgPtXSu4I9mr2QD6yrzP",
+    "id": "3itgPtXSu4I9mr2QD6yrzP",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Holy Roller (feat. Sierra Ferrell)",
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:3itgPtXSu4I9mr2QD6yrzP"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+            },
+            "href": "https://api.spotify.com/v1/artists/3oVcF3VdpMuvMvLLyHPT4t",
+            "id": "3oVcF3VdpMuvMvLLyHPT4t",
+            "name": "Sierra Ferrell",
+            "type": "artist",
+            "uri": "spotify:artist:3oVcF3VdpMuvMvLLyHPT4t"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216026,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3itgPtXSu4I9mr2QD6yrzP",
+    "id": "3itgPtXSu4I9mr2QD6yrzP",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Holy Roller (feat. Sierra Ferrell)",
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:3itgPtXSu4I9mr2QD6yrzP"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+            },
+            "href": "https://api.spotify.com/v1/artists/3oVcF3VdpMuvMvLLyHPT4t",
+            "id": "3oVcF3VdpMuvMvLLyHPT4t",
+            "name": "Sierra Ferrell",
+            "type": "artist",
+            "uri": "spotify:artist:3oVcF3VdpMuvMvLLyHPT4t"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216026,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3itgPtXSu4I9mr2QD6yrzP",
+    "id": "3itgPtXSu4I9mr2QD6yrzP",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Holy Roller (feat. Sierra Ferrell)",
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:3itgPtXSu4I9mr2QD6yrzP"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+            },
+            "href": "https://api.spotify.com/v1/artists/3oVcF3VdpMuvMvLLyHPT4t",
+            "id": "3oVcF3VdpMuvMvLLyHPT4t",
+            "name": "Sierra Ferrell",
+            "type": "artist",
+            "uri": "spotify:artist:3oVcF3VdpMuvMvLLyHPT4t"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216026,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3itgPtXSu4I9mr2QD6yrzP",
+    "id": "3itgPtXSu4I9mr2QD6yrzP",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Holy Roller (feat. Sierra Ferrell)",
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:3itgPtXSu4I9mr2QD6yrzP"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+            },
+            "href": "https://api.spotify.com/v1/artists/3oVcF3VdpMuvMvLLyHPT4t",
+            "id": "3oVcF3VdpMuvMvLLyHPT4t",
+            "name": "Sierra Ferrell",
+            "type": "artist",
+            "uri": "spotify:artist:3oVcF3VdpMuvMvLLyHPT4t"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216026,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3itgPtXSu4I9mr2QD6yrzP",
+    "id": "3itgPtXSu4I9mr2QD6yrzP",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Holy Roller (feat. Sierra Ferrell)",
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:3itgPtXSu4I9mr2QD6yrzP"
 }

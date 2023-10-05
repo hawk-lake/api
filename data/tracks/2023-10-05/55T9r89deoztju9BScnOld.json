@@ -54,4 +54,32 @@
     "track_number": 14,
     "type": "track",
     "uri": "spotify:track:55T9r89deoztju9BScnOld"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GwM5CHqhWXzG3l5kzRSAS",
+            "id": "6GwM5CHqhWXzG3l5kzRSAS",
+            "name": "Younha",
+            "type": "artist",
+            "uri": "spotify:artist:6GwM5CHqhWXzG3l5kzRSAS"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 245706,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/55T9r89deoztju9BScnOld"
+    },
+    "href": "https://api.spotify.com/v1/tracks/55T9r89deoztju9BScnOld",
+    "id": "55T9r89deoztju9BScnOld",
+    "is_local": false,
+    "is_playable": true,
+    "name": "How U doing",
+    "preview_url": "https://p.scdn.co/mp3-preview/c82bf99547abe4eed4ec543c01ea17c07908ae9c?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:55T9r89deoztju9BScnOld"
 }

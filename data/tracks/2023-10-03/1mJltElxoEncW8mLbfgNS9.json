@@ -82,4 +82,144 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:1mJltElxoEncW8mLbfgNS9"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 238586,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/1mJltElxoEncW8mLbfgNS9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1mJltElxoEncW8mLbfgNS9",
+    "id": "1mJltElxoEncW8mLbfgNS9",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Give It Up For Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/7d430669abdade1d2ad8688d36438d9ebf201d90?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1mJltElxoEncW8mLbfgNS9"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 238586,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/1mJltElxoEncW8mLbfgNS9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1mJltElxoEncW8mLbfgNS9",
+    "id": "1mJltElxoEncW8mLbfgNS9",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Give It Up For Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/7d430669abdade1d2ad8688d36438d9ebf201d90?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1mJltElxoEncW8mLbfgNS9"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 238586,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/1mJltElxoEncW8mLbfgNS9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1mJltElxoEncW8mLbfgNS9",
+    "id": "1mJltElxoEncW8mLbfgNS9",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Give It Up For Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/7d430669abdade1d2ad8688d36438d9ebf201d90?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1mJltElxoEncW8mLbfgNS9"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 238586,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/1mJltElxoEncW8mLbfgNS9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1mJltElxoEncW8mLbfgNS9",
+    "id": "1mJltElxoEncW8mLbfgNS9",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Give It Up For Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/7d430669abdade1d2ad8688d36438d9ebf201d90?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1mJltElxoEncW8mLbfgNS9"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+            },
+            "href": "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+            "id": "06knYh538h5SI7OAEF8ek3",
+            "name": "Georgia",
+            "type": "artist",
+            "uri": "spotify:artist:06knYh538h5SI7OAEF8ek3"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 238586,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/1mJltElxoEncW8mLbfgNS9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1mJltElxoEncW8mLbfgNS9",
+    "id": "1mJltElxoEncW8mLbfgNS9",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Give It Up For Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/7d430669abdade1d2ad8688d36438d9ebf201d90?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1mJltElxoEncW8mLbfgNS9"
 }

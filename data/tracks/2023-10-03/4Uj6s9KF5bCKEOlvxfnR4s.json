@@ -82,4 +82,144 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:4Uj6s9KF5bCKEOlvxfnR4s"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+            },
+            "href": "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+            "id": "1CoZyIx7UvdxT5c8UkMzHd",
+            "name": "Jorja Smith",
+            "type": "artist",
+            "uri": "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 145893,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Uj6s9KF5bCKEOlvxfnR4s"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Uj6s9KF5bCKEOlvxfnR4s",
+    "id": "4Uj6s9KF5bCKEOlvxfnR4s",
+    "is_local": false,
+    "is_playable": true,
+    "name": "GO GO GO",
+    "preview_url": "https://p.scdn.co/mp3-preview/24f6dd15948bd41a2391b570ca748d7872133181?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4Uj6s9KF5bCKEOlvxfnR4s"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+            },
+            "href": "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+            "id": "1CoZyIx7UvdxT5c8UkMzHd",
+            "name": "Jorja Smith",
+            "type": "artist",
+            "uri": "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 145893,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Uj6s9KF5bCKEOlvxfnR4s"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Uj6s9KF5bCKEOlvxfnR4s",
+    "id": "4Uj6s9KF5bCKEOlvxfnR4s",
+    "is_local": false,
+    "is_playable": true,
+    "name": "GO GO GO",
+    "preview_url": "https://p.scdn.co/mp3-preview/24f6dd15948bd41a2391b570ca748d7872133181?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4Uj6s9KF5bCKEOlvxfnR4s"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+            },
+            "href": "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+            "id": "1CoZyIx7UvdxT5c8UkMzHd",
+            "name": "Jorja Smith",
+            "type": "artist",
+            "uri": "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 145893,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Uj6s9KF5bCKEOlvxfnR4s"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Uj6s9KF5bCKEOlvxfnR4s",
+    "id": "4Uj6s9KF5bCKEOlvxfnR4s",
+    "is_local": false,
+    "is_playable": true,
+    "name": "GO GO GO",
+    "preview_url": "https://p.scdn.co/mp3-preview/24f6dd15948bd41a2391b570ca748d7872133181?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4Uj6s9KF5bCKEOlvxfnR4s"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+            },
+            "href": "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+            "id": "1CoZyIx7UvdxT5c8UkMzHd",
+            "name": "Jorja Smith",
+            "type": "artist",
+            "uri": "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 145893,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Uj6s9KF5bCKEOlvxfnR4s"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Uj6s9KF5bCKEOlvxfnR4s",
+    "id": "4Uj6s9KF5bCKEOlvxfnR4s",
+    "is_local": false,
+    "is_playable": true,
+    "name": "GO GO GO",
+    "preview_url": "https://p.scdn.co/mp3-preview/24f6dd15948bd41a2391b570ca748d7872133181?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4Uj6s9KF5bCKEOlvxfnR4s"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+            },
+            "href": "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+            "id": "1CoZyIx7UvdxT5c8UkMzHd",
+            "name": "Jorja Smith",
+            "type": "artist",
+            "uri": "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 145893,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Uj6s9KF5bCKEOlvxfnR4s"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Uj6s9KF5bCKEOlvxfnR4s",
+    "id": "4Uj6s9KF5bCKEOlvxfnR4s",
+    "is_local": false,
+    "is_playable": true,
+    "name": "GO GO GO",
+    "preview_url": "https://p.scdn.co/mp3-preview/24f6dd15948bd41a2391b570ca748d7872133181?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4Uj6s9KF5bCKEOlvxfnR4s"
 }

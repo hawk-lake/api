@@ -82,4 +82,144 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:5btq1AKgTSpdq6069DinBp"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+            "id": "0IwZVmMMGE7nNXS7vN9SIo",
+            "name": "MISAMO",
+            "type": "artist",
+            "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 197080,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5btq1AKgTSpdq6069DinBp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5btq1AKgTSpdq6069DinBp",
+    "id": "5btq1AKgTSpdq6069DinBp",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Funny Valentine",
+    "preview_url": "https://p.scdn.co/mp3-preview/84c03a91b28a531e62e6fc9bd5319926d2d6dfe8?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5btq1AKgTSpdq6069DinBp"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+            "id": "0IwZVmMMGE7nNXS7vN9SIo",
+            "name": "MISAMO",
+            "type": "artist",
+            "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 197080,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5btq1AKgTSpdq6069DinBp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5btq1AKgTSpdq6069DinBp",
+    "id": "5btq1AKgTSpdq6069DinBp",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Funny Valentine",
+    "preview_url": "https://p.scdn.co/mp3-preview/84c03a91b28a531e62e6fc9bd5319926d2d6dfe8?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5btq1AKgTSpdq6069DinBp"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+            "id": "0IwZVmMMGE7nNXS7vN9SIo",
+            "name": "MISAMO",
+            "type": "artist",
+            "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 197080,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5btq1AKgTSpdq6069DinBp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5btq1AKgTSpdq6069DinBp",
+    "id": "5btq1AKgTSpdq6069DinBp",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Funny Valentine",
+    "preview_url": "https://p.scdn.co/mp3-preview/84c03a91b28a531e62e6fc9bd5319926d2d6dfe8?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5btq1AKgTSpdq6069DinBp"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+            "id": "0IwZVmMMGE7nNXS7vN9SIo",
+            "name": "MISAMO",
+            "type": "artist",
+            "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 197080,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5btq1AKgTSpdq6069DinBp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5btq1AKgTSpdq6069DinBp",
+    "id": "5btq1AKgTSpdq6069DinBp",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Funny Valentine",
+    "preview_url": "https://p.scdn.co/mp3-preview/84c03a91b28a531e62e6fc9bd5319926d2d6dfe8?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5btq1AKgTSpdq6069DinBp"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IwZVmMMGE7nNXS7vN9SIo",
+            "id": "0IwZVmMMGE7nNXS7vN9SIo",
+            "name": "MISAMO",
+            "type": "artist",
+            "uri": "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 197080,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5btq1AKgTSpdq6069DinBp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5btq1AKgTSpdq6069DinBp",
+    "id": "5btq1AKgTSpdq6069DinBp",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Funny Valentine",
+    "preview_url": "https://p.scdn.co/mp3-preview/84c03a91b28a531e62e6fc9bd5319926d2d6dfe8?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5btq1AKgTSpdq6069DinBp"
 }

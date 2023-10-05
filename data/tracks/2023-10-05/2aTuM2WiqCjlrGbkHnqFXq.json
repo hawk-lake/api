@@ -72,4 +72,41 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:2aTuM2WiqCjlrGbkHnqFXq"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+            },
+            "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+            "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+            "name": "Parc Jae Jung",
+            "type": "artist",
+            "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 276037,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2aTuM2WiqCjlrGbkHnqFXq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2aTuM2WiqCjlrGbkHnqFXq",
+    "id": "2aTuM2WiqCjlrGbkHnqFXq",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6WOIUFQa6sc5dhZNjJz3Zq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6WOIUFQa6sc5dhZNjJz3Zq",
+        "id": "6WOIUFQa6sc5dhZNjJz3Zq",
+        "type": "track",
+        "uri": "spotify:track:6WOIUFQa6sc5dhZNjJz3Zq"
+    },
+    "name": "Dear My Family",
+    "preview_url": "https://p.scdn.co/mp3-preview/7c2b1c8fc1bce3a696b860ce0db48ae198f8e7e4?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:2aTuM2WiqCjlrGbkHnqFXq"
 }

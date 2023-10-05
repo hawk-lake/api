@@ -54,4 +54,32 @@
     "track_number": 13,
     "type": "track",
     "uri": "spotify:track:05RlBHEZg1RmL9DnPgv9Qq"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+            },
+            "href": "https://api.spotify.com/v1/artists/4SpbR6yFEvexJuaBpgAU5p",
+            "id": "4SpbR6yFEvexJuaBpgAU5p",
+            "name": "LE SSERAFIM",
+            "type": "artist",
+            "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 198232,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/05RlBHEZg1RmL9DnPgv9Qq",
+    "id": "05RlBHEZg1RmL9DnPgv9Qq",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Fire in the belly",
+    "preview_url": "https://p.scdn.co/mp3-preview/c0bd70ca0da4a71cded304dc470e73d9788126ca?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:05RlBHEZg1RmL9DnPgv9Qq"
 }

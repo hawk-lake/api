@@ -470,4 +470,594 @@
     },
     "type": "album",
     "uri": "spotify:album:7K3BWpksmH4L7BoqUdhZrL"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+            "id": "4oLeXFyACqeem2VImYeBFe",
+            "name": "Fred again..",
+            "type": "artist",
+            "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+            },
+            "href": "https://api.spotify.com/v1/artists/6l7R1jntPahGxwJt7Tky8h",
+            "id": "6l7R1jntPahGxwJt7Tky8h",
+            "name": "Obongjayar",
+            "type": "artist",
+            "uri": "spotify:artist:6l7R1jntPahGxwJt7Tky8h"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Under exclusive licence to Warner Music UK Limited .An Atlantic Records UK release, \u00a9 2023 Fred Gibson",
+            "type": "C"
+        },
+        {
+            "text": "Under exclusive licence to Warner Music UK Limited .An Atlantic Records UK release., \u2117 2023 Fred Gibson",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197770555"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7K3BWpksmH4L7BoqUdhZrL",
+    "id": "7K3BWpksmH4L7BoqUdhZrL",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f14e70dbc29485778e114039",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f14e70dbc29485778e114039",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f14e70dbc29485778e114039",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records UK",
+    "name": "adore u",
+    "popularity": 76,
+    "release_date": "2023-08-11",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7K3BWpksmH4L7BoqUdhZrL/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+                        "id": "4oLeXFyACqeem2VImYeBFe",
+                        "name": "Fred again..",
+                        "type": "artist",
+                        "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6l7R1jntPahGxwJt7Tky8h",
+                        "id": "6l7R1jntPahGxwJt7Tky8h",
+                        "name": "Obongjayar",
+                        "type": "artist",
+                        "uri": "spotify:artist:6l7R1jntPahGxwJt7Tky8h"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 220653,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3YgtkOxZsTuaZdL8McA1FQ",
+                "id": "3YgtkOxZsTuaZdL8McA1FQ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "adore u",
+                "preview_url": "https://p.scdn.co/mp3-preview/49ddf22bfe3925899cbb9ecf5d5157525becdcb4?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3YgtkOxZsTuaZdL8McA1FQ"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:7K3BWpksmH4L7BoqUdhZrL"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+            "id": "4oLeXFyACqeem2VImYeBFe",
+            "name": "Fred again..",
+            "type": "artist",
+            "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+            },
+            "href": "https://api.spotify.com/v1/artists/6l7R1jntPahGxwJt7Tky8h",
+            "id": "6l7R1jntPahGxwJt7Tky8h",
+            "name": "Obongjayar",
+            "type": "artist",
+            "uri": "spotify:artist:6l7R1jntPahGxwJt7Tky8h"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Under exclusive licence to Warner Music UK Limited .An Atlantic Records UK release, \u00a9 2023 Fred Gibson",
+            "type": "C"
+        },
+        {
+            "text": "Under exclusive licence to Warner Music UK Limited .An Atlantic Records UK release., \u2117 2023 Fred Gibson",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197770555"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7K3BWpksmH4L7BoqUdhZrL",
+    "id": "7K3BWpksmH4L7BoqUdhZrL",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f14e70dbc29485778e114039",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f14e70dbc29485778e114039",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f14e70dbc29485778e114039",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records UK",
+    "name": "adore u",
+    "popularity": 76,
+    "release_date": "2023-08-11",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7K3BWpksmH4L7BoqUdhZrL/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+                        "id": "4oLeXFyACqeem2VImYeBFe",
+                        "name": "Fred again..",
+                        "type": "artist",
+                        "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6l7R1jntPahGxwJt7Tky8h",
+                        "id": "6l7R1jntPahGxwJt7Tky8h",
+                        "name": "Obongjayar",
+                        "type": "artist",
+                        "uri": "spotify:artist:6l7R1jntPahGxwJt7Tky8h"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 220653,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3YgtkOxZsTuaZdL8McA1FQ",
+                "id": "3YgtkOxZsTuaZdL8McA1FQ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "adore u",
+                "preview_url": "https://p.scdn.co/mp3-preview/49ddf22bfe3925899cbb9ecf5d5157525becdcb4?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3YgtkOxZsTuaZdL8McA1FQ"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:7K3BWpksmH4L7BoqUdhZrL"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+            "id": "4oLeXFyACqeem2VImYeBFe",
+            "name": "Fred again..",
+            "type": "artist",
+            "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+            },
+            "href": "https://api.spotify.com/v1/artists/6l7R1jntPahGxwJt7Tky8h",
+            "id": "6l7R1jntPahGxwJt7Tky8h",
+            "name": "Obongjayar",
+            "type": "artist",
+            "uri": "spotify:artist:6l7R1jntPahGxwJt7Tky8h"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Under exclusive licence to Warner Music UK Limited .An Atlantic Records UK release, \u00a9 2023 Fred Gibson",
+            "type": "C"
+        },
+        {
+            "text": "Under exclusive licence to Warner Music UK Limited .An Atlantic Records UK release., \u2117 2023 Fred Gibson",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197770555"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7K3BWpksmH4L7BoqUdhZrL",
+    "id": "7K3BWpksmH4L7BoqUdhZrL",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f14e70dbc29485778e114039",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f14e70dbc29485778e114039",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f14e70dbc29485778e114039",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records UK",
+    "name": "adore u",
+    "popularity": 76,
+    "release_date": "2023-08-11",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7K3BWpksmH4L7BoqUdhZrL/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+                        "id": "4oLeXFyACqeem2VImYeBFe",
+                        "name": "Fred again..",
+                        "type": "artist",
+                        "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6l7R1jntPahGxwJt7Tky8h",
+                        "id": "6l7R1jntPahGxwJt7Tky8h",
+                        "name": "Obongjayar",
+                        "type": "artist",
+                        "uri": "spotify:artist:6l7R1jntPahGxwJt7Tky8h"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 220653,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3YgtkOxZsTuaZdL8McA1FQ",
+                "id": "3YgtkOxZsTuaZdL8McA1FQ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "adore u",
+                "preview_url": "https://p.scdn.co/mp3-preview/49ddf22bfe3925899cbb9ecf5d5157525becdcb4?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3YgtkOxZsTuaZdL8McA1FQ"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:7K3BWpksmH4L7BoqUdhZrL"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+            "id": "4oLeXFyACqeem2VImYeBFe",
+            "name": "Fred again..",
+            "type": "artist",
+            "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+            },
+            "href": "https://api.spotify.com/v1/artists/6l7R1jntPahGxwJt7Tky8h",
+            "id": "6l7R1jntPahGxwJt7Tky8h",
+            "name": "Obongjayar",
+            "type": "artist",
+            "uri": "spotify:artist:6l7R1jntPahGxwJt7Tky8h"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Under exclusive licence to Warner Music UK Limited .An Atlantic Records UK release, \u00a9 2023 Fred Gibson",
+            "type": "C"
+        },
+        {
+            "text": "Under exclusive licence to Warner Music UK Limited .An Atlantic Records UK release., \u2117 2023 Fred Gibson",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197770555"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7K3BWpksmH4L7BoqUdhZrL",
+    "id": "7K3BWpksmH4L7BoqUdhZrL",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f14e70dbc29485778e114039",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f14e70dbc29485778e114039",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f14e70dbc29485778e114039",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records UK",
+    "name": "adore u",
+    "popularity": 76,
+    "release_date": "2023-08-11",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7K3BWpksmH4L7BoqUdhZrL/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+                        "id": "4oLeXFyACqeem2VImYeBFe",
+                        "name": "Fred again..",
+                        "type": "artist",
+                        "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6l7R1jntPahGxwJt7Tky8h",
+                        "id": "6l7R1jntPahGxwJt7Tky8h",
+                        "name": "Obongjayar",
+                        "type": "artist",
+                        "uri": "spotify:artist:6l7R1jntPahGxwJt7Tky8h"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 220653,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3YgtkOxZsTuaZdL8McA1FQ",
+                "id": "3YgtkOxZsTuaZdL8McA1FQ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "adore u",
+                "preview_url": "https://p.scdn.co/mp3-preview/49ddf22bfe3925899cbb9ecf5d5157525becdcb4?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3YgtkOxZsTuaZdL8McA1FQ"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:7K3BWpksmH4L7BoqUdhZrL"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+            "id": "4oLeXFyACqeem2VImYeBFe",
+            "name": "Fred again..",
+            "type": "artist",
+            "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+            },
+            "href": "https://api.spotify.com/v1/artists/6l7R1jntPahGxwJt7Tky8h",
+            "id": "6l7R1jntPahGxwJt7Tky8h",
+            "name": "Obongjayar",
+            "type": "artist",
+            "uri": "spotify:artist:6l7R1jntPahGxwJt7Tky8h"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "Under exclusive licence to Warner Music UK Limited .An Atlantic Records UK release, \u00a9 2023 Fred Gibson",
+            "type": "C"
+        },
+        {
+            "text": "Under exclusive licence to Warner Music UK Limited .An Atlantic Records UK release., \u2117 2023 Fred Gibson",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197770555"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7K3BWpksmH4L7BoqUdhZrL",
+    "id": "7K3BWpksmH4L7BoqUdhZrL",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f14e70dbc29485778e114039",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f14e70dbc29485778e114039",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f14e70dbc29485778e114039",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records UK",
+    "name": "adore u",
+    "popularity": 76,
+    "release_date": "2023-08-11",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7K3BWpksmH4L7BoqUdhZrL/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+                        "id": "4oLeXFyACqeem2VImYeBFe",
+                        "name": "Fred again..",
+                        "type": "artist",
+                        "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6l7R1jntPahGxwJt7Tky8h",
+                        "id": "6l7R1jntPahGxwJt7Tky8h",
+                        "name": "Obongjayar",
+                        "type": "artist",
+                        "uri": "spotify:artist:6l7R1jntPahGxwJt7Tky8h"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 220653,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3YgtkOxZsTuaZdL8McA1FQ",
+                "id": "3YgtkOxZsTuaZdL8McA1FQ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "adore u",
+                "preview_url": "https://p.scdn.co/mp3-preview/49ddf22bfe3925899cbb9ecf5d5157525becdcb4?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3YgtkOxZsTuaZdL8McA1FQ"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:7K3BWpksmH4L7BoqUdhZrL"
 }

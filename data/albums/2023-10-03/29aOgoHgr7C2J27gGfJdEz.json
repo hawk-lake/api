@@ -2278,4 +2278,2854 @@
     },
     "type": "album",
     "uri": "spotify:album:29aOgoHgr7C2J27gGfJdEz"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+            "id": "1VBflYyxBhnDc9uVib98rw",
+            "name": "Icona Pop",
+            "type": "artist",
+            "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(P) 2023 TEN Music Group under exclusive license to Ultra Records, LLC",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "196871255134"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/29aOgoHgr7C2J27gGfJdEz",
+    "id": "29aOgoHgr7C2J27gGfJdEz",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f8c3812f2ce29f1feadcf94",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020f8c3812f2ce29f1feadcf94",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510f8c3812f2ce29f1feadcf94",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Ultra Records, LLC",
+    "name": "Club Romantech",
+    "popularity": 58,
+    "release_date": "2023-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/29aOgoHgr7C2J27gGfJdEz/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 143081,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/16Cv47YFbROCj4fzuxo7Z6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/16Cv47YFbROCj4fzuxo7Z6",
+                "id": "16Cv47YFbROCj4fzuxo7Z6",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Fall In Love",
+                "preview_url": "https://p.scdn.co/mp3-preview/63921c7c8edcc222b81a2c23f172610f98a3bda0?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:16Cv47YFbROCj4fzuxo7Z6"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6DgP9otnZw5z6daOntINxp",
+                        "id": "6DgP9otnZw5z6daOntINxp",
+                        "name": "Joel Corry",
+                        "type": "artist",
+                        "uri": "spotify:artist:6DgP9otnZw5z6daOntINxp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2T8o1YNgbgsE41xb62AlRY",
+                        "id": "2T8o1YNgbgsE41xb62AlRY",
+                        "name": "Rain Radio",
+                        "type": "artist",
+                        "uri": "spotify:artist:2T8o1YNgbgsE41xb62AlRY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159375,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1fGxLrKKG1L5ZkZUZdPq9Y"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1fGxLrKKG1L5ZkZUZdPq9Y",
+                "id": "1fGxLrKKG1L5ZkZUZdPq9Y",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Desire",
+                "preview_url": "https://p.scdn.co/mp3-preview/8774b36e4882dd08fc20172609225f74f0e2a8e1?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1fGxLrKKG1L5ZkZUZdPq9Y"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0sWPIrlMZlHFkDBYkciO3X",
+                        "id": "0sWPIrlMZlHFkDBYkciO3X",
+                        "name": "Yaeger",
+                        "type": "artist",
+                        "uri": "spotify:artist:0sWPIrlMZlHFkDBYkciO3X"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167566,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3dz4u1zKY8aPrVDLPhqTVQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3dz4u1zKY8aPrVDLPhqTVQ",
+                "id": "3dz4u1zKY8aPrVDLPhqTVQ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Shit We Do For Love",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3dz4u1zKY8aPrVDLPhqTVQ"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167362,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5aRfCYxCCyeQWVn44WRb3u",
+                "id": "5aRfCYxCCyeQWVn44WRb3u",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stick Your Tongue Out",
+                "preview_url": "https://p.scdn.co/mp3-preview/7ebeb29f44c760b253fa260482a575e1fac152d0?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:5aRfCYxCCyeQWVn44WRb3u"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 131900,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4RxrCvRX84vljCJxmHlJfe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4RxrCvRX84vljCJxmHlJfe",
+                "id": "4RxrCvRX84vljCJxmHlJfe",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Make Your Mind Up Babe",
+                "preview_url": "https://p.scdn.co/mp3-preview/0b651f951d79039192c832811328869dbc99f581?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4RxrCvRX84vljCJxmHlJfe"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182712,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3sgkqN4taRWk71naI3v2o8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3sgkqN4taRWk71naI3v2o8",
+                "id": "3sgkqN4taRWk71naI3v2o8",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stockholm At Night",
+                "preview_url": "https://p.scdn.co/mp3-preview/9d712a79e8bb2379a38108fc2a6be430f45fbc20?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:3sgkqN4taRWk71naI3v2o8"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 171038,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2fSKrjBgI7XX3aQkMEXP5o"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2fSKrjBgI7XX3aQkMEXP5o",
+                "id": "2fSKrjBgI7XX3aQkMEXP5o",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Where Do We Go From Here",
+                "preview_url": "https://p.scdn.co/mp3-preview/d7a5ac10e6d2ad70c875080349bbdd33bb17a9cc?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:2fSKrjBgI7XX3aQkMEXP5o"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4sTQVOfp9vEMCemLw50sbu",
+                        "id": "4sTQVOfp9vEMCemLw50sbu",
+                        "name": "Galantis",
+                        "type": "artist",
+                        "uri": "spotify:artist:4sTQVOfp9vEMCemLw50sbu"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 146756,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0Ixspe1RBGwmEUWyKNFOBp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0Ixspe1RBGwmEUWyKNFOBp",
+                "id": "0Ixspe1RBGwmEUWyKNFOBp",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want You",
+                "preview_url": "https://p.scdn.co/mp3-preview/4ae183cef9b0fcea955fe1fcb1ec8324600eae0a?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:0Ixspe1RBGwmEUWyKNFOBp"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 154514,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5mgKiVOC1KqvhvYtHpjFLP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5mgKiVOC1KqvhvYtHpjFLP",
+                "id": "5mgKiVOC1KqvhvYtHpjFLP",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Loving You Ain't Easy",
+                "preview_url": "https://p.scdn.co/mp3-preview/998a493d7ef09dbe2ca74f11acd81c955ba985f5?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:5mgKiVOC1KqvhvYtHpjFLP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 150565,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/47YtnlvIitdzydzvuM8LWV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/47YtnlvIitdzydzvuM8LWV",
+                "id": "47YtnlvIitdzydzvuM8LWV",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Need You",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:47YtnlvIitdzydzvuM8LWV"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/09agIJMxCD2k87ys9Al0f0",
+                        "id": "09agIJMxCD2k87ys9Al0f0",
+                        "name": "VIZE",
+                        "type": "artist",
+                        "uri": "spotify:artist:09agIJMxCD2k87ys9Al0f0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 164739,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3NbX45R3yipn5PHlimaUme",
+                "id": "3NbX45R3yipn5PHlimaUme",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Off Of My Mind",
+                "preview_url": "https://p.scdn.co/mp3-preview/92e789ec8f1b3ac6affed4923c1c4d26ef4b7194?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:3NbX45R3yipn5PHlimaUme"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180517,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3wnxCQTgWn20fEddFZhDuo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3wnxCQTgWn20fEddFZhDuo",
+                "id": "3wnxCQTgWn20fEddFZhDuo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Faster",
+                "preview_url": "https://p.scdn.co/mp3-preview/392f3329d5b3e32d60b81589e90aa5a417dbf5b7?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:3wnxCQTgWn20fEddFZhDuo"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1cK2Abwkni7m51wJCSGllN",
+                        "id": "1cK2Abwkni7m51wJCSGllN",
+                        "name": "Ultra Nat\u00e9",
+                        "type": "artist",
+                        "uri": "spotify:artist:1cK2Abwkni7m51wJCSGllN"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167298,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7lNgJW7AB45KID91dVehej"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7lNgJW7AB45KID91dVehej",
+                "id": "7lNgJW7AB45KID91dVehej",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You're Free",
+                "preview_url": "https://p.scdn.co/mp3-preview/cb33694c987ef745abf978725c3c2bb9fcc00f7d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:7lNgJW7AB45KID91dVehej"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159045,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4tuQ3mhn4vN2hY6c6xTUKB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4tuQ3mhn4vN2hY6c6xTUKB",
+                "id": "4tuQ3mhn4vN2hY6c6xTUKB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Feels In My Body",
+                "preview_url": "https://p.scdn.co/mp3-preview/aaf0788fb6a7a6e3b6f70c16a7fd67e83ea948ad?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:4tuQ3mhn4vN2hY6c6xTUKB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+                        "id": "586uxXMyD5ObPuzjtrzO1Q",
+                        "name": "Sofi Tukker",
+                        "type": "artist",
+                        "uri": "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 199819,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17omvsCVn1Ada6YaUk0sb2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17omvsCVn1Ada6YaUk0sb2",
+                "id": "17omvsCVn1Ada6YaUk0sb2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Spa",
+                "preview_url": "https://p.scdn.co/mp3-preview/001f2b596fe2128645393ff9574c3520dbda61df?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:17omvsCVn1Ada6YaUk0sb2"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 15
+    },
+    "type": "album",
+    "uri": "spotify:album:29aOgoHgr7C2J27gGfJdEz"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+            "id": "1VBflYyxBhnDc9uVib98rw",
+            "name": "Icona Pop",
+            "type": "artist",
+            "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(P) 2023 TEN Music Group under exclusive license to Ultra Records, LLC",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "196871255134"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/29aOgoHgr7C2J27gGfJdEz",
+    "id": "29aOgoHgr7C2J27gGfJdEz",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f8c3812f2ce29f1feadcf94",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020f8c3812f2ce29f1feadcf94",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510f8c3812f2ce29f1feadcf94",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Ultra Records, LLC",
+    "name": "Club Romantech",
+    "popularity": 58,
+    "release_date": "2023-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/29aOgoHgr7C2J27gGfJdEz/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 143081,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/16Cv47YFbROCj4fzuxo7Z6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/16Cv47YFbROCj4fzuxo7Z6",
+                "id": "16Cv47YFbROCj4fzuxo7Z6",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Fall In Love",
+                "preview_url": "https://p.scdn.co/mp3-preview/63921c7c8edcc222b81a2c23f172610f98a3bda0?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:16Cv47YFbROCj4fzuxo7Z6"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6DgP9otnZw5z6daOntINxp",
+                        "id": "6DgP9otnZw5z6daOntINxp",
+                        "name": "Joel Corry",
+                        "type": "artist",
+                        "uri": "spotify:artist:6DgP9otnZw5z6daOntINxp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2T8o1YNgbgsE41xb62AlRY",
+                        "id": "2T8o1YNgbgsE41xb62AlRY",
+                        "name": "Rain Radio",
+                        "type": "artist",
+                        "uri": "spotify:artist:2T8o1YNgbgsE41xb62AlRY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159375,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1fGxLrKKG1L5ZkZUZdPq9Y"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1fGxLrKKG1L5ZkZUZdPq9Y",
+                "id": "1fGxLrKKG1L5ZkZUZdPq9Y",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Desire",
+                "preview_url": "https://p.scdn.co/mp3-preview/8774b36e4882dd08fc20172609225f74f0e2a8e1?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1fGxLrKKG1L5ZkZUZdPq9Y"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0sWPIrlMZlHFkDBYkciO3X",
+                        "id": "0sWPIrlMZlHFkDBYkciO3X",
+                        "name": "Yaeger",
+                        "type": "artist",
+                        "uri": "spotify:artist:0sWPIrlMZlHFkDBYkciO3X"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167566,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3dz4u1zKY8aPrVDLPhqTVQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3dz4u1zKY8aPrVDLPhqTVQ",
+                "id": "3dz4u1zKY8aPrVDLPhqTVQ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Shit We Do For Love",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3dz4u1zKY8aPrVDLPhqTVQ"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167362,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5aRfCYxCCyeQWVn44WRb3u",
+                "id": "5aRfCYxCCyeQWVn44WRb3u",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stick Your Tongue Out",
+                "preview_url": "https://p.scdn.co/mp3-preview/7ebeb29f44c760b253fa260482a575e1fac152d0?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:5aRfCYxCCyeQWVn44WRb3u"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 131900,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4RxrCvRX84vljCJxmHlJfe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4RxrCvRX84vljCJxmHlJfe",
+                "id": "4RxrCvRX84vljCJxmHlJfe",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Make Your Mind Up Babe",
+                "preview_url": "https://p.scdn.co/mp3-preview/0b651f951d79039192c832811328869dbc99f581?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4RxrCvRX84vljCJxmHlJfe"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182712,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3sgkqN4taRWk71naI3v2o8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3sgkqN4taRWk71naI3v2o8",
+                "id": "3sgkqN4taRWk71naI3v2o8",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stockholm At Night",
+                "preview_url": "https://p.scdn.co/mp3-preview/9d712a79e8bb2379a38108fc2a6be430f45fbc20?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:3sgkqN4taRWk71naI3v2o8"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 171038,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2fSKrjBgI7XX3aQkMEXP5o"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2fSKrjBgI7XX3aQkMEXP5o",
+                "id": "2fSKrjBgI7XX3aQkMEXP5o",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Where Do We Go From Here",
+                "preview_url": "https://p.scdn.co/mp3-preview/d7a5ac10e6d2ad70c875080349bbdd33bb17a9cc?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:2fSKrjBgI7XX3aQkMEXP5o"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4sTQVOfp9vEMCemLw50sbu",
+                        "id": "4sTQVOfp9vEMCemLw50sbu",
+                        "name": "Galantis",
+                        "type": "artist",
+                        "uri": "spotify:artist:4sTQVOfp9vEMCemLw50sbu"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 146756,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0Ixspe1RBGwmEUWyKNFOBp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0Ixspe1RBGwmEUWyKNFOBp",
+                "id": "0Ixspe1RBGwmEUWyKNFOBp",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want You",
+                "preview_url": "https://p.scdn.co/mp3-preview/4ae183cef9b0fcea955fe1fcb1ec8324600eae0a?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:0Ixspe1RBGwmEUWyKNFOBp"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 154514,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5mgKiVOC1KqvhvYtHpjFLP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5mgKiVOC1KqvhvYtHpjFLP",
+                "id": "5mgKiVOC1KqvhvYtHpjFLP",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Loving You Ain't Easy",
+                "preview_url": "https://p.scdn.co/mp3-preview/998a493d7ef09dbe2ca74f11acd81c955ba985f5?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:5mgKiVOC1KqvhvYtHpjFLP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 150565,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/47YtnlvIitdzydzvuM8LWV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/47YtnlvIitdzydzvuM8LWV",
+                "id": "47YtnlvIitdzydzvuM8LWV",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Need You",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:47YtnlvIitdzydzvuM8LWV"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/09agIJMxCD2k87ys9Al0f0",
+                        "id": "09agIJMxCD2k87ys9Al0f0",
+                        "name": "VIZE",
+                        "type": "artist",
+                        "uri": "spotify:artist:09agIJMxCD2k87ys9Al0f0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 164739,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3NbX45R3yipn5PHlimaUme",
+                "id": "3NbX45R3yipn5PHlimaUme",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Off Of My Mind",
+                "preview_url": "https://p.scdn.co/mp3-preview/92e789ec8f1b3ac6affed4923c1c4d26ef4b7194?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:3NbX45R3yipn5PHlimaUme"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180517,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3wnxCQTgWn20fEddFZhDuo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3wnxCQTgWn20fEddFZhDuo",
+                "id": "3wnxCQTgWn20fEddFZhDuo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Faster",
+                "preview_url": "https://p.scdn.co/mp3-preview/392f3329d5b3e32d60b81589e90aa5a417dbf5b7?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:3wnxCQTgWn20fEddFZhDuo"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1cK2Abwkni7m51wJCSGllN",
+                        "id": "1cK2Abwkni7m51wJCSGllN",
+                        "name": "Ultra Nat\u00e9",
+                        "type": "artist",
+                        "uri": "spotify:artist:1cK2Abwkni7m51wJCSGllN"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167298,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7lNgJW7AB45KID91dVehej"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7lNgJW7AB45KID91dVehej",
+                "id": "7lNgJW7AB45KID91dVehej",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You're Free",
+                "preview_url": "https://p.scdn.co/mp3-preview/cb33694c987ef745abf978725c3c2bb9fcc00f7d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:7lNgJW7AB45KID91dVehej"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159045,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4tuQ3mhn4vN2hY6c6xTUKB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4tuQ3mhn4vN2hY6c6xTUKB",
+                "id": "4tuQ3mhn4vN2hY6c6xTUKB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Feels In My Body",
+                "preview_url": "https://p.scdn.co/mp3-preview/aaf0788fb6a7a6e3b6f70c16a7fd67e83ea948ad?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:4tuQ3mhn4vN2hY6c6xTUKB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+                        "id": "586uxXMyD5ObPuzjtrzO1Q",
+                        "name": "Sofi Tukker",
+                        "type": "artist",
+                        "uri": "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 199819,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17omvsCVn1Ada6YaUk0sb2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17omvsCVn1Ada6YaUk0sb2",
+                "id": "17omvsCVn1Ada6YaUk0sb2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Spa",
+                "preview_url": "https://p.scdn.co/mp3-preview/001f2b596fe2128645393ff9574c3520dbda61df?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:17omvsCVn1Ada6YaUk0sb2"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 15
+    },
+    "type": "album",
+    "uri": "spotify:album:29aOgoHgr7C2J27gGfJdEz"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+            "id": "1VBflYyxBhnDc9uVib98rw",
+            "name": "Icona Pop",
+            "type": "artist",
+            "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(P) 2023 TEN Music Group under exclusive license to Ultra Records, LLC",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "196871255134"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/29aOgoHgr7C2J27gGfJdEz",
+    "id": "29aOgoHgr7C2J27gGfJdEz",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f8c3812f2ce29f1feadcf94",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020f8c3812f2ce29f1feadcf94",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510f8c3812f2ce29f1feadcf94",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Ultra Records, LLC",
+    "name": "Club Romantech",
+    "popularity": 58,
+    "release_date": "2023-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/29aOgoHgr7C2J27gGfJdEz/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 143081,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/16Cv47YFbROCj4fzuxo7Z6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/16Cv47YFbROCj4fzuxo7Z6",
+                "id": "16Cv47YFbROCj4fzuxo7Z6",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Fall In Love",
+                "preview_url": "https://p.scdn.co/mp3-preview/63921c7c8edcc222b81a2c23f172610f98a3bda0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:16Cv47YFbROCj4fzuxo7Z6"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6DgP9otnZw5z6daOntINxp",
+                        "id": "6DgP9otnZw5z6daOntINxp",
+                        "name": "Joel Corry",
+                        "type": "artist",
+                        "uri": "spotify:artist:6DgP9otnZw5z6daOntINxp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2T8o1YNgbgsE41xb62AlRY",
+                        "id": "2T8o1YNgbgsE41xb62AlRY",
+                        "name": "Rain Radio",
+                        "type": "artist",
+                        "uri": "spotify:artist:2T8o1YNgbgsE41xb62AlRY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159375,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1fGxLrKKG1L5ZkZUZdPq9Y"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1fGxLrKKG1L5ZkZUZdPq9Y",
+                "id": "1fGxLrKKG1L5ZkZUZdPq9Y",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Desire",
+                "preview_url": "https://p.scdn.co/mp3-preview/8774b36e4882dd08fc20172609225f74f0e2a8e1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1fGxLrKKG1L5ZkZUZdPq9Y"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0sWPIrlMZlHFkDBYkciO3X",
+                        "id": "0sWPIrlMZlHFkDBYkciO3X",
+                        "name": "Yaeger",
+                        "type": "artist",
+                        "uri": "spotify:artist:0sWPIrlMZlHFkDBYkciO3X"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167566,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3dz4u1zKY8aPrVDLPhqTVQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3dz4u1zKY8aPrVDLPhqTVQ",
+                "id": "3dz4u1zKY8aPrVDLPhqTVQ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Shit We Do For Love",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3dz4u1zKY8aPrVDLPhqTVQ"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167362,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5aRfCYxCCyeQWVn44WRb3u",
+                "id": "5aRfCYxCCyeQWVn44WRb3u",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stick Your Tongue Out",
+                "preview_url": "https://p.scdn.co/mp3-preview/7ebeb29f44c760b253fa260482a575e1fac152d0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:5aRfCYxCCyeQWVn44WRb3u"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 131900,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4RxrCvRX84vljCJxmHlJfe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4RxrCvRX84vljCJxmHlJfe",
+                "id": "4RxrCvRX84vljCJxmHlJfe",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Make Your Mind Up Babe",
+                "preview_url": "https://p.scdn.co/mp3-preview/0b651f951d79039192c832811328869dbc99f581?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4RxrCvRX84vljCJxmHlJfe"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182712,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3sgkqN4taRWk71naI3v2o8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3sgkqN4taRWk71naI3v2o8",
+                "id": "3sgkqN4taRWk71naI3v2o8",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stockholm At Night",
+                "preview_url": "https://p.scdn.co/mp3-preview/9d712a79e8bb2379a38108fc2a6be430f45fbc20?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:3sgkqN4taRWk71naI3v2o8"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 171038,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2fSKrjBgI7XX3aQkMEXP5o"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2fSKrjBgI7XX3aQkMEXP5o",
+                "id": "2fSKrjBgI7XX3aQkMEXP5o",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Where Do We Go From Here",
+                "preview_url": "https://p.scdn.co/mp3-preview/d7a5ac10e6d2ad70c875080349bbdd33bb17a9cc?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:2fSKrjBgI7XX3aQkMEXP5o"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4sTQVOfp9vEMCemLw50sbu",
+                        "id": "4sTQVOfp9vEMCemLw50sbu",
+                        "name": "Galantis",
+                        "type": "artist",
+                        "uri": "spotify:artist:4sTQVOfp9vEMCemLw50sbu"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 146756,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0Ixspe1RBGwmEUWyKNFOBp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0Ixspe1RBGwmEUWyKNFOBp",
+                "id": "0Ixspe1RBGwmEUWyKNFOBp",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want You",
+                "preview_url": "https://p.scdn.co/mp3-preview/4ae183cef9b0fcea955fe1fcb1ec8324600eae0a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:0Ixspe1RBGwmEUWyKNFOBp"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 154514,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5mgKiVOC1KqvhvYtHpjFLP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5mgKiVOC1KqvhvYtHpjFLP",
+                "id": "5mgKiVOC1KqvhvYtHpjFLP",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Loving You Ain't Easy",
+                "preview_url": "https://p.scdn.co/mp3-preview/998a493d7ef09dbe2ca74f11acd81c955ba985f5?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:5mgKiVOC1KqvhvYtHpjFLP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 150565,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/47YtnlvIitdzydzvuM8LWV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/47YtnlvIitdzydzvuM8LWV",
+                "id": "47YtnlvIitdzydzvuM8LWV",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Need You",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:47YtnlvIitdzydzvuM8LWV"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/09agIJMxCD2k87ys9Al0f0",
+                        "id": "09agIJMxCD2k87ys9Al0f0",
+                        "name": "VIZE",
+                        "type": "artist",
+                        "uri": "spotify:artist:09agIJMxCD2k87ys9Al0f0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 164739,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3NbX45R3yipn5PHlimaUme",
+                "id": "3NbX45R3yipn5PHlimaUme",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Off Of My Mind",
+                "preview_url": "https://p.scdn.co/mp3-preview/92e789ec8f1b3ac6affed4923c1c4d26ef4b7194?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:3NbX45R3yipn5PHlimaUme"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180517,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3wnxCQTgWn20fEddFZhDuo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3wnxCQTgWn20fEddFZhDuo",
+                "id": "3wnxCQTgWn20fEddFZhDuo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Faster",
+                "preview_url": "https://p.scdn.co/mp3-preview/392f3329d5b3e32d60b81589e90aa5a417dbf5b7?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:3wnxCQTgWn20fEddFZhDuo"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1cK2Abwkni7m51wJCSGllN",
+                        "id": "1cK2Abwkni7m51wJCSGllN",
+                        "name": "Ultra Nat\u00e9",
+                        "type": "artist",
+                        "uri": "spotify:artist:1cK2Abwkni7m51wJCSGllN"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167298,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7lNgJW7AB45KID91dVehej"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7lNgJW7AB45KID91dVehej",
+                "id": "7lNgJW7AB45KID91dVehej",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You're Free",
+                "preview_url": "https://p.scdn.co/mp3-preview/cb33694c987ef745abf978725c3c2bb9fcc00f7d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:7lNgJW7AB45KID91dVehej"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159045,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4tuQ3mhn4vN2hY6c6xTUKB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4tuQ3mhn4vN2hY6c6xTUKB",
+                "id": "4tuQ3mhn4vN2hY6c6xTUKB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Feels In My Body",
+                "preview_url": "https://p.scdn.co/mp3-preview/aaf0788fb6a7a6e3b6f70c16a7fd67e83ea948ad?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:4tuQ3mhn4vN2hY6c6xTUKB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+                        "id": "586uxXMyD5ObPuzjtrzO1Q",
+                        "name": "Sofi Tukker",
+                        "type": "artist",
+                        "uri": "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 199819,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17omvsCVn1Ada6YaUk0sb2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17omvsCVn1Ada6YaUk0sb2",
+                "id": "17omvsCVn1Ada6YaUk0sb2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Spa",
+                "preview_url": "https://p.scdn.co/mp3-preview/001f2b596fe2128645393ff9574c3520dbda61df?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:17omvsCVn1Ada6YaUk0sb2"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 15
+    },
+    "type": "album",
+    "uri": "spotify:album:29aOgoHgr7C2J27gGfJdEz"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+            "id": "1VBflYyxBhnDc9uVib98rw",
+            "name": "Icona Pop",
+            "type": "artist",
+            "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(P) 2023 TEN Music Group under exclusive license to Ultra Records, LLC",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "196871255134"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/29aOgoHgr7C2J27gGfJdEz",
+    "id": "29aOgoHgr7C2J27gGfJdEz",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f8c3812f2ce29f1feadcf94",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020f8c3812f2ce29f1feadcf94",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510f8c3812f2ce29f1feadcf94",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Ultra Records, LLC",
+    "name": "Club Romantech",
+    "popularity": 58,
+    "release_date": "2023-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/29aOgoHgr7C2J27gGfJdEz/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 143081,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/16Cv47YFbROCj4fzuxo7Z6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/16Cv47YFbROCj4fzuxo7Z6",
+                "id": "16Cv47YFbROCj4fzuxo7Z6",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Fall In Love",
+                "preview_url": "https://p.scdn.co/mp3-preview/63921c7c8edcc222b81a2c23f172610f98a3bda0?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:16Cv47YFbROCj4fzuxo7Z6"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6DgP9otnZw5z6daOntINxp",
+                        "id": "6DgP9otnZw5z6daOntINxp",
+                        "name": "Joel Corry",
+                        "type": "artist",
+                        "uri": "spotify:artist:6DgP9otnZw5z6daOntINxp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2T8o1YNgbgsE41xb62AlRY",
+                        "id": "2T8o1YNgbgsE41xb62AlRY",
+                        "name": "Rain Radio",
+                        "type": "artist",
+                        "uri": "spotify:artist:2T8o1YNgbgsE41xb62AlRY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159375,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1fGxLrKKG1L5ZkZUZdPq9Y"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1fGxLrKKG1L5ZkZUZdPq9Y",
+                "id": "1fGxLrKKG1L5ZkZUZdPq9Y",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Desire",
+                "preview_url": "https://p.scdn.co/mp3-preview/8774b36e4882dd08fc20172609225f74f0e2a8e1?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1fGxLrKKG1L5ZkZUZdPq9Y"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0sWPIrlMZlHFkDBYkciO3X",
+                        "id": "0sWPIrlMZlHFkDBYkciO3X",
+                        "name": "Yaeger",
+                        "type": "artist",
+                        "uri": "spotify:artist:0sWPIrlMZlHFkDBYkciO3X"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167566,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3dz4u1zKY8aPrVDLPhqTVQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3dz4u1zKY8aPrVDLPhqTVQ",
+                "id": "3dz4u1zKY8aPrVDLPhqTVQ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Shit We Do For Love",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3dz4u1zKY8aPrVDLPhqTVQ"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167362,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5aRfCYxCCyeQWVn44WRb3u",
+                "id": "5aRfCYxCCyeQWVn44WRb3u",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stick Your Tongue Out",
+                "preview_url": "https://p.scdn.co/mp3-preview/7ebeb29f44c760b253fa260482a575e1fac152d0?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:5aRfCYxCCyeQWVn44WRb3u"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 131900,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4RxrCvRX84vljCJxmHlJfe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4RxrCvRX84vljCJxmHlJfe",
+                "id": "4RxrCvRX84vljCJxmHlJfe",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Make Your Mind Up Babe",
+                "preview_url": "https://p.scdn.co/mp3-preview/0b651f951d79039192c832811328869dbc99f581?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4RxrCvRX84vljCJxmHlJfe"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182712,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3sgkqN4taRWk71naI3v2o8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3sgkqN4taRWk71naI3v2o8",
+                "id": "3sgkqN4taRWk71naI3v2o8",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stockholm At Night",
+                "preview_url": "https://p.scdn.co/mp3-preview/9d712a79e8bb2379a38108fc2a6be430f45fbc20?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:3sgkqN4taRWk71naI3v2o8"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 171038,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2fSKrjBgI7XX3aQkMEXP5o"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2fSKrjBgI7XX3aQkMEXP5o",
+                "id": "2fSKrjBgI7XX3aQkMEXP5o",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Where Do We Go From Here",
+                "preview_url": "https://p.scdn.co/mp3-preview/d7a5ac10e6d2ad70c875080349bbdd33bb17a9cc?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:2fSKrjBgI7XX3aQkMEXP5o"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4sTQVOfp9vEMCemLw50sbu",
+                        "id": "4sTQVOfp9vEMCemLw50sbu",
+                        "name": "Galantis",
+                        "type": "artist",
+                        "uri": "spotify:artist:4sTQVOfp9vEMCemLw50sbu"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 146756,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0Ixspe1RBGwmEUWyKNFOBp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0Ixspe1RBGwmEUWyKNFOBp",
+                "id": "0Ixspe1RBGwmEUWyKNFOBp",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want You",
+                "preview_url": "https://p.scdn.co/mp3-preview/4ae183cef9b0fcea955fe1fcb1ec8324600eae0a?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:0Ixspe1RBGwmEUWyKNFOBp"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 154514,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5mgKiVOC1KqvhvYtHpjFLP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5mgKiVOC1KqvhvYtHpjFLP",
+                "id": "5mgKiVOC1KqvhvYtHpjFLP",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Loving You Ain't Easy",
+                "preview_url": "https://p.scdn.co/mp3-preview/998a493d7ef09dbe2ca74f11acd81c955ba985f5?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:5mgKiVOC1KqvhvYtHpjFLP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 150565,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/47YtnlvIitdzydzvuM8LWV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/47YtnlvIitdzydzvuM8LWV",
+                "id": "47YtnlvIitdzydzvuM8LWV",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Need You",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:47YtnlvIitdzydzvuM8LWV"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/09agIJMxCD2k87ys9Al0f0",
+                        "id": "09agIJMxCD2k87ys9Al0f0",
+                        "name": "VIZE",
+                        "type": "artist",
+                        "uri": "spotify:artist:09agIJMxCD2k87ys9Al0f0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 164739,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3NbX45R3yipn5PHlimaUme",
+                "id": "3NbX45R3yipn5PHlimaUme",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Off Of My Mind",
+                "preview_url": "https://p.scdn.co/mp3-preview/92e789ec8f1b3ac6affed4923c1c4d26ef4b7194?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:3NbX45R3yipn5PHlimaUme"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180517,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3wnxCQTgWn20fEddFZhDuo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3wnxCQTgWn20fEddFZhDuo",
+                "id": "3wnxCQTgWn20fEddFZhDuo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Faster",
+                "preview_url": "https://p.scdn.co/mp3-preview/392f3329d5b3e32d60b81589e90aa5a417dbf5b7?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:3wnxCQTgWn20fEddFZhDuo"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1cK2Abwkni7m51wJCSGllN",
+                        "id": "1cK2Abwkni7m51wJCSGllN",
+                        "name": "Ultra Nat\u00e9",
+                        "type": "artist",
+                        "uri": "spotify:artist:1cK2Abwkni7m51wJCSGllN"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167298,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7lNgJW7AB45KID91dVehej"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7lNgJW7AB45KID91dVehej",
+                "id": "7lNgJW7AB45KID91dVehej",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You're Free",
+                "preview_url": "https://p.scdn.co/mp3-preview/cb33694c987ef745abf978725c3c2bb9fcc00f7d?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:7lNgJW7AB45KID91dVehej"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159045,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4tuQ3mhn4vN2hY6c6xTUKB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4tuQ3mhn4vN2hY6c6xTUKB",
+                "id": "4tuQ3mhn4vN2hY6c6xTUKB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Feels In My Body",
+                "preview_url": "https://p.scdn.co/mp3-preview/aaf0788fb6a7a6e3b6f70c16a7fd67e83ea948ad?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:4tuQ3mhn4vN2hY6c6xTUKB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+                        "id": "586uxXMyD5ObPuzjtrzO1Q",
+                        "name": "Sofi Tukker",
+                        "type": "artist",
+                        "uri": "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 199819,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17omvsCVn1Ada6YaUk0sb2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17omvsCVn1Ada6YaUk0sb2",
+                "id": "17omvsCVn1Ada6YaUk0sb2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Spa",
+                "preview_url": "https://p.scdn.co/mp3-preview/001f2b596fe2128645393ff9574c3520dbda61df?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:17omvsCVn1Ada6YaUk0sb2"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 15
+    },
+    "type": "album",
+    "uri": "spotify:album:29aOgoHgr7C2J27gGfJdEz"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+            "id": "1VBflYyxBhnDc9uVib98rw",
+            "name": "Icona Pop",
+            "type": "artist",
+            "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(P) 2023 TEN Music Group under exclusive license to Ultra Records, LLC",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "196871255134"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/29aOgoHgr7C2J27gGfJdEz",
+    "id": "29aOgoHgr7C2J27gGfJdEz",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f8c3812f2ce29f1feadcf94",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020f8c3812f2ce29f1feadcf94",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510f8c3812f2ce29f1feadcf94",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Ultra Records, LLC",
+    "name": "Club Romantech",
+    "popularity": 58,
+    "release_date": "2023-09-01",
+    "release_date_precision": "day",
+    "total_tracks": 15,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/29aOgoHgr7C2J27gGfJdEz/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 143081,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/16Cv47YFbROCj4fzuxo7Z6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/16Cv47YFbROCj4fzuxo7Z6",
+                "id": "16Cv47YFbROCj4fzuxo7Z6",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Fall In Love",
+                "preview_url": "https://p.scdn.co/mp3-preview/63921c7c8edcc222b81a2c23f172610f98a3bda0?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:16Cv47YFbROCj4fzuxo7Z6"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6DgP9otnZw5z6daOntINxp",
+                        "id": "6DgP9otnZw5z6daOntINxp",
+                        "name": "Joel Corry",
+                        "type": "artist",
+                        "uri": "spotify:artist:6DgP9otnZw5z6daOntINxp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2T8o1YNgbgsE41xb62AlRY",
+                        "id": "2T8o1YNgbgsE41xb62AlRY",
+                        "name": "Rain Radio",
+                        "type": "artist",
+                        "uri": "spotify:artist:2T8o1YNgbgsE41xb62AlRY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159375,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1fGxLrKKG1L5ZkZUZdPq9Y"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1fGxLrKKG1L5ZkZUZdPq9Y",
+                "id": "1fGxLrKKG1L5ZkZUZdPq9Y",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Desire",
+                "preview_url": "https://p.scdn.co/mp3-preview/8774b36e4882dd08fc20172609225f74f0e2a8e1?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1fGxLrKKG1L5ZkZUZdPq9Y"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0sWPIrlMZlHFkDBYkciO3X",
+                        "id": "0sWPIrlMZlHFkDBYkciO3X",
+                        "name": "Yaeger",
+                        "type": "artist",
+                        "uri": "spotify:artist:0sWPIrlMZlHFkDBYkciO3X"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167566,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3dz4u1zKY8aPrVDLPhqTVQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3dz4u1zKY8aPrVDLPhqTVQ",
+                "id": "3dz4u1zKY8aPrVDLPhqTVQ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Shit We Do For Love",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3dz4u1zKY8aPrVDLPhqTVQ"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167362,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5aRfCYxCCyeQWVn44WRb3u",
+                "id": "5aRfCYxCCyeQWVn44WRb3u",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stick Your Tongue Out",
+                "preview_url": "https://p.scdn.co/mp3-preview/7ebeb29f44c760b253fa260482a575e1fac152d0?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:5aRfCYxCCyeQWVn44WRb3u"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 131900,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4RxrCvRX84vljCJxmHlJfe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4RxrCvRX84vljCJxmHlJfe",
+                "id": "4RxrCvRX84vljCJxmHlJfe",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Make Your Mind Up Babe",
+                "preview_url": "https://p.scdn.co/mp3-preview/0b651f951d79039192c832811328869dbc99f581?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4RxrCvRX84vljCJxmHlJfe"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182712,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3sgkqN4taRWk71naI3v2o8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3sgkqN4taRWk71naI3v2o8",
+                "id": "3sgkqN4taRWk71naI3v2o8",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stockholm At Night",
+                "preview_url": "https://p.scdn.co/mp3-preview/9d712a79e8bb2379a38108fc2a6be430f45fbc20?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:3sgkqN4taRWk71naI3v2o8"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 171038,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2fSKrjBgI7XX3aQkMEXP5o"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2fSKrjBgI7XX3aQkMEXP5o",
+                "id": "2fSKrjBgI7XX3aQkMEXP5o",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Where Do We Go From Here",
+                "preview_url": "https://p.scdn.co/mp3-preview/d7a5ac10e6d2ad70c875080349bbdd33bb17a9cc?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:2fSKrjBgI7XX3aQkMEXP5o"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4sTQVOfp9vEMCemLw50sbu",
+                        "id": "4sTQVOfp9vEMCemLw50sbu",
+                        "name": "Galantis",
+                        "type": "artist",
+                        "uri": "spotify:artist:4sTQVOfp9vEMCemLw50sbu"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 146756,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0Ixspe1RBGwmEUWyKNFOBp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0Ixspe1RBGwmEUWyKNFOBp",
+                "id": "0Ixspe1RBGwmEUWyKNFOBp",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want You",
+                "preview_url": "https://p.scdn.co/mp3-preview/4ae183cef9b0fcea955fe1fcb1ec8324600eae0a?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:0Ixspe1RBGwmEUWyKNFOBp"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 154514,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5mgKiVOC1KqvhvYtHpjFLP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5mgKiVOC1KqvhvYtHpjFLP",
+                "id": "5mgKiVOC1KqvhvYtHpjFLP",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Loving You Ain't Easy",
+                "preview_url": "https://p.scdn.co/mp3-preview/998a493d7ef09dbe2ca74f11acd81c955ba985f5?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:5mgKiVOC1KqvhvYtHpjFLP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 150565,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/47YtnlvIitdzydzvuM8LWV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/47YtnlvIitdzydzvuM8LWV",
+                "id": "47YtnlvIitdzydzvuM8LWV",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Need You",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:47YtnlvIitdzydzvuM8LWV"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/09agIJMxCD2k87ys9Al0f0",
+                        "id": "09agIJMxCD2k87ys9Al0f0",
+                        "name": "VIZE",
+                        "type": "artist",
+                        "uri": "spotify:artist:09agIJMxCD2k87ys9Al0f0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 164739,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3NbX45R3yipn5PHlimaUme",
+                "id": "3NbX45R3yipn5PHlimaUme",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Off Of My Mind",
+                "preview_url": "https://p.scdn.co/mp3-preview/92e789ec8f1b3ac6affed4923c1c4d26ef4b7194?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:3NbX45R3yipn5PHlimaUme"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180517,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3wnxCQTgWn20fEddFZhDuo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3wnxCQTgWn20fEddFZhDuo",
+                "id": "3wnxCQTgWn20fEddFZhDuo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Faster",
+                "preview_url": "https://p.scdn.co/mp3-preview/392f3329d5b3e32d60b81589e90aa5a417dbf5b7?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:3wnxCQTgWn20fEddFZhDuo"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1cK2Abwkni7m51wJCSGllN",
+                        "id": "1cK2Abwkni7m51wJCSGllN",
+                        "name": "Ultra Nat\u00e9",
+                        "type": "artist",
+                        "uri": "spotify:artist:1cK2Abwkni7m51wJCSGllN"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167298,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7lNgJW7AB45KID91dVehej"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7lNgJW7AB45KID91dVehej",
+                "id": "7lNgJW7AB45KID91dVehej",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You're Free",
+                "preview_url": "https://p.scdn.co/mp3-preview/cb33694c987ef745abf978725c3c2bb9fcc00f7d?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:7lNgJW7AB45KID91dVehej"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159045,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4tuQ3mhn4vN2hY6c6xTUKB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4tuQ3mhn4vN2hY6c6xTUKB",
+                "id": "4tuQ3mhn4vN2hY6c6xTUKB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Feels In My Body",
+                "preview_url": "https://p.scdn.co/mp3-preview/aaf0788fb6a7a6e3b6f70c16a7fd67e83ea948ad?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:4tuQ3mhn4vN2hY6c6xTUKB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+                        "id": "1VBflYyxBhnDc9uVib98rw",
+                        "name": "Icona Pop",
+                        "type": "artist",
+                        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+                        "id": "586uxXMyD5ObPuzjtrzO1Q",
+                        "name": "Sofi Tukker",
+                        "type": "artist",
+                        "uri": "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 199819,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17omvsCVn1Ada6YaUk0sb2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17omvsCVn1Ada6YaUk0sb2",
+                "id": "17omvsCVn1Ada6YaUk0sb2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Spa",
+                "preview_url": "https://p.scdn.co/mp3-preview/001f2b596fe2128645393ff9574c3520dbda61df?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:17omvsCVn1Ada6YaUk0sb2"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 15
+    },
+    "type": "album",
+    "uri": "spotify:album:29aOgoHgr7C2J27gGfJdEz"
 }

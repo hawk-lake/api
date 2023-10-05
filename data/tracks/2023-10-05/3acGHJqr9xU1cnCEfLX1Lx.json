@@ -54,4 +54,32 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:3acGHJqr9xU1cnCEfLX1Lx"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+            },
+            "href": "https://api.spotify.com/v1/artists/7nqOGRxlXj7N2JYbgNEjYH",
+            "id": "7nqOGRxlXj7N2JYbgNEjYH",
+            "name": "SEVENTEEN",
+            "type": "artist",
+            "uri": "spotify:artist:7nqOGRxlXj7N2JYbgNEjYH"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 209800,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3acGHJqr9xU1cnCEfLX1Lx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3acGHJqr9xU1cnCEfLX1Lx",
+    "id": "3acGHJqr9xU1cnCEfLX1Lx",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I Don't Understand But I Luv U",
+    "preview_url": "https://p.scdn.co/mp3-preview/6d03f2a62f249e5c2c60f8175b8d5945d5ca8677?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:3acGHJqr9xU1cnCEfLX1Lx"
 }

@@ -112,4 +112,194 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3YfGTvsTAWGC2lgoDOikUz"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+            },
+            "href": "https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb",
+            "id": "64M6ah0SkkRsnPGtGiRAbb",
+            "name": "Bebe Rexha",
+            "type": "artist",
+            "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+            "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "name": "David Guetta",
+            "type": "artist",
+            "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 160529,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3YfGTvsTAWGC2lgoDOikUz",
+    "id": "3YfGTvsTAWGC2lgoDOikUz",
+    "is_local": false,
+    "is_playable": true,
+    "name": "One in a Million",
+    "preview_url": "https://p.scdn.co/mp3-preview/61a85a26d23e7cde9c7a6b13a494d542068bdc96?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3YfGTvsTAWGC2lgoDOikUz"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+            },
+            "href": "https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb",
+            "id": "64M6ah0SkkRsnPGtGiRAbb",
+            "name": "Bebe Rexha",
+            "type": "artist",
+            "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+            "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "name": "David Guetta",
+            "type": "artist",
+            "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 160529,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3YfGTvsTAWGC2lgoDOikUz",
+    "id": "3YfGTvsTAWGC2lgoDOikUz",
+    "is_local": false,
+    "is_playable": true,
+    "name": "One in a Million",
+    "preview_url": "https://p.scdn.co/mp3-preview/61a85a26d23e7cde9c7a6b13a494d542068bdc96?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3YfGTvsTAWGC2lgoDOikUz"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+            },
+            "href": "https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb",
+            "id": "64M6ah0SkkRsnPGtGiRAbb",
+            "name": "Bebe Rexha",
+            "type": "artist",
+            "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+            "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "name": "David Guetta",
+            "type": "artist",
+            "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 160529,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3YfGTvsTAWGC2lgoDOikUz",
+    "id": "3YfGTvsTAWGC2lgoDOikUz",
+    "is_local": false,
+    "is_playable": true,
+    "name": "One in a Million",
+    "preview_url": "https://p.scdn.co/mp3-preview/61a85a26d23e7cde9c7a6b13a494d542068bdc96?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3YfGTvsTAWGC2lgoDOikUz"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+            },
+            "href": "https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb",
+            "id": "64M6ah0SkkRsnPGtGiRAbb",
+            "name": "Bebe Rexha",
+            "type": "artist",
+            "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+            "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "name": "David Guetta",
+            "type": "artist",
+            "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 160529,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3YfGTvsTAWGC2lgoDOikUz",
+    "id": "3YfGTvsTAWGC2lgoDOikUz",
+    "is_local": false,
+    "is_playable": true,
+    "name": "One in a Million",
+    "preview_url": "https://p.scdn.co/mp3-preview/61a85a26d23e7cde9c7a6b13a494d542068bdc96?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3YfGTvsTAWGC2lgoDOikUz"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+            },
+            "href": "https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb",
+            "id": "64M6ah0SkkRsnPGtGiRAbb",
+            "name": "Bebe Rexha",
+            "type": "artist",
+            "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+            "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "name": "David Guetta",
+            "type": "artist",
+            "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 160529,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3YfGTvsTAWGC2lgoDOikUz",
+    "id": "3YfGTvsTAWGC2lgoDOikUz",
+    "is_local": false,
+    "is_playable": true,
+    "name": "One in a Million",
+    "preview_url": "https://p.scdn.co/mp3-preview/61a85a26d23e7cde9c7a6b13a494d542068bdc96?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3YfGTvsTAWGC2lgoDOikUz"
 }

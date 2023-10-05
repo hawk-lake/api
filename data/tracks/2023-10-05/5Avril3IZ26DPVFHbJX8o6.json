@@ -74,4 +74,42 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5Avril3IZ26DPVFHbJX8o6"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HaGTQPmzraVmaVxvz6EUc",
+            "id": "6HaGTQPmzraVmaVxvz6EUc",
+            "name": "Jung Kook",
+            "type": "artist",
+            "uri": "spotify:artist:6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3MdXrJWsbVzdn6fe5JYkSQ",
+            "id": "3MdXrJWsbVzdn6fe5JYkSQ",
+            "name": "Latto",
+            "type": "artist",
+            "uri": "spotify:artist:3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 184160,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Avril3IZ26DPVFHbJX8o6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5Avril3IZ26DPVFHbJX8o6",
+    "id": "5Avril3IZ26DPVFHbJX8o6",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Seven (feat. Latto) (Clean Ver.)",
+    "preview_url": "https://p.scdn.co/mp3-preview/dd8dfb2769c5dd2f01a920adb468d8de5e28a329?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5Avril3IZ26DPVFHbJX8o6"
 }

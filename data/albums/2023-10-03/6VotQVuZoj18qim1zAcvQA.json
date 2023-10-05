@@ -470,4 +470,594 @@
     },
     "type": "album",
     "uri": "spotify:album:6VotQVuZoj18qim1zAcvQA"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+            "id": "5LHRHt1k9lMyONurDHEdrp",
+            "name": "Tyga",
+            "type": "artist",
+            "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+            "id": "0A0FS04o6zMoto8OKPsDwY",
+            "name": "YG",
+            "type": "artist",
+            "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Last Kings Music / 4Hunnid Records / EMPIRE",
+            "type": "C"
+        },
+        {
+            "text": "2023 Last Kings Music / 4Hunnid Records / EMPIRE",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197342305013"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6VotQVuZoj18qim1zAcvQA",
+    "id": "6VotQVuZoj18qim1zAcvQA",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738a8c6ba331b2da646341ad86",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028a8c6ba331b2da646341ad86",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518a8c6ba331b2da646341ad86",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Last Kings Music / 4Hunnid Records / EMPIRE",
+    "name": "PARTy T1M3",
+    "popularity": 51,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6VotQVuZoj18qim1zAcvQA/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+                        "id": "5LHRHt1k9lMyONurDHEdrp",
+                        "name": "Tyga",
+                        "type": "artist",
+                        "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                        "id": "0A0FS04o6zMoto8OKPsDwY",
+                        "name": "YG",
+                        "type": "artist",
+                        "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 155912,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5h6eWFlGK7NVcliVsmsV4L",
+                "id": "5h6eWFlGK7NVcliVsmsV4L",
+                "is_local": false,
+                "is_playable": true,
+                "name": "PARTy T1M3",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5h6eWFlGK7NVcliVsmsV4L"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6VotQVuZoj18qim1zAcvQA"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+            "id": "5LHRHt1k9lMyONurDHEdrp",
+            "name": "Tyga",
+            "type": "artist",
+            "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+            "id": "0A0FS04o6zMoto8OKPsDwY",
+            "name": "YG",
+            "type": "artist",
+            "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Last Kings Music / 4Hunnid Records / EMPIRE",
+            "type": "C"
+        },
+        {
+            "text": "2023 Last Kings Music / 4Hunnid Records / EMPIRE",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197342305013"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6VotQVuZoj18qim1zAcvQA",
+    "id": "6VotQVuZoj18qim1zAcvQA",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738a8c6ba331b2da646341ad86",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028a8c6ba331b2da646341ad86",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518a8c6ba331b2da646341ad86",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Last Kings Music / 4Hunnid Records / EMPIRE",
+    "name": "PARTy T1M3",
+    "popularity": 51,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6VotQVuZoj18qim1zAcvQA/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+                        "id": "5LHRHt1k9lMyONurDHEdrp",
+                        "name": "Tyga",
+                        "type": "artist",
+                        "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                        "id": "0A0FS04o6zMoto8OKPsDwY",
+                        "name": "YG",
+                        "type": "artist",
+                        "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 155912,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5h6eWFlGK7NVcliVsmsV4L",
+                "id": "5h6eWFlGK7NVcliVsmsV4L",
+                "is_local": false,
+                "is_playable": true,
+                "name": "PARTy T1M3",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5h6eWFlGK7NVcliVsmsV4L"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6VotQVuZoj18qim1zAcvQA"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+            "id": "5LHRHt1k9lMyONurDHEdrp",
+            "name": "Tyga",
+            "type": "artist",
+            "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+            "id": "0A0FS04o6zMoto8OKPsDwY",
+            "name": "YG",
+            "type": "artist",
+            "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Last Kings Music / 4Hunnid Records / EMPIRE",
+            "type": "C"
+        },
+        {
+            "text": "2023 Last Kings Music / 4Hunnid Records / EMPIRE",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197342305013"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6VotQVuZoj18qim1zAcvQA",
+    "id": "6VotQVuZoj18qim1zAcvQA",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738a8c6ba331b2da646341ad86",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028a8c6ba331b2da646341ad86",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518a8c6ba331b2da646341ad86",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Last Kings Music / 4Hunnid Records / EMPIRE",
+    "name": "PARTy T1M3",
+    "popularity": 51,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6VotQVuZoj18qim1zAcvQA/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+                        "id": "5LHRHt1k9lMyONurDHEdrp",
+                        "name": "Tyga",
+                        "type": "artist",
+                        "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                        "id": "0A0FS04o6zMoto8OKPsDwY",
+                        "name": "YG",
+                        "type": "artist",
+                        "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 155912,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5h6eWFlGK7NVcliVsmsV4L",
+                "id": "5h6eWFlGK7NVcliVsmsV4L",
+                "is_local": false,
+                "is_playable": true,
+                "name": "PARTy T1M3",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5h6eWFlGK7NVcliVsmsV4L"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6VotQVuZoj18qim1zAcvQA"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+            "id": "5LHRHt1k9lMyONurDHEdrp",
+            "name": "Tyga",
+            "type": "artist",
+            "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+            "id": "0A0FS04o6zMoto8OKPsDwY",
+            "name": "YG",
+            "type": "artist",
+            "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Last Kings Music / 4Hunnid Records / EMPIRE",
+            "type": "C"
+        },
+        {
+            "text": "2023 Last Kings Music / 4Hunnid Records / EMPIRE",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197342305013"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6VotQVuZoj18qim1zAcvQA",
+    "id": "6VotQVuZoj18qim1zAcvQA",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738a8c6ba331b2da646341ad86",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028a8c6ba331b2da646341ad86",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518a8c6ba331b2da646341ad86",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Last Kings Music / 4Hunnid Records / EMPIRE",
+    "name": "PARTy T1M3",
+    "popularity": 51,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6VotQVuZoj18qim1zAcvQA/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+                        "id": "5LHRHt1k9lMyONurDHEdrp",
+                        "name": "Tyga",
+                        "type": "artist",
+                        "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                        "id": "0A0FS04o6zMoto8OKPsDwY",
+                        "name": "YG",
+                        "type": "artist",
+                        "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 155912,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5h6eWFlGK7NVcliVsmsV4L",
+                "id": "5h6eWFlGK7NVcliVsmsV4L",
+                "is_local": false,
+                "is_playable": true,
+                "name": "PARTy T1M3",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5h6eWFlGK7NVcliVsmsV4L"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6VotQVuZoj18qim1zAcvQA"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+            "id": "5LHRHt1k9lMyONurDHEdrp",
+            "name": "Tyga",
+            "type": "artist",
+            "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+            "id": "0A0FS04o6zMoto8OKPsDwY",
+            "name": "YG",
+            "type": "artist",
+            "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Last Kings Music / 4Hunnid Records / EMPIRE",
+            "type": "C"
+        },
+        {
+            "text": "2023 Last Kings Music / 4Hunnid Records / EMPIRE",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197342305013"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6VotQVuZoj18qim1zAcvQA",
+    "id": "6VotQVuZoj18qim1zAcvQA",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738a8c6ba331b2da646341ad86",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028a8c6ba331b2da646341ad86",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518a8c6ba331b2da646341ad86",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Last Kings Music / 4Hunnid Records / EMPIRE",
+    "name": "PARTy T1M3",
+    "popularity": 51,
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6VotQVuZoj18qim1zAcvQA/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+                        "id": "5LHRHt1k9lMyONurDHEdrp",
+                        "name": "Tyga",
+                        "type": "artist",
+                        "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                        "id": "0A0FS04o6zMoto8OKPsDwY",
+                        "name": "YG",
+                        "type": "artist",
+                        "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 155912,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5h6eWFlGK7NVcliVsmsV4L",
+                "id": "5h6eWFlGK7NVcliVsmsV4L",
+                "is_local": false,
+                "is_playable": true,
+                "name": "PARTy T1M3",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5h6eWFlGK7NVcliVsmsV4L"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6VotQVuZoj18qim1zAcvQA"
 }

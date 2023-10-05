@@ -622,4 +622,784 @@
     },
     "type": "album",
     "uri": "spotify:album:3oso8n6CkMfjn4h5hEvrjF"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+            "id": "5NhgsV7qPWHZqYEMKzbYvo",
+            "name": "Faouzia",
+            "type": "artist",
+            "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Atlantic Records Group LLC",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Atlantic Records Group LLC",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679677327"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/3oso8n6CkMfjn4h5hEvrjF"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/3oso8n6CkMfjn4h5hEvrjF",
+    "id": "3oso8n6CkMfjn4h5hEvrjF",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ec122757b373841b44042908",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ec122757b373841b44042908",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ec122757b373841b44042908",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records",
+    "name": "La La La",
+    "popularity": 54,
+    "release_date": "2023-08-04",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/3oso8n6CkMfjn4h5hEvrjF/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 134160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4lVRLtbxN9Aqo8zpgqt2ep"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4lVRLtbxN9Aqo8zpgqt2ep",
+                "id": "4lVRLtbxN9Aqo8zpgqt2ep",
+                "is_local": false,
+                "is_playable": true,
+                "name": "La La La",
+                "preview_url": "https://p.scdn.co/mp3-preview/19cb85a795445a0b9b9cd7bf39acce024f335c23?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4lVRLtbxN9Aqo8zpgqt2ep"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 148083,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4SeS5B1tFE9oMO0MsaAvog"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4SeS5B1tFE9oMO0MsaAvog",
+                "id": "4SeS5B1tFE9oMO0MsaAvog",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Don\u2019t Call Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/1748bc0fa3edd855c75aa6aed83092f966d1ebbb?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4SeS5B1tFE9oMO0MsaAvog"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 152665,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3y5dENwxa6439HXygcdnm6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3y5dENwxa6439HXygcdnm6",
+                "id": "3y5dENwxa6439HXygcdnm6",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Plastic Therapy",
+                "preview_url": "https://p.scdn.co/mp3-preview/3c68320adb564db472c9d4f40af7594e3d6fdcd0?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3y5dENwxa6439HXygcdnm6"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:3oso8n6CkMfjn4h5hEvrjF"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+            "id": "5NhgsV7qPWHZqYEMKzbYvo",
+            "name": "Faouzia",
+            "type": "artist",
+            "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Atlantic Records Group LLC",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Atlantic Records Group LLC",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679677327"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/3oso8n6CkMfjn4h5hEvrjF"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/3oso8n6CkMfjn4h5hEvrjF",
+    "id": "3oso8n6CkMfjn4h5hEvrjF",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ec122757b373841b44042908",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ec122757b373841b44042908",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ec122757b373841b44042908",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records",
+    "name": "La La La",
+    "popularity": 54,
+    "release_date": "2023-08-04",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/3oso8n6CkMfjn4h5hEvrjF/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 134160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4lVRLtbxN9Aqo8zpgqt2ep"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4lVRLtbxN9Aqo8zpgqt2ep",
+                "id": "4lVRLtbxN9Aqo8zpgqt2ep",
+                "is_local": false,
+                "is_playable": true,
+                "name": "La La La",
+                "preview_url": "https://p.scdn.co/mp3-preview/19cb85a795445a0b9b9cd7bf39acce024f335c23?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4lVRLtbxN9Aqo8zpgqt2ep"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 148083,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4SeS5B1tFE9oMO0MsaAvog"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4SeS5B1tFE9oMO0MsaAvog",
+                "id": "4SeS5B1tFE9oMO0MsaAvog",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Don\u2019t Call Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/1748bc0fa3edd855c75aa6aed83092f966d1ebbb?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4SeS5B1tFE9oMO0MsaAvog"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 152665,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3y5dENwxa6439HXygcdnm6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3y5dENwxa6439HXygcdnm6",
+                "id": "3y5dENwxa6439HXygcdnm6",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Plastic Therapy",
+                "preview_url": "https://p.scdn.co/mp3-preview/3c68320adb564db472c9d4f40af7594e3d6fdcd0?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3y5dENwxa6439HXygcdnm6"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:3oso8n6CkMfjn4h5hEvrjF"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+            "id": "5NhgsV7qPWHZqYEMKzbYvo",
+            "name": "Faouzia",
+            "type": "artist",
+            "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Atlantic Records Group LLC",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Atlantic Records Group LLC",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679677327"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/3oso8n6CkMfjn4h5hEvrjF"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/3oso8n6CkMfjn4h5hEvrjF",
+    "id": "3oso8n6CkMfjn4h5hEvrjF",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ec122757b373841b44042908",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ec122757b373841b44042908",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ec122757b373841b44042908",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records",
+    "name": "La La La",
+    "popularity": 54,
+    "release_date": "2023-08-04",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/3oso8n6CkMfjn4h5hEvrjF/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 134160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4lVRLtbxN9Aqo8zpgqt2ep"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4lVRLtbxN9Aqo8zpgqt2ep",
+                "id": "4lVRLtbxN9Aqo8zpgqt2ep",
+                "is_local": false,
+                "is_playable": true,
+                "name": "La La La",
+                "preview_url": "https://p.scdn.co/mp3-preview/19cb85a795445a0b9b9cd7bf39acce024f335c23?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4lVRLtbxN9Aqo8zpgqt2ep"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 148083,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4SeS5B1tFE9oMO0MsaAvog"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4SeS5B1tFE9oMO0MsaAvog",
+                "id": "4SeS5B1tFE9oMO0MsaAvog",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Don\u2019t Call Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/1748bc0fa3edd855c75aa6aed83092f966d1ebbb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4SeS5B1tFE9oMO0MsaAvog"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 152665,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3y5dENwxa6439HXygcdnm6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3y5dENwxa6439HXygcdnm6",
+                "id": "3y5dENwxa6439HXygcdnm6",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Plastic Therapy",
+                "preview_url": "https://p.scdn.co/mp3-preview/3c68320adb564db472c9d4f40af7594e3d6fdcd0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3y5dENwxa6439HXygcdnm6"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:3oso8n6CkMfjn4h5hEvrjF"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+            "id": "5NhgsV7qPWHZqYEMKzbYvo",
+            "name": "Faouzia",
+            "type": "artist",
+            "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Atlantic Records Group LLC",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Atlantic Records Group LLC",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679677327"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/3oso8n6CkMfjn4h5hEvrjF"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/3oso8n6CkMfjn4h5hEvrjF",
+    "id": "3oso8n6CkMfjn4h5hEvrjF",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ec122757b373841b44042908",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ec122757b373841b44042908",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ec122757b373841b44042908",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records",
+    "name": "La La La",
+    "popularity": 54,
+    "release_date": "2023-08-04",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/3oso8n6CkMfjn4h5hEvrjF/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 134160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4lVRLtbxN9Aqo8zpgqt2ep"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4lVRLtbxN9Aqo8zpgqt2ep",
+                "id": "4lVRLtbxN9Aqo8zpgqt2ep",
+                "is_local": false,
+                "is_playable": true,
+                "name": "La La La",
+                "preview_url": "https://p.scdn.co/mp3-preview/19cb85a795445a0b9b9cd7bf39acce024f335c23?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4lVRLtbxN9Aqo8zpgqt2ep"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 148083,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4SeS5B1tFE9oMO0MsaAvog"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4SeS5B1tFE9oMO0MsaAvog",
+                "id": "4SeS5B1tFE9oMO0MsaAvog",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Don\u2019t Call Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/1748bc0fa3edd855c75aa6aed83092f966d1ebbb?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4SeS5B1tFE9oMO0MsaAvog"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 152665,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3y5dENwxa6439HXygcdnm6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3y5dENwxa6439HXygcdnm6",
+                "id": "3y5dENwxa6439HXygcdnm6",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Plastic Therapy",
+                "preview_url": "https://p.scdn.co/mp3-preview/3c68320adb564db472c9d4f40af7594e3d6fdcd0?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3y5dENwxa6439HXygcdnm6"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:3oso8n6CkMfjn4h5hEvrjF"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+            "id": "5NhgsV7qPWHZqYEMKzbYvo",
+            "name": "Faouzia",
+            "type": "artist",
+            "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Atlantic Records Group LLC",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Atlantic Records Group LLC",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "075679677327"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/3oso8n6CkMfjn4h5hEvrjF"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/3oso8n6CkMfjn4h5hEvrjF",
+    "id": "3oso8n6CkMfjn4h5hEvrjF",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ec122757b373841b44042908",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ec122757b373841b44042908",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ec122757b373841b44042908",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Atlantic Records",
+    "name": "La La La",
+    "popularity": 54,
+    "release_date": "2023-08-04",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/3oso8n6CkMfjn4h5hEvrjF/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 134160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4lVRLtbxN9Aqo8zpgqt2ep"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4lVRLtbxN9Aqo8zpgqt2ep",
+                "id": "4lVRLtbxN9Aqo8zpgqt2ep",
+                "is_local": false,
+                "is_playable": true,
+                "name": "La La La",
+                "preview_url": "https://p.scdn.co/mp3-preview/19cb85a795445a0b9b9cd7bf39acce024f335c23?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4lVRLtbxN9Aqo8zpgqt2ep"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 148083,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4SeS5B1tFE9oMO0MsaAvog"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4SeS5B1tFE9oMO0MsaAvog",
+                "id": "4SeS5B1tFE9oMO0MsaAvog",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Don\u2019t Call Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/1748bc0fa3edd855c75aa6aed83092f966d1ebbb?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4SeS5B1tFE9oMO0MsaAvog"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+                        "id": "5NhgsV7qPWHZqYEMKzbYvo",
+                        "name": "Faouzia",
+                        "type": "artist",
+                        "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 152665,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3y5dENwxa6439HXygcdnm6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3y5dENwxa6439HXygcdnm6",
+                "id": "3y5dENwxa6439HXygcdnm6",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Plastic Therapy",
+                "preview_url": "https://p.scdn.co/mp3-preview/3c68320adb564db472c9d4f40af7594e3d6fdcd0?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3y5dENwxa6439HXygcdnm6"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:3oso8n6CkMfjn4h5hEvrjF"
 }

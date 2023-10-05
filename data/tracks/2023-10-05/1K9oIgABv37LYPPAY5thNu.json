@@ -54,4 +54,32 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:1K9oIgABv37LYPPAY5thNu"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GwM5CHqhWXzG3l5kzRSAS",
+            "id": "6GwM5CHqhWXzG3l5kzRSAS",
+            "name": "Younha",
+            "type": "artist",
+            "uri": "spotify:artist:6GwM5CHqhWXzG3l5kzRSAS"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 230320,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/1K9oIgABv37LYPPAY5thNu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1K9oIgABv37LYPPAY5thNu",
+    "id": "1K9oIgABv37LYPPAY5thNu",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Stardust",
+    "preview_url": "https://p.scdn.co/mp3-preview/cfff7521095d582a852670083e54329087891660?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:1K9oIgABv37LYPPAY5thNu"
 }

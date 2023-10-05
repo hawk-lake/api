@@ -112,4 +112,194 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:5QI1jPpw4LoNMuUXKGLQg2"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+            },
+            "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+            "id": "3t5xRXzsuZmMDkQzgOX35S",
+            "name": "Robin Schulz",
+            "type": "artist",
+            "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JE0uoggWwwYG6rSSJk0HN",
+            "id": "3JE0uoggWwwYG6rSSJk0HN",
+            "name": "FIL BO RIVA",
+            "type": "artist",
+            "uri": "spotify:artist:3JE0uoggWwwYG6rSSJk0HN"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180521,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5QI1jPpw4LoNMuUXKGLQg2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5QI1jPpw4LoNMuUXKGLQg2",
+    "id": "5QI1jPpw4LoNMuUXKGLQg2",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Killer Queen",
+    "preview_url": "https://p.scdn.co/mp3-preview/0edc4dfd825e9c2db614b81af832f885d014c9eb?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:5QI1jPpw4LoNMuUXKGLQg2"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+            },
+            "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+            "id": "3t5xRXzsuZmMDkQzgOX35S",
+            "name": "Robin Schulz",
+            "type": "artist",
+            "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JE0uoggWwwYG6rSSJk0HN",
+            "id": "3JE0uoggWwwYG6rSSJk0HN",
+            "name": "FIL BO RIVA",
+            "type": "artist",
+            "uri": "spotify:artist:3JE0uoggWwwYG6rSSJk0HN"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180521,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5QI1jPpw4LoNMuUXKGLQg2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5QI1jPpw4LoNMuUXKGLQg2",
+    "id": "5QI1jPpw4LoNMuUXKGLQg2",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Killer Queen",
+    "preview_url": "https://p.scdn.co/mp3-preview/0edc4dfd825e9c2db614b81af832f885d014c9eb?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:5QI1jPpw4LoNMuUXKGLQg2"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+            },
+            "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+            "id": "3t5xRXzsuZmMDkQzgOX35S",
+            "name": "Robin Schulz",
+            "type": "artist",
+            "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JE0uoggWwwYG6rSSJk0HN",
+            "id": "3JE0uoggWwwYG6rSSJk0HN",
+            "name": "FIL BO RIVA",
+            "type": "artist",
+            "uri": "spotify:artist:3JE0uoggWwwYG6rSSJk0HN"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180521,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5QI1jPpw4LoNMuUXKGLQg2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5QI1jPpw4LoNMuUXKGLQg2",
+    "id": "5QI1jPpw4LoNMuUXKGLQg2",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Killer Queen",
+    "preview_url": "https://p.scdn.co/mp3-preview/0edc4dfd825e9c2db614b81af832f885d014c9eb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:5QI1jPpw4LoNMuUXKGLQg2"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+            },
+            "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+            "id": "3t5xRXzsuZmMDkQzgOX35S",
+            "name": "Robin Schulz",
+            "type": "artist",
+            "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JE0uoggWwwYG6rSSJk0HN",
+            "id": "3JE0uoggWwwYG6rSSJk0HN",
+            "name": "FIL BO RIVA",
+            "type": "artist",
+            "uri": "spotify:artist:3JE0uoggWwwYG6rSSJk0HN"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180521,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5QI1jPpw4LoNMuUXKGLQg2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5QI1jPpw4LoNMuUXKGLQg2",
+    "id": "5QI1jPpw4LoNMuUXKGLQg2",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Killer Queen",
+    "preview_url": "https://p.scdn.co/mp3-preview/0edc4dfd825e9c2db614b81af832f885d014c9eb?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:5QI1jPpw4LoNMuUXKGLQg2"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+            },
+            "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+            "id": "3t5xRXzsuZmMDkQzgOX35S",
+            "name": "Robin Schulz",
+            "type": "artist",
+            "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JE0uoggWwwYG6rSSJk0HN",
+            "id": "3JE0uoggWwwYG6rSSJk0HN",
+            "name": "FIL BO RIVA",
+            "type": "artist",
+            "uri": "spotify:artist:3JE0uoggWwwYG6rSSJk0HN"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180521,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5QI1jPpw4LoNMuUXKGLQg2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5QI1jPpw4LoNMuUXKGLQg2",
+    "id": "5QI1jPpw4LoNMuUXKGLQg2",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Killer Queen",
+    "preview_url": "https://p.scdn.co/mp3-preview/0edc4dfd825e9c2db614b81af832f885d014c9eb?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:5QI1jPpw4LoNMuUXKGLQg2"
 }

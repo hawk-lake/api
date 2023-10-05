@@ -72,4 +72,41 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:7xcVfRQTIwTQrDJN29llIx"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6RHTUrRF63xao58xh9FXYJ",
+            "id": "6RHTUrRF63xao58xh9FXYJ",
+            "name": "IVE",
+            "type": "artist",
+            "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 190426,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7xcVfRQTIwTQrDJN29llIx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7xcVfRQTIwTQrDJN29llIx",
+    "id": "7xcVfRQTIwTQrDJN29llIx",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2wsRZURBbDbaQUuVT9piu1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2wsRZURBbDbaQUuVT9piu1",
+        "id": "2wsRZURBbDbaQUuVT9piu1",
+        "type": "track",
+        "uri": "spotify:track:2wsRZURBbDbaQUuVT9piu1"
+    },
+    "name": "Mine",
+    "preview_url": "https://p.scdn.co/mp3-preview/1e285ca5d309d45db451530230c3a4787ea3ee55?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:7xcVfRQTIwTQrDJN29llIx"
 }
