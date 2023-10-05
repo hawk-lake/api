@@ -36,11 +36,7 @@ def get_response(cnt, endpoint, params:dict=None):
 
     # request 요청
     if params != None:
-        if params.get('timestamp') :
-            params['timestamp'] = f'{nowdate}T{nowtime}'
-            response = requests.get(url=url, params=params, headers=headers)
-        else :
-            response = requests.get(url=url, params=params, headers=headers)
+        response = requests.get(url=url, params=params, headers=headers)
         print(response)
     else:
         response = requests.get(url=url, headers=headers)

@@ -4,8 +4,8 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 lib_dir = os.path.join(current_dir, f'../lib')
 sys.path.append(lib_dir)
 
-# from spotify import *
-from lib.spotify import *
+from spotify import *
+# from lib.spotify import *
 from database import *
 
 # 추후 source code의 양을 줄이기 위해 상단의 부분 등을 pip 모듈로 처리
@@ -45,18 +45,22 @@ def browse_new_releases(cnt):
         conn.close()
 
 def browse_featured_playlists(cnt):
+    from datetime import datetime
+
+    nowdate = datetime.now().strftime("%Y-%m-%d")
+    nowtime = datetime.now().strftime("%H:%M:%S")
     
     # spotify 발행 재생목록 '인기가요 Hot Now' 의 playlist_id 받아오기
     endpoint = 'browse/featured-playlists'
     params = {    
         'country' : 'KR',
         'locale' : 'en_KR',
-        'timestamp' : str(),
+        'timestamp' : f'{nowdate}T{nowtime}',
         'limit' : 1,
         'offset' : 0
     }
     response = get_response(cnt=cnt, endpoint=endpoint, params=params)
-    playlist_id = response['playlists']['items']['id']
+    playlist_id = response['playlists']['items'].pop()['id']
 
     # 위 재생목록의 트랙들의 앨범과 아티스트들 insert 하기
     endpoint = f'playlists/{playlist_id}/tracks'
