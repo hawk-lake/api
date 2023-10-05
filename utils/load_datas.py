@@ -4,7 +4,8 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 lib_dir = os.path.join(current_dir, f'../lib')
 sys.path.append(lib_dir)
 
-from spotify import *
+# from spotify import *
+from lib.spotify import *
 from database import *
 
 # 추후 source code의 양을 줄이기 위해 상단의 부분 등을 pip 모듈로 처리
