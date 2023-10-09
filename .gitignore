@@ -1,8 +1,7 @@
 /.idea
 __pycache__/
 **/__pycache__/
-config/config.ini
-database/*
-log/*
-data/*
-
+fastapi/config/config.ini
+fastapi/database/*
+fastapi/log/*
+fastapi/data/*
