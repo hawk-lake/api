@@ -24,13 +24,12 @@ python3 -m uvicorn main:app --host 0.0.0.0 --port 8000
 ```
 3. 각 엔드포인트 테스트
 `https://localhost:8000/docs` 스웨거 ui 이용해 엔드포인트 테스트 출력해보기
-* - /mysql/both/new_release
+- /mysql/both/new_release
 - /mysql/both/featured_playlists
 - /mysql/artists/related_artists
 - /mysql/album/artist_albums
 - /json/albums
 - /json/artists
-
 
 # Tree
 ```
