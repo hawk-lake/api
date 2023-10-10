@@ -6,7 +6,7 @@ cnt = sys.argv[1]
 
 # config.ini 파일 절대경로 반환
 current_dir = os.path.dirname(os.path.abspath(__file__))
-config_dir = os.path.join(current_dir, f'../../config/config.ini')
+config_dir = os.path.join(current_dir, f'../../../fastapi/config/config.ini')
 
 # ConfigParser 인스턴스 생성
 parser = ConfigParser()

@@ -4,4 +4,4 @@ __pycache__/
 fastapi/config/config.ini
 fastapi/database/*
 fastapi/log/*
-fastapi/data/*
+fastapi/datas/*
