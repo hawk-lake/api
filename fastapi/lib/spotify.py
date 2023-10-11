@@ -47,7 +47,7 @@ def get_response(cnt, endpoint, params:dict=None):
         print(data)
         return data
     else:
-        error = f"ERROR APPEARED : {nowtime} : {response.status_code} \n"
+        error = f"KEY-{cnt}: ERROR APPEARED: {nowtime}: {response.status_code} \n"
         try:
             with open(error_dir, "a") as file:
                 file.write(error)
