@@ -12,8 +12,18 @@ def file_json(file_dir, json_data):
     print("SUCCEED")
 
 
-def files_to_hdfs(folder_dir, hdfs_dir):
+def files_to_hdfs(type, date):
     import subprocess
+    import os
 
-    subprocess.run(["hdfs", "dfs", "-copyFromLocal", f"{folder_dir}/*", f"hdfs:///{hdfs_dir}/"])
-    subprocess.run(["rm", f"{folder_dir}/*"])
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    data_dir = os.path.join(current_dir, f'../datas/{type}/{date}')
+
+    subprocess.run(["hdfs", "dfs", "-mkdir", f"/spotify/{type}/{date}"])
+    subprocess.run(["hdfs", "dfs", "-put", f"{data_dir}/", f"/spotify/{type}/"])
+
+
+if __name__ == "__main__":
+    type = "tracks"
+    date = "2023-10-11"
+    files_to_hdfs(type, date)

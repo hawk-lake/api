@@ -39,4 +39,5 @@ async def get_artists(insert_date:str):
 3. [4] 실행
 4. [5] 실행
 5. [6] 실행
+6. [7], [8], [9] 같은 시간에 동시 실행
 """
