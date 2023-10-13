@@ -2,9 +2,6 @@
 - Fast API 서버로 구축한 데이터 수집 파이프라인입니다.
 - Spotify API 를 이용해 artist와 album 데이터를 수집합니다.
 
-# Structure
-- 
-
 # Get Started
 ## Mysql 서버 준비사항
 1. 설치한 mysql에 맞춰 `lib/database.py` 에서 connection 정보 수정
