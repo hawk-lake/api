@@ -1,0 +1,1 @@
+*/30 * * * * python3 /home/hooniegit/git/organization/hawk-lake/spotify-api/etc/src/cron/change_access_key.py > /home/hooniegit/git/organization/hawk-lake/spotify-api/fastapi/log/cron.log 2>&1
