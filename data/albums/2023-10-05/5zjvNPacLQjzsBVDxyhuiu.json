@@ -1,0 +1,295 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+            },
+            "href": "https://api.spotify.com/v1/artists/01XYiBYaoMJcNhPokrg0l0",
+            "id": "01XYiBYaoMJcNhPokrg0l0",
+            "name": "STAYC",
+            "type": "artist",
+            "uri": "spotify:artist:01XYiBYaoMJcNhPokrg0l0"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 High Up Entertainment,under license to Kakao Entertainment",
+            "type": "C"
+        },
+        {
+            "text": "2023 High Up Entertainment,under license to Kakao Entertainment",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8804775276224"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5zjvNPacLQjzsBVDxyhuiu",
+    "id": "5zjvNPacLQjzsBVDxyhuiu",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ad171c61dc18335f76e1138",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029ad171c61dc18335f76e1138",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519ad171c61dc18335f76e1138",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "High Up Entertainment",
+    "name": "Poppy (Korean Ver.)",
+    "popularity": 53,
+    "release_date": "2023-02-03",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5zjvNPacLQjzsBVDxyhuiu/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/01XYiBYaoMJcNhPokrg0l0",
+                        "id": "01XYiBYaoMJcNhPokrg0l0",
+                        "name": "STAYC",
+                        "type": "artist",
+                        "uri": "spotify:artist:01XYiBYaoMJcNhPokrg0l0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178293,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7a86ARVnm366v2UY1z9Ak8",
+                "id": "7a86ARVnm366v2UY1z9Ak8",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Poppy (Korean Ver.)",
+                "preview_url": "https://p.scdn.co/mp3-preview/38710440ad77fa6e232f63f41147c1fac70ef2ed?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7a86ARVnm366v2UY1z9Ak8"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:5zjvNPacLQjzsBVDxyhuiu"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+            },
+            "href": "https://api.spotify.com/v1/artists/01XYiBYaoMJcNhPokrg0l0",
+            "id": "01XYiBYaoMJcNhPokrg0l0",
+            "name": "STAYC",
+            "type": "artist",
+            "uri": "spotify:artist:01XYiBYaoMJcNhPokrg0l0"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 High Up Entertainment,under license to Kakao Entertainment",
+            "type": "C"
+        },
+        {
+            "text": "2023 High Up Entertainment,under license to Kakao Entertainment",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8804775276224"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5zjvNPacLQjzsBVDxyhuiu",
+    "id": "5zjvNPacLQjzsBVDxyhuiu",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ad171c61dc18335f76e1138",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029ad171c61dc18335f76e1138",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519ad171c61dc18335f76e1138",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "High Up Entertainment",
+    "name": "Poppy (Korean Ver.)",
+    "popularity": 53,
+    "release_date": "2023-02-03",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5zjvNPacLQjzsBVDxyhuiu/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/01XYiBYaoMJcNhPokrg0l0",
+                        "id": "01XYiBYaoMJcNhPokrg0l0",
+                        "name": "STAYC",
+                        "type": "artist",
+                        "uri": "spotify:artist:01XYiBYaoMJcNhPokrg0l0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178293,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7a86ARVnm366v2UY1z9Ak8",
+                "id": "7a86ARVnm366v2UY1z9Ak8",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Poppy (Korean Ver.)",
+                "preview_url": "https://p.scdn.co/mp3-preview/38710440ad77fa6e232f63f41147c1fac70ef2ed?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7a86ARVnm366v2UY1z9Ak8"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:5zjvNPacLQjzsBVDxyhuiu"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+            },
+            "href": "https://api.spotify.com/v1/artists/01XYiBYaoMJcNhPokrg0l0",
+            "id": "01XYiBYaoMJcNhPokrg0l0",
+            "name": "STAYC",
+            "type": "artist",
+            "uri": "spotify:artist:01XYiBYaoMJcNhPokrg0l0"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 High Up Entertainment,under license to Kakao Entertainment",
+            "type": "C"
+        },
+        {
+            "text": "2023 High Up Entertainment,under license to Kakao Entertainment",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8804775276224"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5zjvNPacLQjzsBVDxyhuiu",
+    "id": "5zjvNPacLQjzsBVDxyhuiu",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ad171c61dc18335f76e1138",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029ad171c61dc18335f76e1138",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519ad171c61dc18335f76e1138",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "High Up Entertainment",
+    "name": "Poppy (Korean Ver.)",
+    "popularity": 53,
+    "release_date": "2023-02-03",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5zjvNPacLQjzsBVDxyhuiu/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/01XYiBYaoMJcNhPokrg0l0",
+                        "id": "01XYiBYaoMJcNhPokrg0l0",
+                        "name": "STAYC",
+                        "type": "artist",
+                        "uri": "spotify:artist:01XYiBYaoMJcNhPokrg0l0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178293,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7a86ARVnm366v2UY1z9Ak8",
+                "id": "7a86ARVnm366v2UY1z9Ak8",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Poppy (Korean Ver.)",
+                "preview_url": "https://p.scdn.co/mp3-preview/38710440ad77fa6e232f63f41147c1fac70ef2ed?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7a86ARVnm366v2UY1z9Ak8"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:5zjvNPacLQjzsBVDxyhuiu"
+}

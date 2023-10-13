@@ -1,0 +1,1756 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+            "id": "3pTE9iaJTkWns3mxpNQlJV",
+            "name": "Bombay Bicycle Club",
+            "type": "artist",
+            "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189786709"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3",
+    "id": "0zL6Nw3i8LCzj4HRI2olI3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fb7d796de7768e63c6b8bad",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026fb7d796de7768e63c6b8bad",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516fb7d796de7768e63c6b8bad",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Mmm\u2026Records Ltd",
+    "name": "Turn The World On",
+    "popularity": 52,
+    "release_date": "2023-09-13",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 210173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5zeMiru9wbjdLBNYhFZa3G",
+                "id": "5zeMiru9wbjdLBNYhFZa3G",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Turn The World On",
+                "preview_url": "https://p.scdn.co/mp3-preview/6f6a8c02480ecab49bcda45bdc8bd0b0870e168a?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5zeMiru9wbjdLBNYhFZa3G"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/71wWIkjIViVJhAiruFQw9Q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/71wWIkjIViVJhAiruFQw9Q",
+                "id": "71wWIkjIViVJhAiruFQw9Q",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want To Be Your Only Pet",
+                "preview_url": "https://p.scdn.co/mp3-preview/50ffd07046d94af549bc7b7e23e15ae3897c9d70?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:71wWIkjIViVJhAiruFQw9Q"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nnYdIpahs41QiZ9MWp5Wx",
+                        "id": "0nnYdIpahs41QiZ9MWp5Wx",
+                        "name": "Holly Humberstone",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nnYdIpahs41QiZ9MWp5Wx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215986,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1HyrqH2wLIEnWm8SGVbytB",
+                "id": "1HyrqH2wLIEnWm8SGVbytB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Diving (feat. Holly Humberstone)",
+                "preview_url": "https://p.scdn.co/mp3-preview/f36547c5ccbdbd7b4e04818c88e621ac733dfdf0?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:1HyrqH2wLIEnWm8SGVbytB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 168440,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3CYk7XEpJNmvPW8twED0Gn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3CYk7XEpJNmvPW8twED0Gn",
+                "id": "3CYk7XEpJNmvPW8twED0Gn",
+                "is_local": false,
+                "is_playable": true,
+                "name": "My Big Day",
+                "preview_url": "https://p.scdn.co/mp3-preview/fd3b2f99012a6d86271eefe029a093f8eba0ca3c?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3CYk7XEpJNmvPW8twED0Gn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 4
+    },
+    "type": "album",
+    "uri": "spotify:album:0zL6Nw3i8LCzj4HRI2olI3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+            "id": "3pTE9iaJTkWns3mxpNQlJV",
+            "name": "Bombay Bicycle Club",
+            "type": "artist",
+            "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189786709"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3",
+    "id": "0zL6Nw3i8LCzj4HRI2olI3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fb7d796de7768e63c6b8bad",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026fb7d796de7768e63c6b8bad",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516fb7d796de7768e63c6b8bad",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Mmm\u2026Records Ltd",
+    "name": "Turn The World On",
+    "popularity": 52,
+    "release_date": "2023-09-13",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 210173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5zeMiru9wbjdLBNYhFZa3G",
+                "id": "5zeMiru9wbjdLBNYhFZa3G",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Turn The World On",
+                "preview_url": "https://p.scdn.co/mp3-preview/6f6a8c02480ecab49bcda45bdc8bd0b0870e168a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5zeMiru9wbjdLBNYhFZa3G"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/71wWIkjIViVJhAiruFQw9Q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/71wWIkjIViVJhAiruFQw9Q",
+                "id": "71wWIkjIViVJhAiruFQw9Q",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want To Be Your Only Pet",
+                "preview_url": "https://p.scdn.co/mp3-preview/50ffd07046d94af549bc7b7e23e15ae3897c9d70?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:71wWIkjIViVJhAiruFQw9Q"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nnYdIpahs41QiZ9MWp5Wx",
+                        "id": "0nnYdIpahs41QiZ9MWp5Wx",
+                        "name": "Holly Humberstone",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nnYdIpahs41QiZ9MWp5Wx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215986,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1HyrqH2wLIEnWm8SGVbytB",
+                "id": "1HyrqH2wLIEnWm8SGVbytB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Diving (feat. Holly Humberstone)",
+                "preview_url": "https://p.scdn.co/mp3-preview/f36547c5ccbdbd7b4e04818c88e621ac733dfdf0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:1HyrqH2wLIEnWm8SGVbytB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 168440,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3CYk7XEpJNmvPW8twED0Gn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3CYk7XEpJNmvPW8twED0Gn",
+                "id": "3CYk7XEpJNmvPW8twED0Gn",
+                "is_local": false,
+                "is_playable": true,
+                "name": "My Big Day",
+                "preview_url": "https://p.scdn.co/mp3-preview/fd3b2f99012a6d86271eefe029a093f8eba0ca3c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3CYk7XEpJNmvPW8twED0Gn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 4
+    },
+    "type": "album",
+    "uri": "spotify:album:0zL6Nw3i8LCzj4HRI2olI3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+            "id": "3pTE9iaJTkWns3mxpNQlJV",
+            "name": "Bombay Bicycle Club",
+            "type": "artist",
+            "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189786709"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3",
+    "id": "0zL6Nw3i8LCzj4HRI2olI3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fb7d796de7768e63c6b8bad",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026fb7d796de7768e63c6b8bad",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516fb7d796de7768e63c6b8bad",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Mmm\u2026Records Ltd",
+    "name": "Turn The World On",
+    "popularity": 52,
+    "release_date": "2023-09-13",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 210173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5zeMiru9wbjdLBNYhFZa3G",
+                "id": "5zeMiru9wbjdLBNYhFZa3G",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Turn The World On",
+                "preview_url": "https://p.scdn.co/mp3-preview/6f6a8c02480ecab49bcda45bdc8bd0b0870e168a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5zeMiru9wbjdLBNYhFZa3G"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/71wWIkjIViVJhAiruFQw9Q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/71wWIkjIViVJhAiruFQw9Q",
+                "id": "71wWIkjIViVJhAiruFQw9Q",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want To Be Your Only Pet",
+                "preview_url": "https://p.scdn.co/mp3-preview/50ffd07046d94af549bc7b7e23e15ae3897c9d70?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:71wWIkjIViVJhAiruFQw9Q"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nnYdIpahs41QiZ9MWp5Wx",
+                        "id": "0nnYdIpahs41QiZ9MWp5Wx",
+                        "name": "Holly Humberstone",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nnYdIpahs41QiZ9MWp5Wx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215986,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1HyrqH2wLIEnWm8SGVbytB",
+                "id": "1HyrqH2wLIEnWm8SGVbytB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Diving (feat. Holly Humberstone)",
+                "preview_url": "https://p.scdn.co/mp3-preview/f36547c5ccbdbd7b4e04818c88e621ac733dfdf0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:1HyrqH2wLIEnWm8SGVbytB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 168440,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3CYk7XEpJNmvPW8twED0Gn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3CYk7XEpJNmvPW8twED0Gn",
+                "id": "3CYk7XEpJNmvPW8twED0Gn",
+                "is_local": false,
+                "is_playable": true,
+                "name": "My Big Day",
+                "preview_url": "https://p.scdn.co/mp3-preview/fd3b2f99012a6d86271eefe029a093f8eba0ca3c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3CYk7XEpJNmvPW8twED0Gn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 4
+    },
+    "type": "album",
+    "uri": "spotify:album:0zL6Nw3i8LCzj4HRI2olI3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+            "id": "3pTE9iaJTkWns3mxpNQlJV",
+            "name": "Bombay Bicycle Club",
+            "type": "artist",
+            "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189786709"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3",
+    "id": "0zL6Nw3i8LCzj4HRI2olI3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fb7d796de7768e63c6b8bad",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026fb7d796de7768e63c6b8bad",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516fb7d796de7768e63c6b8bad",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Mmm\u2026Records Ltd",
+    "name": "Turn The World On",
+    "popularity": 52,
+    "release_date": "2023-09-13",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 210173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5zeMiru9wbjdLBNYhFZa3G",
+                "id": "5zeMiru9wbjdLBNYhFZa3G",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Turn The World On",
+                "preview_url": "https://p.scdn.co/mp3-preview/6f6a8c02480ecab49bcda45bdc8bd0b0870e168a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5zeMiru9wbjdLBNYhFZa3G"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/71wWIkjIViVJhAiruFQw9Q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/71wWIkjIViVJhAiruFQw9Q",
+                "id": "71wWIkjIViVJhAiruFQw9Q",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want To Be Your Only Pet",
+                "preview_url": "https://p.scdn.co/mp3-preview/50ffd07046d94af549bc7b7e23e15ae3897c9d70?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:71wWIkjIViVJhAiruFQw9Q"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nnYdIpahs41QiZ9MWp5Wx",
+                        "id": "0nnYdIpahs41QiZ9MWp5Wx",
+                        "name": "Holly Humberstone",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nnYdIpahs41QiZ9MWp5Wx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215986,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1HyrqH2wLIEnWm8SGVbytB",
+                "id": "1HyrqH2wLIEnWm8SGVbytB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Diving (feat. Holly Humberstone)",
+                "preview_url": "https://p.scdn.co/mp3-preview/f36547c5ccbdbd7b4e04818c88e621ac733dfdf0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:1HyrqH2wLIEnWm8SGVbytB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 168440,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3CYk7XEpJNmvPW8twED0Gn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3CYk7XEpJNmvPW8twED0Gn",
+                "id": "3CYk7XEpJNmvPW8twED0Gn",
+                "is_local": false,
+                "is_playable": true,
+                "name": "My Big Day",
+                "preview_url": "https://p.scdn.co/mp3-preview/fd3b2f99012a6d86271eefe029a093f8eba0ca3c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3CYk7XEpJNmvPW8twED0Gn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 4
+    },
+    "type": "album",
+    "uri": "spotify:album:0zL6Nw3i8LCzj4HRI2olI3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+            "id": "3pTE9iaJTkWns3mxpNQlJV",
+            "name": "Bombay Bicycle Club",
+            "type": "artist",
+            "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189786709"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3",
+    "id": "0zL6Nw3i8LCzj4HRI2olI3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fb7d796de7768e63c6b8bad",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026fb7d796de7768e63c6b8bad",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516fb7d796de7768e63c6b8bad",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Mmm\u2026Records Ltd",
+    "name": "Turn The World On",
+    "popularity": 52,
+    "release_date": "2023-09-13",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 210173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5zeMiru9wbjdLBNYhFZa3G",
+                "id": "5zeMiru9wbjdLBNYhFZa3G",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Turn The World On",
+                "preview_url": "https://p.scdn.co/mp3-preview/6f6a8c02480ecab49bcda45bdc8bd0b0870e168a?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5zeMiru9wbjdLBNYhFZa3G"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/71wWIkjIViVJhAiruFQw9Q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/71wWIkjIViVJhAiruFQw9Q",
+                "id": "71wWIkjIViVJhAiruFQw9Q",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want To Be Your Only Pet",
+                "preview_url": "https://p.scdn.co/mp3-preview/50ffd07046d94af549bc7b7e23e15ae3897c9d70?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:71wWIkjIViVJhAiruFQw9Q"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nnYdIpahs41QiZ9MWp5Wx",
+                        "id": "0nnYdIpahs41QiZ9MWp5Wx",
+                        "name": "Holly Humberstone",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nnYdIpahs41QiZ9MWp5Wx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215986,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1HyrqH2wLIEnWm8SGVbytB",
+                "id": "1HyrqH2wLIEnWm8SGVbytB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Diving (feat. Holly Humberstone)",
+                "preview_url": "https://p.scdn.co/mp3-preview/f36547c5ccbdbd7b4e04818c88e621ac733dfdf0?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:1HyrqH2wLIEnWm8SGVbytB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 168440,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3CYk7XEpJNmvPW8twED0Gn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3CYk7XEpJNmvPW8twED0Gn",
+                "id": "3CYk7XEpJNmvPW8twED0Gn",
+                "is_local": false,
+                "is_playable": true,
+                "name": "My Big Day",
+                "preview_url": "https://p.scdn.co/mp3-preview/fd3b2f99012a6d86271eefe029a093f8eba0ca3c?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3CYk7XEpJNmvPW8twED0Gn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 4
+    },
+    "type": "album",
+    "uri": "spotify:album:0zL6Nw3i8LCzj4HRI2olI3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+            "id": "3pTE9iaJTkWns3mxpNQlJV",
+            "name": "Bombay Bicycle Club",
+            "type": "artist",
+            "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189786709"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3",
+    "id": "0zL6Nw3i8LCzj4HRI2olI3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fb7d796de7768e63c6b8bad",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026fb7d796de7768e63c6b8bad",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516fb7d796de7768e63c6b8bad",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Mmm\u2026Records Ltd",
+    "name": "Turn The World On",
+    "popularity": 52,
+    "release_date": "2023-09-13",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 210173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5zeMiru9wbjdLBNYhFZa3G",
+                "id": "5zeMiru9wbjdLBNYhFZa3G",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Turn The World On",
+                "preview_url": "https://p.scdn.co/mp3-preview/6f6a8c02480ecab49bcda45bdc8bd0b0870e168a?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5zeMiru9wbjdLBNYhFZa3G"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/71wWIkjIViVJhAiruFQw9Q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/71wWIkjIViVJhAiruFQw9Q",
+                "id": "71wWIkjIViVJhAiruFQw9Q",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want To Be Your Only Pet",
+                "preview_url": "https://p.scdn.co/mp3-preview/50ffd07046d94af549bc7b7e23e15ae3897c9d70?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:71wWIkjIViVJhAiruFQw9Q"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nnYdIpahs41QiZ9MWp5Wx",
+                        "id": "0nnYdIpahs41QiZ9MWp5Wx",
+                        "name": "Holly Humberstone",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nnYdIpahs41QiZ9MWp5Wx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215986,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1HyrqH2wLIEnWm8SGVbytB",
+                "id": "1HyrqH2wLIEnWm8SGVbytB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Diving (feat. Holly Humberstone)",
+                "preview_url": "https://p.scdn.co/mp3-preview/f36547c5ccbdbd7b4e04818c88e621ac733dfdf0?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:1HyrqH2wLIEnWm8SGVbytB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 168440,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3CYk7XEpJNmvPW8twED0Gn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3CYk7XEpJNmvPW8twED0Gn",
+                "id": "3CYk7XEpJNmvPW8twED0Gn",
+                "is_local": false,
+                "is_playable": true,
+                "name": "My Big Day",
+                "preview_url": "https://p.scdn.co/mp3-preview/fd3b2f99012a6d86271eefe029a093f8eba0ca3c?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3CYk7XEpJNmvPW8twED0Gn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 4
+    },
+    "type": "album",
+    "uri": "spotify:album:0zL6Nw3i8LCzj4HRI2olI3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+            "id": "3pTE9iaJTkWns3mxpNQlJV",
+            "name": "Bombay Bicycle Club",
+            "type": "artist",
+            "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189786709"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3",
+    "id": "0zL6Nw3i8LCzj4HRI2olI3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fb7d796de7768e63c6b8bad",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026fb7d796de7768e63c6b8bad",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516fb7d796de7768e63c6b8bad",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Mmm\u2026Records Ltd",
+    "name": "Turn The World On",
+    "popularity": 52,
+    "release_date": "2023-09-13",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 210173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5zeMiru9wbjdLBNYhFZa3G",
+                "id": "5zeMiru9wbjdLBNYhFZa3G",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Turn The World On",
+                "preview_url": "https://p.scdn.co/mp3-preview/6f6a8c02480ecab49bcda45bdc8bd0b0870e168a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5zeMiru9wbjdLBNYhFZa3G"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/71wWIkjIViVJhAiruFQw9Q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/71wWIkjIViVJhAiruFQw9Q",
+                "id": "71wWIkjIViVJhAiruFQw9Q",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want To Be Your Only Pet",
+                "preview_url": "https://p.scdn.co/mp3-preview/50ffd07046d94af549bc7b7e23e15ae3897c9d70?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:71wWIkjIViVJhAiruFQw9Q"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nnYdIpahs41QiZ9MWp5Wx",
+                        "id": "0nnYdIpahs41QiZ9MWp5Wx",
+                        "name": "Holly Humberstone",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nnYdIpahs41QiZ9MWp5Wx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215986,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1HyrqH2wLIEnWm8SGVbytB",
+                "id": "1HyrqH2wLIEnWm8SGVbytB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Diving (feat. Holly Humberstone)",
+                "preview_url": "https://p.scdn.co/mp3-preview/f36547c5ccbdbd7b4e04818c88e621ac733dfdf0?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:1HyrqH2wLIEnWm8SGVbytB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 168440,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3CYk7XEpJNmvPW8twED0Gn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3CYk7XEpJNmvPW8twED0Gn",
+                "id": "3CYk7XEpJNmvPW8twED0Gn",
+                "is_local": false,
+                "is_playable": true,
+                "name": "My Big Day",
+                "preview_url": "https://p.scdn.co/mp3-preview/fd3b2f99012a6d86271eefe029a093f8eba0ca3c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3CYk7XEpJNmvPW8twED0Gn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 4
+    },
+    "type": "album",
+    "uri": "spotify:album:0zL6Nw3i8LCzj4HRI2olI3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+            "id": "3pTE9iaJTkWns3mxpNQlJV",
+            "name": "Bombay Bicycle Club",
+            "type": "artist",
+            "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189786709"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3",
+    "id": "0zL6Nw3i8LCzj4HRI2olI3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fb7d796de7768e63c6b8bad",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026fb7d796de7768e63c6b8bad",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516fb7d796de7768e63c6b8bad",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Mmm\u2026Records Ltd",
+    "name": "Turn The World On",
+    "popularity": 52,
+    "release_date": "2023-09-13",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 210173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5zeMiru9wbjdLBNYhFZa3G",
+                "id": "5zeMiru9wbjdLBNYhFZa3G",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Turn The World On",
+                "preview_url": "https://p.scdn.co/mp3-preview/6f6a8c02480ecab49bcda45bdc8bd0b0870e168a?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5zeMiru9wbjdLBNYhFZa3G"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/71wWIkjIViVJhAiruFQw9Q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/71wWIkjIViVJhAiruFQw9Q",
+                "id": "71wWIkjIViVJhAiruFQw9Q",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want To Be Your Only Pet",
+                "preview_url": "https://p.scdn.co/mp3-preview/50ffd07046d94af549bc7b7e23e15ae3897c9d70?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:71wWIkjIViVJhAiruFQw9Q"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nnYdIpahs41QiZ9MWp5Wx",
+                        "id": "0nnYdIpahs41QiZ9MWp5Wx",
+                        "name": "Holly Humberstone",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nnYdIpahs41QiZ9MWp5Wx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215986,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1HyrqH2wLIEnWm8SGVbytB",
+                "id": "1HyrqH2wLIEnWm8SGVbytB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Diving (feat. Holly Humberstone)",
+                "preview_url": "https://p.scdn.co/mp3-preview/f36547c5ccbdbd7b4e04818c88e621ac733dfdf0?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:1HyrqH2wLIEnWm8SGVbytB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 168440,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3CYk7XEpJNmvPW8twED0Gn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3CYk7XEpJNmvPW8twED0Gn",
+                "id": "3CYk7XEpJNmvPW8twED0Gn",
+                "is_local": false,
+                "is_playable": true,
+                "name": "My Big Day",
+                "preview_url": "https://p.scdn.co/mp3-preview/fd3b2f99012a6d86271eefe029a093f8eba0ca3c?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3CYk7XEpJNmvPW8twED0Gn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 4
+    },
+    "type": "album",
+    "uri": "spotify:album:0zL6Nw3i8LCzj4HRI2olI3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+            "id": "3pTE9iaJTkWns3mxpNQlJV",
+            "name": "Bombay Bicycle Club",
+            "type": "artist",
+            "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "(C) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "C"
+        },
+        {
+            "text": "(P) 2023 Mmm\u2026Records Ltd under exclusive license to AWAL Recordings Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "197189786709"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3",
+    "id": "0zL6Nw3i8LCzj4HRI2olI3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fb7d796de7768e63c6b8bad",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026fb7d796de7768e63c6b8bad",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516fb7d796de7768e63c6b8bad",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Mmm\u2026Records Ltd",
+    "name": "Turn The World On",
+    "popularity": 52,
+    "release_date": "2023-09-13",
+    "release_date_precision": "day",
+    "total_tracks": 4,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/0zL6Nw3i8LCzj4HRI2olI3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 210173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5zeMiru9wbjdLBNYhFZa3G",
+                "id": "5zeMiru9wbjdLBNYhFZa3G",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Turn The World On",
+                "preview_url": "https://p.scdn.co/mp3-preview/6f6a8c02480ecab49bcda45bdc8bd0b0870e168a?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5zeMiru9wbjdLBNYhFZa3G"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/71wWIkjIViVJhAiruFQw9Q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/71wWIkjIViVJhAiruFQw9Q",
+                "id": "71wWIkjIViVJhAiruFQw9Q",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Want To Be Your Only Pet",
+                "preview_url": "https://p.scdn.co/mp3-preview/50ffd07046d94af549bc7b7e23e15ae3897c9d70?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:71wWIkjIViVJhAiruFQw9Q"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nnYdIpahs41QiZ9MWp5Wx",
+                        "id": "0nnYdIpahs41QiZ9MWp5Wx",
+                        "name": "Holly Humberstone",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nnYdIpahs41QiZ9MWp5Wx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215986,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1HyrqH2wLIEnWm8SGVbytB",
+                "id": "1HyrqH2wLIEnWm8SGVbytB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Diving (feat. Holly Humberstone)",
+                "preview_url": "https://p.scdn.co/mp3-preview/f36547c5ccbdbd7b4e04818c88e621ac733dfdf0?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:1HyrqH2wLIEnWm8SGVbytB"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+                        "id": "3pTE9iaJTkWns3mxpNQlJV",
+                        "name": "Bombay Bicycle Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 168440,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3CYk7XEpJNmvPW8twED0Gn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3CYk7XEpJNmvPW8twED0Gn",
+                "id": "3CYk7XEpJNmvPW8twED0Gn",
+                "is_local": false,
+                "is_playable": true,
+                "name": "My Big Day",
+                "preview_url": "https://p.scdn.co/mp3-preview/fd3b2f99012a6d86271eefe029a093f8eba0ca3c?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3CYk7XEpJNmvPW8twED0Gn"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 4
+    },
+    "type": "album",
+    "uri": "spotify:album:0zL6Nw3i8LCzj4HRI2olI3"
+}

@@ -1,0 +1,892 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+            "id": "2AfmfGFbe0A0WsTYm0SDTx",
+            "name": "(G)I-DLE",
+            "type": "artist",
+            "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2022 CUBE ENTERTAINMENT INC.",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2022 CUBE ENTERTAINMENT INC.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "196922202544"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2Hyuin3i1cSZ1FlQFeCPZH",
+    "id": "2Hyuin3i1cSZ1FlQFeCPZH",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ac815bdd584468a7aa0216e1",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ac815bdd584468a7aa0216e1",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Cube Entertainment",
+    "name": "I love",
+    "popularity": 71,
+    "release_date": "2022-10-17",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2Hyuin3i1cSZ1FlQFeCPZH/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178453,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7Ejqkb9YfldcLoh8B6bXgj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7Ejqkb9YfldcLoh8B6bXgj",
+                "id": "7Ejqkb9YfldcLoh8B6bXgj",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6NnCWIWV740gP7DQ8kqdIE",
+                    "id": "6NnCWIWV740gP7DQ8kqdIE",
+                    "type": "track",
+                    "uri": "spotify:track:6NnCWIWV740gP7DQ8kqdIE"
+                },
+                "name": "Nxde",
+                "preview_url": "https://p.scdn.co/mp3-preview/35463499584b38e96efc6013844937d8bc094520?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7Ejqkb9YfldcLoh8B6bXgj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3uEcpyQUi0PVHy2sXfO3mu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3uEcpyQUi0PVHy2sXfO3mu",
+                "id": "3uEcpyQUi0PVHy2sXfO3mu",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6dmMXI9tVrDgFmxpjttZmF",
+                    "id": "6dmMXI9tVrDgFmxpjttZmF",
+                    "type": "track",
+                    "uri": "spotify:track:6dmMXI9tVrDgFmxpjttZmF"
+                },
+                "name": "LOVE",
+                "preview_url": "https://p.scdn.co/mp3-preview/7ab549c57654ca671740a0457bc9f1681b7ff06d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:3uEcpyQUi0PVHy2sXfO3mu"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 204040,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/00XrbymEYDhTSLwsWTzxor"
+                },
+                "href": "https://api.spotify.com/v1/tracks/00XrbymEYDhTSLwsWTzxor",
+                "id": "00XrbymEYDhTSLwsWTzxor",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6wXYyw7TBQlJ0qh3RNP8MD",
+                    "id": "6wXYyw7TBQlJ0qh3RNP8MD",
+                    "type": "track",
+                    "uri": "spotify:track:6wXYyw7TBQlJ0qh3RNP8MD"
+                },
+                "name": "Change",
+                "preview_url": "https://p.scdn.co/mp3-preview/70f5bb1f8af0950a6629717ecff1455bab0eb7a9?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:00XrbymEYDhTSLwsWTzxor"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182026,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/69zyhwAN4buVmk0ASqJd3F"
+                },
+                "href": "https://api.spotify.com/v1/tracks/69zyhwAN4buVmk0ASqJd3F",
+                "id": "69zyhwAN4buVmk0ASqJd3F",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6b5UB8AvYPTYP5AC99BYjB"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6b5UB8AvYPTYP5AC99BYjB",
+                    "id": "6b5UB8AvYPTYP5AC99BYjB",
+                    "type": "track",
+                    "uri": "spotify:track:6b5UB8AvYPTYP5AC99BYjB"
+                },
+                "name": "Reset",
+                "preview_url": "https://p.scdn.co/mp3-preview/26d4874ff4fd87ddb6b7c311fb468d4105af03a1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:69zyhwAN4buVmk0ASqJd3F"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 186733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5iTfhLRmXrLfrxKntxGLU4"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5iTfhLRmXrLfrxKntxGLU4",
+                "id": "5iTfhLRmXrLfrxKntxGLU4",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7f9Nbqm1ds2kxGHioJtdf3"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7f9Nbqm1ds2kxGHioJtdf3",
+                    "id": "7f9Nbqm1ds2kxGHioJtdf3",
+                    "type": "track",
+                    "uri": "spotify:track:7f9Nbqm1ds2kxGHioJtdf3"
+                },
+                "name": "Sculpture",
+                "preview_url": "https://p.scdn.co/mp3-preview/eb936c163f5f0ef98f4e564df4662b3d68df32e8?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:5iTfhLRmXrLfrxKntxGLU4"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 165453,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5OhygA66yCQWyjvVns7Can"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5OhygA66yCQWyjvVns7Can",
+                "id": "5OhygA66yCQWyjvVns7Can",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/4xc3JpkI8kxLwk1SJafjzh",
+                    "id": "4xc3JpkI8kxLwk1SJafjzh",
+                    "type": "track",
+                    "uri": "spotify:track:4xc3JpkI8kxLwk1SJafjzh"
+                },
+                "name": "DARK (X-file)",
+                "preview_url": "https://p.scdn.co/mp3-preview/aa38e7ccf5d73bd2841935bc4ef2bc3f55cbf4eb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:5OhygA66yCQWyjvVns7Can"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 6
+    },
+    "type": "album",
+    "uri": "spotify:album:2Hyuin3i1cSZ1FlQFeCPZH"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+            "id": "2AfmfGFbe0A0WsTYm0SDTx",
+            "name": "(G)I-DLE",
+            "type": "artist",
+            "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2022 CUBE ENTERTAINMENT INC.",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2022 CUBE ENTERTAINMENT INC.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "196922202544"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2Hyuin3i1cSZ1FlQFeCPZH",
+    "id": "2Hyuin3i1cSZ1FlQFeCPZH",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ac815bdd584468a7aa0216e1",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ac815bdd584468a7aa0216e1",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Cube Entertainment",
+    "name": "I love",
+    "popularity": 71,
+    "release_date": "2022-10-17",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2Hyuin3i1cSZ1FlQFeCPZH/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178453,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7Ejqkb9YfldcLoh8B6bXgj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7Ejqkb9YfldcLoh8B6bXgj",
+                "id": "7Ejqkb9YfldcLoh8B6bXgj",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6NnCWIWV740gP7DQ8kqdIE",
+                    "id": "6NnCWIWV740gP7DQ8kqdIE",
+                    "type": "track",
+                    "uri": "spotify:track:6NnCWIWV740gP7DQ8kqdIE"
+                },
+                "name": "Nxde",
+                "preview_url": "https://p.scdn.co/mp3-preview/35463499584b38e96efc6013844937d8bc094520?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7Ejqkb9YfldcLoh8B6bXgj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3uEcpyQUi0PVHy2sXfO3mu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3uEcpyQUi0PVHy2sXfO3mu",
+                "id": "3uEcpyQUi0PVHy2sXfO3mu",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6dmMXI9tVrDgFmxpjttZmF",
+                    "id": "6dmMXI9tVrDgFmxpjttZmF",
+                    "type": "track",
+                    "uri": "spotify:track:6dmMXI9tVrDgFmxpjttZmF"
+                },
+                "name": "LOVE",
+                "preview_url": "https://p.scdn.co/mp3-preview/7ab549c57654ca671740a0457bc9f1681b7ff06d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:3uEcpyQUi0PVHy2sXfO3mu"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 204040,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/00XrbymEYDhTSLwsWTzxor"
+                },
+                "href": "https://api.spotify.com/v1/tracks/00XrbymEYDhTSLwsWTzxor",
+                "id": "00XrbymEYDhTSLwsWTzxor",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6wXYyw7TBQlJ0qh3RNP8MD",
+                    "id": "6wXYyw7TBQlJ0qh3RNP8MD",
+                    "type": "track",
+                    "uri": "spotify:track:6wXYyw7TBQlJ0qh3RNP8MD"
+                },
+                "name": "Change",
+                "preview_url": "https://p.scdn.co/mp3-preview/70f5bb1f8af0950a6629717ecff1455bab0eb7a9?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:00XrbymEYDhTSLwsWTzxor"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182026,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/69zyhwAN4buVmk0ASqJd3F"
+                },
+                "href": "https://api.spotify.com/v1/tracks/69zyhwAN4buVmk0ASqJd3F",
+                "id": "69zyhwAN4buVmk0ASqJd3F",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6b5UB8AvYPTYP5AC99BYjB"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6b5UB8AvYPTYP5AC99BYjB",
+                    "id": "6b5UB8AvYPTYP5AC99BYjB",
+                    "type": "track",
+                    "uri": "spotify:track:6b5UB8AvYPTYP5AC99BYjB"
+                },
+                "name": "Reset",
+                "preview_url": "https://p.scdn.co/mp3-preview/26d4874ff4fd87ddb6b7c311fb468d4105af03a1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:69zyhwAN4buVmk0ASqJd3F"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 186733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5iTfhLRmXrLfrxKntxGLU4"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5iTfhLRmXrLfrxKntxGLU4",
+                "id": "5iTfhLRmXrLfrxKntxGLU4",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7f9Nbqm1ds2kxGHioJtdf3"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7f9Nbqm1ds2kxGHioJtdf3",
+                    "id": "7f9Nbqm1ds2kxGHioJtdf3",
+                    "type": "track",
+                    "uri": "spotify:track:7f9Nbqm1ds2kxGHioJtdf3"
+                },
+                "name": "Sculpture",
+                "preview_url": "https://p.scdn.co/mp3-preview/eb936c163f5f0ef98f4e564df4662b3d68df32e8?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:5iTfhLRmXrLfrxKntxGLU4"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 165453,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5OhygA66yCQWyjvVns7Can"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5OhygA66yCQWyjvVns7Can",
+                "id": "5OhygA66yCQWyjvVns7Can",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/4xc3JpkI8kxLwk1SJafjzh",
+                    "id": "4xc3JpkI8kxLwk1SJafjzh",
+                    "type": "track",
+                    "uri": "spotify:track:4xc3JpkI8kxLwk1SJafjzh"
+                },
+                "name": "DARK (X-file)",
+                "preview_url": "https://p.scdn.co/mp3-preview/aa38e7ccf5d73bd2841935bc4ef2bc3f55cbf4eb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:5OhygA66yCQWyjvVns7Can"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 6
+    },
+    "type": "album",
+    "uri": "spotify:album:2Hyuin3i1cSZ1FlQFeCPZH"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+            "id": "2AfmfGFbe0A0WsTYm0SDTx",
+            "name": "(G)I-DLE",
+            "type": "artist",
+            "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2022 CUBE ENTERTAINMENT INC.",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2022 CUBE ENTERTAINMENT INC.",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "196922202544"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2Hyuin3i1cSZ1FlQFeCPZH",
+    "id": "2Hyuin3i1cSZ1FlQFeCPZH",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ac815bdd584468a7aa0216e1",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ac815bdd584468a7aa0216e1",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Cube Entertainment",
+    "name": "I love",
+    "popularity": 71,
+    "release_date": "2022-10-17",
+    "release_date_precision": "day",
+    "total_tracks": 6,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2Hyuin3i1cSZ1FlQFeCPZH/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178453,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7Ejqkb9YfldcLoh8B6bXgj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7Ejqkb9YfldcLoh8B6bXgj",
+                "id": "7Ejqkb9YfldcLoh8B6bXgj",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6NnCWIWV740gP7DQ8kqdIE",
+                    "id": "6NnCWIWV740gP7DQ8kqdIE",
+                    "type": "track",
+                    "uri": "spotify:track:6NnCWIWV740gP7DQ8kqdIE"
+                },
+                "name": "Nxde",
+                "preview_url": "https://p.scdn.co/mp3-preview/35463499584b38e96efc6013844937d8bc094520?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7Ejqkb9YfldcLoh8B6bXgj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3uEcpyQUi0PVHy2sXfO3mu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3uEcpyQUi0PVHy2sXfO3mu",
+                "id": "3uEcpyQUi0PVHy2sXfO3mu",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6dmMXI9tVrDgFmxpjttZmF",
+                    "id": "6dmMXI9tVrDgFmxpjttZmF",
+                    "type": "track",
+                    "uri": "spotify:track:6dmMXI9tVrDgFmxpjttZmF"
+                },
+                "name": "LOVE",
+                "preview_url": "https://p.scdn.co/mp3-preview/7ab549c57654ca671740a0457bc9f1681b7ff06d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:3uEcpyQUi0PVHy2sXfO3mu"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 204040,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/00XrbymEYDhTSLwsWTzxor"
+                },
+                "href": "https://api.spotify.com/v1/tracks/00XrbymEYDhTSLwsWTzxor",
+                "id": "00XrbymEYDhTSLwsWTzxor",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6wXYyw7TBQlJ0qh3RNP8MD",
+                    "id": "6wXYyw7TBQlJ0qh3RNP8MD",
+                    "type": "track",
+                    "uri": "spotify:track:6wXYyw7TBQlJ0qh3RNP8MD"
+                },
+                "name": "Change",
+                "preview_url": "https://p.scdn.co/mp3-preview/70f5bb1f8af0950a6629717ecff1455bab0eb7a9?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:00XrbymEYDhTSLwsWTzxor"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182026,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/69zyhwAN4buVmk0ASqJd3F"
+                },
+                "href": "https://api.spotify.com/v1/tracks/69zyhwAN4buVmk0ASqJd3F",
+                "id": "69zyhwAN4buVmk0ASqJd3F",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6b5UB8AvYPTYP5AC99BYjB"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6b5UB8AvYPTYP5AC99BYjB",
+                    "id": "6b5UB8AvYPTYP5AC99BYjB",
+                    "type": "track",
+                    "uri": "spotify:track:6b5UB8AvYPTYP5AC99BYjB"
+                },
+                "name": "Reset",
+                "preview_url": "https://p.scdn.co/mp3-preview/26d4874ff4fd87ddb6b7c311fb468d4105af03a1?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:69zyhwAN4buVmk0ASqJd3F"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 186733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5iTfhLRmXrLfrxKntxGLU4"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5iTfhLRmXrLfrxKntxGLU4",
+                "id": "5iTfhLRmXrLfrxKntxGLU4",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7f9Nbqm1ds2kxGHioJtdf3"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7f9Nbqm1ds2kxGHioJtdf3",
+                    "id": "7f9Nbqm1ds2kxGHioJtdf3",
+                    "type": "track",
+                    "uri": "spotify:track:7f9Nbqm1ds2kxGHioJtdf3"
+                },
+                "name": "Sculpture",
+                "preview_url": "https://p.scdn.co/mp3-preview/eb936c163f5f0ef98f4e564df4662b3d68df32e8?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:5iTfhLRmXrLfrxKntxGLU4"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+                        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+                        "name": "(G)I-DLE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 165453,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5OhygA66yCQWyjvVns7Can"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5OhygA66yCQWyjvVns7Can",
+                "id": "5OhygA66yCQWyjvVns7Can",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/4xc3JpkI8kxLwk1SJafjzh",
+                    "id": "4xc3JpkI8kxLwk1SJafjzh",
+                    "type": "track",
+                    "uri": "spotify:track:4xc3JpkI8kxLwk1SJafjzh"
+                },
+                "name": "DARK (X-file)",
+                "preview_url": "https://p.scdn.co/mp3-preview/aa38e7ccf5d73bd2841935bc4ef2bc3f55cbf4eb?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:5OhygA66yCQWyjvVns7Can"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 6
+    },
+    "type": "album",
+    "uri": "spotify:album:2Hyuin3i1cSZ1FlQFeCPZH"
+}

@@ -1,0 +1,305 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6auWB5YAlcKaHyrbTH66nd",
+            "id": "6auWB5YAlcKaHyrbTH66nd",
+            "name": "No Rome",
+            "type": "artist",
+            "uri": "spotify:artist:6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0j9N5QU0dLNDVcgT4Vj2SJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0j9N5QU0dLNDVcgT4Vj2SJ",
+            "id": "0j9N5QU0dLNDVcgT4Vj2SJ",
+            "name": "Sally Cobain",
+            "type": "artist",
+            "uri": "spotify:artist:0j9N5QU0dLNDVcgT4Vj2SJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 122088,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5sEmXyEnkdKncAWvMEtDiG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5sEmXyEnkdKncAWvMEtDiG",
+    "id": "5sEmXyEnkdKncAWvMEtDiG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "97RAGER",
+    "preview_url": "https://p.scdn.co/mp3-preview/a08f219680b4af22eb7a2cff430015fb8e9e70b1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5sEmXyEnkdKncAWvMEtDiG"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6auWB5YAlcKaHyrbTH66nd",
+            "id": "6auWB5YAlcKaHyrbTH66nd",
+            "name": "No Rome",
+            "type": "artist",
+            "uri": "spotify:artist:6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0j9N5QU0dLNDVcgT4Vj2SJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0j9N5QU0dLNDVcgT4Vj2SJ",
+            "id": "0j9N5QU0dLNDVcgT4Vj2SJ",
+            "name": "Sally Cobain",
+            "type": "artist",
+            "uri": "spotify:artist:0j9N5QU0dLNDVcgT4Vj2SJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 122088,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5sEmXyEnkdKncAWvMEtDiG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5sEmXyEnkdKncAWvMEtDiG",
+    "id": "5sEmXyEnkdKncAWvMEtDiG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "97RAGER",
+    "preview_url": "https://p.scdn.co/mp3-preview/a08f219680b4af22eb7a2cff430015fb8e9e70b1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5sEmXyEnkdKncAWvMEtDiG"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6auWB5YAlcKaHyrbTH66nd",
+            "id": "6auWB5YAlcKaHyrbTH66nd",
+            "name": "No Rome",
+            "type": "artist",
+            "uri": "spotify:artist:6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0j9N5QU0dLNDVcgT4Vj2SJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0j9N5QU0dLNDVcgT4Vj2SJ",
+            "id": "0j9N5QU0dLNDVcgT4Vj2SJ",
+            "name": "Sally Cobain",
+            "type": "artist",
+            "uri": "spotify:artist:0j9N5QU0dLNDVcgT4Vj2SJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 122088,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5sEmXyEnkdKncAWvMEtDiG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5sEmXyEnkdKncAWvMEtDiG",
+    "id": "5sEmXyEnkdKncAWvMEtDiG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "97RAGER",
+    "preview_url": "https://p.scdn.co/mp3-preview/a08f219680b4af22eb7a2cff430015fb8e9e70b1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5sEmXyEnkdKncAWvMEtDiG"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6auWB5YAlcKaHyrbTH66nd",
+            "id": "6auWB5YAlcKaHyrbTH66nd",
+            "name": "No Rome",
+            "type": "artist",
+            "uri": "spotify:artist:6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0j9N5QU0dLNDVcgT4Vj2SJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0j9N5QU0dLNDVcgT4Vj2SJ",
+            "id": "0j9N5QU0dLNDVcgT4Vj2SJ",
+            "name": "Sally Cobain",
+            "type": "artist",
+            "uri": "spotify:artist:0j9N5QU0dLNDVcgT4Vj2SJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 122088,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5sEmXyEnkdKncAWvMEtDiG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5sEmXyEnkdKncAWvMEtDiG",
+    "id": "5sEmXyEnkdKncAWvMEtDiG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "97RAGER",
+    "preview_url": "https://p.scdn.co/mp3-preview/a08f219680b4af22eb7a2cff430015fb8e9e70b1?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5sEmXyEnkdKncAWvMEtDiG"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6auWB5YAlcKaHyrbTH66nd",
+            "id": "6auWB5YAlcKaHyrbTH66nd",
+            "name": "No Rome",
+            "type": "artist",
+            "uri": "spotify:artist:6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0j9N5QU0dLNDVcgT4Vj2SJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0j9N5QU0dLNDVcgT4Vj2SJ",
+            "id": "0j9N5QU0dLNDVcgT4Vj2SJ",
+            "name": "Sally Cobain",
+            "type": "artist",
+            "uri": "spotify:artist:0j9N5QU0dLNDVcgT4Vj2SJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 122088,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5sEmXyEnkdKncAWvMEtDiG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5sEmXyEnkdKncAWvMEtDiG",
+    "id": "5sEmXyEnkdKncAWvMEtDiG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "97RAGER",
+    "preview_url": "https://p.scdn.co/mp3-preview/a08f219680b4af22eb7a2cff430015fb8e9e70b1?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5sEmXyEnkdKncAWvMEtDiG"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6auWB5YAlcKaHyrbTH66nd",
+            "id": "6auWB5YAlcKaHyrbTH66nd",
+            "name": "No Rome",
+            "type": "artist",
+            "uri": "spotify:artist:6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0j9N5QU0dLNDVcgT4Vj2SJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0j9N5QU0dLNDVcgT4Vj2SJ",
+            "id": "0j9N5QU0dLNDVcgT4Vj2SJ",
+            "name": "Sally Cobain",
+            "type": "artist",
+            "uri": "spotify:artist:0j9N5QU0dLNDVcgT4Vj2SJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 122088,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5sEmXyEnkdKncAWvMEtDiG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5sEmXyEnkdKncAWvMEtDiG",
+    "id": "5sEmXyEnkdKncAWvMEtDiG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "97RAGER",
+    "preview_url": "https://p.scdn.co/mp3-preview/a08f219680b4af22eb7a2cff430015fb8e9e70b1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5sEmXyEnkdKncAWvMEtDiG"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6auWB5YAlcKaHyrbTH66nd",
+            "id": "6auWB5YAlcKaHyrbTH66nd",
+            "name": "No Rome",
+            "type": "artist",
+            "uri": "spotify:artist:6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0j9N5QU0dLNDVcgT4Vj2SJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0j9N5QU0dLNDVcgT4Vj2SJ",
+            "id": "0j9N5QU0dLNDVcgT4Vj2SJ",
+            "name": "Sally Cobain",
+            "type": "artist",
+            "uri": "spotify:artist:0j9N5QU0dLNDVcgT4Vj2SJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 122088,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5sEmXyEnkdKncAWvMEtDiG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5sEmXyEnkdKncAWvMEtDiG",
+    "id": "5sEmXyEnkdKncAWvMEtDiG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "97RAGER",
+    "preview_url": "https://p.scdn.co/mp3-preview/a08f219680b4af22eb7a2cff430015fb8e9e70b1?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5sEmXyEnkdKncAWvMEtDiG"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6auWB5YAlcKaHyrbTH66nd",
+            "id": "6auWB5YAlcKaHyrbTH66nd",
+            "name": "No Rome",
+            "type": "artist",
+            "uri": "spotify:artist:6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0j9N5QU0dLNDVcgT4Vj2SJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0j9N5QU0dLNDVcgT4Vj2SJ",
+            "id": "0j9N5QU0dLNDVcgT4Vj2SJ",
+            "name": "Sally Cobain",
+            "type": "artist",
+            "uri": "spotify:artist:0j9N5QU0dLNDVcgT4Vj2SJ"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 122088,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/5sEmXyEnkdKncAWvMEtDiG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5sEmXyEnkdKncAWvMEtDiG",
+    "id": "5sEmXyEnkdKncAWvMEtDiG",
+    "is_local": false,
+    "is_playable": true,
+    "name": "97RAGER",
+    "preview_url": "https://p.scdn.co/mp3-preview/a08f219680b4af22eb7a2cff430015fb8e9e70b1?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5sEmXyEnkdKncAWvMEtDiG"
+}

@@ -1,0 +1,112 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+            },
+            "href": "https://api.spotify.com/v1/artists/2dIgFjalVxs4ThymZ67YCE",
+            "id": "2dIgFjalVxs4ThymZ67YCE",
+            "name": "Stray Kids",
+            "type": "artist",
+            "uri": "spotify:artist:2dIgFjalVxs4ThymZ67YCE"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 171680,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7tc81blCMY7wNn44zmk1u7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7tc81blCMY7wNn44zmk1u7",
+    "id": "7tc81blCMY7wNn44zmk1u7",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7LQvpgaadSh74HzYAjOisA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7LQvpgaadSh74HzYAjOisA",
+        "id": "7LQvpgaadSh74HzYAjOisA",
+        "type": "track",
+        "uri": "spotify:track:7LQvpgaadSh74HzYAjOisA"
+    },
+    "name": "FNF",
+    "preview_url": "https://p.scdn.co/mp3-preview/4e8c4d3a4033545ab46b82d1e567f1f565c454f3?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:7tc81blCMY7wNn44zmk1u7"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+            },
+            "href": "https://api.spotify.com/v1/artists/2dIgFjalVxs4ThymZ67YCE",
+            "id": "2dIgFjalVxs4ThymZ67YCE",
+            "name": "Stray Kids",
+            "type": "artist",
+            "uri": "spotify:artist:2dIgFjalVxs4ThymZ67YCE"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 171680,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7tc81blCMY7wNn44zmk1u7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7tc81blCMY7wNn44zmk1u7",
+    "id": "7tc81blCMY7wNn44zmk1u7",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7LQvpgaadSh74HzYAjOisA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7LQvpgaadSh74HzYAjOisA",
+        "id": "7LQvpgaadSh74HzYAjOisA",
+        "type": "track",
+        "uri": "spotify:track:7LQvpgaadSh74HzYAjOisA"
+    },
+    "name": "FNF",
+    "preview_url": "https://p.scdn.co/mp3-preview/4e8c4d3a4033545ab46b82d1e567f1f565c454f3?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:7tc81blCMY7wNn44zmk1u7"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+            },
+            "href": "https://api.spotify.com/v1/artists/2dIgFjalVxs4ThymZ67YCE",
+            "id": "2dIgFjalVxs4ThymZ67YCE",
+            "name": "Stray Kids",
+            "type": "artist",
+            "uri": "spotify:artist:2dIgFjalVxs4ThymZ67YCE"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 171680,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7tc81blCMY7wNn44zmk1u7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7tc81blCMY7wNn44zmk1u7",
+    "id": "7tc81blCMY7wNn44zmk1u7",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7LQvpgaadSh74HzYAjOisA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7LQvpgaadSh74HzYAjOisA",
+        "id": "7LQvpgaadSh74HzYAjOisA",
+        "type": "track",
+        "uri": "spotify:track:7LQvpgaadSh74HzYAjOisA"
+    },
+    "name": "FNF",
+    "preview_url": "https://p.scdn.co/mp3-preview/4e8c4d3a4033545ab46b82d1e567f1f565c454f3?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:7tc81blCMY7wNn44zmk1u7"
+}

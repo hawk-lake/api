@@ -1,0 +1,37 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+    },
+    "followers": {
+        "href": null,
+        "total": 1041454
+    },
+    "genres": [
+        "indie soul",
+        "indietronica",
+        "uk contemporary r&b"
+    ],
+    "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+    "id": "59oA5WbbQvomJz2BuRG071",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb15cf3de5c20aa0bec068b840",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517415cf3de5c20aa0bec068b840",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17815cf3de5c20aa0bec068b840",
+            "width": 160
+        }
+    ],
+    "name": "Jungle",
+    "popularity": 73,
+    "type": "artist",
+    "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+}

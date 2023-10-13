@@ -1,0 +1,305 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+            "id": "6S2OmqARrzebs0tKUEyXyp",
+            "name": "Demi Lovato",
+            "type": "artist",
+            "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+            "id": "0ZUdYzRCIrxbsd80MmGMqo",
+            "name": "Daisy Jones & The Six",
+            "type": "artist",
+            "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204186,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/74YyVH1E6gSlZCbtN6OgJN",
+    "id": "74YyVH1E6gSlZCbtN6OgJN",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Let Me Down Easy",
+    "preview_url": "https://p.scdn.co/mp3-preview/4813d98c7cc7625a76608cec72fc4528ed11b5be?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:74YyVH1E6gSlZCbtN6OgJN"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+            "id": "6S2OmqARrzebs0tKUEyXyp",
+            "name": "Demi Lovato",
+            "type": "artist",
+            "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+            "id": "0ZUdYzRCIrxbsd80MmGMqo",
+            "name": "Daisy Jones & The Six",
+            "type": "artist",
+            "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204186,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/74YyVH1E6gSlZCbtN6OgJN",
+    "id": "74YyVH1E6gSlZCbtN6OgJN",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Let Me Down Easy",
+    "preview_url": "https://p.scdn.co/mp3-preview/4813d98c7cc7625a76608cec72fc4528ed11b5be?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:74YyVH1E6gSlZCbtN6OgJN"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+            "id": "6S2OmqARrzebs0tKUEyXyp",
+            "name": "Demi Lovato",
+            "type": "artist",
+            "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+            "id": "0ZUdYzRCIrxbsd80MmGMqo",
+            "name": "Daisy Jones & The Six",
+            "type": "artist",
+            "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204186,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/74YyVH1E6gSlZCbtN6OgJN",
+    "id": "74YyVH1E6gSlZCbtN6OgJN",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Let Me Down Easy",
+    "preview_url": "https://p.scdn.co/mp3-preview/4813d98c7cc7625a76608cec72fc4528ed11b5be?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:74YyVH1E6gSlZCbtN6OgJN"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+            "id": "6S2OmqARrzebs0tKUEyXyp",
+            "name": "Demi Lovato",
+            "type": "artist",
+            "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+            "id": "0ZUdYzRCIrxbsd80MmGMqo",
+            "name": "Daisy Jones & The Six",
+            "type": "artist",
+            "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204186,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/74YyVH1E6gSlZCbtN6OgJN",
+    "id": "74YyVH1E6gSlZCbtN6OgJN",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Let Me Down Easy",
+    "preview_url": "https://p.scdn.co/mp3-preview/4813d98c7cc7625a76608cec72fc4528ed11b5be?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:74YyVH1E6gSlZCbtN6OgJN"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+            "id": "6S2OmqARrzebs0tKUEyXyp",
+            "name": "Demi Lovato",
+            "type": "artist",
+            "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+            "id": "0ZUdYzRCIrxbsd80MmGMqo",
+            "name": "Daisy Jones & The Six",
+            "type": "artist",
+            "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204186,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/74YyVH1E6gSlZCbtN6OgJN",
+    "id": "74YyVH1E6gSlZCbtN6OgJN",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Let Me Down Easy",
+    "preview_url": "https://p.scdn.co/mp3-preview/4813d98c7cc7625a76608cec72fc4528ed11b5be?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:74YyVH1E6gSlZCbtN6OgJN"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+            "id": "6S2OmqARrzebs0tKUEyXyp",
+            "name": "Demi Lovato",
+            "type": "artist",
+            "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+            "id": "0ZUdYzRCIrxbsd80MmGMqo",
+            "name": "Daisy Jones & The Six",
+            "type": "artist",
+            "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204186,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/74YyVH1E6gSlZCbtN6OgJN",
+    "id": "74YyVH1E6gSlZCbtN6OgJN",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Let Me Down Easy",
+    "preview_url": "https://p.scdn.co/mp3-preview/4813d98c7cc7625a76608cec72fc4528ed11b5be?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:74YyVH1E6gSlZCbtN6OgJN"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+            "id": "6S2OmqARrzebs0tKUEyXyp",
+            "name": "Demi Lovato",
+            "type": "artist",
+            "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+            "id": "0ZUdYzRCIrxbsd80MmGMqo",
+            "name": "Daisy Jones & The Six",
+            "type": "artist",
+            "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204186,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/74YyVH1E6gSlZCbtN6OgJN",
+    "id": "74YyVH1E6gSlZCbtN6OgJN",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Let Me Down Easy",
+    "preview_url": "https://p.scdn.co/mp3-preview/4813d98c7cc7625a76608cec72fc4528ed11b5be?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:74YyVH1E6gSlZCbtN6OgJN"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+            "id": "6S2OmqARrzebs0tKUEyXyp",
+            "name": "Demi Lovato",
+            "type": "artist",
+            "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZUdYzRCIrxbsd80MmGMqo",
+            "id": "0ZUdYzRCIrxbsd80MmGMqo",
+            "name": "Daisy Jones & The Six",
+            "type": "artist",
+            "uri": "spotify:artist:0ZUdYzRCIrxbsd80MmGMqo"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204186,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/74YyVH1E6gSlZCbtN6OgJN",
+    "id": "74YyVH1E6gSlZCbtN6OgJN",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Let Me Down Easy",
+    "preview_url": "https://p.scdn.co/mp3-preview/4813d98c7cc7625a76608cec72fc4528ed11b5be?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:74YyVH1E6gSlZCbtN6OgJN"
+}

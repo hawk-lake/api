@@ -1,0 +1,225 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168480,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/41nIJErYY9goKvnCyG7ov6",
+    "id": "41nIJErYY9goKvnCyG7ov6",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Frost",
+    "preview_url": "https://p.scdn.co/mp3-preview/86df2cdb20fe46e14863ba35c035c541da6620aa?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:41nIJErYY9goKvnCyG7ov6"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168480,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/41nIJErYY9goKvnCyG7ov6",
+    "id": "41nIJErYY9goKvnCyG7ov6",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Frost",
+    "preview_url": "https://p.scdn.co/mp3-preview/86df2cdb20fe46e14863ba35c035c541da6620aa?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:41nIJErYY9goKvnCyG7ov6"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168480,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/41nIJErYY9goKvnCyG7ov6",
+    "id": "41nIJErYY9goKvnCyG7ov6",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Frost",
+    "preview_url": "https://p.scdn.co/mp3-preview/86df2cdb20fe46e14863ba35c035c541da6620aa?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:41nIJErYY9goKvnCyG7ov6"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168480,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/41nIJErYY9goKvnCyG7ov6",
+    "id": "41nIJErYY9goKvnCyG7ov6",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Frost",
+    "preview_url": "https://p.scdn.co/mp3-preview/86df2cdb20fe46e14863ba35c035c541da6620aa?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:41nIJErYY9goKvnCyG7ov6"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168480,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/41nIJErYY9goKvnCyG7ov6",
+    "id": "41nIJErYY9goKvnCyG7ov6",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Frost",
+    "preview_url": "https://p.scdn.co/mp3-preview/86df2cdb20fe46e14863ba35c035c541da6620aa?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:41nIJErYY9goKvnCyG7ov6"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168480,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/41nIJErYY9goKvnCyG7ov6",
+    "id": "41nIJErYY9goKvnCyG7ov6",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Frost",
+    "preview_url": "https://p.scdn.co/mp3-preview/86df2cdb20fe46e14863ba35c035c541da6620aa?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:41nIJErYY9goKvnCyG7ov6"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168480,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/41nIJErYY9goKvnCyG7ov6",
+    "id": "41nIJErYY9goKvnCyG7ov6",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Frost",
+    "preview_url": "https://p.scdn.co/mp3-preview/86df2cdb20fe46e14863ba35c035c541da6620aa?cid=3c77a1d0326e42ee9812acc87cc0692d",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:41nIJErYY9goKvnCyG7ov6"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168480,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/41nIJErYY9goKvnCyG7ov6",
+    "id": "41nIJErYY9goKvnCyG7ov6",
+    "is_local": false,
+    "is_playable": true,
+    "name": "The Frost",
+    "preview_url": "https://p.scdn.co/mp3-preview/86df2cdb20fe46e14863ba35c035c541da6620aa?cid=7042ec86043d4f61ae971a1591428089",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:41nIJErYY9goKvnCyG7ov6"
+}

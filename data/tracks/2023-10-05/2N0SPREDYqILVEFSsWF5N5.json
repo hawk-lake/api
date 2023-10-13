@@ -1,0 +1,85 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JsHnjpbhX4SnySpvpa9DK",
+            "id": "3JsHnjpbhX4SnySpvpa9DK",
+            "name": "V",
+            "type": "artist",
+            "uri": "spotify:artist:3JsHnjpbhX4SnySpvpa9DK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 182293,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2N0SPREDYqILVEFSsWF5N5",
+    "id": "2N0SPREDYqILVEFSsWF5N5",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Love Me Again",
+    "preview_url": "https://p.scdn.co/mp3-preview/7cf9f9fce7c6ea14a19134d84a3034fef7067f0a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2N0SPREDYqILVEFSsWF5N5"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JsHnjpbhX4SnySpvpa9DK",
+            "id": "3JsHnjpbhX4SnySpvpa9DK",
+            "name": "V",
+            "type": "artist",
+            "uri": "spotify:artist:3JsHnjpbhX4SnySpvpa9DK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 182293,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2N0SPREDYqILVEFSsWF5N5",
+    "id": "2N0SPREDYqILVEFSsWF5N5",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Love Me Again",
+    "preview_url": "https://p.scdn.co/mp3-preview/7cf9f9fce7c6ea14a19134d84a3034fef7067f0a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2N0SPREDYqILVEFSsWF5N5"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JsHnjpbhX4SnySpvpa9DK",
+            "id": "3JsHnjpbhX4SnySpvpa9DK",
+            "name": "V",
+            "type": "artist",
+            "uri": "spotify:artist:3JsHnjpbhX4SnySpvpa9DK"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 182293,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2N0SPREDYqILVEFSsWF5N5",
+    "id": "2N0SPREDYqILVEFSsWF5N5",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Love Me Again",
+    "preview_url": "https://p.scdn.co/mp3-preview/7cf9f9fce7c6ea14a19134d84a3034fef7067f0a?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2N0SPREDYqILVEFSsWF5N5"
+}

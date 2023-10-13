@@ -1,0 +1,112 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+            },
+            "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+            "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+            "name": "Parc Jae Jung",
+            "type": "artist",
+            "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 236328,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2tNrTSrwgSshZgxBVoPSzp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2tNrTSrwgSshZgxBVoPSzp",
+    "id": "2tNrTSrwgSshZgxBVoPSzp",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4sPpm8S2meggNxUcbTZT81"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4sPpm8S2meggNxUcbTZT81",
+        "id": "4sPpm8S2meggNxUcbTZT81",
+        "type": "track",
+        "uri": "spotify:track:4sPpm8S2meggNxUcbTZT81"
+    },
+    "name": "End",
+    "preview_url": "https://p.scdn.co/mp3-preview/5c12b933b053b6453ed0060e4d26600b68cbb8ee?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2tNrTSrwgSshZgxBVoPSzp"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+            },
+            "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+            "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+            "name": "Parc Jae Jung",
+            "type": "artist",
+            "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 236328,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2tNrTSrwgSshZgxBVoPSzp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2tNrTSrwgSshZgxBVoPSzp",
+    "id": "2tNrTSrwgSshZgxBVoPSzp",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4sPpm8S2meggNxUcbTZT81"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4sPpm8S2meggNxUcbTZT81",
+        "id": "4sPpm8S2meggNxUcbTZT81",
+        "type": "track",
+        "uri": "spotify:track:4sPpm8S2meggNxUcbTZT81"
+    },
+    "name": "End",
+    "preview_url": "https://p.scdn.co/mp3-preview/5c12b933b053b6453ed0060e4d26600b68cbb8ee?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2tNrTSrwgSshZgxBVoPSzp"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+            },
+            "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+            "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+            "name": "Parc Jae Jung",
+            "type": "artist",
+            "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 236328,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/2tNrTSrwgSshZgxBVoPSzp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2tNrTSrwgSshZgxBVoPSzp",
+    "id": "2tNrTSrwgSshZgxBVoPSzp",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4sPpm8S2meggNxUcbTZT81"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4sPpm8S2meggNxUcbTZT81",
+        "id": "4sPpm8S2meggNxUcbTZT81",
+        "type": "track",
+        "uri": "spotify:track:4sPpm8S2meggNxUcbTZT81"
+    },
+    "name": "End",
+    "preview_url": "https://p.scdn.co/mp3-preview/5c12b933b053b6453ed0060e4d26600b68cbb8ee?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2tNrTSrwgSshZgxBVoPSzp"
+}

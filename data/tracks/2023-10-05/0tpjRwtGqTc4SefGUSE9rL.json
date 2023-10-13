@@ -1,0 +1,85 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GwM5CHqhWXzG3l5kzRSAS",
+            "id": "6GwM5CHqhWXzG3l5kzRSAS",
+            "name": "Younha",
+            "type": "artist",
+            "uri": "spotify:artist:6GwM5CHqhWXzG3l5kzRSAS"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 188293,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0tpjRwtGqTc4SefGUSE9rL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0tpjRwtGqTc4SefGUSE9rL",
+    "id": "0tpjRwtGqTc4SefGUSE9rL",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Black hole",
+    "preview_url": "https://p.scdn.co/mp3-preview/7eb5951b6f0b78584bdf6642823445bb1ef492ed?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:0tpjRwtGqTc4SefGUSE9rL"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GwM5CHqhWXzG3l5kzRSAS",
+            "id": "6GwM5CHqhWXzG3l5kzRSAS",
+            "name": "Younha",
+            "type": "artist",
+            "uri": "spotify:artist:6GwM5CHqhWXzG3l5kzRSAS"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 188293,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0tpjRwtGqTc4SefGUSE9rL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0tpjRwtGqTc4SefGUSE9rL",
+    "id": "0tpjRwtGqTc4SefGUSE9rL",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Black hole",
+    "preview_url": "https://p.scdn.co/mp3-preview/7eb5951b6f0b78584bdf6642823445bb1ef492ed?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:0tpjRwtGqTc4SefGUSE9rL"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GwM5CHqhWXzG3l5kzRSAS",
+            "id": "6GwM5CHqhWXzG3l5kzRSAS",
+            "name": "Younha",
+            "type": "artist",
+            "uri": "spotify:artist:6GwM5CHqhWXzG3l5kzRSAS"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 188293,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0tpjRwtGqTc4SefGUSE9rL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0tpjRwtGqTc4SefGUSE9rL",
+    "id": "0tpjRwtGqTc4SefGUSE9rL",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Black hole",
+    "preview_url": "https://p.scdn.co/mp3-preview/7eb5951b6f0b78584bdf6642823445bb1ef492ed?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:0tpjRwtGqTc4SefGUSE9rL"
+}

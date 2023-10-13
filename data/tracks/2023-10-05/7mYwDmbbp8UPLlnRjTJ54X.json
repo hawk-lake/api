@@ -1,0 +1,85 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+            },
+            "href": "https://api.spotify.com/v1/artists/4SpbR6yFEvexJuaBpgAU5p",
+            "id": "4SpbR6yFEvexJuaBpgAU5p",
+            "name": "LE SSERAFIM",
+            "type": "artist",
+            "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 196365,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mYwDmbbp8UPLlnRjTJ54X"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7mYwDmbbp8UPLlnRjTJ54X",
+    "id": "7mYwDmbbp8UPLlnRjTJ54X",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Impurities",
+    "preview_url": "https://p.scdn.co/mp3-preview/b77c60348a8dfc3891081fe368eb571eddd3b804?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:7mYwDmbbp8UPLlnRjTJ54X"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+            },
+            "href": "https://api.spotify.com/v1/artists/4SpbR6yFEvexJuaBpgAU5p",
+            "id": "4SpbR6yFEvexJuaBpgAU5p",
+            "name": "LE SSERAFIM",
+            "type": "artist",
+            "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 196365,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mYwDmbbp8UPLlnRjTJ54X"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7mYwDmbbp8UPLlnRjTJ54X",
+    "id": "7mYwDmbbp8UPLlnRjTJ54X",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Impurities",
+    "preview_url": "https://p.scdn.co/mp3-preview/b77c60348a8dfc3891081fe368eb571eddd3b804?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:7mYwDmbbp8UPLlnRjTJ54X"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+            },
+            "href": "https://api.spotify.com/v1/artists/4SpbR6yFEvexJuaBpgAU5p",
+            "id": "4SpbR6yFEvexJuaBpgAU5p",
+            "name": "LE SSERAFIM",
+            "type": "artist",
+            "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 196365,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mYwDmbbp8UPLlnRjTJ54X"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7mYwDmbbp8UPLlnRjTJ54X",
+    "id": "7mYwDmbbp8UPLlnRjTJ54X",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Impurities",
+    "preview_url": "https://p.scdn.co/mp3-preview/b77c60348a8dfc3891081fe368eb571eddd3b804?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:7mYwDmbbp8UPLlnRjTJ54X"
+}

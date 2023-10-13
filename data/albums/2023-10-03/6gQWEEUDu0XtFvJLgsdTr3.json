@@ -1,0 +1,883 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+            "id": "6TXM1kV4L8DsDAkAfbOPYk",
+            "name": "Ally Brooke",
+            "type": "artist",
+            "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Snafu Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Snafu Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720996600580"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3",
+    "id": "6gQWEEUDu0XtFvJLgsdTr3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27309baaf21b00baccc9b96aa60",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0209baaf21b00baccc9b96aa60",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485109baaf21b00baccc9b96aa60",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Snafu Records",
+    "name": "Gone to Bed",
+    "popularity": 27,
+    "release_date": "2023-09-29",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+                        "id": "6TXM1kV4L8DsDAkAfbOPYk",
+                        "name": "Ally Brooke",
+                        "type": "artist",
+                        "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 176464,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5YsZ5RcXZNT3FtelGBjOOM",
+                "id": "5YsZ5RcXZNT3FtelGBjOOM",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Gone to Bed",
+                "preview_url": "https://p.scdn.co/mp3-preview/23edf5227881083f6fc1a90af63fce8a048b539f?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5YsZ5RcXZNT3FtelGBjOOM"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6gQWEEUDu0XtFvJLgsdTr3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+            "id": "6TXM1kV4L8DsDAkAfbOPYk",
+            "name": "Ally Brooke",
+            "type": "artist",
+            "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Snafu Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Snafu Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720996600580"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3",
+    "id": "6gQWEEUDu0XtFvJLgsdTr3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27309baaf21b00baccc9b96aa60",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0209baaf21b00baccc9b96aa60",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485109baaf21b00baccc9b96aa60",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Snafu Records",
+    "name": "Gone to Bed",
+    "popularity": 30,
+    "release_date": "2023-09-29",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+                        "id": "6TXM1kV4L8DsDAkAfbOPYk",
+                        "name": "Ally Brooke",
+                        "type": "artist",
+                        "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 176464,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5YsZ5RcXZNT3FtelGBjOOM",
+                "id": "5YsZ5RcXZNT3FtelGBjOOM",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Gone to Bed",
+                "preview_url": "https://p.scdn.co/mp3-preview/23edf5227881083f6fc1a90af63fce8a048b539f?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5YsZ5RcXZNT3FtelGBjOOM"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6gQWEEUDu0XtFvJLgsdTr3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+            "id": "6TXM1kV4L8DsDAkAfbOPYk",
+            "name": "Ally Brooke",
+            "type": "artist",
+            "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Snafu Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Snafu Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720996600580"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3",
+    "id": "6gQWEEUDu0XtFvJLgsdTr3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27309baaf21b00baccc9b96aa60",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0209baaf21b00baccc9b96aa60",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485109baaf21b00baccc9b96aa60",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Snafu Records",
+    "name": "Gone to Bed",
+    "popularity": 30,
+    "release_date": "2023-09-29",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+                        "id": "6TXM1kV4L8DsDAkAfbOPYk",
+                        "name": "Ally Brooke",
+                        "type": "artist",
+                        "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 176464,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5YsZ5RcXZNT3FtelGBjOOM",
+                "id": "5YsZ5RcXZNT3FtelGBjOOM",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Gone to Bed",
+                "preview_url": "https://p.scdn.co/mp3-preview/23edf5227881083f6fc1a90af63fce8a048b539f?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5YsZ5RcXZNT3FtelGBjOOM"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6gQWEEUDu0XtFvJLgsdTr3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+            "id": "6TXM1kV4L8DsDAkAfbOPYk",
+            "name": "Ally Brooke",
+            "type": "artist",
+            "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Snafu Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Snafu Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720996600580"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3",
+    "id": "6gQWEEUDu0XtFvJLgsdTr3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27309baaf21b00baccc9b96aa60",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0209baaf21b00baccc9b96aa60",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485109baaf21b00baccc9b96aa60",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Snafu Records",
+    "name": "Gone to Bed",
+    "popularity": 30,
+    "release_date": "2023-09-29",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+                        "id": "6TXM1kV4L8DsDAkAfbOPYk",
+                        "name": "Ally Brooke",
+                        "type": "artist",
+                        "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 176464,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5YsZ5RcXZNT3FtelGBjOOM",
+                "id": "5YsZ5RcXZNT3FtelGBjOOM",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Gone to Bed",
+                "preview_url": "https://p.scdn.co/mp3-preview/23edf5227881083f6fc1a90af63fce8a048b539f?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5YsZ5RcXZNT3FtelGBjOOM"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6gQWEEUDu0XtFvJLgsdTr3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+            "id": "6TXM1kV4L8DsDAkAfbOPYk",
+            "name": "Ally Brooke",
+            "type": "artist",
+            "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Snafu Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Snafu Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720996600580"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3",
+    "id": "6gQWEEUDu0XtFvJLgsdTr3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27309baaf21b00baccc9b96aa60",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0209baaf21b00baccc9b96aa60",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485109baaf21b00baccc9b96aa60",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Snafu Records",
+    "name": "Gone to Bed",
+    "popularity": 30,
+    "release_date": "2023-09-29",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+                        "id": "6TXM1kV4L8DsDAkAfbOPYk",
+                        "name": "Ally Brooke",
+                        "type": "artist",
+                        "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 176464,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5YsZ5RcXZNT3FtelGBjOOM",
+                "id": "5YsZ5RcXZNT3FtelGBjOOM",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Gone to Bed",
+                "preview_url": "https://p.scdn.co/mp3-preview/23edf5227881083f6fc1a90af63fce8a048b539f?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5YsZ5RcXZNT3FtelGBjOOM"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6gQWEEUDu0XtFvJLgsdTr3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+            "id": "6TXM1kV4L8DsDAkAfbOPYk",
+            "name": "Ally Brooke",
+            "type": "artist",
+            "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Snafu Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Snafu Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720996600580"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3",
+    "id": "6gQWEEUDu0XtFvJLgsdTr3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27309baaf21b00baccc9b96aa60",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0209baaf21b00baccc9b96aa60",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485109baaf21b00baccc9b96aa60",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Snafu Records",
+    "name": "Gone to Bed",
+    "popularity": 30,
+    "release_date": "2023-09-29",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+                        "id": "6TXM1kV4L8DsDAkAfbOPYk",
+                        "name": "Ally Brooke",
+                        "type": "artist",
+                        "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 176464,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5YsZ5RcXZNT3FtelGBjOOM",
+                "id": "5YsZ5RcXZNT3FtelGBjOOM",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Gone to Bed",
+                "preview_url": "https://p.scdn.co/mp3-preview/23edf5227881083f6fc1a90af63fce8a048b539f?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5YsZ5RcXZNT3FtelGBjOOM"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6gQWEEUDu0XtFvJLgsdTr3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+            "id": "6TXM1kV4L8DsDAkAfbOPYk",
+            "name": "Ally Brooke",
+            "type": "artist",
+            "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Snafu Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Snafu Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720996600580"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3",
+    "id": "6gQWEEUDu0XtFvJLgsdTr3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27309baaf21b00baccc9b96aa60",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0209baaf21b00baccc9b96aa60",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485109baaf21b00baccc9b96aa60",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Snafu Records",
+    "name": "Gone to Bed",
+    "popularity": 30,
+    "release_date": "2023-09-29",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+                        "id": "6TXM1kV4L8DsDAkAfbOPYk",
+                        "name": "Ally Brooke",
+                        "type": "artist",
+                        "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 176464,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5YsZ5RcXZNT3FtelGBjOOM",
+                "id": "5YsZ5RcXZNT3FtelGBjOOM",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Gone to Bed",
+                "preview_url": "https://p.scdn.co/mp3-preview/23edf5227881083f6fc1a90af63fce8a048b539f?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5YsZ5RcXZNT3FtelGBjOOM"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6gQWEEUDu0XtFvJLgsdTr3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+            "id": "6TXM1kV4L8DsDAkAfbOPYk",
+            "name": "Ally Brooke",
+            "type": "artist",
+            "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Snafu Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Snafu Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720996600580"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3",
+    "id": "6gQWEEUDu0XtFvJLgsdTr3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27309baaf21b00baccc9b96aa60",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0209baaf21b00baccc9b96aa60",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485109baaf21b00baccc9b96aa60",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Snafu Records",
+    "name": "Gone to Bed",
+    "popularity": 30,
+    "release_date": "2023-09-29",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+                        "id": "6TXM1kV4L8DsDAkAfbOPYk",
+                        "name": "Ally Brooke",
+                        "type": "artist",
+                        "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 176464,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5YsZ5RcXZNT3FtelGBjOOM",
+                "id": "5YsZ5RcXZNT3FtelGBjOOM",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Gone to Bed",
+                "preview_url": "https://p.scdn.co/mp3-preview/23edf5227881083f6fc1a90af63fce8a048b539f?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5YsZ5RcXZNT3FtelGBjOOM"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6gQWEEUDu0XtFvJLgsdTr3"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+            "id": "6TXM1kV4L8DsDAkAfbOPYk",
+            "name": "Ally Brooke",
+            "type": "artist",
+            "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Snafu Records",
+            "type": "C"
+        },
+        {
+            "text": "2023 Snafu Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "8720996600580"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3",
+    "id": "6gQWEEUDu0XtFvJLgsdTr3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27309baaf21b00baccc9b96aa60",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0209baaf21b00baccc9b96aa60",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485109baaf21b00baccc9b96aa60",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Snafu Records",
+    "name": "Gone to Bed",
+    "popularity": 30,
+    "release_date": "2023-09-29",
+    "release_date_precision": "day",
+    "total_tracks": 1,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6gQWEEUDu0XtFvJLgsdTr3/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6TXM1kV4L8DsDAkAfbOPYk",
+                        "id": "6TXM1kV4L8DsDAkAfbOPYk",
+                        "name": "Ally Brooke",
+                        "type": "artist",
+                        "uri": "spotify:artist:6TXM1kV4L8DsDAkAfbOPYk"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 176464,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5YsZ5RcXZNT3FtelGBjOOM",
+                "id": "5YsZ5RcXZNT3FtelGBjOOM",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Gone to Bed",
+                "preview_url": "https://p.scdn.co/mp3-preview/23edf5227881083f6fc1a90af63fce8a048b539f?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5YsZ5RcXZNT3FtelGBjOOM"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 1
+    },
+    "type": "album",
+    "uri": "spotify:album:6gQWEEUDu0XtFvJLgsdTr3"
+}

@@ -1,0 +1,1414 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+            "id": "2KZp9cq9DQ9unz17ohWTlL",
+            "name": "KIRE",
+            "type": "artist",
+            "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+            "id": "3sobkV5cwLvbEhqEmTh7zL",
+            "name": "\u6728\u6728mumu",
+            "type": "artist",
+            "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 IKARUS",
+            "type": "C"
+        },
+        {
+            "text": "2023 IKARUS",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "717931996257"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ",
+    "id": "5QCbbm1puBIptPXmIHbUJJ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273174435495ed7dcfe257334e8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02174435495ed7dcfe257334e8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851174435495ed7dcfe257334e8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "IKARUS",
+    "name": "whatnot",
+    "popularity": 30,
+    "release_date": "2023-09-19",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0eJRc05BRVvdUekEGko7oj",
+                "id": "0eJRc05BRVvdUekEGko7oj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)",
+                "preview_url": "https://p.scdn.co/mp3-preview/4b2bde3e5b082bd1f31dd981227e578754c26e1f?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0eJRc05BRVvdUekEGko7oj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2QLqQhtX3WtWdYDCXYng4x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2QLqQhtX3WtWdYDCXYng4x",
+                "id": "2QLqQhtX3WtWdYDCXYng4x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)(Instrumental)",
+                "preview_url": "https://p.scdn.co/mp3-preview/0d7e8d71c9544a90f622470345d40d526b56028c?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2QLqQhtX3WtWdYDCXYng4x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:5QCbbm1puBIptPXmIHbUJJ"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+            "id": "2KZp9cq9DQ9unz17ohWTlL",
+            "name": "KIRE",
+            "type": "artist",
+            "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+            "id": "3sobkV5cwLvbEhqEmTh7zL",
+            "name": "\u6728\u6728mumu",
+            "type": "artist",
+            "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 IKARUS",
+            "type": "C"
+        },
+        {
+            "text": "2023 IKARUS",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "717931996257"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ",
+    "id": "5QCbbm1puBIptPXmIHbUJJ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273174435495ed7dcfe257334e8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02174435495ed7dcfe257334e8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851174435495ed7dcfe257334e8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "IKARUS",
+    "name": "whatnot",
+    "popularity": 30,
+    "release_date": "2023-09-19",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0eJRc05BRVvdUekEGko7oj",
+                "id": "0eJRc05BRVvdUekEGko7oj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)",
+                "preview_url": "https://p.scdn.co/mp3-preview/4b2bde3e5b082bd1f31dd981227e578754c26e1f?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0eJRc05BRVvdUekEGko7oj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2QLqQhtX3WtWdYDCXYng4x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2QLqQhtX3WtWdYDCXYng4x",
+                "id": "2QLqQhtX3WtWdYDCXYng4x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)(Instrumental)",
+                "preview_url": "https://p.scdn.co/mp3-preview/0d7e8d71c9544a90f622470345d40d526b56028c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2QLqQhtX3WtWdYDCXYng4x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:5QCbbm1puBIptPXmIHbUJJ"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+            "id": "2KZp9cq9DQ9unz17ohWTlL",
+            "name": "KIRE",
+            "type": "artist",
+            "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+            "id": "3sobkV5cwLvbEhqEmTh7zL",
+            "name": "\u6728\u6728mumu",
+            "type": "artist",
+            "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 IKARUS",
+            "type": "C"
+        },
+        {
+            "text": "2023 IKARUS",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "717931996257"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ",
+    "id": "5QCbbm1puBIptPXmIHbUJJ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273174435495ed7dcfe257334e8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02174435495ed7dcfe257334e8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851174435495ed7dcfe257334e8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "IKARUS",
+    "name": "whatnot",
+    "popularity": 30,
+    "release_date": "2023-09-19",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0eJRc05BRVvdUekEGko7oj",
+                "id": "0eJRc05BRVvdUekEGko7oj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)",
+                "preview_url": "https://p.scdn.co/mp3-preview/4b2bde3e5b082bd1f31dd981227e578754c26e1f?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0eJRc05BRVvdUekEGko7oj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2QLqQhtX3WtWdYDCXYng4x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2QLqQhtX3WtWdYDCXYng4x",
+                "id": "2QLqQhtX3WtWdYDCXYng4x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)(Instrumental)",
+                "preview_url": "https://p.scdn.co/mp3-preview/0d7e8d71c9544a90f622470345d40d526b56028c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2QLqQhtX3WtWdYDCXYng4x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:5QCbbm1puBIptPXmIHbUJJ"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+            "id": "2KZp9cq9DQ9unz17ohWTlL",
+            "name": "KIRE",
+            "type": "artist",
+            "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+            "id": "3sobkV5cwLvbEhqEmTh7zL",
+            "name": "\u6728\u6728mumu",
+            "type": "artist",
+            "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 IKARUS",
+            "type": "C"
+        },
+        {
+            "text": "2023 IKARUS",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "717931996257"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ",
+    "id": "5QCbbm1puBIptPXmIHbUJJ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273174435495ed7dcfe257334e8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02174435495ed7dcfe257334e8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851174435495ed7dcfe257334e8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "IKARUS",
+    "name": "whatnot",
+    "popularity": 30,
+    "release_date": "2023-09-19",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0eJRc05BRVvdUekEGko7oj",
+                "id": "0eJRc05BRVvdUekEGko7oj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)",
+                "preview_url": "https://p.scdn.co/mp3-preview/4b2bde3e5b082bd1f31dd981227e578754c26e1f?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0eJRc05BRVvdUekEGko7oj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2QLqQhtX3WtWdYDCXYng4x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2QLqQhtX3WtWdYDCXYng4x",
+                "id": "2QLqQhtX3WtWdYDCXYng4x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)(Instrumental)",
+                "preview_url": "https://p.scdn.co/mp3-preview/0d7e8d71c9544a90f622470345d40d526b56028c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2QLqQhtX3WtWdYDCXYng4x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:5QCbbm1puBIptPXmIHbUJJ"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+            "id": "2KZp9cq9DQ9unz17ohWTlL",
+            "name": "KIRE",
+            "type": "artist",
+            "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+            "id": "3sobkV5cwLvbEhqEmTh7zL",
+            "name": "\u6728\u6728mumu",
+            "type": "artist",
+            "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 IKARUS",
+            "type": "C"
+        },
+        {
+            "text": "2023 IKARUS",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "717931996257"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ",
+    "id": "5QCbbm1puBIptPXmIHbUJJ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273174435495ed7dcfe257334e8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02174435495ed7dcfe257334e8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851174435495ed7dcfe257334e8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "IKARUS",
+    "name": "whatnot",
+    "popularity": 30,
+    "release_date": "2023-09-19",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0eJRc05BRVvdUekEGko7oj",
+                "id": "0eJRc05BRVvdUekEGko7oj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)",
+                "preview_url": "https://p.scdn.co/mp3-preview/4b2bde3e5b082bd1f31dd981227e578754c26e1f?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0eJRc05BRVvdUekEGko7oj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2QLqQhtX3WtWdYDCXYng4x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2QLqQhtX3WtWdYDCXYng4x",
+                "id": "2QLqQhtX3WtWdYDCXYng4x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)(Instrumental)",
+                "preview_url": "https://p.scdn.co/mp3-preview/0d7e8d71c9544a90f622470345d40d526b56028c?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2QLqQhtX3WtWdYDCXYng4x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:5QCbbm1puBIptPXmIHbUJJ"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+            "id": "2KZp9cq9DQ9unz17ohWTlL",
+            "name": "KIRE",
+            "type": "artist",
+            "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+            "id": "3sobkV5cwLvbEhqEmTh7zL",
+            "name": "\u6728\u6728mumu",
+            "type": "artist",
+            "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 IKARUS",
+            "type": "C"
+        },
+        {
+            "text": "2023 IKARUS",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "717931996257"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ",
+    "id": "5QCbbm1puBIptPXmIHbUJJ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273174435495ed7dcfe257334e8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02174435495ed7dcfe257334e8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851174435495ed7dcfe257334e8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "IKARUS",
+    "name": "whatnot",
+    "popularity": 30,
+    "release_date": "2023-09-19",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0eJRc05BRVvdUekEGko7oj",
+                "id": "0eJRc05BRVvdUekEGko7oj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)",
+                "preview_url": "https://p.scdn.co/mp3-preview/4b2bde3e5b082bd1f31dd981227e578754c26e1f?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0eJRc05BRVvdUekEGko7oj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2QLqQhtX3WtWdYDCXYng4x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2QLqQhtX3WtWdYDCXYng4x",
+                "id": "2QLqQhtX3WtWdYDCXYng4x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)(Instrumental)",
+                "preview_url": "https://p.scdn.co/mp3-preview/0d7e8d71c9544a90f622470345d40d526b56028c?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2QLqQhtX3WtWdYDCXYng4x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:5QCbbm1puBIptPXmIHbUJJ"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+            "id": "2KZp9cq9DQ9unz17ohWTlL",
+            "name": "KIRE",
+            "type": "artist",
+            "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+            "id": "3sobkV5cwLvbEhqEmTh7zL",
+            "name": "\u6728\u6728mumu",
+            "type": "artist",
+            "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 IKARUS",
+            "type": "C"
+        },
+        {
+            "text": "2023 IKARUS",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "717931996257"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ",
+    "id": "5QCbbm1puBIptPXmIHbUJJ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273174435495ed7dcfe257334e8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02174435495ed7dcfe257334e8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851174435495ed7dcfe257334e8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "IKARUS",
+    "name": "whatnot",
+    "popularity": 30,
+    "release_date": "2023-09-19",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0eJRc05BRVvdUekEGko7oj",
+                "id": "0eJRc05BRVvdUekEGko7oj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)",
+                "preview_url": "https://p.scdn.co/mp3-preview/4b2bde3e5b082bd1f31dd981227e578754c26e1f?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0eJRc05BRVvdUekEGko7oj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2QLqQhtX3WtWdYDCXYng4x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2QLqQhtX3WtWdYDCXYng4x",
+                "id": "2QLqQhtX3WtWdYDCXYng4x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)(Instrumental)",
+                "preview_url": "https://p.scdn.co/mp3-preview/0d7e8d71c9544a90f622470345d40d526b56028c?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2QLqQhtX3WtWdYDCXYng4x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:5QCbbm1puBIptPXmIHbUJJ"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+            "id": "2KZp9cq9DQ9unz17ohWTlL",
+            "name": "KIRE",
+            "type": "artist",
+            "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+            "id": "3sobkV5cwLvbEhqEmTh7zL",
+            "name": "\u6728\u6728mumu",
+            "type": "artist",
+            "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 IKARUS",
+            "type": "C"
+        },
+        {
+            "text": "2023 IKARUS",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "717931996257"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ",
+    "id": "5QCbbm1puBIptPXmIHbUJJ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273174435495ed7dcfe257334e8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02174435495ed7dcfe257334e8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851174435495ed7dcfe257334e8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "IKARUS",
+    "name": "whatnot",
+    "popularity": 30,
+    "release_date": "2023-09-19",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0eJRc05BRVvdUekEGko7oj",
+                "id": "0eJRc05BRVvdUekEGko7oj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)",
+                "preview_url": "https://p.scdn.co/mp3-preview/4b2bde3e5b082bd1f31dd981227e578754c26e1f?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0eJRc05BRVvdUekEGko7oj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2QLqQhtX3WtWdYDCXYng4x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2QLqQhtX3WtWdYDCXYng4x",
+                "id": "2QLqQhtX3WtWdYDCXYng4x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)(Instrumental)",
+                "preview_url": "https://p.scdn.co/mp3-preview/0d7e8d71c9544a90f622470345d40d526b56028c?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2QLqQhtX3WtWdYDCXYng4x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:5QCbbm1puBIptPXmIHbUJJ"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+            "id": "2KZp9cq9DQ9unz17ohWTlL",
+            "name": "KIRE",
+            "type": "artist",
+            "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+            "id": "3sobkV5cwLvbEhqEmTh7zL",
+            "name": "\u6728\u6728mumu",
+            "type": "artist",
+            "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 IKARUS",
+            "type": "C"
+        },
+        {
+            "text": "2023 IKARUS",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "717931996257"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ",
+    "id": "5QCbbm1puBIptPXmIHbUJJ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273174435495ed7dcfe257334e8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02174435495ed7dcfe257334e8",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851174435495ed7dcfe257334e8",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "IKARUS",
+    "name": "whatnot",
+    "popularity": 30,
+    "release_date": "2023-09-19",
+    "release_date_precision": "day",
+    "total_tracks": 2,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/5QCbbm1puBIptPXmIHbUJJ/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0eJRc05BRVvdUekEGko7oj",
+                "id": "0eJRc05BRVvdUekEGko7oj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)",
+                "preview_url": "https://p.scdn.co/mp3-preview/4b2bde3e5b082bd1f31dd981227e578754c26e1f?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0eJRc05BRVvdUekEGko7oj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2KZp9cq9DQ9unz17ohWTlL",
+                        "id": "2KZp9cq9DQ9unz17ohWTlL",
+                        "name": "KIRE",
+                        "type": "artist",
+                        "uri": "spotify:artist:2KZp9cq9DQ9unz17ohWTlL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sobkV5cwLvbEhqEmTh7zL",
+                        "id": "3sobkV5cwLvbEhqEmTh7zL",
+                        "name": "\u6728\u6728mumu",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sobkV5cwLvbEhqEmTh7zL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2QLqQhtX3WtWdYDCXYng4x"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2QLqQhtX3WtWdYDCXYng4x",
+                "id": "2QLqQhtX3WtWdYDCXYng4x",
+                "is_local": false,
+                "is_playable": true,
+                "name": "whatnot (ft. \u6728\u6728mumu)(Instrumental)",
+                "preview_url": "https://p.scdn.co/mp3-preview/0d7e8d71c9544a90f622470345d40d526b56028c?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2QLqQhtX3WtWdYDCXYng4x"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    },
+    "type": "album",
+    "uri": "spotify:album:5QCbbm1puBIptPXmIHbUJJ"
+}

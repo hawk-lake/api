@@ -1,0 +1,1405 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+            "id": "5BYuBzqmTXwUDw2rYkwExr",
+            "name": "The Kills",
+            "type": "artist",
+            "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "C"
+        },
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "887829139063"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i",
+    "id": "7ulxN5uW4dwBArYASh5g2i",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb4c242bfaac09406c10d2a5",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb4c242bfaac09406c10d2a5",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bb4c242bfaac09406c10d2a5",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Domino Recording Co",
+    "name": "103",
+    "popularity": 44,
+    "release_date": "2023-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245812,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1kqp5H7GloZvZovFxBoiwW",
+                "id": "1kqp5H7GloZvZovFxBoiwW",
+                "is_local": false,
+                "is_playable": true,
+                "name": "103",
+                "preview_url": "https://p.scdn.co/mp3-preview/0a9aa025a53c770a617810304f836492f59db17d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1kqp5H7GloZvZovFxBoiwW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7LmXbzhosZVOSGqXTLx1Ti"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7LmXbzhosZVOSGqXTLx1Ti",
+                "id": "7LmXbzhosZVOSGqXTLx1Ti",
+                "is_local": false,
+                "is_playable": true,
+                "name": "New York",
+                "preview_url": "https://p.scdn.co/mp3-preview/b9be0e8ce0b3c2396c8539e3d78ef6885dd4a42d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7LmXbzhosZVOSGqXTLx1Ti"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194583,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SwkyYWjY8okUsWFIppXTY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SwkyYWjY8okUsWFIppXTY",
+                "id": "5SwkyYWjY8okUsWFIppXTY",
+                "is_local": false,
+                "is_playable": true,
+                "name": "LA Hex",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5SwkyYWjY8okUsWFIppXTY"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:7ulxN5uW4dwBArYASh5g2i"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+            "id": "5BYuBzqmTXwUDw2rYkwExr",
+            "name": "The Kills",
+            "type": "artist",
+            "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "C"
+        },
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "887829139063"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i",
+    "id": "7ulxN5uW4dwBArYASh5g2i",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb4c242bfaac09406c10d2a5",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb4c242bfaac09406c10d2a5",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bb4c242bfaac09406c10d2a5",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Domino Recording Co",
+    "name": "103",
+    "popularity": 44,
+    "release_date": "2023-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245812,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1kqp5H7GloZvZovFxBoiwW",
+                "id": "1kqp5H7GloZvZovFxBoiwW",
+                "is_local": false,
+                "is_playable": true,
+                "name": "103",
+                "preview_url": "https://p.scdn.co/mp3-preview/0a9aa025a53c770a617810304f836492f59db17d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1kqp5H7GloZvZovFxBoiwW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7LmXbzhosZVOSGqXTLx1Ti"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7LmXbzhosZVOSGqXTLx1Ti",
+                "id": "7LmXbzhosZVOSGqXTLx1Ti",
+                "is_local": false,
+                "is_playable": true,
+                "name": "New York",
+                "preview_url": "https://p.scdn.co/mp3-preview/b9be0e8ce0b3c2396c8539e3d78ef6885dd4a42d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7LmXbzhosZVOSGqXTLx1Ti"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194583,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SwkyYWjY8okUsWFIppXTY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SwkyYWjY8okUsWFIppXTY",
+                "id": "5SwkyYWjY8okUsWFIppXTY",
+                "is_local": false,
+                "is_playable": true,
+                "name": "LA Hex",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5SwkyYWjY8okUsWFIppXTY"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:7ulxN5uW4dwBArYASh5g2i"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+            "id": "5BYuBzqmTXwUDw2rYkwExr",
+            "name": "The Kills",
+            "type": "artist",
+            "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "C"
+        },
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "887829139063"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i",
+    "id": "7ulxN5uW4dwBArYASh5g2i",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb4c242bfaac09406c10d2a5",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb4c242bfaac09406c10d2a5",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bb4c242bfaac09406c10d2a5",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Domino Recording Co",
+    "name": "103",
+    "popularity": 44,
+    "release_date": "2023-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245812,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1kqp5H7GloZvZovFxBoiwW",
+                "id": "1kqp5H7GloZvZovFxBoiwW",
+                "is_local": false,
+                "is_playable": true,
+                "name": "103",
+                "preview_url": "https://p.scdn.co/mp3-preview/0a9aa025a53c770a617810304f836492f59db17d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1kqp5H7GloZvZovFxBoiwW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7LmXbzhosZVOSGqXTLx1Ti"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7LmXbzhosZVOSGqXTLx1Ti",
+                "id": "7LmXbzhosZVOSGqXTLx1Ti",
+                "is_local": false,
+                "is_playable": true,
+                "name": "New York",
+                "preview_url": "https://p.scdn.co/mp3-preview/b9be0e8ce0b3c2396c8539e3d78ef6885dd4a42d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7LmXbzhosZVOSGqXTLx1Ti"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194583,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SwkyYWjY8okUsWFIppXTY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SwkyYWjY8okUsWFIppXTY",
+                "id": "5SwkyYWjY8okUsWFIppXTY",
+                "is_local": false,
+                "is_playable": true,
+                "name": "LA Hex",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5SwkyYWjY8okUsWFIppXTY"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:7ulxN5uW4dwBArYASh5g2i"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+            "id": "5BYuBzqmTXwUDw2rYkwExr",
+            "name": "The Kills",
+            "type": "artist",
+            "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "C"
+        },
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "887829139063"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i",
+    "id": "7ulxN5uW4dwBArYASh5g2i",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb4c242bfaac09406c10d2a5",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb4c242bfaac09406c10d2a5",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bb4c242bfaac09406c10d2a5",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Domino Recording Co",
+    "name": "103",
+    "popularity": 44,
+    "release_date": "2023-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245812,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1kqp5H7GloZvZovFxBoiwW",
+                "id": "1kqp5H7GloZvZovFxBoiwW",
+                "is_local": false,
+                "is_playable": true,
+                "name": "103",
+                "preview_url": "https://p.scdn.co/mp3-preview/0a9aa025a53c770a617810304f836492f59db17d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1kqp5H7GloZvZovFxBoiwW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7LmXbzhosZVOSGqXTLx1Ti"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7LmXbzhosZVOSGqXTLx1Ti",
+                "id": "7LmXbzhosZVOSGqXTLx1Ti",
+                "is_local": false,
+                "is_playable": true,
+                "name": "New York",
+                "preview_url": "https://p.scdn.co/mp3-preview/b9be0e8ce0b3c2396c8539e3d78ef6885dd4a42d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7LmXbzhosZVOSGqXTLx1Ti"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194583,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SwkyYWjY8okUsWFIppXTY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SwkyYWjY8okUsWFIppXTY",
+                "id": "5SwkyYWjY8okUsWFIppXTY",
+                "is_local": false,
+                "is_playable": true,
+                "name": "LA Hex",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5SwkyYWjY8okUsWFIppXTY"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:7ulxN5uW4dwBArYASh5g2i"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+            "id": "5BYuBzqmTXwUDw2rYkwExr",
+            "name": "The Kills",
+            "type": "artist",
+            "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "C"
+        },
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "887829139063"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i",
+    "id": "7ulxN5uW4dwBArYASh5g2i",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb4c242bfaac09406c10d2a5",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb4c242bfaac09406c10d2a5",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bb4c242bfaac09406c10d2a5",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Domino Recording Co",
+    "name": "103",
+    "popularity": 44,
+    "release_date": "2023-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245812,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1kqp5H7GloZvZovFxBoiwW",
+                "id": "1kqp5H7GloZvZovFxBoiwW",
+                "is_local": false,
+                "is_playable": true,
+                "name": "103",
+                "preview_url": "https://p.scdn.co/mp3-preview/0a9aa025a53c770a617810304f836492f59db17d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1kqp5H7GloZvZovFxBoiwW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7LmXbzhosZVOSGqXTLx1Ti"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7LmXbzhosZVOSGqXTLx1Ti",
+                "id": "7LmXbzhosZVOSGqXTLx1Ti",
+                "is_local": false,
+                "is_playable": true,
+                "name": "New York",
+                "preview_url": "https://p.scdn.co/mp3-preview/b9be0e8ce0b3c2396c8539e3d78ef6885dd4a42d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7LmXbzhosZVOSGqXTLx1Ti"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194583,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SwkyYWjY8okUsWFIppXTY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SwkyYWjY8okUsWFIppXTY",
+                "id": "5SwkyYWjY8okUsWFIppXTY",
+                "is_local": false,
+                "is_playable": true,
+                "name": "LA Hex",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5SwkyYWjY8okUsWFIppXTY"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:7ulxN5uW4dwBArYASh5g2i"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+            "id": "5BYuBzqmTXwUDw2rYkwExr",
+            "name": "The Kills",
+            "type": "artist",
+            "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "C"
+        },
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "887829139063"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i",
+    "id": "7ulxN5uW4dwBArYASh5g2i",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb4c242bfaac09406c10d2a5",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb4c242bfaac09406c10d2a5",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bb4c242bfaac09406c10d2a5",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Domino Recording Co",
+    "name": "103",
+    "popularity": 44,
+    "release_date": "2023-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245812,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1kqp5H7GloZvZovFxBoiwW",
+                "id": "1kqp5H7GloZvZovFxBoiwW",
+                "is_local": false,
+                "is_playable": true,
+                "name": "103",
+                "preview_url": "https://p.scdn.co/mp3-preview/0a9aa025a53c770a617810304f836492f59db17d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1kqp5H7GloZvZovFxBoiwW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7LmXbzhosZVOSGqXTLx1Ti"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7LmXbzhosZVOSGqXTLx1Ti",
+                "id": "7LmXbzhosZVOSGqXTLx1Ti",
+                "is_local": false,
+                "is_playable": true,
+                "name": "New York",
+                "preview_url": "https://p.scdn.co/mp3-preview/b9be0e8ce0b3c2396c8539e3d78ef6885dd4a42d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7LmXbzhosZVOSGqXTLx1Ti"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194583,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SwkyYWjY8okUsWFIppXTY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SwkyYWjY8okUsWFIppXTY",
+                "id": "5SwkyYWjY8okUsWFIppXTY",
+                "is_local": false,
+                "is_playable": true,
+                "name": "LA Hex",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5SwkyYWjY8okUsWFIppXTY"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:7ulxN5uW4dwBArYASh5g2i"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+            "id": "5BYuBzqmTXwUDw2rYkwExr",
+            "name": "The Kills",
+            "type": "artist",
+            "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "C"
+        },
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "887829139063"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i",
+    "id": "7ulxN5uW4dwBArYASh5g2i",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb4c242bfaac09406c10d2a5",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb4c242bfaac09406c10d2a5",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bb4c242bfaac09406c10d2a5",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Domino Recording Co",
+    "name": "103",
+    "popularity": 44,
+    "release_date": "2023-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245812,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1kqp5H7GloZvZovFxBoiwW",
+                "id": "1kqp5H7GloZvZovFxBoiwW",
+                "is_local": false,
+                "is_playable": true,
+                "name": "103",
+                "preview_url": "https://p.scdn.co/mp3-preview/0a9aa025a53c770a617810304f836492f59db17d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1kqp5H7GloZvZovFxBoiwW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7LmXbzhosZVOSGqXTLx1Ti"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7LmXbzhosZVOSGqXTLx1Ti",
+                "id": "7LmXbzhosZVOSGqXTLx1Ti",
+                "is_local": false,
+                "is_playable": true,
+                "name": "New York",
+                "preview_url": "https://p.scdn.co/mp3-preview/b9be0e8ce0b3c2396c8539e3d78ef6885dd4a42d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7LmXbzhosZVOSGqXTLx1Ti"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194583,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SwkyYWjY8okUsWFIppXTY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SwkyYWjY8okUsWFIppXTY",
+                "id": "5SwkyYWjY8okUsWFIppXTY",
+                "is_local": false,
+                "is_playable": true,
+                "name": "LA Hex",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5SwkyYWjY8okUsWFIppXTY"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:7ulxN5uW4dwBArYASh5g2i"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+            "id": "5BYuBzqmTXwUDw2rYkwExr",
+            "name": "The Kills",
+            "type": "artist",
+            "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "C"
+        },
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "887829139063"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i",
+    "id": "7ulxN5uW4dwBArYASh5g2i",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb4c242bfaac09406c10d2a5",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb4c242bfaac09406c10d2a5",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bb4c242bfaac09406c10d2a5",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Domino Recording Co",
+    "name": "103",
+    "popularity": 44,
+    "release_date": "2023-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245812,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1kqp5H7GloZvZovFxBoiwW",
+                "id": "1kqp5H7GloZvZovFxBoiwW",
+                "is_local": false,
+                "is_playable": true,
+                "name": "103",
+                "preview_url": "https://p.scdn.co/mp3-preview/0a9aa025a53c770a617810304f836492f59db17d?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1kqp5H7GloZvZovFxBoiwW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7LmXbzhosZVOSGqXTLx1Ti"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7LmXbzhosZVOSGqXTLx1Ti",
+                "id": "7LmXbzhosZVOSGqXTLx1Ti",
+                "is_local": false,
+                "is_playable": true,
+                "name": "New York",
+                "preview_url": "https://p.scdn.co/mp3-preview/b9be0e8ce0b3c2396c8539e3d78ef6885dd4a42d?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7LmXbzhosZVOSGqXTLx1Ti"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194583,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SwkyYWjY8okUsWFIppXTY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SwkyYWjY8okUsWFIppXTY",
+                "id": "5SwkyYWjY8okUsWFIppXTY",
+                "is_local": false,
+                "is_playable": true,
+                "name": "LA Hex",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5SwkyYWjY8okUsWFIppXTY"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:7ulxN5uW4dwBArYASh5g2i"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+            "id": "5BYuBzqmTXwUDw2rYkwExr",
+            "name": "The Kills",
+            "type": "artist",
+            "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "C"
+        },
+        {
+            "text": "2023 Domino Recording Co Ltd",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "887829139063"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i",
+    "id": "7ulxN5uW4dwBArYASh5g2i",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb4c242bfaac09406c10d2a5",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb4c242bfaac09406c10d2a5",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bb4c242bfaac09406c10d2a5",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "Domino Recording Co",
+    "name": "103",
+    "popularity": 44,
+    "release_date": "2023-08-30",
+    "release_date_precision": "day",
+    "total_tracks": 3,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7ulxN5uW4dwBArYASh5g2i/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245812,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1kqp5H7GloZvZovFxBoiwW",
+                "id": "1kqp5H7GloZvZovFxBoiwW",
+                "is_local": false,
+                "is_playable": true,
+                "name": "103",
+                "preview_url": "https://p.scdn.co/mp3-preview/0a9aa025a53c770a617810304f836492f59db17d?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1kqp5H7GloZvZovFxBoiwW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7LmXbzhosZVOSGqXTLx1Ti"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7LmXbzhosZVOSGqXTLx1Ti",
+                "id": "7LmXbzhosZVOSGqXTLx1Ti",
+                "is_local": false,
+                "is_playable": true,
+                "name": "New York",
+                "preview_url": "https://p.scdn.co/mp3-preview/b9be0e8ce0b3c2396c8539e3d78ef6885dd4a42d?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7LmXbzhosZVOSGqXTLx1Ti"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+                        "id": "5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills",
+                        "type": "artist",
+                        "uri": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194583,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5SwkyYWjY8okUsWFIppXTY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5SwkyYWjY8okUsWFIppXTY",
+                "id": "5SwkyYWjY8okUsWFIppXTY",
+                "is_local": false,
+                "is_playable": true,
+                "name": "LA Hex",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5SwkyYWjY8okUsWFIppXTY"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 3
+    },
+    "type": "album",
+    "uri": "spotify:album:7ulxN5uW4dwBArYASh5g2i"
+}

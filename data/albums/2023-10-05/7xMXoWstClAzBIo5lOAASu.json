@@ -1,0 +1,519 @@
+{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+            "id": "7zYj9S9SdIunYCfSm7vzAR",
+            "name": "JEON SOMI",
+            "type": "artist",
+            "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 THEBLACKLABEL, distributed through Interscope Records",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 THEBLACKLABEL, distributed through Interscope Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "08809962360274"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7xMXoWstClAzBIo5lOAASu",
+    "id": "7xMXoWstClAzBIo5lOAASu",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737da22ba88dfc26a18122ee2d",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027da22ba88dfc26a18122ee2d",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517da22ba88dfc26a18122ee2d",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "THEBLACKLABEL/Interscope Records",
+    "name": "GAME PLAN",
+    "popularity": 69,
+    "release_date": "2023-08-07",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7xMXoWstClAzBIo5lOAASu/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+                        "id": "7zYj9S9SdIunYCfSm7vzAR",
+                        "name": "JEON SOMI",
+                        "type": "artist",
+                        "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 149432,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/16ZRDb4XywcUEehbfXLSAS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/16ZRDb4XywcUEehbfXLSAS",
+                "id": "16ZRDb4XywcUEehbfXLSAS",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0b8W1tf58MCAKjR6C3B20x"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/0b8W1tf58MCAKjR6C3B20x",
+                    "id": "0b8W1tf58MCAKjR6C3B20x",
+                    "type": "track",
+                    "uri": "spotify:track:0b8W1tf58MCAKjR6C3B20x"
+                },
+                "name": "Gold Gold Gold",
+                "preview_url": "https://p.scdn.co/mp3-preview/49bd981da3f95f648a53bdd1adc274204372c981?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:16ZRDb4XywcUEehbfXLSAS"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+                        "id": "7zYj9S9SdIunYCfSm7vzAR",
+                        "name": "JEON SOMI",
+                        "type": "artist",
+                        "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 160578,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/50Q0BUdTTtaMumIELoyrm8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/50Q0BUdTTtaMumIELoyrm8",
+                "id": "50Q0BUdTTtaMumIELoyrm8",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7jzOZuWgZ5gaMet9V5Ix1d",
+                    "id": "7jzOZuWgZ5gaMet9V5Ix1d",
+                    "type": "track",
+                    "uri": "spotify:track:7jzOZuWgZ5gaMet9V5Ix1d"
+                },
+                "name": "Fast Forward",
+                "preview_url": "https://p.scdn.co/mp3-preview/af04e9b08730d68369292163fea90eb1051d2dca?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:50Q0BUdTTtaMumIELoyrm8"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+                        "id": "7zYj9S9SdIunYCfSm7vzAR",
+                        "name": "JEON SOMI",
+                        "type": "artist",
+                        "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203603,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3LUpvx1iC0QIb3RvunxUz4"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3LUpvx1iC0QIb3RvunxUz4",
+                "id": "3LUpvx1iC0QIb3RvunxUz4",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2WnW22LCBA3fW2ZpXeuzeC"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/2WnW22LCBA3fW2ZpXeuzeC",
+                    "id": "2WnW22LCBA3fW2ZpXeuzeC",
+                    "type": "track",
+                    "uri": "spotify:track:2WnW22LCBA3fW2ZpXeuzeC"
+                },
+                "name": "Fxxked Up",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3LUpvx1iC0QIb3RvunxUz4"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+                        "id": "7zYj9S9SdIunYCfSm7vzAR",
+                        "name": "JEON SOMI",
+                        "type": "artist",
+                        "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167544,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3QnqoN8RsKz1vLbkFZH8xx"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3QnqoN8RsKz1vLbkFZH8xx",
+                "id": "3QnqoN8RsKz1vLbkFZH8xx",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/32g63Iumwcy21B2W31onXw"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/32g63Iumwcy21B2W31onXw",
+                    "id": "32g63Iumwcy21B2W31onXw",
+                    "type": "track",
+                    "uri": "spotify:track:32g63Iumwcy21B2W31onXw"
+                },
+                "name": "Pisces",
+                "preview_url": "https://p.scdn.co/mp3-preview/21ead75b7fefec8f5706415ee7547be3183101b1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3QnqoN8RsKz1vLbkFZH8xx"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+                        "id": "7zYj9S9SdIunYCfSm7vzAR",
+                        "name": "JEON SOMI",
+                        "type": "artist",
+                        "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 165213,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4dHdbfZYuM7QvLJZZ880Nk"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4dHdbfZYuM7QvLJZZ880Nk",
+                "id": "4dHdbfZYuM7QvLJZZ880Nk",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3b098hlA2uM27cENS4MI4g"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/3b098hlA2uM27cENS4MI4g",
+                    "id": "3b098hlA2uM27cENS4MI4g",
+                    "type": "track",
+                    "uri": "spotify:track:3b098hlA2uM27cENS4MI4g"
+                },
+                "name": "The Way",
+                "preview_url": "https://p.scdn.co/mp3-preview/6fd3c17a6c6b7c92c638dece6d5521a76fdc09e1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4dHdbfZYuM7QvLJZZ880Nk"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 5
+    },
+    "type": "album",
+    "uri": "spotify:album:7xMXoWstClAzBIo5lOAASu"
+}{
+    "album_type": "single",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+            "id": "7zYj9S9SdIunYCfSm7vzAR",
+            "name": "JEON SOMI",
+            "type": "artist",
+            "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 THEBLACKLABEL, distributed through Interscope Records",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 THEBLACKLABEL, distributed through Interscope Records",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "08809962360274"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/7xMXoWstClAzBIo5lOAASu",
+    "id": "7xMXoWstClAzBIo5lOAASu",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737da22ba88dfc26a18122ee2d",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027da22ba88dfc26a18122ee2d",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517da22ba88dfc26a18122ee2d",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "THEBLACKLABEL/Interscope Records",
+    "name": "GAME PLAN",
+    "popularity": 69,
+    "release_date": "2023-08-07",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/7xMXoWstClAzBIo5lOAASu/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+                        "id": "7zYj9S9SdIunYCfSm7vzAR",
+                        "name": "JEON SOMI",
+                        "type": "artist",
+                        "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 149432,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/16ZRDb4XywcUEehbfXLSAS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/16ZRDb4XywcUEehbfXLSAS",
+                "id": "16ZRDb4XywcUEehbfXLSAS",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0b8W1tf58MCAKjR6C3B20x"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/0b8W1tf58MCAKjR6C3B20x",
+                    "id": "0b8W1tf58MCAKjR6C3B20x",
+                    "type": "track",
+                    "uri": "spotify:track:0b8W1tf58MCAKjR6C3B20x"
+                },
+                "name": "Gold Gold Gold",
+                "preview_url": "https://p.scdn.co/mp3-preview/49bd981da3f95f648a53bdd1adc274204372c981?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:16ZRDb4XywcUEehbfXLSAS"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+                        "id": "7zYj9S9SdIunYCfSm7vzAR",
+                        "name": "JEON SOMI",
+                        "type": "artist",
+                        "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 160578,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/50Q0BUdTTtaMumIELoyrm8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/50Q0BUdTTtaMumIELoyrm8",
+                "id": "50Q0BUdTTtaMumIELoyrm8",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7jzOZuWgZ5gaMet9V5Ix1d",
+                    "id": "7jzOZuWgZ5gaMet9V5Ix1d",
+                    "type": "track",
+                    "uri": "spotify:track:7jzOZuWgZ5gaMet9V5Ix1d"
+                },
+                "name": "Fast Forward",
+                "preview_url": "https://p.scdn.co/mp3-preview/af04e9b08730d68369292163fea90eb1051d2dca?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:50Q0BUdTTtaMumIELoyrm8"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+                        "id": "7zYj9S9SdIunYCfSm7vzAR",
+                        "name": "JEON SOMI",
+                        "type": "artist",
+                        "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203603,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3LUpvx1iC0QIb3RvunxUz4"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3LUpvx1iC0QIb3RvunxUz4",
+                "id": "3LUpvx1iC0QIb3RvunxUz4",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2WnW22LCBA3fW2ZpXeuzeC"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/2WnW22LCBA3fW2ZpXeuzeC",
+                    "id": "2WnW22LCBA3fW2ZpXeuzeC",
+                    "type": "track",
+                    "uri": "spotify:track:2WnW22LCBA3fW2ZpXeuzeC"
+                },
+                "name": "Fxxked Up",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3LUpvx1iC0QIb3RvunxUz4"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+                        "id": "7zYj9S9SdIunYCfSm7vzAR",
+                        "name": "JEON SOMI",
+                        "type": "artist",
+                        "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167544,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3QnqoN8RsKz1vLbkFZH8xx"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3QnqoN8RsKz1vLbkFZH8xx",
+                "id": "3QnqoN8RsKz1vLbkFZH8xx",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/32g63Iumwcy21B2W31onXw"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/32g63Iumwcy21B2W31onXw",
+                    "id": "32g63Iumwcy21B2W31onXw",
+                    "type": "track",
+                    "uri": "spotify:track:32g63Iumwcy21B2W31onXw"
+                },
+                "name": "Pisces",
+                "preview_url": "https://p.scdn.co/mp3-preview/21ead75b7fefec8f5706415ee7547be3183101b1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3QnqoN8RsKz1vLbkFZH8xx"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7zYj9S9SdIunYCfSm7vzAR",
+                        "id": "7zYj9S9SdIunYCfSm7vzAR",
+                        "name": "JEON SOMI",
+                        "type": "artist",
+                        "uri": "spotify:artist:7zYj9S9SdIunYCfSm7vzAR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 165213,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4dHdbfZYuM7QvLJZZ880Nk"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4dHdbfZYuM7QvLJZZ880Nk",
+                "id": "4dHdbfZYuM7QvLJZZ880Nk",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3b098hlA2uM27cENS4MI4g"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/3b098hlA2uM27cENS4MI4g",
+                    "id": "3b098hlA2uM27cENS4MI4g",
+                    "type": "track",
+                    "uri": "spotify:track:3b098hlA2uM27cENS4MI4g"
+                },
+                "name": "The Way",
+                "preview_url": "https://p.scdn.co/mp3-preview/6fd3c17a6c6b7c92c638dece6d5521a76fdc09e1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4dHdbfZYuM7QvLJZZ880Nk"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 5
+    },
+    "type": "album",
+    "uri": "spotify:album:7xMXoWstClAzBIo5lOAASu"
+}

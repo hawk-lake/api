@@ -1,0 +1,36 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+    },
+    "followers": {
+        "href": null,
+        "total": 180265
+    },
+    "genres": [
+        "bass trap",
+        "new french touch"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3HqP3nd8WI0VfHRhApPlan",
+    "id": "3HqP3nd8WI0VfHRhApPlan",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb85c8b981acea36a445290fb2",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517485c8b981acea36a445290fb2",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17885c8b981acea36a445290fb2",
+            "width": 160
+        }
+    ],
+    "name": "Trinix",
+    "popularity": 67,
+    "type": "artist",
+    "uri": "spotify:artist:3HqP3nd8WI0VfHRhApPlan"
+}

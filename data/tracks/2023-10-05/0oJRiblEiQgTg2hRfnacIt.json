@@ -1,0 +1,142 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+            "id": "6udveWUgX4vu75FF0DTrXV",
+            "name": "TAEYANG",
+            "type": "artist",
+            "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+            },
+            "href": "https://api.spotify.com/v1/artists/5L1lO4eRHmJ7a0Q6csE5cT",
+            "id": "5L1lO4eRHmJ7a0Q6csE5cT",
+            "name": "LISA",
+            "type": "artist",
+            "uri": "spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 205101,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0oJRiblEiQgTg2hRfnacIt",
+    "id": "0oJRiblEiQgTg2hRfnacIt",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5HrIcZOo1DysX53qDRlRnt",
+        "id": "5HrIcZOo1DysX53qDRlRnt",
+        "type": "track",
+        "uri": "spotify:track:5HrIcZOo1DysX53qDRlRnt"
+    },
+    "name": "Shoong! (feat. LISA of BLACKPINK)",
+    "preview_url": "https://p.scdn.co/mp3-preview/bb72139d4655eba702e34d0d95bcc800678b6721?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0oJRiblEiQgTg2hRfnacIt"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+            "id": "6udveWUgX4vu75FF0DTrXV",
+            "name": "TAEYANG",
+            "type": "artist",
+            "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+            },
+            "href": "https://api.spotify.com/v1/artists/5L1lO4eRHmJ7a0Q6csE5cT",
+            "id": "5L1lO4eRHmJ7a0Q6csE5cT",
+            "name": "LISA",
+            "type": "artist",
+            "uri": "spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 205101,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0oJRiblEiQgTg2hRfnacIt",
+    "id": "0oJRiblEiQgTg2hRfnacIt",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5HrIcZOo1DysX53qDRlRnt",
+        "id": "5HrIcZOo1DysX53qDRlRnt",
+        "type": "track",
+        "uri": "spotify:track:5HrIcZOo1DysX53qDRlRnt"
+    },
+    "name": "Shoong! (feat. LISA of BLACKPINK)",
+    "preview_url": "https://p.scdn.co/mp3-preview/bb72139d4655eba702e34d0d95bcc800678b6721?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0oJRiblEiQgTg2hRfnacIt"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+            "id": "6udveWUgX4vu75FF0DTrXV",
+            "name": "TAEYANG",
+            "type": "artist",
+            "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+            },
+            "href": "https://api.spotify.com/v1/artists/5L1lO4eRHmJ7a0Q6csE5cT",
+            "id": "5L1lO4eRHmJ7a0Q6csE5cT",
+            "name": "LISA",
+            "type": "artist",
+            "uri": "spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 205101,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0oJRiblEiQgTg2hRfnacIt",
+    "id": "0oJRiblEiQgTg2hRfnacIt",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5HrIcZOo1DysX53qDRlRnt",
+        "id": "5HrIcZOo1DysX53qDRlRnt",
+        "type": "track",
+        "uri": "spotify:track:5HrIcZOo1DysX53qDRlRnt"
+    },
+    "name": "Shoong! (feat. LISA of BLACKPINK)",
+    "preview_url": "https://p.scdn.co/mp3-preview/bb72139d4655eba702e34d0d95bcc800678b6721?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0oJRiblEiQgTg2hRfnacIt"
+}

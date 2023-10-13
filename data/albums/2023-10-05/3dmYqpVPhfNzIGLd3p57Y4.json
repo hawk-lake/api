@@ -1,0 +1,1348 @@
+{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+            },
+            "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+            "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+            "name": "Parc Jae Jung",
+            "type": "artist",
+            "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Romantic Factory",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Romantic Factory",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197658457"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/3dmYqpVPhfNzIGLd3p57Y4",
+    "id": "3dmYqpVPhfNzIGLd3p57Y4",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02473a5032790129fd7421c80e",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851473a5032790129fd7421c80e",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "WM Korea",
+    "name": "Alone",
+    "popularity": 47,
+    "release_date": "2023-04-20",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/3dmYqpVPhfNzIGLd3p57Y4/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 243853,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2rj6rzz1qLMrZf8yWFwp9r"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2rj6rzz1qLMrZf8yWFwp9r",
+                "id": "2rj6rzz1qLMrZf8yWFwp9r",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/2KNEK9rGKQKKNE6FTt8PvQ",
+                    "id": "2KNEK9rGKQKKNE6FTt8PvQ",
+                    "type": "track",
+                    "uri": "spotify:track:2KNEK9rGKQKKNE6FTt8PvQ"
+                },
+                "name": "Let\u2019s Say Goodbye",
+                "preview_url": "https://p.scdn.co/mp3-preview/265c444ff920b5ac4ea15d71a7e670cddf36abcb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2rj6rzz1qLMrZf8yWFwp9r"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 385538,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2NM0h1xxmyZCFAvh0TR9ym"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2NM0h1xxmyZCFAvh0TR9ym",
+                "id": "2NM0h1xxmyZCFAvh0TR9ym",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2F41anA23mbPZu1iNfkjRm"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/2F41anA23mbPZu1iNfkjRm",
+                    "id": "2F41anA23mbPZu1iNfkjRm",
+                    "type": "track",
+                    "uri": "spotify:track:2F41anA23mbPZu1iNfkjRm"
+                },
+                "name": "Alone",
+                "preview_url": "https://p.scdn.co/mp3-preview/fcba3bf1179cd4821ad7aff306b01145e9006b4a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2NM0h1xxmyZCFAvh0TR9ym"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 326335,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5kYW1oZBo1ZjBPXPJ2DWMP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5kYW1oZBo1ZjBPXPJ2DWMP",
+                "id": "5kYW1oZBo1ZjBPXPJ2DWMP",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1MihNeyVoisqtYsoybw6fD"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/1MihNeyVoisqtYsoybw6fD",
+                    "id": "1MihNeyVoisqtYsoybw6fD",
+                    "type": "track",
+                    "uri": "spotify:track:1MihNeyVoisqtYsoybw6fD"
+                },
+                "name": "A Letter to B",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f169d7b0bcc8be1675ca76fcdfbfc4e61af2cb1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5kYW1oZBo1ZjBPXPJ2DWMP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 250835,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6GWpTwCofK03fRRAQgIQRW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6GWpTwCofK03fRRAQgIQRW",
+                "id": "6GWpTwCofK03fRRAQgIQRW",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7vBRpW7b71LXMzDyOxD01f"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7vBRpW7b71LXMzDyOxD01f",
+                    "id": "7vBRpW7b71LXMzDyOxD01f",
+                    "type": "track",
+                    "uri": "spotify:track:7vBRpW7b71LXMzDyOxD01f"
+                },
+                "name": "Home",
+                "preview_url": "https://p.scdn.co/mp3-preview/e75de1a53553ebe8db24e0e5b57183684da5e00d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:6GWpTwCofK03fRRAQgIQRW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 298055,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6sdqAxKBCbkCXbjhjmTxjA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6sdqAxKBCbkCXbjhjmTxjA",
+                "id": "6sdqAxKBCbkCXbjhjmTxjA",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1XF0xTxNzX7b71Jeecuw5u"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/1XF0xTxNzX7b71Jeecuw5u",
+                    "id": "1XF0xTxNzX7b71Jeecuw5u",
+                    "type": "track",
+                    "uri": "spotify:track:1XF0xTxNzX7b71Jeecuw5u"
+                },
+                "name": "Late-Winter",
+                "preview_url": "https://p.scdn.co/mp3-preview/9e415bb8a16f848ea4f42d9a134f6e6afd567620?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:6sdqAxKBCbkCXbjhjmTxjA"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 276037,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2aTuM2WiqCjlrGbkHnqFXq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2aTuM2WiqCjlrGbkHnqFXq",
+                "id": "2aTuM2WiqCjlrGbkHnqFXq",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6WOIUFQa6sc5dhZNjJz3Zq"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6WOIUFQa6sc5dhZNjJz3Zq",
+                    "id": "6WOIUFQa6sc5dhZNjJz3Zq",
+                    "type": "track",
+                    "uri": "spotify:track:6WOIUFQa6sc5dhZNjJz3Zq"
+                },
+                "name": "Dear My Family",
+                "preview_url": "https://p.scdn.co/mp3-preview/7c2b1c8fc1bce3a696b860ce0db48ae198f8e7e4?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:2aTuM2WiqCjlrGbkHnqFXq"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 281731,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1d2W9UyeNTAth2EJ2mgJST"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1d2W9UyeNTAth2EJ2mgJST",
+                "id": "1d2W9UyeNTAth2EJ2mgJST",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0o0gcuKmLBw1Gfd5ObBOZR"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/0o0gcuKmLBw1Gfd5ObBOZR",
+                    "id": "0o0gcuKmLBw1Gfd5ObBOZR",
+                    "type": "track",
+                    "uri": "spotify:track:0o0gcuKmLBw1Gfd5ObBOZR"
+                },
+                "name": "Failure",
+                "preview_url": "https://p.scdn.co/mp3-preview/2e23eabd4315a060c95605b3b60c0a1636607cb1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:1d2W9UyeNTAth2EJ2mgJST"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 254052,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3BPbmaVuT6mtOxJkjXpZ5A"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3BPbmaVuT6mtOxJkjXpZ5A",
+                "id": "3BPbmaVuT6mtOxJkjXpZ5A",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7e7c9JezKfqM3XFH91QYv2"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7e7c9JezKfqM3XFH91QYv2",
+                    "id": "7e7c9JezKfqM3XFH91QYv2",
+                    "type": "track",
+                    "uri": "spotify:track:7e7c9JezKfqM3XFH91QYv2"
+                },
+                "name": "Life",
+                "preview_url": "https://p.scdn.co/mp3-preview/f5267e1c7be7c522c49dd87781c382e0c87ae84d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3BPbmaVuT6mtOxJkjXpZ5A"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 236328,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2tNrTSrwgSshZgxBVoPSzp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2tNrTSrwgSshZgxBVoPSzp",
+                "id": "2tNrTSrwgSshZgxBVoPSzp",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4sPpm8S2meggNxUcbTZT81"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/4sPpm8S2meggNxUcbTZT81",
+                    "id": "4sPpm8S2meggNxUcbTZT81",
+                    "type": "track",
+                    "uri": "spotify:track:4sPpm8S2meggNxUcbTZT81"
+                },
+                "name": "End",
+                "preview_url": "https://p.scdn.co/mp3-preview/5c12b933b053b6453ed0060e4d26600b68cbb8ee?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2tNrTSrwgSshZgxBVoPSzp"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 207059,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2UNp0yrboKOuAmYQ2HR9zv"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2UNp0yrboKOuAmYQ2HR9zv",
+                "id": "2UNp0yrboKOuAmYQ2HR9zv",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6lUBJCmOhWPiaroyM3Yzsg"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6lUBJCmOhWPiaroyM3Yzsg",
+                    "id": "6lUBJCmOhWPiaroyM3Yzsg",
+                    "type": "track",
+                    "uri": "spotify:track:6lUBJCmOhWPiaroyM3Yzsg"
+                },
+                "name": "Before Midnight",
+                "preview_url": "https://p.scdn.co/mp3-preview/642f63ee974a5d1a382ff997117e5d98b7d674ff?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2UNp0yrboKOuAmYQ2HR9zv"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:3dmYqpVPhfNzIGLd3p57Y4"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+            },
+            "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+            "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+            "name": "Parc Jae Jung",
+            "type": "artist",
+            "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Romantic Factory",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Romantic Factory",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197658457"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/3dmYqpVPhfNzIGLd3p57Y4",
+    "id": "3dmYqpVPhfNzIGLd3p57Y4",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02473a5032790129fd7421c80e",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851473a5032790129fd7421c80e",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "WM Korea",
+    "name": "Alone",
+    "popularity": 47,
+    "release_date": "2023-04-20",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/3dmYqpVPhfNzIGLd3p57Y4/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 243853,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2rj6rzz1qLMrZf8yWFwp9r"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2rj6rzz1qLMrZf8yWFwp9r",
+                "id": "2rj6rzz1qLMrZf8yWFwp9r",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/2KNEK9rGKQKKNE6FTt8PvQ",
+                    "id": "2KNEK9rGKQKKNE6FTt8PvQ",
+                    "type": "track",
+                    "uri": "spotify:track:2KNEK9rGKQKKNE6FTt8PvQ"
+                },
+                "name": "Let\u2019s Say Goodbye",
+                "preview_url": "https://p.scdn.co/mp3-preview/265c444ff920b5ac4ea15d71a7e670cddf36abcb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2rj6rzz1qLMrZf8yWFwp9r"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 385538,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2NM0h1xxmyZCFAvh0TR9ym"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2NM0h1xxmyZCFAvh0TR9ym",
+                "id": "2NM0h1xxmyZCFAvh0TR9ym",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2F41anA23mbPZu1iNfkjRm"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/2F41anA23mbPZu1iNfkjRm",
+                    "id": "2F41anA23mbPZu1iNfkjRm",
+                    "type": "track",
+                    "uri": "spotify:track:2F41anA23mbPZu1iNfkjRm"
+                },
+                "name": "Alone",
+                "preview_url": "https://p.scdn.co/mp3-preview/fcba3bf1179cd4821ad7aff306b01145e9006b4a?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2NM0h1xxmyZCFAvh0TR9ym"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 326335,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5kYW1oZBo1ZjBPXPJ2DWMP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5kYW1oZBo1ZjBPXPJ2DWMP",
+                "id": "5kYW1oZBo1ZjBPXPJ2DWMP",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1MihNeyVoisqtYsoybw6fD"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/1MihNeyVoisqtYsoybw6fD",
+                    "id": "1MihNeyVoisqtYsoybw6fD",
+                    "type": "track",
+                    "uri": "spotify:track:1MihNeyVoisqtYsoybw6fD"
+                },
+                "name": "A Letter to B",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f169d7b0bcc8be1675ca76fcdfbfc4e61af2cb1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5kYW1oZBo1ZjBPXPJ2DWMP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 250835,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6GWpTwCofK03fRRAQgIQRW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6GWpTwCofK03fRRAQgIQRW",
+                "id": "6GWpTwCofK03fRRAQgIQRW",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7vBRpW7b71LXMzDyOxD01f"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7vBRpW7b71LXMzDyOxD01f",
+                    "id": "7vBRpW7b71LXMzDyOxD01f",
+                    "type": "track",
+                    "uri": "spotify:track:7vBRpW7b71LXMzDyOxD01f"
+                },
+                "name": "Home",
+                "preview_url": "https://p.scdn.co/mp3-preview/e75de1a53553ebe8db24e0e5b57183684da5e00d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:6GWpTwCofK03fRRAQgIQRW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 298055,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6sdqAxKBCbkCXbjhjmTxjA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6sdqAxKBCbkCXbjhjmTxjA",
+                "id": "6sdqAxKBCbkCXbjhjmTxjA",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1XF0xTxNzX7b71Jeecuw5u"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/1XF0xTxNzX7b71Jeecuw5u",
+                    "id": "1XF0xTxNzX7b71Jeecuw5u",
+                    "type": "track",
+                    "uri": "spotify:track:1XF0xTxNzX7b71Jeecuw5u"
+                },
+                "name": "Late-Winter",
+                "preview_url": "https://p.scdn.co/mp3-preview/9e415bb8a16f848ea4f42d9a134f6e6afd567620?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:6sdqAxKBCbkCXbjhjmTxjA"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 276037,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2aTuM2WiqCjlrGbkHnqFXq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2aTuM2WiqCjlrGbkHnqFXq",
+                "id": "2aTuM2WiqCjlrGbkHnqFXq",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6WOIUFQa6sc5dhZNjJz3Zq"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6WOIUFQa6sc5dhZNjJz3Zq",
+                    "id": "6WOIUFQa6sc5dhZNjJz3Zq",
+                    "type": "track",
+                    "uri": "spotify:track:6WOIUFQa6sc5dhZNjJz3Zq"
+                },
+                "name": "Dear My Family",
+                "preview_url": "https://p.scdn.co/mp3-preview/7c2b1c8fc1bce3a696b860ce0db48ae198f8e7e4?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:2aTuM2WiqCjlrGbkHnqFXq"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 281731,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1d2W9UyeNTAth2EJ2mgJST"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1d2W9UyeNTAth2EJ2mgJST",
+                "id": "1d2W9UyeNTAth2EJ2mgJST",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0o0gcuKmLBw1Gfd5ObBOZR"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/0o0gcuKmLBw1Gfd5ObBOZR",
+                    "id": "0o0gcuKmLBw1Gfd5ObBOZR",
+                    "type": "track",
+                    "uri": "spotify:track:0o0gcuKmLBw1Gfd5ObBOZR"
+                },
+                "name": "Failure",
+                "preview_url": "https://p.scdn.co/mp3-preview/2e23eabd4315a060c95605b3b60c0a1636607cb1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:1d2W9UyeNTAth2EJ2mgJST"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 254052,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3BPbmaVuT6mtOxJkjXpZ5A"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3BPbmaVuT6mtOxJkjXpZ5A",
+                "id": "3BPbmaVuT6mtOxJkjXpZ5A",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7e7c9JezKfqM3XFH91QYv2"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7e7c9JezKfqM3XFH91QYv2",
+                    "id": "7e7c9JezKfqM3XFH91QYv2",
+                    "type": "track",
+                    "uri": "spotify:track:7e7c9JezKfqM3XFH91QYv2"
+                },
+                "name": "Life",
+                "preview_url": "https://p.scdn.co/mp3-preview/f5267e1c7be7c522c49dd87781c382e0c87ae84d?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3BPbmaVuT6mtOxJkjXpZ5A"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 236328,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2tNrTSrwgSshZgxBVoPSzp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2tNrTSrwgSshZgxBVoPSzp",
+                "id": "2tNrTSrwgSshZgxBVoPSzp",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4sPpm8S2meggNxUcbTZT81"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/4sPpm8S2meggNxUcbTZT81",
+                    "id": "4sPpm8S2meggNxUcbTZT81",
+                    "type": "track",
+                    "uri": "spotify:track:4sPpm8S2meggNxUcbTZT81"
+                },
+                "name": "End",
+                "preview_url": "https://p.scdn.co/mp3-preview/5c12b933b053b6453ed0060e4d26600b68cbb8ee?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2tNrTSrwgSshZgxBVoPSzp"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 207059,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2UNp0yrboKOuAmYQ2HR9zv"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2UNp0yrboKOuAmYQ2HR9zv",
+                "id": "2UNp0yrboKOuAmYQ2HR9zv",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6lUBJCmOhWPiaroyM3Yzsg"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6lUBJCmOhWPiaroyM3Yzsg",
+                    "id": "6lUBJCmOhWPiaroyM3Yzsg",
+                    "type": "track",
+                    "uri": "spotify:track:6lUBJCmOhWPiaroyM3Yzsg"
+                },
+                "name": "Before Midnight",
+                "preview_url": "https://p.scdn.co/mp3-preview/642f63ee974a5d1a382ff997117e5d98b7d674ff?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2UNp0yrboKOuAmYQ2HR9zv"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:3dmYqpVPhfNzIGLd3p57Y4"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+            },
+            "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+            "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+            "name": "Parc Jae Jung",
+            "type": "artist",
+            "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "\u00a9 2023 Romantic Factory",
+            "type": "C"
+        },
+        {
+            "text": "\u2117 2023 Romantic Factory",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "5054197658457"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/3dmYqpVPhfNzIGLd3p57Y4",
+    "id": "3dmYqpVPhfNzIGLd3p57Y4",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02473a5032790129fd7421c80e",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851473a5032790129fd7421c80e",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "WM Korea",
+    "name": "Alone",
+    "popularity": 47,
+    "release_date": "2023-04-20",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/3dmYqpVPhfNzIGLd3p57Y4/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 243853,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2rj6rzz1qLMrZf8yWFwp9r"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2rj6rzz1qLMrZf8yWFwp9r",
+                "id": "2rj6rzz1qLMrZf8yWFwp9r",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/2KNEK9rGKQKKNE6FTt8PvQ",
+                    "id": "2KNEK9rGKQKKNE6FTt8PvQ",
+                    "type": "track",
+                    "uri": "spotify:track:2KNEK9rGKQKKNE6FTt8PvQ"
+                },
+                "name": "Let\u2019s Say Goodbye",
+                "preview_url": "https://p.scdn.co/mp3-preview/265c444ff920b5ac4ea15d71a7e670cddf36abcb?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2rj6rzz1qLMrZf8yWFwp9r"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 385538,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2NM0h1xxmyZCFAvh0TR9ym"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2NM0h1xxmyZCFAvh0TR9ym",
+                "id": "2NM0h1xxmyZCFAvh0TR9ym",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2F41anA23mbPZu1iNfkjRm"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/2F41anA23mbPZu1iNfkjRm",
+                    "id": "2F41anA23mbPZu1iNfkjRm",
+                    "type": "track",
+                    "uri": "spotify:track:2F41anA23mbPZu1iNfkjRm"
+                },
+                "name": "Alone",
+                "preview_url": "https://p.scdn.co/mp3-preview/fcba3bf1179cd4821ad7aff306b01145e9006b4a?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2NM0h1xxmyZCFAvh0TR9ym"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 326335,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5kYW1oZBo1ZjBPXPJ2DWMP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5kYW1oZBo1ZjBPXPJ2DWMP",
+                "id": "5kYW1oZBo1ZjBPXPJ2DWMP",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1MihNeyVoisqtYsoybw6fD"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/1MihNeyVoisqtYsoybw6fD",
+                    "id": "1MihNeyVoisqtYsoybw6fD",
+                    "type": "track",
+                    "uri": "spotify:track:1MihNeyVoisqtYsoybw6fD"
+                },
+                "name": "A Letter to B",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f169d7b0bcc8be1675ca76fcdfbfc4e61af2cb1?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5kYW1oZBo1ZjBPXPJ2DWMP"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 250835,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6GWpTwCofK03fRRAQgIQRW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6GWpTwCofK03fRRAQgIQRW",
+                "id": "6GWpTwCofK03fRRAQgIQRW",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7vBRpW7b71LXMzDyOxD01f"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7vBRpW7b71LXMzDyOxD01f",
+                    "id": "7vBRpW7b71LXMzDyOxD01f",
+                    "type": "track",
+                    "uri": "spotify:track:7vBRpW7b71LXMzDyOxD01f"
+                },
+                "name": "Home",
+                "preview_url": "https://p.scdn.co/mp3-preview/e75de1a53553ebe8db24e0e5b57183684da5e00d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:6GWpTwCofK03fRRAQgIQRW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 298055,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6sdqAxKBCbkCXbjhjmTxjA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6sdqAxKBCbkCXbjhjmTxjA",
+                "id": "6sdqAxKBCbkCXbjhjmTxjA",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1XF0xTxNzX7b71Jeecuw5u"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/1XF0xTxNzX7b71Jeecuw5u",
+                    "id": "1XF0xTxNzX7b71Jeecuw5u",
+                    "type": "track",
+                    "uri": "spotify:track:1XF0xTxNzX7b71Jeecuw5u"
+                },
+                "name": "Late-Winter",
+                "preview_url": "https://p.scdn.co/mp3-preview/9e415bb8a16f848ea4f42d9a134f6e6afd567620?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:6sdqAxKBCbkCXbjhjmTxjA"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 276037,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2aTuM2WiqCjlrGbkHnqFXq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2aTuM2WiqCjlrGbkHnqFXq",
+                "id": "2aTuM2WiqCjlrGbkHnqFXq",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6WOIUFQa6sc5dhZNjJz3Zq"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6WOIUFQa6sc5dhZNjJz3Zq",
+                    "id": "6WOIUFQa6sc5dhZNjJz3Zq",
+                    "type": "track",
+                    "uri": "spotify:track:6WOIUFQa6sc5dhZNjJz3Zq"
+                },
+                "name": "Dear My Family",
+                "preview_url": "https://p.scdn.co/mp3-preview/7c2b1c8fc1bce3a696b860ce0db48ae198f8e7e4?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:2aTuM2WiqCjlrGbkHnqFXq"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 281731,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1d2W9UyeNTAth2EJ2mgJST"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1d2W9UyeNTAth2EJ2mgJST",
+                "id": "1d2W9UyeNTAth2EJ2mgJST",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0o0gcuKmLBw1Gfd5ObBOZR"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/0o0gcuKmLBw1Gfd5ObBOZR",
+                    "id": "0o0gcuKmLBw1Gfd5ObBOZR",
+                    "type": "track",
+                    "uri": "spotify:track:0o0gcuKmLBw1Gfd5ObBOZR"
+                },
+                "name": "Failure",
+                "preview_url": "https://p.scdn.co/mp3-preview/2e23eabd4315a060c95605b3b60c0a1636607cb1?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:1d2W9UyeNTAth2EJ2mgJST"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 254052,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3BPbmaVuT6mtOxJkjXpZ5A"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3BPbmaVuT6mtOxJkjXpZ5A",
+                "id": "3BPbmaVuT6mtOxJkjXpZ5A",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7e7c9JezKfqM3XFH91QYv2"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7e7c9JezKfqM3XFH91QYv2",
+                    "id": "7e7c9JezKfqM3XFH91QYv2",
+                    "type": "track",
+                    "uri": "spotify:track:7e7c9JezKfqM3XFH91QYv2"
+                },
+                "name": "Life",
+                "preview_url": "https://p.scdn.co/mp3-preview/f5267e1c7be7c522c49dd87781c382e0c87ae84d?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3BPbmaVuT6mtOxJkjXpZ5A"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 236328,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2tNrTSrwgSshZgxBVoPSzp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2tNrTSrwgSshZgxBVoPSzp",
+                "id": "2tNrTSrwgSshZgxBVoPSzp",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4sPpm8S2meggNxUcbTZT81"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/4sPpm8S2meggNxUcbTZT81",
+                    "id": "4sPpm8S2meggNxUcbTZT81",
+                    "type": "track",
+                    "uri": "spotify:track:4sPpm8S2meggNxUcbTZT81"
+                },
+                "name": "End",
+                "preview_url": "https://p.scdn.co/mp3-preview/5c12b933b053b6453ed0060e4d26600b68cbb8ee?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2tNrTSrwgSshZgxBVoPSzp"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7kXQtwn3ZRTBc8JYNyGwQy",
+                        "id": "7kXQtwn3ZRTBc8JYNyGwQy",
+                        "name": "Parc Jae Jung",
+                        "type": "artist",
+                        "uri": "spotify:artist:7kXQtwn3ZRTBc8JYNyGwQy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 207059,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2UNp0yrboKOuAmYQ2HR9zv"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2UNp0yrboKOuAmYQ2HR9zv",
+                "id": "2UNp0yrboKOuAmYQ2HR9zv",
+                "is_local": false,
+                "is_playable": true,
+                "linked_from": {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6lUBJCmOhWPiaroyM3Yzsg"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/6lUBJCmOhWPiaroyM3Yzsg",
+                    "id": "6lUBJCmOhWPiaroyM3Yzsg",
+                    "type": "track",
+                    "uri": "spotify:track:6lUBJCmOhWPiaroyM3Yzsg"
+                },
+                "name": "Before Midnight",
+                "preview_url": "https://p.scdn.co/mp3-preview/642f63ee974a5d1a382ff997117e5d98b7d674ff?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2UNp0yrboKOuAmYQ2HR9zv"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:3dmYqpVPhfNzIGLd3p57Y4"
+}

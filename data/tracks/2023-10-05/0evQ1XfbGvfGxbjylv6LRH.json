@@ -1,0 +1,112 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+            "id": "6udveWUgX4vu75FF0DTrXV",
+            "name": "TAEYANG",
+            "type": "artist",
+            "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 202720,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0evQ1XfbGvfGxbjylv6LRH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0evQ1XfbGvfGxbjylv6LRH",
+    "id": "0evQ1XfbGvfGxbjylv6LRH",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3olqy6cgUoqV4zjLEeBXSl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3olqy6cgUoqV4zjLEeBXSl",
+        "id": "3olqy6cgUoqV4zjLEeBXSl",
+        "type": "track",
+        "uri": "spotify:track:3olqy6cgUoqV4zjLEeBXSl"
+    },
+    "name": "Reason",
+    "preview_url": "https://p.scdn.co/mp3-preview/5d353faac884df5b08541e61eee0c614960baf68?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:0evQ1XfbGvfGxbjylv6LRH"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+            "id": "6udveWUgX4vu75FF0DTrXV",
+            "name": "TAEYANG",
+            "type": "artist",
+            "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 202720,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0evQ1XfbGvfGxbjylv6LRH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0evQ1XfbGvfGxbjylv6LRH",
+    "id": "0evQ1XfbGvfGxbjylv6LRH",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3olqy6cgUoqV4zjLEeBXSl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3olqy6cgUoqV4zjLEeBXSl",
+        "id": "3olqy6cgUoqV4zjLEeBXSl",
+        "type": "track",
+        "uri": "spotify:track:3olqy6cgUoqV4zjLEeBXSl"
+    },
+    "name": "Reason",
+    "preview_url": "https://p.scdn.co/mp3-preview/5d353faac884df5b08541e61eee0c614960baf68?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:0evQ1XfbGvfGxbjylv6LRH"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6udveWUgX4vu75FF0DTrXV",
+            "id": "6udveWUgX4vu75FF0DTrXV",
+            "name": "TAEYANG",
+            "type": "artist",
+            "uri": "spotify:artist:6udveWUgX4vu75FF0DTrXV"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 202720,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/0evQ1XfbGvfGxbjylv6LRH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0evQ1XfbGvfGxbjylv6LRH",
+    "id": "0evQ1XfbGvfGxbjylv6LRH",
+    "is_local": false,
+    "is_playable": true,
+    "linked_from": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3olqy6cgUoqV4zjLEeBXSl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3olqy6cgUoqV4zjLEeBXSl",
+        "id": "3olqy6cgUoqV4zjLEeBXSl",
+        "type": "track",
+        "uri": "spotify:track:3olqy6cgUoqV4zjLEeBXSl"
+    },
+    "name": "Reason",
+    "preview_url": "https://p.scdn.co/mp3-preview/5d353faac884df5b08541e61eee0c614960baf68?cid=18f16e31aa1449669e888d1f09644ca2",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:0evQ1XfbGvfGxbjylv6LRH"
+}

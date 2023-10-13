@@ -1,0 +1,3412 @@
+{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 NewEchoes",
+            "type": "C"
+        },
+        {
+            "text": "2023 NewEchoes",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "3617225763275"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go",
+    "id": "2QYQLTBtEJ6IPW3xVnW0Go",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e07ea51749a2300d17a9e11d",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e07ea51749a2300d17a9e11d",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e07ea51749a2300d17a9e11d",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "NewEchoes",
+    "name": "Chalawan Sound",
+    "popularity": 42,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 338119,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7H4WlIzlu2ORKbX66CS943"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7H4WlIzlu2ORKbX66CS943",
+                "id": "7H4WlIzlu2ORKbX66CS943",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Chalawan Funk",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f4d50976074c0eb8185b3acbdcd4e496fe10687?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7H4WlIzlu2ORKbX66CS943"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 202625,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/72XfwKpPq44AlL0tgqZkRX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/72XfwKpPq44AlL0tgqZkRX",
+                "id": "72XfwKpPq44AlL0tgqZkRX",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Inner Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/6affd6c3417ea9664dc4eb184a3d51df043ddfe1?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:72XfwKpPq44AlL0tgqZkRX"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5jC1DZRmodcLQvEd4WbAOX",
+                        "id": "5jC1DZRmodcLQvEd4WbAOX",
+                        "name": "Benjamin Varney",
+                        "type": "artist",
+                        "uri": "spotify:artist:5jC1DZRmodcLQvEd4WbAOX"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290396,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17WOxNdQQxULyHp3J9dEx2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17WOxNdQQxULyHp3J9dEx2",
+                "id": "17WOxNdQQxULyHp3J9dEx2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Cultivation",
+                "preview_url": "https://p.scdn.co/mp3-preview/2a27a3dc258170a334dfe50292bada5ba446c5d9?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:17WOxNdQQxULyHp3J9dEx2"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 280444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/63Ar9K0DaTIi6H3mUredul"
+                },
+                "href": "https://api.spotify.com/v1/tracks/63Ar9K0DaTIi6H3mUredul",
+                "id": "63Ar9K0DaTIi6H3mUredul",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So Long",
+                "preview_url": "https://p.scdn.co/mp3-preview/d59672d033336e59028acbbde11765e8e416a4c7?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:63Ar9K0DaTIi6H3mUredul"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222313,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4bXGEXtZJVLZH7biAdUXng"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4bXGEXtZJVLZH7biAdUXng",
+                "id": "4bXGEXtZJVLZH7biAdUXng",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Remembering You",
+                "preview_url": "https://p.scdn.co/mp3-preview/393c171595b7a54697a6a2e06855bc8bd35f1c56?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4bXGEXtZJVLZH7biAdUXng"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213137,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ciQFI1NzM85PECZCVXAKD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ciQFI1NzM85PECZCVXAKD",
+                "id": "0ciQFI1NzM85PECZCVXAKD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You",
+                "preview_url": "https://p.scdn.co/mp3-preview/e3fda978ea27d8bbabbcd28c5d1435ad53df0235?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0ciQFI1NzM85PECZCVXAKD"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 299952,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7sqLXUFQaNu9C1wvwfbDWg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7sqLXUFQaNu9C1wvwfbDWg",
+                "id": "7sqLXUFQaNu9C1wvwfbDWg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Get Back",
+                "preview_url": "https://p.scdn.co/mp3-preview/4a633ffce830702cc6f00ab5d74a783e5a3a0b75?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7sqLXUFQaNu9C1wvwfbDWg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5mqguTgtaoCMNMZD6txCh6",
+                        "id": "5mqguTgtaoCMNMZD6txCh6",
+                        "name": "Phum Viphurit",
+                        "type": "artist",
+                        "uri": "spotify:artist:5mqguTgtaoCMNMZD6txCh6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 251814,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3HFCBkfwYzetDGXVpwJFry",
+                "id": "3HFCBkfwYzetDGXVpwJFry",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Catwalk",
+                "preview_url": "https://p.scdn.co/mp3-preview/89cd265ea4eacedd33c5a14297dc76d8a7eb130e?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3HFCBkfwYzetDGXVpwJFry"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231377,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2RVRe7wfjmDxZlHked77VK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2RVRe7wfjmDxZlHked77VK",
+                "id": "2RVRe7wfjmDxZlHked77VK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Tonight",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f297a2790557a023209e9554e885f68cfcad9bb?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2RVRe7wfjmDxZlHked77VK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290699,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2bI6Jd9wnvpdCQLNtseLAo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2bI6Jd9wnvpdCQLNtseLAo",
+                "id": "2bI6Jd9wnvpdCQLNtseLAo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Red Not Blue",
+                "preview_url": "https://p.scdn.co/mp3-preview/4dd66aec057290c885be69e541fa87135cc39720?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2bI6Jd9wnvpdCQLNtseLAo"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:2QYQLTBtEJ6IPW3xVnW0Go"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 NewEchoes",
+            "type": "C"
+        },
+        {
+            "text": "2023 NewEchoes",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "3617225763275"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go",
+    "id": "2QYQLTBtEJ6IPW3xVnW0Go",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e07ea51749a2300d17a9e11d",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e07ea51749a2300d17a9e11d",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e07ea51749a2300d17a9e11d",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "NewEchoes",
+    "name": "Chalawan Sound",
+    "popularity": 42,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 338119,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7H4WlIzlu2ORKbX66CS943"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7H4WlIzlu2ORKbX66CS943",
+                "id": "7H4WlIzlu2ORKbX66CS943",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Chalawan Funk",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f4d50976074c0eb8185b3acbdcd4e496fe10687?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7H4WlIzlu2ORKbX66CS943"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 202625,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/72XfwKpPq44AlL0tgqZkRX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/72XfwKpPq44AlL0tgqZkRX",
+                "id": "72XfwKpPq44AlL0tgqZkRX",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Inner Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/6affd6c3417ea9664dc4eb184a3d51df043ddfe1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:72XfwKpPq44AlL0tgqZkRX"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5jC1DZRmodcLQvEd4WbAOX",
+                        "id": "5jC1DZRmodcLQvEd4WbAOX",
+                        "name": "Benjamin Varney",
+                        "type": "artist",
+                        "uri": "spotify:artist:5jC1DZRmodcLQvEd4WbAOX"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290396,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17WOxNdQQxULyHp3J9dEx2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17WOxNdQQxULyHp3J9dEx2",
+                "id": "17WOxNdQQxULyHp3J9dEx2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Cultivation",
+                "preview_url": "https://p.scdn.co/mp3-preview/2a27a3dc258170a334dfe50292bada5ba446c5d9?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:17WOxNdQQxULyHp3J9dEx2"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 280444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/63Ar9K0DaTIi6H3mUredul"
+                },
+                "href": "https://api.spotify.com/v1/tracks/63Ar9K0DaTIi6H3mUredul",
+                "id": "63Ar9K0DaTIi6H3mUredul",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So Long",
+                "preview_url": "https://p.scdn.co/mp3-preview/d59672d033336e59028acbbde11765e8e416a4c7?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:63Ar9K0DaTIi6H3mUredul"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222313,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4bXGEXtZJVLZH7biAdUXng"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4bXGEXtZJVLZH7biAdUXng",
+                "id": "4bXGEXtZJVLZH7biAdUXng",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Remembering You",
+                "preview_url": "https://p.scdn.co/mp3-preview/393c171595b7a54697a6a2e06855bc8bd35f1c56?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4bXGEXtZJVLZH7biAdUXng"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213137,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ciQFI1NzM85PECZCVXAKD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ciQFI1NzM85PECZCVXAKD",
+                "id": "0ciQFI1NzM85PECZCVXAKD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You",
+                "preview_url": "https://p.scdn.co/mp3-preview/e3fda978ea27d8bbabbcd28c5d1435ad53df0235?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0ciQFI1NzM85PECZCVXAKD"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 299952,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7sqLXUFQaNu9C1wvwfbDWg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7sqLXUFQaNu9C1wvwfbDWg",
+                "id": "7sqLXUFQaNu9C1wvwfbDWg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Get Back",
+                "preview_url": "https://p.scdn.co/mp3-preview/4a633ffce830702cc6f00ab5d74a783e5a3a0b75?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7sqLXUFQaNu9C1wvwfbDWg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5mqguTgtaoCMNMZD6txCh6",
+                        "id": "5mqguTgtaoCMNMZD6txCh6",
+                        "name": "Phum Viphurit",
+                        "type": "artist",
+                        "uri": "spotify:artist:5mqguTgtaoCMNMZD6txCh6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 251814,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3HFCBkfwYzetDGXVpwJFry",
+                "id": "3HFCBkfwYzetDGXVpwJFry",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Catwalk",
+                "preview_url": "https://p.scdn.co/mp3-preview/89cd265ea4eacedd33c5a14297dc76d8a7eb130e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3HFCBkfwYzetDGXVpwJFry"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231377,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2RVRe7wfjmDxZlHked77VK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2RVRe7wfjmDxZlHked77VK",
+                "id": "2RVRe7wfjmDxZlHked77VK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Tonight",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f297a2790557a023209e9554e885f68cfcad9bb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2RVRe7wfjmDxZlHked77VK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290699,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2bI6Jd9wnvpdCQLNtseLAo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2bI6Jd9wnvpdCQLNtseLAo",
+                "id": "2bI6Jd9wnvpdCQLNtseLAo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Red Not Blue",
+                "preview_url": "https://p.scdn.co/mp3-preview/4dd66aec057290c885be69e541fa87135cc39720?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2bI6Jd9wnvpdCQLNtseLAo"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:2QYQLTBtEJ6IPW3xVnW0Go"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 NewEchoes",
+            "type": "C"
+        },
+        {
+            "text": "2023 NewEchoes",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "3617225763275"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go",
+    "id": "2QYQLTBtEJ6IPW3xVnW0Go",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e07ea51749a2300d17a9e11d",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e07ea51749a2300d17a9e11d",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e07ea51749a2300d17a9e11d",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "NewEchoes",
+    "name": "Chalawan Sound",
+    "popularity": 42,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 338119,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7H4WlIzlu2ORKbX66CS943"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7H4WlIzlu2ORKbX66CS943",
+                "id": "7H4WlIzlu2ORKbX66CS943",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Chalawan Funk",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f4d50976074c0eb8185b3acbdcd4e496fe10687?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7H4WlIzlu2ORKbX66CS943"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 202625,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/72XfwKpPq44AlL0tgqZkRX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/72XfwKpPq44AlL0tgqZkRX",
+                "id": "72XfwKpPq44AlL0tgqZkRX",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Inner Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/6affd6c3417ea9664dc4eb184a3d51df043ddfe1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:72XfwKpPq44AlL0tgqZkRX"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5jC1DZRmodcLQvEd4WbAOX",
+                        "id": "5jC1DZRmodcLQvEd4WbAOX",
+                        "name": "Benjamin Varney",
+                        "type": "artist",
+                        "uri": "spotify:artist:5jC1DZRmodcLQvEd4WbAOX"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290396,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17WOxNdQQxULyHp3J9dEx2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17WOxNdQQxULyHp3J9dEx2",
+                "id": "17WOxNdQQxULyHp3J9dEx2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Cultivation",
+                "preview_url": "https://p.scdn.co/mp3-preview/2a27a3dc258170a334dfe50292bada5ba446c5d9?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:17WOxNdQQxULyHp3J9dEx2"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 280444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/63Ar9K0DaTIi6H3mUredul"
+                },
+                "href": "https://api.spotify.com/v1/tracks/63Ar9K0DaTIi6H3mUredul",
+                "id": "63Ar9K0DaTIi6H3mUredul",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So Long",
+                "preview_url": "https://p.scdn.co/mp3-preview/d59672d033336e59028acbbde11765e8e416a4c7?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:63Ar9K0DaTIi6H3mUredul"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222313,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4bXGEXtZJVLZH7biAdUXng"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4bXGEXtZJVLZH7biAdUXng",
+                "id": "4bXGEXtZJVLZH7biAdUXng",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Remembering You",
+                "preview_url": "https://p.scdn.co/mp3-preview/393c171595b7a54697a6a2e06855bc8bd35f1c56?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4bXGEXtZJVLZH7biAdUXng"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213137,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ciQFI1NzM85PECZCVXAKD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ciQFI1NzM85PECZCVXAKD",
+                "id": "0ciQFI1NzM85PECZCVXAKD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You",
+                "preview_url": "https://p.scdn.co/mp3-preview/e3fda978ea27d8bbabbcd28c5d1435ad53df0235?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0ciQFI1NzM85PECZCVXAKD"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 299952,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7sqLXUFQaNu9C1wvwfbDWg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7sqLXUFQaNu9C1wvwfbDWg",
+                "id": "7sqLXUFQaNu9C1wvwfbDWg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Get Back",
+                "preview_url": "https://p.scdn.co/mp3-preview/4a633ffce830702cc6f00ab5d74a783e5a3a0b75?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7sqLXUFQaNu9C1wvwfbDWg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5mqguTgtaoCMNMZD6txCh6",
+                        "id": "5mqguTgtaoCMNMZD6txCh6",
+                        "name": "Phum Viphurit",
+                        "type": "artist",
+                        "uri": "spotify:artist:5mqguTgtaoCMNMZD6txCh6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 251814,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3HFCBkfwYzetDGXVpwJFry",
+                "id": "3HFCBkfwYzetDGXVpwJFry",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Catwalk",
+                "preview_url": "https://p.scdn.co/mp3-preview/89cd265ea4eacedd33c5a14297dc76d8a7eb130e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3HFCBkfwYzetDGXVpwJFry"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231377,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2RVRe7wfjmDxZlHked77VK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2RVRe7wfjmDxZlHked77VK",
+                "id": "2RVRe7wfjmDxZlHked77VK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Tonight",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f297a2790557a023209e9554e885f68cfcad9bb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2RVRe7wfjmDxZlHked77VK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290699,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2bI6Jd9wnvpdCQLNtseLAo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2bI6Jd9wnvpdCQLNtseLAo",
+                "id": "2bI6Jd9wnvpdCQLNtseLAo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Red Not Blue",
+                "preview_url": "https://p.scdn.co/mp3-preview/4dd66aec057290c885be69e541fa87135cc39720?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2bI6Jd9wnvpdCQLNtseLAo"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:2QYQLTBtEJ6IPW3xVnW0Go"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 NewEchoes",
+            "type": "C"
+        },
+        {
+            "text": "2023 NewEchoes",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "3617225763275"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go",
+    "id": "2QYQLTBtEJ6IPW3xVnW0Go",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e07ea51749a2300d17a9e11d",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e07ea51749a2300d17a9e11d",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e07ea51749a2300d17a9e11d",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "NewEchoes",
+    "name": "Chalawan Sound",
+    "popularity": 42,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 338119,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7H4WlIzlu2ORKbX66CS943"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7H4WlIzlu2ORKbX66CS943",
+                "id": "7H4WlIzlu2ORKbX66CS943",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Chalawan Funk",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f4d50976074c0eb8185b3acbdcd4e496fe10687?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7H4WlIzlu2ORKbX66CS943"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 202625,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/72XfwKpPq44AlL0tgqZkRX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/72XfwKpPq44AlL0tgqZkRX",
+                "id": "72XfwKpPq44AlL0tgqZkRX",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Inner Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/6affd6c3417ea9664dc4eb184a3d51df043ddfe1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:72XfwKpPq44AlL0tgqZkRX"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5jC1DZRmodcLQvEd4WbAOX",
+                        "id": "5jC1DZRmodcLQvEd4WbAOX",
+                        "name": "Benjamin Varney",
+                        "type": "artist",
+                        "uri": "spotify:artist:5jC1DZRmodcLQvEd4WbAOX"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290396,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17WOxNdQQxULyHp3J9dEx2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17WOxNdQQxULyHp3J9dEx2",
+                "id": "17WOxNdQQxULyHp3J9dEx2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Cultivation",
+                "preview_url": "https://p.scdn.co/mp3-preview/2a27a3dc258170a334dfe50292bada5ba446c5d9?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:17WOxNdQQxULyHp3J9dEx2"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 280444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/63Ar9K0DaTIi6H3mUredul"
+                },
+                "href": "https://api.spotify.com/v1/tracks/63Ar9K0DaTIi6H3mUredul",
+                "id": "63Ar9K0DaTIi6H3mUredul",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So Long",
+                "preview_url": "https://p.scdn.co/mp3-preview/d59672d033336e59028acbbde11765e8e416a4c7?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:63Ar9K0DaTIi6H3mUredul"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222313,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4bXGEXtZJVLZH7biAdUXng"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4bXGEXtZJVLZH7biAdUXng",
+                "id": "4bXGEXtZJVLZH7biAdUXng",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Remembering You",
+                "preview_url": "https://p.scdn.co/mp3-preview/393c171595b7a54697a6a2e06855bc8bd35f1c56?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4bXGEXtZJVLZH7biAdUXng"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213137,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ciQFI1NzM85PECZCVXAKD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ciQFI1NzM85PECZCVXAKD",
+                "id": "0ciQFI1NzM85PECZCVXAKD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You",
+                "preview_url": "https://p.scdn.co/mp3-preview/e3fda978ea27d8bbabbcd28c5d1435ad53df0235?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0ciQFI1NzM85PECZCVXAKD"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 299952,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7sqLXUFQaNu9C1wvwfbDWg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7sqLXUFQaNu9C1wvwfbDWg",
+                "id": "7sqLXUFQaNu9C1wvwfbDWg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Get Back",
+                "preview_url": "https://p.scdn.co/mp3-preview/4a633ffce830702cc6f00ab5d74a783e5a3a0b75?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7sqLXUFQaNu9C1wvwfbDWg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5mqguTgtaoCMNMZD6txCh6",
+                        "id": "5mqguTgtaoCMNMZD6txCh6",
+                        "name": "Phum Viphurit",
+                        "type": "artist",
+                        "uri": "spotify:artist:5mqguTgtaoCMNMZD6txCh6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 251814,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3HFCBkfwYzetDGXVpwJFry",
+                "id": "3HFCBkfwYzetDGXVpwJFry",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Catwalk",
+                "preview_url": "https://p.scdn.co/mp3-preview/89cd265ea4eacedd33c5a14297dc76d8a7eb130e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3HFCBkfwYzetDGXVpwJFry"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231377,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2RVRe7wfjmDxZlHked77VK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2RVRe7wfjmDxZlHked77VK",
+                "id": "2RVRe7wfjmDxZlHked77VK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Tonight",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f297a2790557a023209e9554e885f68cfcad9bb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2RVRe7wfjmDxZlHked77VK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290699,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2bI6Jd9wnvpdCQLNtseLAo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2bI6Jd9wnvpdCQLNtseLAo",
+                "id": "2bI6Jd9wnvpdCQLNtseLAo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Red Not Blue",
+                "preview_url": "https://p.scdn.co/mp3-preview/4dd66aec057290c885be69e541fa87135cc39720?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2bI6Jd9wnvpdCQLNtseLAo"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:2QYQLTBtEJ6IPW3xVnW0Go"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 NewEchoes",
+            "type": "C"
+        },
+        {
+            "text": "2023 NewEchoes",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "3617225763275"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go",
+    "id": "2QYQLTBtEJ6IPW3xVnW0Go",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e07ea51749a2300d17a9e11d",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e07ea51749a2300d17a9e11d",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e07ea51749a2300d17a9e11d",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "NewEchoes",
+    "name": "Chalawan Sound",
+    "popularity": 42,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 338119,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7H4WlIzlu2ORKbX66CS943"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7H4WlIzlu2ORKbX66CS943",
+                "id": "7H4WlIzlu2ORKbX66CS943",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Chalawan Funk",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f4d50976074c0eb8185b3acbdcd4e496fe10687?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7H4WlIzlu2ORKbX66CS943"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 202625,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/72XfwKpPq44AlL0tgqZkRX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/72XfwKpPq44AlL0tgqZkRX",
+                "id": "72XfwKpPq44AlL0tgqZkRX",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Inner Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/6affd6c3417ea9664dc4eb184a3d51df043ddfe1?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:72XfwKpPq44AlL0tgqZkRX"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5jC1DZRmodcLQvEd4WbAOX",
+                        "id": "5jC1DZRmodcLQvEd4WbAOX",
+                        "name": "Benjamin Varney",
+                        "type": "artist",
+                        "uri": "spotify:artist:5jC1DZRmodcLQvEd4WbAOX"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290396,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17WOxNdQQxULyHp3J9dEx2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17WOxNdQQxULyHp3J9dEx2",
+                "id": "17WOxNdQQxULyHp3J9dEx2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Cultivation",
+                "preview_url": "https://p.scdn.co/mp3-preview/2a27a3dc258170a334dfe50292bada5ba446c5d9?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:17WOxNdQQxULyHp3J9dEx2"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 280444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/63Ar9K0DaTIi6H3mUredul"
+                },
+                "href": "https://api.spotify.com/v1/tracks/63Ar9K0DaTIi6H3mUredul",
+                "id": "63Ar9K0DaTIi6H3mUredul",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So Long",
+                "preview_url": "https://p.scdn.co/mp3-preview/d59672d033336e59028acbbde11765e8e416a4c7?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:63Ar9K0DaTIi6H3mUredul"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222313,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4bXGEXtZJVLZH7biAdUXng"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4bXGEXtZJVLZH7biAdUXng",
+                "id": "4bXGEXtZJVLZH7biAdUXng",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Remembering You",
+                "preview_url": "https://p.scdn.co/mp3-preview/393c171595b7a54697a6a2e06855bc8bd35f1c56?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4bXGEXtZJVLZH7biAdUXng"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213137,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ciQFI1NzM85PECZCVXAKD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ciQFI1NzM85PECZCVXAKD",
+                "id": "0ciQFI1NzM85PECZCVXAKD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You",
+                "preview_url": "https://p.scdn.co/mp3-preview/e3fda978ea27d8bbabbcd28c5d1435ad53df0235?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0ciQFI1NzM85PECZCVXAKD"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 299952,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7sqLXUFQaNu9C1wvwfbDWg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7sqLXUFQaNu9C1wvwfbDWg",
+                "id": "7sqLXUFQaNu9C1wvwfbDWg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Get Back",
+                "preview_url": "https://p.scdn.co/mp3-preview/4a633ffce830702cc6f00ab5d74a783e5a3a0b75?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7sqLXUFQaNu9C1wvwfbDWg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5mqguTgtaoCMNMZD6txCh6",
+                        "id": "5mqguTgtaoCMNMZD6txCh6",
+                        "name": "Phum Viphurit",
+                        "type": "artist",
+                        "uri": "spotify:artist:5mqguTgtaoCMNMZD6txCh6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 251814,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3HFCBkfwYzetDGXVpwJFry",
+                "id": "3HFCBkfwYzetDGXVpwJFry",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Catwalk",
+                "preview_url": "https://p.scdn.co/mp3-preview/89cd265ea4eacedd33c5a14297dc76d8a7eb130e?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3HFCBkfwYzetDGXVpwJFry"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231377,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2RVRe7wfjmDxZlHked77VK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2RVRe7wfjmDxZlHked77VK",
+                "id": "2RVRe7wfjmDxZlHked77VK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Tonight",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f297a2790557a023209e9554e885f68cfcad9bb?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2RVRe7wfjmDxZlHked77VK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290699,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2bI6Jd9wnvpdCQLNtseLAo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2bI6Jd9wnvpdCQLNtseLAo",
+                "id": "2bI6Jd9wnvpdCQLNtseLAo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Red Not Blue",
+                "preview_url": "https://p.scdn.co/mp3-preview/4dd66aec057290c885be69e541fa87135cc39720?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2bI6Jd9wnvpdCQLNtseLAo"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:2QYQLTBtEJ6IPW3xVnW0Go"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 NewEchoes",
+            "type": "C"
+        },
+        {
+            "text": "2023 NewEchoes",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "3617225763275"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go",
+    "id": "2QYQLTBtEJ6IPW3xVnW0Go",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e07ea51749a2300d17a9e11d",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e07ea51749a2300d17a9e11d",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e07ea51749a2300d17a9e11d",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "NewEchoes",
+    "name": "Chalawan Sound",
+    "popularity": 42,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 338119,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7H4WlIzlu2ORKbX66CS943"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7H4WlIzlu2ORKbX66CS943",
+                "id": "7H4WlIzlu2ORKbX66CS943",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Chalawan Funk",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f4d50976074c0eb8185b3acbdcd4e496fe10687?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7H4WlIzlu2ORKbX66CS943"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 202625,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/72XfwKpPq44AlL0tgqZkRX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/72XfwKpPq44AlL0tgqZkRX",
+                "id": "72XfwKpPq44AlL0tgqZkRX",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Inner Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/6affd6c3417ea9664dc4eb184a3d51df043ddfe1?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:72XfwKpPq44AlL0tgqZkRX"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5jC1DZRmodcLQvEd4WbAOX",
+                        "id": "5jC1DZRmodcLQvEd4WbAOX",
+                        "name": "Benjamin Varney",
+                        "type": "artist",
+                        "uri": "spotify:artist:5jC1DZRmodcLQvEd4WbAOX"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290396,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17WOxNdQQxULyHp3J9dEx2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17WOxNdQQxULyHp3J9dEx2",
+                "id": "17WOxNdQQxULyHp3J9dEx2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Cultivation",
+                "preview_url": "https://p.scdn.co/mp3-preview/2a27a3dc258170a334dfe50292bada5ba446c5d9?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:17WOxNdQQxULyHp3J9dEx2"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 280444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/63Ar9K0DaTIi6H3mUredul"
+                },
+                "href": "https://api.spotify.com/v1/tracks/63Ar9K0DaTIi6H3mUredul",
+                "id": "63Ar9K0DaTIi6H3mUredul",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So Long",
+                "preview_url": "https://p.scdn.co/mp3-preview/d59672d033336e59028acbbde11765e8e416a4c7?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:63Ar9K0DaTIi6H3mUredul"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222313,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4bXGEXtZJVLZH7biAdUXng"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4bXGEXtZJVLZH7biAdUXng",
+                "id": "4bXGEXtZJVLZH7biAdUXng",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Remembering You",
+                "preview_url": "https://p.scdn.co/mp3-preview/393c171595b7a54697a6a2e06855bc8bd35f1c56?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4bXGEXtZJVLZH7biAdUXng"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213137,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ciQFI1NzM85PECZCVXAKD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ciQFI1NzM85PECZCVXAKD",
+                "id": "0ciQFI1NzM85PECZCVXAKD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You",
+                "preview_url": "https://p.scdn.co/mp3-preview/e3fda978ea27d8bbabbcd28c5d1435ad53df0235?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0ciQFI1NzM85PECZCVXAKD"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 299952,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7sqLXUFQaNu9C1wvwfbDWg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7sqLXUFQaNu9C1wvwfbDWg",
+                "id": "7sqLXUFQaNu9C1wvwfbDWg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Get Back",
+                "preview_url": "https://p.scdn.co/mp3-preview/4a633ffce830702cc6f00ab5d74a783e5a3a0b75?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7sqLXUFQaNu9C1wvwfbDWg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5mqguTgtaoCMNMZD6txCh6",
+                        "id": "5mqguTgtaoCMNMZD6txCh6",
+                        "name": "Phum Viphurit",
+                        "type": "artist",
+                        "uri": "spotify:artist:5mqguTgtaoCMNMZD6txCh6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 251814,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3HFCBkfwYzetDGXVpwJFry",
+                "id": "3HFCBkfwYzetDGXVpwJFry",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Catwalk",
+                "preview_url": "https://p.scdn.co/mp3-preview/89cd265ea4eacedd33c5a14297dc76d8a7eb130e?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3HFCBkfwYzetDGXVpwJFry"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231377,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2RVRe7wfjmDxZlHked77VK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2RVRe7wfjmDxZlHked77VK",
+                "id": "2RVRe7wfjmDxZlHked77VK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Tonight",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f297a2790557a023209e9554e885f68cfcad9bb?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2RVRe7wfjmDxZlHked77VK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290699,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2bI6Jd9wnvpdCQLNtseLAo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2bI6Jd9wnvpdCQLNtseLAo",
+                "id": "2bI6Jd9wnvpdCQLNtseLAo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Red Not Blue",
+                "preview_url": "https://p.scdn.co/mp3-preview/4dd66aec057290c885be69e541fa87135cc39720?cid=18f16e31aa1449669e888d1f09644ca2",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2bI6Jd9wnvpdCQLNtseLAo"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:2QYQLTBtEJ6IPW3xVnW0Go"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 NewEchoes",
+            "type": "C"
+        },
+        {
+            "text": "2023 NewEchoes",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "3617225763275"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go",
+    "id": "2QYQLTBtEJ6IPW3xVnW0Go",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e07ea51749a2300d17a9e11d",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e07ea51749a2300d17a9e11d",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e07ea51749a2300d17a9e11d",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "NewEchoes",
+    "name": "Chalawan Sound",
+    "popularity": 42,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 338119,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7H4WlIzlu2ORKbX66CS943"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7H4WlIzlu2ORKbX66CS943",
+                "id": "7H4WlIzlu2ORKbX66CS943",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Chalawan Funk",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f4d50976074c0eb8185b3acbdcd4e496fe10687?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7H4WlIzlu2ORKbX66CS943"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 202625,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/72XfwKpPq44AlL0tgqZkRX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/72XfwKpPq44AlL0tgqZkRX",
+                "id": "72XfwKpPq44AlL0tgqZkRX",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Inner Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/6affd6c3417ea9664dc4eb184a3d51df043ddfe1?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:72XfwKpPq44AlL0tgqZkRX"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5jC1DZRmodcLQvEd4WbAOX",
+                        "id": "5jC1DZRmodcLQvEd4WbAOX",
+                        "name": "Benjamin Varney",
+                        "type": "artist",
+                        "uri": "spotify:artist:5jC1DZRmodcLQvEd4WbAOX"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290396,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17WOxNdQQxULyHp3J9dEx2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17WOxNdQQxULyHp3J9dEx2",
+                "id": "17WOxNdQQxULyHp3J9dEx2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Cultivation",
+                "preview_url": "https://p.scdn.co/mp3-preview/2a27a3dc258170a334dfe50292bada5ba446c5d9?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:17WOxNdQQxULyHp3J9dEx2"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 280444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/63Ar9K0DaTIi6H3mUredul"
+                },
+                "href": "https://api.spotify.com/v1/tracks/63Ar9K0DaTIi6H3mUredul",
+                "id": "63Ar9K0DaTIi6H3mUredul",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So Long",
+                "preview_url": "https://p.scdn.co/mp3-preview/d59672d033336e59028acbbde11765e8e416a4c7?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:63Ar9K0DaTIi6H3mUredul"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222313,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4bXGEXtZJVLZH7biAdUXng"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4bXGEXtZJVLZH7biAdUXng",
+                "id": "4bXGEXtZJVLZH7biAdUXng",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Remembering You",
+                "preview_url": "https://p.scdn.co/mp3-preview/393c171595b7a54697a6a2e06855bc8bd35f1c56?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4bXGEXtZJVLZH7biAdUXng"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213137,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ciQFI1NzM85PECZCVXAKD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ciQFI1NzM85PECZCVXAKD",
+                "id": "0ciQFI1NzM85PECZCVXAKD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You",
+                "preview_url": "https://p.scdn.co/mp3-preview/e3fda978ea27d8bbabbcd28c5d1435ad53df0235?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0ciQFI1NzM85PECZCVXAKD"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 299952,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7sqLXUFQaNu9C1wvwfbDWg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7sqLXUFQaNu9C1wvwfbDWg",
+                "id": "7sqLXUFQaNu9C1wvwfbDWg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Get Back",
+                "preview_url": "https://p.scdn.co/mp3-preview/4a633ffce830702cc6f00ab5d74a783e5a3a0b75?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7sqLXUFQaNu9C1wvwfbDWg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5mqguTgtaoCMNMZD6txCh6",
+                        "id": "5mqguTgtaoCMNMZD6txCh6",
+                        "name": "Phum Viphurit",
+                        "type": "artist",
+                        "uri": "spotify:artist:5mqguTgtaoCMNMZD6txCh6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 251814,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3HFCBkfwYzetDGXVpwJFry",
+                "id": "3HFCBkfwYzetDGXVpwJFry",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Catwalk",
+                "preview_url": "https://p.scdn.co/mp3-preview/89cd265ea4eacedd33c5a14297dc76d8a7eb130e?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3HFCBkfwYzetDGXVpwJFry"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231377,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2RVRe7wfjmDxZlHked77VK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2RVRe7wfjmDxZlHked77VK",
+                "id": "2RVRe7wfjmDxZlHked77VK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Tonight",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f297a2790557a023209e9554e885f68cfcad9bb?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2RVRe7wfjmDxZlHked77VK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290699,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2bI6Jd9wnvpdCQLNtseLAo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2bI6Jd9wnvpdCQLNtseLAo",
+                "id": "2bI6Jd9wnvpdCQLNtseLAo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Red Not Blue",
+                "preview_url": "https://p.scdn.co/mp3-preview/4dd66aec057290c885be69e541fa87135cc39720?cid=a18dc6eb0d9042eaa547bad38ee1b237",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2bI6Jd9wnvpdCQLNtseLAo"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:2QYQLTBtEJ6IPW3xVnW0Go"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 NewEchoes",
+            "type": "C"
+        },
+        {
+            "text": "2023 NewEchoes",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "3617225763275"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go",
+    "id": "2QYQLTBtEJ6IPW3xVnW0Go",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e07ea51749a2300d17a9e11d",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e07ea51749a2300d17a9e11d",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e07ea51749a2300d17a9e11d",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "NewEchoes",
+    "name": "Chalawan Sound",
+    "popularity": 42,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 338119,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7H4WlIzlu2ORKbX66CS943"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7H4WlIzlu2ORKbX66CS943",
+                "id": "7H4WlIzlu2ORKbX66CS943",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Chalawan Funk",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f4d50976074c0eb8185b3acbdcd4e496fe10687?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7H4WlIzlu2ORKbX66CS943"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 202625,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/72XfwKpPq44AlL0tgqZkRX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/72XfwKpPq44AlL0tgqZkRX",
+                "id": "72XfwKpPq44AlL0tgqZkRX",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Inner Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/6affd6c3417ea9664dc4eb184a3d51df043ddfe1?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:72XfwKpPq44AlL0tgqZkRX"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5jC1DZRmodcLQvEd4WbAOX",
+                        "id": "5jC1DZRmodcLQvEd4WbAOX",
+                        "name": "Benjamin Varney",
+                        "type": "artist",
+                        "uri": "spotify:artist:5jC1DZRmodcLQvEd4WbAOX"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290396,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17WOxNdQQxULyHp3J9dEx2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17WOxNdQQxULyHp3J9dEx2",
+                "id": "17WOxNdQQxULyHp3J9dEx2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Cultivation",
+                "preview_url": "https://p.scdn.co/mp3-preview/2a27a3dc258170a334dfe50292bada5ba446c5d9?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:17WOxNdQQxULyHp3J9dEx2"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 280444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/63Ar9K0DaTIi6H3mUredul"
+                },
+                "href": "https://api.spotify.com/v1/tracks/63Ar9K0DaTIi6H3mUredul",
+                "id": "63Ar9K0DaTIi6H3mUredul",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So Long",
+                "preview_url": "https://p.scdn.co/mp3-preview/d59672d033336e59028acbbde11765e8e416a4c7?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:63Ar9K0DaTIi6H3mUredul"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222313,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4bXGEXtZJVLZH7biAdUXng"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4bXGEXtZJVLZH7biAdUXng",
+                "id": "4bXGEXtZJVLZH7biAdUXng",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Remembering You",
+                "preview_url": "https://p.scdn.co/mp3-preview/393c171595b7a54697a6a2e06855bc8bd35f1c56?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4bXGEXtZJVLZH7biAdUXng"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213137,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ciQFI1NzM85PECZCVXAKD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ciQFI1NzM85PECZCVXAKD",
+                "id": "0ciQFI1NzM85PECZCVXAKD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You",
+                "preview_url": "https://p.scdn.co/mp3-preview/e3fda978ea27d8bbabbcd28c5d1435ad53df0235?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0ciQFI1NzM85PECZCVXAKD"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 299952,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7sqLXUFQaNu9C1wvwfbDWg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7sqLXUFQaNu9C1wvwfbDWg",
+                "id": "7sqLXUFQaNu9C1wvwfbDWg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Get Back",
+                "preview_url": "https://p.scdn.co/mp3-preview/4a633ffce830702cc6f00ab5d74a783e5a3a0b75?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7sqLXUFQaNu9C1wvwfbDWg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5mqguTgtaoCMNMZD6txCh6",
+                        "id": "5mqguTgtaoCMNMZD6txCh6",
+                        "name": "Phum Viphurit",
+                        "type": "artist",
+                        "uri": "spotify:artist:5mqguTgtaoCMNMZD6txCh6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 251814,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3HFCBkfwYzetDGXVpwJFry",
+                "id": "3HFCBkfwYzetDGXVpwJFry",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Catwalk",
+                "preview_url": "https://p.scdn.co/mp3-preview/89cd265ea4eacedd33c5a14297dc76d8a7eb130e?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3HFCBkfwYzetDGXVpwJFry"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231377,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2RVRe7wfjmDxZlHked77VK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2RVRe7wfjmDxZlHked77VK",
+                "id": "2RVRe7wfjmDxZlHked77VK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Tonight",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f297a2790557a023209e9554e885f68cfcad9bb?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2RVRe7wfjmDxZlHked77VK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290699,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2bI6Jd9wnvpdCQLNtseLAo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2bI6Jd9wnvpdCQLNtseLAo",
+                "id": "2bI6Jd9wnvpdCQLNtseLAo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Red Not Blue",
+                "preview_url": "https://p.scdn.co/mp3-preview/4dd66aec057290c885be69e541fa87135cc39720?cid=3c77a1d0326e42ee9812acc87cc0692d",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2bI6Jd9wnvpdCQLNtseLAo"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:2QYQLTBtEJ6IPW3xVnW0Go"
+}{
+    "album_type": "album",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+            "id": "6jIK3obS1fJqb3Vu74AYX3",
+            "name": "H 3 F",
+            "type": "artist",
+            "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+        }
+    ],
+    "copyrights": [
+        {
+            "text": "2023 NewEchoes",
+            "type": "C"
+        },
+        {
+            "text": "2023 NewEchoes",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "3617225763275"
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go",
+    "id": "2QYQLTBtEJ6IPW3xVnW0Go",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e07ea51749a2300d17a9e11d",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e07ea51749a2300d17a9e11d",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e07ea51749a2300d17a9e11d",
+            "width": 64
+        }
+    ],
+    "is_playable": true,
+    "label": "NewEchoes",
+    "name": "Chalawan Sound",
+    "popularity": 42,
+    "release_date": "2023-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/2QYQLTBtEJ6IPW3xVnW0Go/tracks?offset=0&limit=50&market=KR",
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 338119,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7H4WlIzlu2ORKbX66CS943"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7H4WlIzlu2ORKbX66CS943",
+                "id": "7H4WlIzlu2ORKbX66CS943",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Chalawan Funk",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f4d50976074c0eb8185b3acbdcd4e496fe10687?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7H4WlIzlu2ORKbX66CS943"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 202625,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/72XfwKpPq44AlL0tgqZkRX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/72XfwKpPq44AlL0tgqZkRX",
+                "id": "72XfwKpPq44AlL0tgqZkRX",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Inner Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/6affd6c3417ea9664dc4eb184a3d51df043ddfe1?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:72XfwKpPq44AlL0tgqZkRX"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5jC1DZRmodcLQvEd4WbAOX",
+                        "id": "5jC1DZRmodcLQvEd4WbAOX",
+                        "name": "Benjamin Varney",
+                        "type": "artist",
+                        "uri": "spotify:artist:5jC1DZRmodcLQvEd4WbAOX"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290396,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17WOxNdQQxULyHp3J9dEx2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17WOxNdQQxULyHp3J9dEx2",
+                "id": "17WOxNdQQxULyHp3J9dEx2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Cultivation",
+                "preview_url": "https://p.scdn.co/mp3-preview/2a27a3dc258170a334dfe50292bada5ba446c5d9?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:17WOxNdQQxULyHp3J9dEx2"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 280444,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/63Ar9K0DaTIi6H3mUredul"
+                },
+                "href": "https://api.spotify.com/v1/tracks/63Ar9K0DaTIi6H3mUredul",
+                "id": "63Ar9K0DaTIi6H3mUredul",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So Long",
+                "preview_url": "https://p.scdn.co/mp3-preview/d59672d033336e59028acbbde11765e8e416a4c7?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:63Ar9K0DaTIi6H3mUredul"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222313,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4bXGEXtZJVLZH7biAdUXng"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4bXGEXtZJVLZH7biAdUXng",
+                "id": "4bXGEXtZJVLZH7biAdUXng",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Remembering You",
+                "preview_url": "https://p.scdn.co/mp3-preview/393c171595b7a54697a6a2e06855bc8bd35f1c56?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4bXGEXtZJVLZH7biAdUXng"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213137,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ciQFI1NzM85PECZCVXAKD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ciQFI1NzM85PECZCVXAKD",
+                "id": "0ciQFI1NzM85PECZCVXAKD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You",
+                "preview_url": "https://p.scdn.co/mp3-preview/e3fda978ea27d8bbabbcd28c5d1435ad53df0235?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0ciQFI1NzM85PECZCVXAKD"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 299952,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7sqLXUFQaNu9C1wvwfbDWg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7sqLXUFQaNu9C1wvwfbDWg",
+                "id": "7sqLXUFQaNu9C1wvwfbDWg",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Get Back",
+                "preview_url": "https://p.scdn.co/mp3-preview/4a633ffce830702cc6f00ab5d74a783e5a3a0b75?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7sqLXUFQaNu9C1wvwfbDWg"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5mqguTgtaoCMNMZD6txCh6",
+                        "id": "5mqguTgtaoCMNMZD6txCh6",
+                        "name": "Phum Viphurit",
+                        "type": "artist",
+                        "uri": "spotify:artist:5mqguTgtaoCMNMZD6txCh6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 251814,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3HFCBkfwYzetDGXVpwJFry",
+                "id": "3HFCBkfwYzetDGXVpwJFry",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Catwalk",
+                "preview_url": "https://p.scdn.co/mp3-preview/89cd265ea4eacedd33c5a14297dc76d8a7eb130e?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3HFCBkfwYzetDGXVpwJFry"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231377,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2RVRe7wfjmDxZlHked77VK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2RVRe7wfjmDxZlHked77VK",
+                "id": "2RVRe7wfjmDxZlHked77VK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Tonight",
+                "preview_url": "https://p.scdn.co/mp3-preview/7f297a2790557a023209e9554e885f68cfcad9bb?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2RVRe7wfjmDxZlHked77VK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jIK3obS1fJqb3Vu74AYX3",
+                        "id": "6jIK3obS1fJqb3Vu74AYX3",
+                        "name": "H 3 F",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jIK3obS1fJqb3Vu74AYX3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 290699,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2bI6Jd9wnvpdCQLNtseLAo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2bI6Jd9wnvpdCQLNtseLAo",
+                "id": "2bI6Jd9wnvpdCQLNtseLAo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Red Not Blue",
+                "preview_url": "https://p.scdn.co/mp3-preview/4dd66aec057290c885be69e541fa87135cc39720?cid=7042ec86043d4f61ae971a1591428089",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2bI6Jd9wnvpdCQLNtseLAo"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10
+    },
+    "type": "album",
+    "uri": "spotify:album:2QYQLTBtEJ6IPW3xVnW0Go"
+}

@@ -1,0 +1,305 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+            },
+            "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+            "id": "59oA5WbbQvomJz2BuRG071",
+            "name": "Jungle",
+            "type": "artist",
+            "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cUkGQyhLFqKHBtL58HYVp",
+            "id": "4cUkGQyhLFqKHBtL58HYVp",
+            "name": "Channel Tres",
+            "type": "artist",
+            "uri": "spotify:artist:4cUkGQyhLFqKHBtL58HYVp"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 169472,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7j3zZ2jAjzFD60UjhldhHo",
+    "id": "7j3zZ2jAjzFD60UjhldhHo",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I've Been In Love",
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7j3zZ2jAjzFD60UjhldhHo"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+            },
+            "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+            "id": "59oA5WbbQvomJz2BuRG071",
+            "name": "Jungle",
+            "type": "artist",
+            "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cUkGQyhLFqKHBtL58HYVp",
+            "id": "4cUkGQyhLFqKHBtL58HYVp",
+            "name": "Channel Tres",
+            "type": "artist",
+            "uri": "spotify:artist:4cUkGQyhLFqKHBtL58HYVp"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 169472,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7j3zZ2jAjzFD60UjhldhHo",
+    "id": "7j3zZ2jAjzFD60UjhldhHo",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I've Been In Love",
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7j3zZ2jAjzFD60UjhldhHo"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+            },
+            "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+            "id": "59oA5WbbQvomJz2BuRG071",
+            "name": "Jungle",
+            "type": "artist",
+            "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cUkGQyhLFqKHBtL58HYVp",
+            "id": "4cUkGQyhLFqKHBtL58HYVp",
+            "name": "Channel Tres",
+            "type": "artist",
+            "uri": "spotify:artist:4cUkGQyhLFqKHBtL58HYVp"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 169472,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7j3zZ2jAjzFD60UjhldhHo",
+    "id": "7j3zZ2jAjzFD60UjhldhHo",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I've Been In Love",
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7j3zZ2jAjzFD60UjhldhHo"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+            },
+            "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+            "id": "59oA5WbbQvomJz2BuRG071",
+            "name": "Jungle",
+            "type": "artist",
+            "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cUkGQyhLFqKHBtL58HYVp",
+            "id": "4cUkGQyhLFqKHBtL58HYVp",
+            "name": "Channel Tres",
+            "type": "artist",
+            "uri": "spotify:artist:4cUkGQyhLFqKHBtL58HYVp"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 169472,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7j3zZ2jAjzFD60UjhldhHo",
+    "id": "7j3zZ2jAjzFD60UjhldhHo",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I've Been In Love",
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7j3zZ2jAjzFD60UjhldhHo"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+            },
+            "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+            "id": "59oA5WbbQvomJz2BuRG071",
+            "name": "Jungle",
+            "type": "artist",
+            "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cUkGQyhLFqKHBtL58HYVp",
+            "id": "4cUkGQyhLFqKHBtL58HYVp",
+            "name": "Channel Tres",
+            "type": "artist",
+            "uri": "spotify:artist:4cUkGQyhLFqKHBtL58HYVp"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 169472,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7j3zZ2jAjzFD60UjhldhHo",
+    "id": "7j3zZ2jAjzFD60UjhldhHo",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I've Been In Love",
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7j3zZ2jAjzFD60UjhldhHo"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+            },
+            "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+            "id": "59oA5WbbQvomJz2BuRG071",
+            "name": "Jungle",
+            "type": "artist",
+            "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cUkGQyhLFqKHBtL58HYVp",
+            "id": "4cUkGQyhLFqKHBtL58HYVp",
+            "name": "Channel Tres",
+            "type": "artist",
+            "uri": "spotify:artist:4cUkGQyhLFqKHBtL58HYVp"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 169472,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7j3zZ2jAjzFD60UjhldhHo",
+    "id": "7j3zZ2jAjzFD60UjhldhHo",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I've Been In Love",
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7j3zZ2jAjzFD60UjhldhHo"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+            },
+            "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+            "id": "59oA5WbbQvomJz2BuRG071",
+            "name": "Jungle",
+            "type": "artist",
+            "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cUkGQyhLFqKHBtL58HYVp",
+            "id": "4cUkGQyhLFqKHBtL58HYVp",
+            "name": "Channel Tres",
+            "type": "artist",
+            "uri": "spotify:artist:4cUkGQyhLFqKHBtL58HYVp"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 169472,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7j3zZ2jAjzFD60UjhldhHo",
+    "id": "7j3zZ2jAjzFD60UjhldhHo",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I've Been In Love",
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7j3zZ2jAjzFD60UjhldhHo"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+            },
+            "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+            "id": "59oA5WbbQvomJz2BuRG071",
+            "name": "Jungle",
+            "type": "artist",
+            "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cUkGQyhLFqKHBtL58HYVp",
+            "id": "4cUkGQyhLFqKHBtL58HYVp",
+            "name": "Channel Tres",
+            "type": "artist",
+            "uri": "spotify:artist:4cUkGQyhLFqKHBtL58HYVp"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 169472,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7j3zZ2jAjzFD60UjhldhHo",
+    "id": "7j3zZ2jAjzFD60UjhldhHo",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I've Been In Love",
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7j3zZ2jAjzFD60UjhldhHo"
+}

@@ -1,0 +1,225 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+            "id": "5FxD8fkQZ6KcsSYupDVoSO",
+            "name": "Omar Apollo",
+            "type": "artist",
+            "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255920,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7BWN70acf9J6f37SCNNCCQ",
+    "id": "7BWN70acf9J6f37SCNNCCQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Ice Slippin",
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7BWN70acf9J6f37SCNNCCQ"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+            "id": "5FxD8fkQZ6KcsSYupDVoSO",
+            "name": "Omar Apollo",
+            "type": "artist",
+            "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255920,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7BWN70acf9J6f37SCNNCCQ",
+    "id": "7BWN70acf9J6f37SCNNCCQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Ice Slippin",
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7BWN70acf9J6f37SCNNCCQ"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+            "id": "5FxD8fkQZ6KcsSYupDVoSO",
+            "name": "Omar Apollo",
+            "type": "artist",
+            "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255920,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7BWN70acf9J6f37SCNNCCQ",
+    "id": "7BWN70acf9J6f37SCNNCCQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Ice Slippin",
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7BWN70acf9J6f37SCNNCCQ"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+            "id": "5FxD8fkQZ6KcsSYupDVoSO",
+            "name": "Omar Apollo",
+            "type": "artist",
+            "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255920,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7BWN70acf9J6f37SCNNCCQ",
+    "id": "7BWN70acf9J6f37SCNNCCQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Ice Slippin",
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7BWN70acf9J6f37SCNNCCQ"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+            "id": "5FxD8fkQZ6KcsSYupDVoSO",
+            "name": "Omar Apollo",
+            "type": "artist",
+            "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255920,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7BWN70acf9J6f37SCNNCCQ",
+    "id": "7BWN70acf9J6f37SCNNCCQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Ice Slippin",
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7BWN70acf9J6f37SCNNCCQ"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+            "id": "5FxD8fkQZ6KcsSYupDVoSO",
+            "name": "Omar Apollo",
+            "type": "artist",
+            "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255920,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7BWN70acf9J6f37SCNNCCQ",
+    "id": "7BWN70acf9J6f37SCNNCCQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Ice Slippin",
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7BWN70acf9J6f37SCNNCCQ"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+            "id": "5FxD8fkQZ6KcsSYupDVoSO",
+            "name": "Omar Apollo",
+            "type": "artist",
+            "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255920,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7BWN70acf9J6f37SCNNCCQ",
+    "id": "7BWN70acf9J6f37SCNNCCQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Ice Slippin",
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7BWN70acf9J6f37SCNNCCQ"
+}{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+            "id": "5FxD8fkQZ6KcsSYupDVoSO",
+            "name": "Omar Apollo",
+            "type": "artist",
+            "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+        }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255920,
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7BWN70acf9J6f37SCNNCCQ",
+    "id": "7BWN70acf9J6f37SCNNCCQ",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Ice Slippin",
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7BWN70acf9J6f37SCNNCCQ"
+}
